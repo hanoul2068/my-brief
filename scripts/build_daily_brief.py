@@ -198,6 +198,9 @@ def fetch_worldbank(api_url, limit=8):
 # 메인 실행
 # =========================
 def main():
+    print("DEBUG OPENAI_API_KEY set?:", bool(OPENAI_API_KEY))
+    print("DEBUG OPENAI_MODEL:", repr(OPENAI_MODEL))
+    print("DEBUG OPENAI_MODEL env raw:", repr(os.getenv("OPENAI_MODEL")))
     ensure_dir()
 
     items = []
