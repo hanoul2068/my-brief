@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>World Brief — Economy & Politics</title>
+  <link rel="stylesheet" href="assets/style.css" />
+</head>
+<body>
+  <header class="wrap">
+    <h1>World Brief</h1>
+    <p class="sub">세계경제 · 세계정치 — 매일 자동 수집 & 요약</p>
+  </header>
+
+  <main class="wrap">
+    <section class="card">
+      <div class="row">
+        <h2>오늘의 브리핑</h2>
+        <div id="meta" class="meta"></div>
+      </div>
+      <div class="filters">
+        <button class="btn active" data-filter="all">전체</button>
+        <button class="btn" data-filter="economy">경제</button>
+        <button class="btn" data-filter="politics">정치</button>
+      </div>
+      <div id="list" class="list"></div>
+    </section>
+
+    <section class="card">
+      <h2>운영 방식</h2>
+      <ul>
+        <li>원문 복제 없이 요약 + 출처 + 링크만 표시</li>
+        <li>매일 GitHub Actions가 데이터 갱신</li>
+        <li>요약은 OpenAI API(선택) 또는 기본 추출 요약</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer class="wrap foot">
+    <small>© Your World Brief. Sources: OWID, World Bank, Brookings (links in each item).</small>
+  </footer>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>
