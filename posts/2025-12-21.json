@@ -1,323 +1,611 @@
 {
-  "generated_at": "2025-12-21T14:57:18.828364+09:00",
+  "generated_at": "2025-12-21T15:25:55.947287+09:00",
   "sources": [
     {
-      "id": "owid",
-      "name": "Our World in Data"
+      "id": "sbs_headline",
+      "name": "SBS (이 시각 이슈)"
     },
     {
-      "id": "worldbank",
-      "name": "World Bank"
+      "id": "sbs_politics",
+      "name": "SBS (정치)"
     },
     {
-      "id": "brookings_fp",
-      "name": "Brookings (Foreign Policy)"
+      "id": "sbs_economy",
+      "name": "SBS (경제)"
     },
     {
-      "id": "un_ga",
-      "name": "United Nations (GA)"
+      "id": "yonhap_tv_latest",
+      "name": "연합뉴스TV (최신)"
     },
     {
-      "id": "nasa",
-      "name": "NASA"
+      "id": "yonhap_tv_economy",
+      "name": "연합뉴스TV (경제)"
     },
     {
-      "id": "mit_news",
-      "name": "MIT News"
+      "id": "mk_economy",
+      "name": "매일경제 (경제)"
     },
     {
-      "id": "globalvoices",
-      "name": "Global Voices"
+      "id": "mk_politics",
+      "name": "매일경제 (정치)"
+    },
+    {
+      "id": "hankyung_economy",
+      "name": "한국경제 (경제)"
+    },
+    {
+      "id": "hankyung_politics",
+      "name": "한국경제 (정치)"
+    },
+    {
+      "id": "koreakr_policy",
+      "name": "정책브리핑 (정책뉴스)"
+    },
+    {
+      "id": "koreakr_pressrelease",
+      "name": "정책브리핑 (보도자료)"
+    },
+    {
+      "id": "koreakr_ebriefing",
+      "name": "정책브리핑 (부처 브리핑)"
+    },
+    {
+      "id": "koreakr_fact",
+      "name": "정책브리핑 (사실은 이렇습니다)"
+    },
+    {
+      "id": "koreakr_moef",
+      "name": "기획재정부 (정책브리핑)"
+    },
+    {
+      "id": "koreakr_molit",
+      "name": "국토교통부 (정책브리핑)"
+    },
+    {
+      "id": "koreakr_msit",
+      "name": "과기정통부 (정책브리핑)"
     }
   ],
   "items": [
     {
-      "category": "owid",
-      "source_id": "owid",
-      "source": "Our World in Data",
-      "title": "Medicine and Biotechnology",
-      "url": "https://ourworldindata.org/medicine-biotech",
-      "published_at": "2025-12-15T00:00:00.000Z",
-      "summary": "의학과 생명공학의 혁신은 인간의 평균 수명을 늘리고 많은 생명을 구하는 데 기여했다. 이러한 발전은 질병 치료와 예방에 중요한 역할을 하며, 앞으로도 추가적인 연구와 기술 개발을 통해 더 큰 진전을 이룰 수 있다. 이는 건강 증진과 의료 서비스 향상에 긍정적인 영향을 미친다."
+      "category": "sbs_headline",
+      "source_id": "sbs_headline",
+      "source": "SBS (이 시각 이슈)",
+      "title": "국힘·개혁신당, '통일교 특검법' 합의…제3자 추천 방식",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008376694&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "Sun, 21 Dec 2025 14:06:00 +0900",
+      "summary": "국민의힘과 개혁신당이 통일교 관련 특별검사법 제정에 합의하고, 특검 후보를 제3자가 추천하는 방식을 채택하기로 했다. 이번 합의는 통일교 의혹에 대한 공정한 수사를 보장하기 위한 조치로 풀이된다. 양당의 협력은 정치권 내에서 특검 도입에 대한 공감대가 형성되고 있음을 보여준다. 다만, 구체적인 수사 범위와 절차는 추가 논의가 필요하다."
     },
     {
-      "category": "owid",
-      "source_id": "owid",
-      "source": "Our World in Data",
-      "title": "Top of the Charts: our most popular work in 2025",
-      "url": "https://ourworldindata.org/top-of-the-charts-2025-redirect",
-      "published_at": "2025-12-05T00:00:00.000Z",
-      "summary": "2025년 Our World in Data에서 가장 인기 있었던 차트, 기사, 데이터 인사이트를 되돌아본 내용입니다. 이는 한 해 동안 대중이 주목한 주요 정보와 트렌드를 파악하는 데 중요합니다. 이러한 분석은 향후 연구 방향 설정과 대중의 관심사를 이해하는 데 도움을 줄 수 있습니다."
+      "category": "sbs_headline",
+      "source_id": "sbs_headline",
+      "source": "SBS (이 시각 이슈)",
+      "title": "\"한국인 감금\" 112 신고…범죄단지 덮친 '코리아 전담반'",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008376619&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "Sun, 21 Dec 2025 12:56:00 +0900",
+      "summary": "한국과 캄보디아 경찰이 합동으로 구성한 '코리아 전담반'이 현지에서 피싱 범죄에 연루된 한국인 26명을 검거했습니다. 이들은 범죄단지에서 감금된 상태로 범죄를 강요받던 것으로 알려졌습니다. 이번 합동 단속은 국제 공조를 통한 범죄 근절의 중요성을 보여주며, 한국인 대상 해외 범죄 대응에 긍정적 영향을 미칠 것으로 기대됩니다."
     },
     {
-      "category": "owid",
-      "source_id": "owid",
-      "source": "Our World in Data",
-      "title": "Top of the Charts: our most popular work in 2025",
-      "url": "https://ourworldindata.org/top-of-the-charts-2025",
-      "published_at": "2025-12-04T00:00:00.000Z",
-      "summary": "2025년 Our World in Data에서 가장 인기 있었던 차트, 기사, 데이터 인사이트를 되돌아보는 내용입니다. 이는 어떤 주제들이 대중의 관심을 끌었는지 파악하는 데 중요합니다. 이러한 분석은 향후 연구 방향 설정과 정보 제공 방식을 개선하는 데 영향을 줄 수 있습니다."
+      "category": "sbs_headline",
+      "source_id": "sbs_headline",
+      "source": "SBS (이 시각 이슈)",
+      "title": "\"1층 잠겨서\" 지하서 관리인 돌변…살인마의 놀이터였다",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008376307&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "Sun, 21 Dec 2025 09:04:00 +0900",
+      "summary": "2005년 서울 신정동 주택가에서 발생한 연쇄살인 사건의 진상이 SBS '그것이 알고 싶다'를 통해 재조명됐다. 사건은 1층 출입문이 잠겨 있어 피해자들이 지하 공간에 갇히면서 관리인이 잔혹한 범죄를 저지른 것으로 밝혀졌다. 이 사건은 당시 지역 사회에 큰 충격을 주었으며, 주거 환경과 관리 시스템의 문제점을 다시 한 번 환기시켰다."
     },
     {
-      "category": "owid",
-      "source_id": "owid",
-      "source": "Our World in Data",
-      "title": "Almost all of the world’s mammal biomass is humans and livestock",
-      "url": "https://ourworldindata.org/wild-mammals-birds-biomass",
-      "published_at": "2025-12-01T00:00:00.000Z",
-      "summary": "전 세계 포유류 생체량의 95%가 인간과 가축으로 구성되어 있으며, 야생 포유류는 단 5%에 불과합니다. 이는 인간 활동이 자연 생태계에 미치는 영향이 매우 크다는 사실을 보여줍니다. 이러한 불균형은 생물 다양성 감소와 생태계 기능 변화로 이어질 수 있어 환경 보전의 중요성을 시사합니다."
+      "category": "sbs_headline",
+      "source_id": "sbs_headline",
+      "source": "SBS (이 시각 이슈)",
+      "title": "8000만 개 넘게 팔렸다…군 마트서 압도적 인기 상품",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008376510&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "Sun, 21 Dec 2025 12:28:00 +0900",
+      "summary": "국군복지단 마트에서 가장 많이 판매되는 품목은 술로, 누적 판매량이 8,000만 개를 넘은 것으로 확인됐다. 이는 군인들의 생활과 휴식에 술이 중요한 역할을 하고 있음을 보여준다. 이러한 판매 추세는 군 복지 정책과 관련한 소비 패턴을 이해하는 데 참고가 될 수 있다."
     },
     {
-      "category": "owid",
-      "source_id": "owid",
-      "source": "Our World in Data",
-      "title": "Just ten species make up almost half the weight of all wild mammals on Earth",
-      "url": "https://ourworldindata.org/wild-mammal-biomass-dominance",
-      "published_at": "2025-11-24T00:00:00.000Z",
-      "summary": "야생 포유류 전체 무게의 거의 절반이 단 10종의 종에 의해 차지되고 있다는 연구 결과가 나왔다. 이는 특정 몇몇 종이 생태계 내에서 매우 큰 비중을 차지하고 있음을 보여준다. 이러한 집중 현상은 생물 다양성 감소나 생태계 균형 변화에 대한 경고 신호가 될 수 있어 보존 전략 수립에 중요한 시사점을 제공한다."
+      "category": "sbs_headline",
+      "source_id": "sbs_headline",
+      "source": "SBS (이 시각 이슈)",
+      "title": "스토킹 고소당한 정희원 전 동료, 강제추행 혐의로 맞고소",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008376690&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "Sun, 21 Dec 2025 13:35:00 +0900",
+      "summary": "정희원 박사가 스토킹 혐의로 고소한 30대 여성 A씨가 정 박사를 강제추행 혐의로 맞고소했다. 정 박사는 저속노화 전문가로 알려져 있으며, 이번 사건은 양측 간의 법적 공방으로 확대되는 양상이다. 이 사건은 스토킹과 강제추행 혐의가 서로 엇갈리면서 진실 공방이 이어질 가능성이 크다. 향후 수사 결과에 따라 두 사람 모두 법적 책임 여부가 가려질 전망이다."
     },
     {
-      "category": "owid",
-      "source_id": "owid",
-      "source": "Our World in Data",
-      "title": "The end of progress against extreme poverty?",
-      "url": "https://ourworldindata.org/end-progress-extreme-poverty",
-      "published_at": "2025-11-17T00:00:00.000Z",
-      "summary": "지난 30년간 극심한 빈곤 감소가 전례 없이 빠르게 이루어졌다. 그러나 가장 가난한 국가들의 경제 성장이 멈추면 이 같은 진전도 중단될 위험이 있다. 이는 빈곤 퇴치의 지속 가능성을 위해 저개발국의 경제 성장이 필수적임을 시사한다."
+      "category": "sbs_headline",
+      "source_id": "sbs_headline",
+      "source": "SBS (이 시각 이슈)",
+      "title": "\"쿠팡의 늑장 공시로 손해봤다\"…미국서 집단소송",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008376618&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "Sun, 21 Dec 2025 12:06:00 +0900",
+      "summary": "쿠팡이 대규모 개인정보 유출 사건을 제때 공시하지 않아 미국에서 주주들이 집단소송을 제기했습니다. 이번 소송은 쿠팡의 늑장 공시로 인해 주주들이 손해를 입었다는 주장에 기반합니다. 이는 기업의 사이버 보안 사고에 대한 신속한 정보 공개의 중요성을 다시 한번 부각시키는 사례로 평가됩니다."
     },
     {
-      "category": "worldbank",
-      "source_id": "worldbank",
-      "source": "World Bank",
-      "title": "World Bank Group and Sri Lanka Partner to Improve Digital Services and Grow the Digital Economy",
-      "url": "http://www.worldbank.org/en/news/press-release/2025/12/19/world-bank-group-and-sri-lanka-partner-to-improve-digital-services-and-grow-the-digital-economy",
-      "published_at": "",
-      "summary": "세계은행 그룹과 스리랑카가 디지털 서비스 개선과 디지털 경제 성장을 위해 협력하기로 했다. 이 협력은 스리랑카의 디지털 인프라를 강화하고 경제 발전을 촉진하는 데 중요한 역할을 할 것으로 보인다. 이를 통해 스리랑카는 디지털 전환을 가속화하고 국민에게 더 나은 공공서비스를 제공할 수 있을 전망이다."
+      "category": "sbs_headline",
+      "source_id": "sbs_headline",
+      "source": "SBS (이 시각 이슈)",
+      "title": "머스크 재산 1105조 원…사상 첫 7000억 달러 돌파",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008376468&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "Sun, 21 Dec 2025 09:04:00 +0900",
+      "summary": "일론 머스크 테슬라 최고경영자의 재산이 법원의 보상안 인정 판결로 7천490억 달러(약 1105조 원)를 넘어섰다. 이는 개인 재산이 7천억 달러를 돌파한 사상 첫 사례다. 이번 판결은 머스크의 주식 보상과 관련된 법적 분쟁에서 중요한 전환점이 되었으며, 그의 재산 규모가 글로벌 부의 집중 현상을 보여준다."
     },
     {
-      "category": "worldbank",
-      "source_id": "worldbank",
-      "source": "World Bank",
-      "title": "World Bank Backs Climate-Resilient Rural Development and Jobs for Family Farmers in Paraíba",
-      "url": "http://www.worldbank.org/en/news/press-release/2025/12/20/world-bank-backs-climate-resilient-rural-development-and-jobs-for-family-farmers-in-paraiba",
-      "published_at": "",
-      "summary": "세계은행이 브라질 파라이바 지역의 가족 농민들을 위한 기후 회복력 강화 농촌 개발과 일자리 창출을 지원한다. 이는 기후변화에 취약한 농촌 지역의 지속 가능한 발전을 도모하기 위한 중요한 조치다. 해당 사업은 농민들의 생계 안정과 지역 경제 활성화에 긍정적인 영향을 미칠 것으로 기대된다."
+      "category": "sbs_headline",
+      "source_id": "sbs_headline",
+      "source": "SBS (이 시각 이슈)",
+      "title": "월세 상승률 이제 3%대…연간 역대 최고 기록한 서울아파트",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008376512&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "Sun, 21 Dec 2025 09:28:00 +0900",
+      "summary": "올해 서울 아파트 월세 상승률이 정부 공인 시세 기준으로 처음 3%대를 기록하며 연간 최고치를 경신했다. 이는 전반적인 주택 임대 시장의 수요 증가와 공급 부족이 맞물린 결과로 분석된다. 월세 부담이 커지면서 세입자들의 주거 안정성이 위협받을 수 있다는 우려도 제기된다."
     },
     {
-      "category": "worldbank",
-      "source_id": "worldbank",
-      "source": "World Bank",
-      "title": "Panama Receives Financial Support from the World Bank Group to Strengthen Fiscal Sustainability",
-      "url": "http://www.worldbank.org/en/news/press-release/2025/12/19/panama-recibe-apoyo-financiero-grupo-banco-mundial-para-fortalecer-sostenibilidad-fiscal",
-      "published_at": "",
-      "summary": "세계은행 그룹이 파나마에 재정 지속 가능성 강화를 위한 금융 지원을 제공했다. 이는 파나마가 재정 건전성을 확보하고 경제 안정성을 높이기 위한 중요한 조치다. 이러한 지원은 국가의 재정 위기 완화와 장기적 경제 성장에 긍정적인 영향을 미칠 것으로 기대된다."
+      "category": "sbs_politics",
+      "source_id": "sbs_politics",
+      "source": "SBS (정치)",
+      "title": "이 대통령 \"캄보디아 범죄단지서 국민 구출…경찰에 깊은 감사\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008376695&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "Sun, 21 Dec 2025 13:43:00 +0900",
+      "summary": "이재명 대통령은 캄보디아의 스캠 범죄단지에서 한국 국민을 구출한 경찰의 활약에 깊은 감사를 표했다. 이번 구출 작전은 한국과 캄보디아 경찰이 합동으로 구성한 '코리아 전담반'이 주도했다. 이 사건은 해외에서 발생하는 한국인 대상 범죄에 대한 양국 협력의 중요성을 보여준다. 앞으로도 양국 경찰 간 협력 강화가 기대된다."
     },
     {
-      "category": "worldbank",
-      "source_id": "worldbank",
-      "source": "World Bank",
-      "title": "World Bank Expands Support to Promote a Sustainable Energy Sector in Argentina",
-      "url": "http://www.worldbank.org/en/news/press-release/2025/12/19/banco-mundial-amplia-apoyo-para-promover-un-sector-energetico-sostenible-en-argentina",
-      "published_at": "",
-      "summary": "세계은행이 아르헨티나의 지속 가능한 에너지 부문을 지원하기 위한 사업을 확대했다. 이는 아르헨티나가 친환경 에너지 전환과 에너지 안보를 강화하는 데 중요한 역할을 할 전망이다. 이번 지원 확대는 해당 국가의 경제 성장과 환경 보호를 동시에 촉진할 수 있다는 점에서 의미가 크다."
+      "category": "sbs_politics",
+      "source_id": "sbs_politics",
+      "source": "SBS (정치)",
+      "title": "행안부, APEC 재난분야 워킹그룹 공동의장 선출",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008376692&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "Sun, 21 Dec 2025 13:38:00 +0900",
+      "summary": "행정안전부가 아시아태평양경제협력체(APEC) 재난 분야 워킹그룹의 공동의장으로 싱가포르 민방위청과 함께 선출됐다. APEC 재난 분야 워킹그룹은 회원국 간 재난 대응 협력과 정보 공유를 강화하는 역할을 한다. 이번 공동의장 선출로 한국은 아시아태평양 지역 재난 관리 협력에서 주도적 역할을 수행할 것으로 기대된다."
     },
     {
-      "category": "worldbank",
-      "source_id": "worldbank",
-      "source": "World Bank",
-      "title": "Pakistan: World Bank Supports Efforts to Strengthen Fiscal Systems and Enhance Service Delivery",
-      "url": "http://www.worldbank.org/en/news/press-release/2025/12/19/pakistan-world-bank-supports-efforts-to-strengthen-fiscal-systems-and-enhance-service-delivery",
-      "published_at": "",
-      "summary": "세계은행이 파키스탄의 재정 시스템 강화와 공공 서비스 개선 노력을 지원하고 있다. 이는 파키스탄의 재정 건전성을 높이고 국민에게 더 나은 서비스를 제공하기 위한 중요한 조치다. 이러한 지원은 국가의 경제 안정과 사회 발전에 긍정적인 영향을 미칠 것으로 기대된다."
+      "category": "sbs_politics",
+      "source_id": "sbs_politics",
+      "source": "SBS (정치)",
+      "title": "장동혁 \"노동신문 막지 말라는 대통령…굴종은 평화 아냐\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008376667&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "Sun, 21 Dec 2025 12:28:00 +0900",
+      "summary": "국민의힘 장동혁 대표는 이재명 대통령이 노동신문 등 북한 매체에 대한 국민 접근 제한을 풀어야 한다고 한 발언을 비판했다. 장 대표는 이를 굴종적인 태도로 보며, 진정한 평화는 굴복이 아니라고 강조했다. 이번 발언은 대북 정책과 관련한 여야 간 입장 차이를 드러내는 사례로 평가된다."
     },
     {
-      "category": "worldbank",
-      "source_id": "worldbank",
-      "source": "World Bank",
-      "title": "World Bank Approves New Grant to Boost Climate-Resilient Farming and Food Security in Morocco",
-      "url": "http://www.worldbank.org/en/news/press-release/2025/12/18/world-bank-approves-new-grant-to-boost-climate-resilient-farming-and-food-security-in-morocco",
-      "published_at": "",
-      "summary": "세계은행이 모로코의 기후 변화에 강한 농업과 식량 안보를 강화하기 위한 신규 보조금을 승인했다. 이는 기후 변화로 인한 농업 생산성 저하 문제에 대응하기 위한 중요한 조치다. 이번 지원은 모로코 농민들의 적응력을 높이고 식량 공급 안정성에 긍정적인 영향을 미칠 것으로 기대된다."
+      "category": "sbs_politics",
+      "source_id": "sbs_politics",
+      "source": "SBS (정치)",
+      "title": "이준석, 김건희특검 출석…'윤 공천개입' 피의자 조사",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008376558&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "Sun, 21 Dec 2025 10:52:00 +0900",
+      "summary": "이준석 개혁신당 대표가 윤석열 전 대통령의 공천개입 의혹과 관련해 21일 민중기 특별검사팀에 피의자 신분으로 출석해 조사를 받았다. 이번 조사는 윤 전 대통령 측의 공천 과정 개입 의혹을 규명하기 위한 특별수사 일환이다. 이준석 대표의 조사는 정치권 내 공천 개입 의혹에 대한 진상 규명과 책임 소재를 밝히는 데 중요한 분수령이 될 전망이다."
     },
     {
-      "category": "worldbank",
-      "source_id": "worldbank",
-      "source": "World Bank",
-      "title": "Transforming Education in Türkiye: Equipping Students and Teachers for Tomorrow’s Careers",
-      "url": "http://www.worldbank.org/en/news/press-release/2025/12/18/transforming-education-in-turkiye-equipping-students-and-teachers-for-tomorrow-s-careers",
-      "published_at": "",
-      "summary": "터키는 미래 직업에 대비한 학생과 교사 역량 강화를 위해 교육 체계를 혁신하고 있다. 이는 빠르게 변화하는 노동 시장과 기술 발전에 대응하기 위한 필수 과제로, 교육의 질과 실용성을 높이는 데 중점을 둔다. 이러한 변화는 학생들의 취업 경쟁력을 높이고, 교사들의 전문성 향상을 통해 교육 전반의 효과성을 증대시킬 것으로 기대된다."
+      "category": "sbs_politics",
+      "source_id": "sbs_politics",
+      "source": "SBS (정치)",
+      "title": "김정은, 함남 신포시 지방공장 준공식 참석…딸 김주애도 동행",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008376461&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "Sun, 21 Dec 2025 08:26:00 +0900",
+      "summary": "김정은 북한 국무위원장이 함경남도 신포시의 지방공업공장 준공식에 참석했다. 이번 행사에는 그의 딸 김주애도 동행해 공개 석상에 모습을 드러냈다. 이는 북한이 지방 산업 발전을 강조하며 김정은 가족의 공개 활동을 통해 체제 결속을 다지는 의도로 해석된다. 다만 구체적인 공장 기능이나 경제적 영향에 대해서는 추가 정보가 필요하다."
     },
     {
-      "category": "worldbank",
-      "source_id": "worldbank",
-      "source": "World Bank",
-      "title": "Reducing Poverty through Community Empowerment",
-      "url": "http://www.worldbank.org/en/news/feature/2025/12/18/reducing-poverty-through-community-empowerment",
-      "published_at": "",
-      "summary": "이 글은 지역사회 역량 강화가 빈곤 감소에 중요한 역할을 한다고 설명한다. 주민들이 스스로 문제를 해결할 수 있도록 지원하면 지속 가능한 발전이 가능해진다는 점을 강조한다. 이를 통해 빈곤층의 자립과 사회적 참여가 촉진되어 장기적인 경제적 안정에 기여할 수 있음을 시사한다."
+      "category": "sbs_politics",
+      "source_id": "sbs_politics",
+      "source": "SBS (정치)",
+      "title": "대전·충남 통합 '7월 출범' 속도전…야 \"명백한 선거 개입\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008376318&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "Sun, 21 Dec 2025 06:12:00 +0900",
+      "summary": "대전과 충남의 행정통합이 내년 7월 1일 출범을 목표로 빠르게 추진되고 있다. 이재명 대통령이 지방선거 전에 통합을 추진하겠다고 밝힌 직후 정부와 여당이 구체적인 일정과 조직을 마련하며 속도를 내고 있다. 이에 야당은 이번 움직임을 선거 개입 시도로 강하게 비판하며 정치적 논란이 확산되고 있다."
     },
     {
-      "category": "nasa",
-      "source_id": "nasa",
-      "source": "NASA",
-      "title": "Artemis II Crew Rehearse Launch Day Demonstration",
-      "url": "https://www.nasa.gov/image-article/artemis-ii-crew-rehearse-launch-day-demonstration/",
-      "published_at": "Sat, 20 Dec 2025 20:31:20 +0000",
-      "summary": "NASA의 아르테미스 II 시험 비행에 참여하는 네 명의 우주비행사들이 2025년 12월 20일 예정된 발사일을 앞두고 플로리다 케네디 우주센터에서 리허설을 진행했다. 이들은 달 궤도를 도는 임무를 수행할 예정이며, 캐나다 우주국(CSA) 소속 우주비행사도 포함되어 있다. 이번 리허설은 실제 발사 절차를 점검하고 임무 성공 가능성을 높이기 위한 중요한 준비 단계다. 아르테미스 II는 달 탐사 재개와 우주 탐사 기술 발전에 중요한 이정표가 될 전망이다."
+      "category": "sbs_politics",
+      "source_id": "sbs_politics",
+      "source": "SBS (정치)",
+      "title": "김 총리 \"호남에 대한 이 대통령 애정은 '찐'…대부흥 할 때 됐다\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008376278&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "Sat, 20 Dec 2025 21:36:00 +0900",
+      "summary": "김민석 국무총리가 20일 전남 무안에서 열린 K-국정설명회에서 이 대통령의 호남에 대한 진정한 애정을 강조했다. 그는 호남 지역이 이제 대부흥을 이룰 때가 됐다고 밝혔다. 이번 발언은 호남 지역 발전과 정부의 지역 균형 발전 정책에 대한 의지를 반영한 것으로 해석된다."
     },
     {
-      "category": "nasa",
-      "source_id": "nasa",
-      "source": "NASA",
-      "title": "Wind-Sculpted Landscapes: Investigating the Martian Megaripple ‘Hazyview’",
-      "url": "https://science.nasa.gov/blog/wind-sculpted-landscapes-investigating-the-martian-megaripple-hazyview/",
-      "published_at": "Sat, 20 Dec 2025 01:19:24 +0000",
-      "summary": "퍼듀대 연구진은 화성 탐사선 퍼서비어런스가 주로 고대 강과 호수를 기록한 암석을 연구하는 가운데, 현재도 화성 표면을 형성하는 메가리플 현상에 주목하고 있다. 메가리플은 최대 2미터 크기의 모래 물결로, 바람에 의해 만들어지는 지형이다. 이 연구는 화성의 지형 변화 과정을 실시간으로 이해할 수 있는 드문 기회를 제공하며, 화성 환경과 기후 변화를 해석하는 데 중요한 단서를 준다."
+      "category": "sbs_economy",
+      "source_id": "sbs_economy",
+      "source": "SBS (경제)",
+      "title": "산업부, 캐나다 철강 관세 강화에 우려 전달…전략대화채널 개설",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008376709&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "Sun, 21 Dec 2025 14:45:00 +0900",
+      "summary": "정부는 캐나다가 철강 저율관세할당을 강화하는 조치에 대해 우려를 표명하며, 양국 간 전략대화채널을 개설해 소통을 강화하기로 했다. 이번 조치는 한국 철강업계에 수출 제한과 비용 증가 등의 부담을 줄 수 있어 산업계의 반발이 예상된다. 정부는 대화를 통해 양국 간 무역 갈등을 최소화하고 협력 관계를 유지하는 데 주력할 방침이다."
     },
     {
-      "category": "nasa",
-      "source_id": "nasa",
-      "source": "NASA",
-      "title": "NASA Shares SpaceX Crew-12 Assignments for Space Station Mission",
-      "url": "https://www.nasa.gov/news-release/nasa-shares-spacex-crew-12-assignments-for-space-station-mission/",
-      "published_at": "Fri, 19 Dec 2025 20:21:53 +0000",
-      "summary": "NASA는 2026년 2월 15일 이후 국제우주정거장으로 향하는 스페이스X 크루-12 임무를 발표했다. 이번 임무에는 NASA 우주비행사 제시카 메이어와 잭 해더웨이가 각각 우주선 지휘관과 조종사로 참여하며, 유럽우주국(ESA) 등 세 개 우주기관 소속 총 네 명의 승무원이 함께한다. 이 임무는 장기 과학 탐사를 목표로 하며, 국제 협력을 통한 우주 연구 확대에 중요한 역할을 할 것으로 기대된다."
+      "category": "sbs_economy",
+      "source_id": "sbs_economy",
+      "source": "SBS (경제)",
+      "title": "국내기업 72.9% \"내년 노사관계 올해보다 더 불안정해질 것\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008376681&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "Sun, 21 Dec 2025 13:16:00 +0900",
+      "summary": "국내 기업의 72.9%가 내년 노사관계가 올해보다 더 불안정해질 것으로 전망했다. 이는 노란봉투법 등 노동관계법 개정안 시행에 따른 우려가 반영된 결과다. 기업들은 법 개정이 노사 갈등을 심화시킬 가능성을 염두에 두고 있어, 향후 노사관계 관리에 어려움이 예상된다."
     },
     {
-      "category": "nasa",
-      "source_id": "nasa",
-      "source": "NASA",
-      "title": "NASA Johnson’s 2025 Milestones",
-      "url": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnsons-2025-milestones/",
-      "published_at": "Fri, 19 Dec 2025 19:59:20 +0000",
-      "summary": "NASA 휴스턴의 존슨 우주센터는 2025년 한 해 동안 인간 우주비행과 연구, 탐사 분야에서 중요한 진전을 이루었다. 특히 아르테미스 II 임무 준비와 국제우주정거장(ISS) 과학 연구에 집중하며 달과 궁극적으로 화성 탐사를 위한 기반을 다졌다. 이러한 성과는 미래 우주 탐사의 성공 가능성을 높이고 우주 과학 발전에 기여할 것으로 기대된다."
+      "category": "sbs_economy",
+      "source_id": "sbs_economy",
+      "source": "SBS (경제)",
+      "title": "과기정통부 \"올해 연구장비 도입심의 통해 828억 원 절감\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008376680&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "Sun, 21 Dec 2025 13:13:00 +0900",
+      "summary": "과학기술정보통신부는 올해 21차례의 국가연구시설장비심의위원회를 통해 중복 투자되는 연구장비 예산 828억 원을 절감했다. 이는 연구장비 도입 심의를 강화해 예산의 효율적 운용을 도모한 결과다. 이러한 절감은 연구 자원의 중복 낭비를 줄이고, 국가 연구개발 예산의 효율성을 높이는 데 기여할 것으로 기대된다."
     },
     {
-      "category": "nasa",
-      "source_id": "nasa",
-      "source": "NASA",
-      "title": "NASA’s Wideband Technology Demo Proves Space Missions are Free to Roam",
-      "url": "https://www.nasa.gov/humans-in-space/commercial-space/nasas-wideband-technology-demo-proves-space-missions-are-free-to-roam/",
-      "published_at": "Fri, 19 Dec 2025 19:57:34 +0000",
-      "summary": "NASA의 Polylingual Experimental Terminal(PExT) 기술 시연은 우주 임무가 정부와 상업 통신망을 자유롭게 전환하며 연결을 유지할 수 있음을 보여주었다. 이는 지상에서 휴대전화가 네트워크를 로밍하듯 우주에서도 통신의 유연성을 확보할 수 있다는 점에서 중요하다. 이러한 기술은 우주 임무의 통신 안정성과 효율성을 높여 미래 탐사 활동의 범위와 자유도를 확장할 가능성을 시사한다."
+      "category": "sbs_economy",
+      "source_id": "sbs_economy",
+      "source": "SBS (경제)",
+      "title": "위성망 이용 지원 시스템 구축…\"위성통신 경쟁력 강화\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008376679&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "Sun, 21 Dec 2025 13:13:00 +0900",
+      "summary": "과학기술정보통신부와 한국방송통신전파진흥원은 위성망 이용 지원 시스템을 구축해 위성통신 경쟁력을 강화하기로 했다. 이는 우주 영토 확보와 위성망의 효율적 활용을 위한 노력의 일환이다. 이번 시스템 도입으로 국내 위성통신 산업의 기술적 기반이 강화되고 글로벌 경쟁력 향상에 기여할 것으로 기대된다."
     },
     {
-      "category": "nasa",
-      "source_id": "nasa",
-      "source": "NASA",
-      "title": "Water Droplet Science",
-      "url": "https://www.nasa.gov/image-article/water-droplet-science/",
-      "published_at": "Fri, 19 Dec 2025 17:43:10 +0000",
-      "summary": "NASA 우주비행사 돈 페팃은 테플론으로 만든 뜨개질 바늘과 전하를 띤 물방울을 이용해 정전기력을 시연했다. 이 실험은 2025년 2월 19일 촬영된 여러 장면을 통해 테플론과 전하를 띤 물방울 간의 독특한 끌어당김과 밀어내기 현상을 보여준다. 이러한 현상은 태양에서 온 전하 입자가 지구 자기장과 상호작용하는 방식과 유사하다. 이 연구는 우주 환경에서 전기적 상호작용을 이해하는 데 중요한 단서를 제공한다."
+      "category": "sbs_economy",
+      "source_id": "sbs_economy",
+      "source": "SBS (경제)",
+      "title": "\"최초 5G 했지만 통신시장 장기 침체\"…6G서 반전 노린다",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008376678&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "Sun, 21 Dec 2025 13:12:00 +0900",
+      "summary": "한국은 세계 최초로 5G 상용화를 시작했지만, 통신시장은 장기간 침체를 겪고 있다. 배경훈 부총리 겸 과학기술정보통신부 장관은 6G 기술 개발을 통해 이러한 상황을 반전시키려는 의지를 보이고 있다. 6G는 차세대 통신 혁신의 핵심으로 기대되며, 이를 통해 국내 통신산업의 경쟁력 회복과 경제 활성화를 도모할 전망이다."
     },
     {
-      "category": "mit_news",
-      "source_id": "mit_news",
-      "source": "MIT News",
-      "title": "Prefrontal cortex reaches back into the brain to shape how other regions function",
-      "url": "https://news.mit.edu/2025/prefrontal-cortex-reaches-into-brain-to-shape-how-other-regions-function-1219",
-      "published_at": "Fri, 19 Dec 2025 11:25:00 -0500",
-      "summary": "뇌의 집행 조절 중심인 전전두엽이 다른 뇌 영역과 특정 회로를 통해 정보를 주고받으며 행동과 감정에 관한 메시지를 맞춤형으로 전달한다는 연구 결과가 나왔다. 이는 전전두엽이 단순히 명령을 내리는 역할을 넘어 뇌 내 다양한 영역의 기능을 세밀하게 조절한다는 점에서 중요하다. 이러한 발견은 뇌 기능 이해를 넓히고 정신 건강 및 신경질환 치료에 새로운 접근법을 제시할 수 있다."
+      "category": "sbs_economy",
+      "source_id": "sbs_economy",
+      "source": "SBS (경제)",
+      "title": "국민이 AI 정보 오류를 바로잡는다…'찐 AI 챌린지' 캠페인",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008376676&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "Sun, 21 Dec 2025 13:10:00 +0900",
+      "summary": "과학기술정보통신부와 인공지능안전연구소가 국민이 AI 정보 오류를 직접 바로잡는 '찐 AI 챌린지' 캠페인을 시작했다. 이 캠페인은 인공지능 활용 시 발생할 수 있는 정보 오류 문제를 해결하고, 국민이 안심하고 AI를 사용할 수 있도록 하기 위한 것이다. 이를 통해 AI 신뢰도를 높이고, 올바른 AI 정보 확산에 기여할 것으로 기대된다."
     },
     {
-      "category": "mit_news",
-      "source_id": "mit_news",
-      "source": "MIT News",
-      "title": "Guided learning lets “untrainable” neural networks realize their potential",
-      "url": "https://news.mit.edu/2025/guided-learning-lets-untrainable-neural-networks-realize-their-potential-1218",
-      "published_at": "Thu, 18 Dec 2025 16:20:00 -0500",
-      "summary": "CSAIL 연구진은 기존에 학습이 불가능하다고 여겨졌던 신경망도 다른 신경망의 내재된 편향을 활용한 지도 학습 방법을 통해 효과적으로 학습할 수 있음을 발견했다. 이는 신경망의 학습 가능성을 확장하는 중요한 진전으로, 복잡한 모델의 훈련 한계를 극복할 수 있는 새로운 접근법을 제시한다. 이러한 방법은 인공지능 연구와 응용 분야에서 더 다양한 신경망 구조를 활용할 수 있는 가능성을 열어준다."
+      "category": "sbs_economy",
+      "source_id": "sbs_economy",
+      "source": "SBS (경제)",
+      "title": "SKT, 소비자원 '1인당 10만 원' 조정안에 신중론",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008376675&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "Sun, 21 Dec 2025 14:25:00 +0900",
+      "summary": "SK텔레콤은 개인정보 유출 사고와 관련해 한국소비자원이 1인당 10만원을 지급하라는 조정안에 대해 신중한 입장을 보이고 있다. 이번 조정안은 소비자 피해 보상을 위한 방안으로 제시되었으나, SK텔레콤은 구체적인 내용과 근거를 검토 중인 것으로 알려졌다. 이번 사안은 개인정보 보호와 기업의 책임 문제에 대한 사회적 관심을 반영하며, 향후 보상 기준과 절차에 영향을 미칠 가능성이 있다."
     },
     {
-      "category": "mit_news",
-      "source_id": "mit_news",
-      "source": "MIT News",
-      "title": "A new way to increase the capabilities of large language models",
-      "url": "https://news.mit.edu/2025/new-way-to-increase-large-language-model-capabilities-1217",
-      "published_at": "Wed, 17 Dec 2025 23:10:00 -0500",
-      "summary": "MIT-IBM Watson AI 연구소는 대형 언어 모델(LLM)의 긴 텍스트에 대한 상태 추적과 순차적 추론 능력을 향상시키는 새로운 구조를 개발했다. 이는 기존 모델들이 긴 문맥을 효과적으로 이해하고 처리하는 데 한계가 있었던 문제를 개선한 것이다. 이 기술은 LLM의 정확도와 활용 범위를 넓혀, 복잡한 문서 이해나 대화 시스템 등 다양한 분야에서 성능 향상을 기대하게 한다."
+      "category": "yonhap_tv_latest",
+      "source_id": "yonhap_tv_latest",
+      "source": "연합뉴스TV (최신)",
+      "title": "[날씨] 하루 만에 기온 '뚝'…찬 바람에 종일 추위 이어져",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20251221145834iWv",
+      "published_at": "Sun, 21 Dec 2025 14:58:57 +0900",
+      "summary": "북쪽에서 찬 공기가 내려오면서 전국적으로 기온이 크게 떨어지고 강한 바람이 불어 체감 온도도 낮아졌습니다. 서울 아침 기온은 영하 2.9도였고, 바람 때문에 체감 온도는 영하 8도까지 내려갔습니다. 이로 인해 외출 시 한파에 대비한 옷차림이 필요하며, 건강 관리에 주의가 요구됩니다."
     },
     {
-      "category": "mit_news",
-      "source_id": "mit_news",
-      "source": "MIT News",
-      "title": "Digital innovations and cultural heritage in rural towns",
-      "url": "https://news.mit.edu/2025/digital-innovations-cultural-heritage-in-rural-towns-1217",
-      "published_at": "Wed, 17 Dec 2025 15:50:00 -0500",
-      "summary": "MIT 도시연구 및 계획학과의 실습 과정에서 시작된 새로운 책이, 인구가 줄어드는 농촌 마을에서 디지털 혁신과 전통 문화를 융합하는 방법을 제시한다. 이 책은 쇠퇴하는 지역사회가 기술과 문화유산을 조화롭게 활용해 활력을 되찾을 수 있는 로드맵을 제공한다는 점에서 중요하다. 이를 통해 농촌 마을의 지속 가능한 발전과 문화 보존에 기여할 수 있을 것으로 기대된다."
+      "category": "yonhap_tv_latest",
+      "source_id": "yonhap_tv_latest",
+      "source": "연합뉴스TV (최신)",
+      "title": "휠체어 장애인의 첫 우주여행…\"시작 불과하길\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20251221145805rPZ",
+      "published_at": "Sun, 21 Dec 2025 14:58:23 +0900",
+      "summary": "휠체어를 사용하는 독일의 장애인 엔지니어 미카엘라 벤타우스가 제프 베이조스의 블루오리진 우주선을 타고 처음으로 우주여행을 다녀왔다. 이들은 지구와 우주의 경계인 카르만 선을 넘어 약 10분간 비행했으며, 휠체어 사용자의 우주 비행은 이번이 처음이다. 벤타우스는 이번 경험이 장애인들에게도 우주여행의 문이 열리는 시작이 되길 바란다고 밝혔다."
     },
     {
-      "category": "mit_news",
-      "source_id": "mit_news",
-      "source": "MIT News",
-      "title": "Post-COP30, more aggressive policies needed to cap global warming at 1.5 C",
-      "url": "https://news.mit.edu/2025/post-cop30-more-aggressive-policies-needed-to-cap-global-warming-1217",
-      "published_at": "Wed, 17 Dec 2025 15:10:00 -0500",
-      "summary": "2025년을 전망한 'Global Change Outlook' 보고서는 기후변화 위험을 줄이고 지속가능성을 높이기 위해 더 신속한 대응이 필요하다고 강조한다. 특히, 지구 온도 상승을 1.5도 이내로 제한하려면 더욱 공격적인 정책이 요구된다고 지적한다. 다만, 이러한 변화 과정에서 지정학적 갈등이 발생할 가능성도 함께 경고하고 있다. 이는 기후 위기 대응이 단순한 환경 문제를 넘어 국제 관계에도 영향을 미칠 수 있음을 시사한다."
+      "category": "yonhap_tv_latest",
+      "source_id": "yonhap_tv_latest",
+      "source": "연합뉴스TV (최신)",
+      "title": "전남 목포서 단독주택 화재… 60대 남성 사망",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20251221145730Jzo",
+      "published_at": "Sun, 21 Dec 2025 14:57:51 +0900",
+      "summary": "전남 목포시 유달동의 한 단독주택에서 새벽에 화재가 발생해 60대 남성이 숨졌다. 소방당국은 신고를 받고 출동해 40여 분 만에 불길을 진압했으나, 주택과 가재도구가 크게 소실됐다. 경찰과 소방은 합동 감식을 통해 정확한 화재 원인을 조사 중이다. 이번 사건은 주택 화재 안전 관리의 중요성을 다시 한 번 환기시킨다."
     },
     {
-      "category": "mit_news",
-      "source_id": "mit_news",
-      "source": "MIT News",
-      "title": "A “scientific sandbox” lets researchers explore the evolution of vision systems",
-      "url": "https://news.mit.edu/2025/scientific-sandbox-lets-researchers-explore-evolution-vision-systems-1217",
-      "published_at": "Wed, 17 Dec 2025 14:00:00 -0500",
-      "summary": "AI 기술을 활용한 ‘과학적 샌드박스’ 도구가 시각 시스템의 진화를 연구하는 데 사용되고 있다. 이 도구는 로봇이나 자율주행차에 적용할 수 있는 더 나은 센서와 카메라 설계에 도움을 줄 수 있다. 시각 시스템의 발전 과정을 이해함으로써 첨단 기기의 성능 향상에 기여할 것으로 기대된다."
+      "category": "yonhap_tv_latest",
+      "source_id": "yonhap_tv_latest",
+      "source": "연합뉴스TV (최신)",
+      "title": "광주 용봉동 아파트 상가서 화재…\"다친 사람 없어\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20251221145657WNn",
+      "published_at": "Sun, 21 Dec 2025 14:57:21 +0900",
+      "summary": "오늘 오전 8시경 광주 북구 용봉동의 아파트 상가에서 화재가 발생했으나, 소방당국이 20분 만에 진화해 인명 피해는 없었습니다. 경찰과 소방은 정확한 화재 원인과 피해 규모를 조사 중입니다. 이번 사건은 상가 화재에 대한 안전 관리의 중요성을 다시 한 번 환기시키고 있습니다."
     },
     {
-      "category": "globalvoices",
-      "source_id": "globalvoices",
-      "source": "Global Voices",
-      "title": "We could all easily be ‘Aco’: Slovenia’s controversial new law seeks to address the challenge of Roma integration",
-      "url": "https://globalvoices.org/2025/12/21/we-could-all-easily-be-aco-slovenias-controversial-new-law-seeks-to-address-the-challenge-of-roma-integration/",
-      "published_at": "Sun, 21 Dec 2025 05:00:57 +0000",
-      "summary": "슬로베니아에서 한 바텐더 살인 사건을 계기로 범죄 처벌 완화와 폭력 문제, 그리고 로마(Roma) 공동체의 통합 문제에 대한 논의가 다시 불거졌다. 이 사건은 로마인 통합의 어려움을 부각시키며 사회적 긴장을 드러냈다. 새로운 법안은 이러한 문제를 해결하려는 시도로, 사회 통합과 치안 강화에 중요한 영향을 미칠 것으로 보인다."
+      "category": "yonhap_tv_latest",
+      "source_id": "yonhap_tv_latest",
+      "source": "연합뉴스TV (최신)",
+      "title": "이억원 \"내년에도 강도 높은 가계부채 관리 불가피\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH202512211456220Cb",
+      "published_at": "Sun, 21 Dec 2025 14:56:41 +0900",
+      "summary": "이억원 금융위원장은 내년에도 가계부채 관리를 강도 높게 이어갈 수밖에 없다고 밝혔습니다. 현재 가계부채의 절대 수준이 매우 높아 총량 증가율을 경제성장률보다 낮게 유지하며 연착륙을 도모해야 하는 상황입니다. 이에 따라 정부는 내년에도 가계부채 총량 관리 기조를 일관되게 유지할 계획입니다."
     },
     {
-      "category": "globalvoices",
-      "source_id": "globalvoices",
-      "source": "Global Voices",
-      "title": "How a failing Cambodia-Thailand ceasefire can illuminate the road to peace",
-      "url": "https://globalvoices.org/2025/12/20/how-a-failing-cambodia-thailand-ceasefire-can-illuminate-the-road-to-peace/",
-      "published_at": "Sat, 20 Dec 2025 12:00:40 +0000",
-      "summary": "태국과 캄보디아 간의 휴전 시도가 실패하는 상황은 전 세계적으로 여러 차례의 휴전 시도가 안정적인 평화로 가는 과정임을 보여준다. 이는 두 나라 역시 여러 번의 시도를 거쳐야 평화에 도달할 수 있음을 시사한다. 이러한 과정은 장기적 평화 구축에 있어 인내와 반복적인 협상의 중요성을 강조한다."
+      "category": "yonhap_tv_latest",
+      "source_id": "yonhap_tv_latest",
+      "source": "연합뉴스TV (최신)",
+      "title": "내년 은행 가계대출 빙하기 오나…2% 증가 목표 제시",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20251221145525WvY",
+      "published_at": "Sun, 21 Dec 2025 14:55:40 +0900",
+      "summary": "올해 5대 시중은행의 가계대출 증가액이 정부의 부동산 대출 규제로 목표보다 7.4% 적은 7조4,685억원에 그쳤습니다. 이는 연말 은행들이 사실상 대출 창구를 닫으며 대출 규제가 강화된 결과입니다. 이러한 추세는 내년에도 이어져 가계대출 증가율이 2% 수준에 머물 가능성이 크다는 전망이 나옵니다."
     },
     {
-      "category": "globalvoices",
-      "source_id": "globalvoices",
-      "source": "Global Voices",
-      "title": "‘Clean up your culture’: a TV host’s comment makes Indigenous Brazilians speak up",
-      "url": "https://globalvoices.org/2025/12/20/clean-up-your-culture-a-tv-hosts-comment-makes-indigenous-brazilians-speak-up/",
-      "published_at": "Sat, 20 Dec 2025 06:00:52 +0000",
-      "summary": "브라질 한 TV 진행자의 발언이 원주민들의 반발을 불러일으켰다. 이들은 휴대전화 사용이 원주민 정체성을 훼손하지 않으며, 기술 접근권은 모든 브라질 시민에게 보장되어야 한다고 주장했다. 이는 원주민 문화에 대한 편견과 고정관념을 깨고, 현대 사회에서의 원주민 권리와 평등한 기술 접근의 중요성을 환기시킨다."
+      "category": "yonhap_tv_latest",
+      "source_id": "yonhap_tv_latest",
+      "source": "연합뉴스TV (최신)",
+      "title": "SKT, 10만원 조정안에 \"내용 검토 후 신중히 결정\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20251221145448399",
+      "published_at": "Sun, 21 Dec 2025 14:55:12 +0900",
+      "summary": "SK텔레콤은 개인정보 유출 사고와 관련해 1인당 10만 원 배상 조정안에 대해 내용을 검토한 뒤 신중히 결정하겠다고 밝혔습니다. 이번 조정안은 한국소비자원 소비자분쟁조정위원회가 제시한 것으로, SK텔레콤은 이전에 1인당 30만 원 배상 조정안도 수락하지 않은 바 있습니다. 회사 내부에서는 막대한 비용 부담을 우려해 조정안 수락에 부정적인 분위기가 형성되어 있습니다. 이번 사안은 개인정보 보호와 기업의 책임 문제에 대한 사회적 관심을 반영합니다."
     },
     {
-      "category": "globalvoices",
-      "source_id": "globalvoices",
-      "source": "Global Voices",
-      "title": "Ten migrant domestic workers died in Hong Kong’s inferno, the survivors struggle to grieve",
-      "url": "https://globalvoices.org/2025/12/19/ten-migrant-domestic-workers-died-in-hong-kongs-inferno-the-survivors-struggle-to-grieve/",
-      "published_at": "Fri, 19 Dec 2025 12:00:52 +0000",
-      "summary": "홍콩에서 발생한 대형 화재로 10명의 이주 가사 노동자가 고용주를 보호하다 목숨을 잃었다. 이 사건은 수십 년 만에 가장 치명적인 화재로 기록되었으며, 생존자들은 여전히 깊은 슬픔에 빠져 있다. 그러나 이들은 일자리 상실과 추방 위기에 처해 있어 사회적 보호와 지원이 절실한 상황이다. 이번 사건은 이주 노동자들의 열악한 근무 환경과 인권 문제를 다시 한번 부각시켰다."
+      "category": "yonhap_tv_latest",
+      "source_id": "yonhap_tv_latest",
+      "source": "연합뉴스TV (최신)",
+      "title": "국민연금 환헤지 본격화 전망…환율 안정화 총력",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH202512211454123fm",
+      "published_at": "Sun, 21 Dec 2025 14:54:26 +0900",
+      "summary": "국민연금이 원/달러 환율 안정을 위해 이르면 이번 주초부터 대규모 환 헤지에 나설 가능성이 큽니다. 이는 외환 당국이 환 헤지 본격화를 공개적으로 예고한 데 따른 조치로, 한국은행이 내년 초부터 금융기관 외화예금에 이자를 지급하는 정책도 이에 맞춰 준비된 것으로 보입니다. 국민연금의 환 헤지가 실행되면 외환시장 수급 불균형 완화에 기여할 전망입니다."
     },
     {
-      "category": "globalvoices",
-      "source_id": "globalvoices",
-      "source": "Global Voices",
-      "title": "Dominican Republic wastes renewable energy while fossil fuel thermoelectric plants operate above legal limits",
-      "url": "https://globalvoices.org/2025/12/19/dominican-republic-wastes-renewable-energy-while-fossil-fuel-thermoelectric-plants-operate-above-legal-limits/",
-      "published_at": "Fri, 19 Dec 2025 05:00:27 +0000",
-      "summary": "도미니카공화국에서 재생에너지 발전이 제한되는 반면, 화석연료 발전소는 법적 허용치를 초과해 가동되고 있다. 이는 기술적 최소 전력 기준 미준수로, 도미니카 법률을 위반하는 행위다. 이러한 상황은 재생에너지 확대를 저해하고 기후변화 대응 약속 이행에 부정적인 영향을 미친다. 결과적으로 친환경 에너지 전환에 장애물이 되고 있다."
+      "category": "yonhap_tv_economy",
+      "source_id": "yonhap_tv_economy",
+      "source": "연합뉴스TV (경제)",
+      "title": "환율 6개월째↑…내년 물가 2%대 초반 상향 전망",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20251221145338bDT",
+      "published_at": "Sun, 21 Dec 2025 14:53:58 +0900",
+      "summary": "원/달러 환율이 6개월 연속 상승하며 내년 소비자물가 상승률 전망치가 2.0%에서 2.1%로 상향 조정됐습니다. 고환율은 수입 물가와 생산자 물가를 자극해 소비자 물가에 상승 압력을 가하는 요인으로 작용하고 있습니다. 이에 정부는 각 부처 차관급을 물가안정책임관으로 지정해 물가 관리에 나서고 있습니다."
     },
     {
-      "category": "globalvoices",
-      "source_id": "globalvoices",
-      "source": "Global Voices",
-      "title": "China’s green investment in Pakistan: Solar dreams, debt shadows, and the politics of a rapid transition",
-      "url": "https://globalvoices.org/2025/12/18/chinas-green-investment-in-pakistan-solar-dreams-debt-shadows-and-the-politics-of-a-rapid-transition/",
-      "published_at": "Thu, 18 Dec 2025 21:00:53 +0000",
-      "summary": "중국은 파키스탄의 태양광 발전 확대를 지원하는 동시에 과거 석탄 투자로 인해 전력 시스템의 재정적·환경적 부담을 남기고 있다. 이는 파키스탄이 신재생에너지로 빠르게 전환하는 과정에서 중국의 역할이 복합적임을 보여준다. 이러한 상황은 친환경 에너지 확대와 기존 에너지 의존 사이의 균형 문제를 시사한다."
+      "category": "yonhap_tv_economy",
+      "source_id": "yonhap_tv_economy",
+      "source": "연합뉴스TV (경제)",
+      "title": "\"북한 올해 가상자산 3조원 탈취…대어 노린다\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20251221145302PgQ",
+      "published_at": "Sun, 21 Dec 2025 14:53:15 +0900",
+      "summary": "올해 북한 연계 해킹 조직이 약 3조 원 규모의 가상자산을 탈취한 것으로 분석됐습니다. 미국 블록체인 분석업체 체이널리시스는 북한 해커들이 공격 횟수는 줄였지만, 한 번에 큰 피해를 입히는 정예화된 전략을 구사하고 있다고 밝혔습니다. 이러한 공격 방식 변화는 북한이 더 큰 규모의 가상자산을 노리고 체계적으로 해킹을 수행하고 있음을 시사합니다."
+    },
+    {
+      "category": "yonhap_tv_economy",
+      "source_id": "yonhap_tv_economy",
+      "source": "연합뉴스TV (경제)",
+      "title": "소비자위 \"SKT, 해킹 피해자에 10만원씩 보상해야\"…2조3천억원 규모",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20251221145146kH1",
+      "published_at": "Sun, 21 Dec 2025 14:52:03 +0900",
+      "summary": "한국소비자원 소비자분쟁조정위원회는 SK텔레콤 개인정보 유출 사고 피해자들에게 1인당 10만원 상당의 보상을 지급하라고 결정했다. 이번 결정은 지난 4월 발생한 대규모 해킹 사건에 따른 것으로, 보상은 통신요금 할인 5만원과 제휴업체에서 사용할 수 있는 티플러스포인트 5만포인트로 구성된다. SK텔레콤이 조정안을 수락하면 피해자들에게 실질적인 보상이 이루어질 전망이다. 이번 조치는 개인정보 보호와 기업 책임 강화에 중요한 선례가 될 것으로 보인다."
+    },
+    {
+      "category": "yonhap_tv_economy",
+      "source_id": "yonhap_tv_economy",
+      "source": "연합뉴스TV (경제)",
+      "title": "한국 10대, 유튜브·인스타만 하루 2시간30분 이용",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20251221140722mdG",
+      "published_at": "Sun, 21 Dec 2025 14:07:43 +0900",
+      "summary": "국내 10대 청소년들이 하루 평균 2시간 30분 이상 SNS를 이용하는 것으로 나타났다. 특히 유튜브와 인스타그램 사용 시간이 가장 길었으며, 그 외에도 엑스, 틱톡, 카카오톡 등이 뒤를 이었다. 전문가들은 청소년들의 SNS 과몰입 현상이 학업과 정신 건강에 부정적 영향을 미칠 수 있다고 우려하고 있다."
+    },
+    {
+      "category": "mk_economy",
+      "source_id": "mk_economy",
+      "source": "매일경제 (경제)",
+      "title": "LG전자, 日 식음료 매장에 키오스크 공급...현지 1위 업체와 협업",
+      "url": "https://www.mk.co.kr/news/economy/11497217",
+      "published_at": "Sun, 21 Dec 2025 14:16:54 +09:00",
+      "summary": "LG전자가 일본 식당과 카페 등 식음료 매장에 디지털 키오스크를 공급하기 시작했다. 이번 사업은 일본 현지 1위 업체와의 협업을 통해 진행되며, 약 100만 개 매장의 디지털 전환을 목표로 한다. 이를 통해 LG전자는 일본 시장 내 스마트 매장 솔루션 분야에서 입지를 강화하고 글로벌 시장 확대에 박차를 가할 전망이다."
+    },
+    {
+      "category": "mk_economy",
+      "source_id": "mk_economy",
+      "source": "매일경제 (경제)",
+      "title": "미국 ‘세계 경찰’ 후퇴하자…전 세계 군비 경쟁 돌입했다",
+      "url": "https://www.mk.co.kr/news/economy/11497213",
+      "published_at": "Sun, 21 Dec 2025 14:05:41 +09:00",
+      "summary": "2026년 미국 국방예산은 9010억 달러로 소폭 증가하며 ‘세계 경찰’ 역할 축소를 시사한다. 미국은 동맹국들의 방위 책임 확대를 강조하는 가운데, 중국은 약 4740억 달러로 국방비를 크게 늘리고 있다. 일본과 한국도 각각 9조 엔과 65.8조 원 규모로 국방비를 증액하며 군비 경쟁에 동참하고 있다. 이러한 변화는 글로벌 군사력 균형 재편과 지역 안보 긴장 고조를 예고한다."
+    },
+    {
+      "category": "mk_economy",
+      "source_id": "mk_economy",
+      "source": "매일경제 (경제)",
+      "title": "삼성전자, 가전 최초 제미나이 탑재 ‘비스포크 AI 냉장고’ 공개",
+      "url": "https://www.mk.co.kr/news/economy/11497208",
+      "published_at": "Sun, 21 Dec 2025 13:54:49 +09:00",
+      "summary": "삼성전자가 가전제품 최초로 구글의 최신 AI 칩셋 ‘제미나이’를 탑재한 ‘비스포크 AI 냉장고’를 공개했다. 이 제품은 AI 비전 성능을 강화해 식품 인식 범위를 확대한 것이 특징이다. CES 2026 행사에 앞서 선보인 이번 신제품은 스마트 가전 시장에서 AI 기술 경쟁을 한층 가속화할 것으로 보인다."
+    },
+    {
+      "category": "mk_economy",
+      "source_id": "mk_economy",
+      "source": "매일경제 (경제)",
+      "title": "3년만에 풀린 RG발급...수은, 중형조선사에 1500억 지원",
+      "url": "https://www.mk.co.kr/news/economy/11497198",
+      "published_at": "Sun, 21 Dec 2025 13:22:03 +09:00",
+      "summary": "한국수출입은행 황기연 행장이 경영 정상화된 중형조선사에 올해 1500억 원 규모의 선수금환급보증(RG)을 신규 지원하겠다고 밝혔다. 선수금환급보증은 3년 만에 다시 가동되며, 중형조선업계의 자금 유동성 개선에 기여할 전망이다. 이번 지원은 조선업 회복과 수출 활성화를 위한 금융 지원 강화의 일환으로 평가된다."
+    },
+    {
+      "category": "mk_economy",
+      "source_id": "mk_economy",
+      "source": "매일경제 (경제)",
+      "title": "내년부터 우체국서도 은행 대출 받는다...AI가 금리 인하 요구도",
+      "url": "https://www.mk.co.kr/news/economy/11497197",
+      "published_at": "Sun, 21 Dec 2025 13:21:50 +09:00",
+      "summary": "내년 상반기부터 전국 우체국에서 은행 대출 서비스를 시범 운영한다. 이번 혁신금융서비스 지정으로 우체국이 은행 대리업을 수행하게 되며, AI가 금리 인하 요구권을 행사할 수 있도록 허용된다. 이를 통해 금융 접근성이 개선되고, 고객 맞춤형 금리 조정이 가능해질 전망이다."
+    },
+    {
+      "category": "mk_economy",
+      "source_id": "mk_economy",
+      "source": "매일경제 (경제)",
+      "title": "보험금 지급 거절·계약 해지될 수도…“진료기록 상세히 알려야”",
+      "url": "https://www.mk.co.kr/news/economy/11497191",
+      "published_at": "Sun, 21 Dec 2025 13:14:39 +09:00",
+      "summary": "과거 병력에 대해 보험 가입 시 고지의무를 철저히 이행하지 않으면 보험금 지급이 거절되거나 계약이 해지될 수 있다. 예를 들어, 유방암 진단 이력이 있는 환자가 난소암 진단 후 보험금을 청구했으나, 보험사가 진료기록 누락을 문제 삼아 지급을 거부하는 사례가 발생했다. 이에 따라 가입자는 자신의 진료기록을 상세히 알리고 정확히 고지하는 것이 중요하다. 보험 가입 전 과거 병력을 꼼꼼히 확인하고 투명하게 알리는 노력이 필요하다."
+    },
+    {
+      "category": "mk_economy",
+      "source_id": "mk_economy",
+      "source": "매일경제 (경제)",
+      "title": "‘K자 경제’ 위기 빠진 미국, 양극화 심각하다는데…한국 경제는?",
+      "url": "https://www.mk.co.kr/news/economy/11497188",
+      "published_at": "Sun, 21 Dec 2025 13:12:51 +09:00",
+      "summary": "미국은 상위 10%가 전체 민간소비의 절반을 차지하는 등 소비 양극화가 심화되며 ‘K자 경제’ 위기에 직면해 있습니다. 반면 한국은 자산 격차가 심각한데, 특히 서울 집값 상승이 세대 간 격차를 키우고 있습니다. 미국의 상류층 소비가 위축되면 경제 침체가 우려되며, 한국은 청년을 위한 신도시 개발과 퇴직연금 활성화 등으로 격차 해소를 모색하고 있습니다."
+    },
+    {
+      "category": "mk_economy",
+      "source_id": "mk_economy",
+      "source": "매일경제 (경제)",
+      "title": "보드게임 하나에 수억원 몰렸다고?…무슨 게임이길래 이 난리",
+      "url": "https://www.mk.co.kr/news/economy/11497186",
+      "published_at": "Sun, 21 Dec 2025 13:11:45 +09:00",
+      "summary": "중세 판타지 세계를 배경으로 한 협력형 어드벤처 보드게임이 3040 남성 팬층을 중심으로 큰 인기를 끌며, 50만원대 제품임에도 불구하고 와디즈에서 5억 원 이상의 펀딩을 달성했다. 이 게임은 난이도가 높아 취향에 맞는 플레이를 즐기는 이들에게 특히 호응을 얻고 있다. 보드게임 시장에서 고가의 전문 게임에 대한 수요가 증가하는 현상을 보여준다."
+    },
+    {
+      "category": "mk_politics",
+      "source_id": "mk_politics",
+      "source": "매일경제 (정치)",
+      "title": "이준석 “윤석열 공범 엮으려 무리수”…‘공천개입 의혹’ 특검 출석",
+      "url": "https://www.mk.co.kr/news/politics/11497211",
+      "published_at": "Sun, 21 Dec 2025 14:02:28 +09:00",
+      "summary": "이준석 개혁신당 대표가 윤석열 전 대통령의 공천개입 의혹과 관련해 21일 민중기 특별검사팀에 출석해 조사를 받았다. 이 대표는 당 대표가 공천에 개입했다는 주장을 언어모순이라고 반박하며, 윤 전 대통령을 공범으로 엮으려는 시도를 무리수라고 비판했다. 이번 조사는 윤 전 대통령 측의 공천개입 의혹을 규명하기 위한 특검 수사의 일환으로 진행되고 있다."
+    },
+    {
+      "category": "mk_politics",
+      "source_id": "mk_politics",
+      "source": "매일경제 (정치)",
+      "title": "김민석 “5년 짧다 얘기 많아”…나경원 “남은 임기 어떻게 버티냐”",
+      "url": "https://www.mk.co.kr/news/politics/11497203",
+      "published_at": "Sun, 21 Dec 2025 13:30:17 +09:00",
+      "summary": "김민석 국무총리는 호남 국정설명회에서 대통령 임기 5년이 짧다는 의견이 있다고 언급하며 연임 가능성에 대한 기대를 내비쳤다. 이에 나경원 전 의원은 국민들이 고통을 겪는 상황에서 장기 집권을 시도하는 것은 부적절하다고 비판했다. 두 사람의 발언은 대통령 임기 연장과 관련한 정치적 논쟁이 이어지고 있음을 보여준다. 이러한 논란은 향후 정치권 내 임기 문제에 대한 논의에 영향을 미칠 것으로 보인다."
+    },
+    {
+      "category": "mk_politics",
+      "source_id": "mk_politics",
+      "source": "매일경제 (정치)",
+      "title": "국힘·개혁신당, 통일교 특검 합의했다…‘제3자 추천’ 방식 채택",
+      "url": "https://www.mk.co.kr/news/politics/11497201",
+      "published_at": "Sun, 21 Dec 2025 13:29:13 +09:00",
+      "summary": "국민의힘과 개혁신당은 21일 통일교 관련 특별검사 도입에 합의하고, 제3자가 특검을 추천하는 방식을 채택했다. 이번 합의는 쌍특검 대신 통일교 특검부터 우선 추진하기로 한 결정의 결과다. 양당은 특검 권한과 수사 범위를 조율하며 공동 발의를 준비 중이며, 이는 통일교 의혹에 대한 신속한 진상 규명을 목표로 한다."
+    },
+    {
+      "category": "mk_politics",
+      "source_id": "mk_politics",
+      "source": "매일경제 (정치)",
+      "title": "SK에코플랜트, 3년 연속 공정위 CP평가 최고 등급 획득",
+      "url": "https://www.mk.co.kr/news/politics/11497192",
+      "published_at": "Sun, 21 Dec 2025 13:14:40 +09:00",
+      "summary": "SK에코플랜트가 공정거래위원회 주관 2025년도 공정거래 자율준수 프로그램(CP) 평가에서 3년 연속 최고 등급인 AAA를 받았다. CP 평가는 기업의 공정거래 준수 노력과 체계성을 평가하는 제도로, 최고 등급 획득은 기업의 윤리경영과 투명성을 인정받았다는 의미다. 이번 성과는 SK에코플랜트의 지속적인 준법경영 강화와 신뢰도 제고에 긍정적인 영향을 미칠 것으로 보인다."
+    },
+    {
+      "category": "mk_politics",
+      "source_id": "mk_politics",
+      "source": "매일경제 (정치)",
+      "title": "서울 아파트 월세 상승률 첫 3%대…전세 급감 영향",
+      "url": "https://www.mk.co.kr/news/politics/11497190",
+      "published_at": "Sun, 21 Dec 2025 13:14:01 +09:00",
+      "summary": "올해 서울 아파트 월세 상승률이 정부 공식 통계 기준으로 처음 연간 3%를 넘어 3.29%를 기록하며 역대 최고치를 경신했다. 이는 전세 매물이 급감하면서 월세 수요가 늘어난 영향으로 분석된다. 전세 시장의 위축이 월세 시장의 가격 상승을 부추기며 임차인들의 부담이 커질 것으로 보인다."
+    },
+    {
+      "category": "mk_politics",
+      "source_id": "mk_politics",
+      "source": "매일경제 (정치)",
+      "title": "GS건설, 성북1구역 재개발 수주…올해 도시정비 6조 돌파",
+      "url": "https://www.mk.co.kr/news/politics/11497184",
+      "published_at": "Sun, 21 Dec 2025 13:07:03 +09:00",
+      "summary": "GS건설이 서울 성북1구역 공공재개발 사업을 수주하며 올해 도시정비사업 수주액이 6조 원을 돌파했다. 이번 수주는 3년 만에 이룬 성과로, GS건설의 도시정비사업 역량을 다시 한번 입증했다. 이로써 GS건설은 재개발·재건축 시장에서 입지를 강화하며 향후 사업 확대에 유리한 고지를 점하게 됐다."
+    },
+    {
+      "category": "mk_politics",
+      "source_id": "mk_politics",
+      "source": "매일경제 (정치)",
+      "title": "[속보] 이준석, 김건희특검 출석…‘윤석열 공천개입’ 피의자 조사",
+      "url": "https://www.mk.co.kr/news/politics/11497148",
+      "published_at": "Sun, 21 Dec 2025 10:06:18 +09:00",
+      "summary": "이준석 개혁신당 대표가 윤석열 전 대통령의 공천 개입 의혹과 관련해 21일 민중기 특별검사팀에 피의자 신분으로 출석해 조사를 받았다. 이번 조사는 김건희 여사와 연관된 특검 수사의 일환으로 진행되고 있으며, 공천 과정에 외부 개입이 있었는지 여부가 쟁점이다. 이 대표의 조사는 정치권 내 공천 투명성 문제를 다시 한번 부각시키며 향후 정치적 파장 가능성을 예고하고 있다."
+    },
+    {
+      "category": "mk_politics",
+      "source_id": "mk_politics",
+      "source": "매일경제 (정치)",
+      "title": "‘큰 것’ 한 방 노리는 북한…올해 탈취한 가상자산 무려 3조원",
+      "url": "https://www.mk.co.kr/news/politics/11497146",
+      "published_at": "Sun, 21 Dec 2025 10:04:44 +09:00",
+      "summary": "북한이 올해 탈취한 가상자산 규모가 약 3조원에 달해 역대 최대치를 기록했다. 북한은 그동안 가상자산 해킹을 통해 핵·미사일 개발 자금을 조달해왔으며, 최근 사이버 공격 빈도도 증가하고 있다. 이러한 움직임은 북한의 군사력 강화와 국제 제재 회피에 악영향을 미칠 것으로 보인다."
+    },
+    {
+      "category": "hankyung_economy",
+      "source_id": "hankyung_economy",
+      "source": "한국경제 (경제)",
+      "title": "전세계 휩쓴 PV5…\"천의 얼굴\" 극찬 쏟아졌던 '그 車'가 원조 [모빌리티톡]",
+      "url": "https://www.hankyung.com/article/202512194190g",
+      "published_at": "Sun, 21 Dec 2025 14:35:54 +0900",
+      "summary": "전 세계적으로 큰 인기를 끌고 있는 전기차 PV5가 주목받고 있다. 이 차량은 다양한 디자인 변화를 자유롭게 소화하는 '천의 얼굴'이라는 평가를 받으며 극찬을 받았다. 이러한 특징은 원조 모델에서 비롯된 것으로, PV5가 전기차 시장에서 디자인 혁신을 선도하고 있음을 보여준다. 앞으로도 다양한 소비자 취향을 반영한 맞춤형 차량 개발이 중요해질 전망이다."
+    },
+    {
+      "category": "hankyung_economy",
+      "source_id": "hankyung_economy",
+      "source": "한국경제 (경제)",
+      "title": "산업부, 캐나다 '철강 관세' 강화에 우려 전달…핫라인 구축",
+      "url": "https://www.hankyung.com/article/2025122166267",
+      "published_at": "Sun, 21 Dec 2025 14:19:12 +0900",
+      "summary": "산업통상자원부는 캐나다가 철강 제품에 대한 관세를 강화하는 것에 대해 우려를 표명하고 양국 간 소통을 위해 핫라인을 구축했다. 이번 조치는 글로벌 철강 시장의 불확실성을 높일 수 있어 한국 철강업계에 부담이 될 전망이다. 정부는 신속한 대응과 협의를 통해 무역 갈등을 최소화하려는 의지를 보이고 있다."
+    },
+    {
+      "category": "hankyung_economy",
+      "source_id": "hankyung_economy",
+      "source": "한국경제 (경제)",
+      "title": "삼성전자, 가전 최초 제미나이 탑재…'비스포크 AI 냉장고' 공개",
+      "url": "https://www.hankyung.com/article/202512216549i",
+      "published_at": "Sun, 21 Dec 2025 13:12:04 +0900",
+      "summary": "삼성전자가 가전제품 최초로 구글의 인공지능 모델 '제미나이'를 탑재한 '비스포크 AI 냉장고'를 공개했다. 이 냉장고는 맞춤형 AI 기능을 통해 사용자 편의성을 높이고 스마트홈 환경을 강화하는 데 중점을 뒀다. 이번 신제품 출시는 삼성전자의 AI 기술 경쟁력 강화와 가전시장 혁신을 가속화할 것으로 기대된다."
+    },
+    {
+      "category": "hankyung_economy",
+      "source_id": "hankyung_economy",
+      "source": "한국경제 (경제)",
+      "title": "'서울만 가면 하수죠'…외국인 관광객 '바글바글' 몰리는 곳",
+      "url": "https://www.hankyung.com/article/2025122165467",
+      "published_at": "Sun, 21 Dec 2025 12:51:46 +0900",
+      "summary": "서울은 외국인 관광객들이 집중적으로 방문하는 대표적인 관광지로 자리잡고 있다. 특히 주요 명소와 쇼핑 지역에 많은 외국인이 몰리면서 현지 상권이 활성화되고 있다. 다만, 관광객 집중 현상은 교통 혼잡과 지역 주민들의 불편을 초래할 수 있어 균형 있는 관광 정책이 필요하다는 지적도 나온다."
+    },
+    {
+      "category": "hankyung_economy",
+      "source_id": "hankyung_economy",
+      "source": "한국경제 (경제)",
+      "title": "이억원 \"내년에도 가계부채 강도 높게 관리…특정 시기 '대출 쏠림'은 보완\"",
+      "url": "https://www.hankyung.com/article/2025122164427",
+      "published_at": "Sun, 21 Dec 2025 11:33:38 +0900",
+      "summary": "이억원 기획재정부 1차관은 내년에도 가계부채 관리를 강도 높게 이어가겠다고 밝혔다. 최근 특정 시기에 대출이 집중되는 현상에 대해서는 보완책을 마련할 계획임을 언급했다. 이는 가계부채 증가로 인한 금융 불안정을 예방하고 안정적인 경제 운용을 도모하기 위한 조치로 해석된다."
+    },
+    {
+      "category": "hankyung_economy",
+      "source_id": "hankyung_economy",
+      "source": "한국경제 (경제)",
+      "title": "[단독] 美 포기했던 70㎞ 날리는 포신…'K-자주포'에 달리나",
+      "url": "https://www.hankyung.com/article/202512216342i",
+      "published_at": "Sun, 21 Dec 2025 11:20:45 +0900",
+      "summary": "미국이 포기했던 70km 사거리의 포신 기술이 한국의 K-자주포에 적용될 가능성이 제기됐다. 이 기술은 기존 자주포의 사거리 한계를 크게 확장할 수 있어 군사적 효율성을 높일 전망이다. 만약 도입된다면 K-자주포의 전투력 강화와 함께 한국 방위산업의 기술 경쟁력 향상에도 기여할 것으로 보인다."
+    },
+    {
+      "category": "hankyung_economy",
+      "source_id": "hankyung_economy",
+      "source": "한국경제 (경제)",
+      "title": "[단독] '아이폰 에어 참패' 지켜본 삼성전자…특단의 결정",
+      "url": "https://www.hankyung.com/article/202512216270i",
+      "published_at": "Sun, 21 Dec 2025 10:29:55 +0900",
+      "summary": "삼성전자는 아이폰 에어의 판매 부진을 주목하며 이에 대응하기 위한 특단의 결정을 내렸다. 아이폰 에어가 시장에서 기대 이하의 성과를 보인 가운데, 삼성전자는 이를 기회로 삼아 경쟁력을 강화하려는 전략을 모색 중이다. 이번 결정은 스마트폰 시장에서 주도권을 확보하려는 삼성전자의 의지를 반영한다."
+    },
+    {
+      "category": "hankyung_economy",
+      "source_id": "hankyung_economy",
+      "source": "한국경제 (경제)",
+      "title": "컨테이너에 실려 있던 수출품 땅에서 망가져…해운업체 책임 있나",
+      "url": "https://www.hankyung.com/article/202512216313i",
+      "published_at": "Sun, 21 Dec 2025 10:29:40 +0900",
+      "summary": "컨테이너에 실려 있던 수출품이 운송 과정에서 땅에 떨어져 파손되는 사고가 발생했다. 이러한 사고는 해운업체의 운송 및 관리 책임 문제로 이어질 수 있어 논란이 되고 있다. 수출품 파손은 기업의 신뢰도 하락과 경제적 손실로 연결될 수 있어, 해운업체의 책임 범위와 안전 관리 강화가 중요한 과제로 부각되고 있다."
+    },
+    {
+      "category": "hankyung_politics",
+      "source_id": "hankyung_politics",
+      "source": "한국경제 (정치)",
+      "title": "與 \"尹 맞고 李 틀리다?…국힘, 선별적 안보공세 중단하라\"",
+      "url": "https://www.hankyung.com/article/2025122166577",
+      "published_at": "Sun, 21 Dec 2025 14:45:04 +0900",
+      "summary": "더불어민주당은 국민의힘이 윤석열 대통령에 대해서는 옹호하면서 이재명 전 대표에 대해서만 안보 문제를 집중적으로 공격하는 선별적 안보공세를 중단하라고 촉구했다. 이는 국민의힘이 정치적 입장에 따라 안보 이슈를 차별적으로 다루고 있다는 비판에서 비롯된 것이다. 이러한 지적은 여야 간 안보 논쟁의 공정성과 진정성을 둘러싼 갈등을 심화시킬 가능성이 있다."
+    },
+    {
+      "category": "hankyung_politics",
+      "source_id": "hankyung_politics",
+      "source": "한국경제 (정치)",
+      "title": "\"내란재판부법 모레 처리\"…與 국회 본회의 상정·처리 재확인",
+      "url": "https://www.hankyung.com/article/2025122166447",
+      "published_at": "Sun, 21 Dec 2025 14:33:23 +0900",
+      "summary": "여당이 내란재판부법을 모레 국회 본회의에서 상정하고 처리할 계획임을 재확인했다. 이 법안은 내란 관련 재판 절차와 권한을 규정하는 내용을 담고 있다. 법안 처리로 인해 내란 사건에 대한 사법적 대응이 강화될 것으로 보이며, 정치권 내 논란과 사회적 관심이 집중될 전망이다."
     }
   ]
 }
