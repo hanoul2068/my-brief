@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-21T14:25:56.355249+09:00",
+  "generated_at": "2025-12-21T14:33:34.934661+09:00",
   "items": [
     {
       "category": "economy",
@@ -7,7 +7,7 @@
       "title": "Medicine and Biotechnology",
       "url": "https://ourworldindata.org/medicine-biotech",
       "published_at": "2025-12-15T00:00:00.000Z",
-      "summary": "Innovations in medicines and biotechnology have increased life expectancy and saved many lives. Explore how this happened, and how more progress can be made."
+      "summary": "의학과 생명공학의 혁신은 평균 수명을 늘리고 많은 생명을 구하는 데 기여했다. 이러한 발전은 질병 치료와 예방에 중요한 역할을 했으며, 건강 증진에 긍정적인 영향을 미쳤다. 앞으로도 지속적인 연구와 기술 개발을 통해 더 큰 진전이 기대된다.\n의학과 생명공학의 혁신은 평균 수명을 늘리고 많은 생명을 구하는 데 기여했다. 이러한 발전은 질병 치료와 예방에 중요한 역할을 했으며, 건강 증진에 긍정적인 영향을 미쳤다. 앞으로도 지속적인 연구와 기술 개발을 통해 더 큰 진전이 기대된다."
     },
     {
       "category": "economy",
@@ -15,7 +15,7 @@
       "title": "Top of the Charts: our most popular work in 2025",
       "url": "https://ourworldindata.org/top-of-the-charts-2025-redirect",
       "published_at": "2025-12-05T00:00:00.000Z",
-      "summary": "A look back at the most popular charts, articles, data insights, and more from Our World in Data in 2025."
+      "summary": "2025년 Our World in Data에서 가장 인기 있었던 차트, 기사, 데이터 인사이트를 되돌아본다. 이 자료들은 전 세계 주요 이슈와 트렌드를 이해하는 데 중요한 역할을 했다. 다양한 주제의 데이터를 통해 독자들이 복잡한 현상을 쉽게 파악할 수 있도록 돕는 점이 주목받았다.\n2025년 Our World in Data에서 가장 인기 있었던 차트, 기사, 데이터 인사이트를 되돌아본다. 이 자료들은 전 세계 주요 이슈와 트렌드를 이해하는 데 중요한 역할을 했다. 다양한 주제의 데이터를 통해 독자들이 복잡한 현상을 쉽게 파악할 수 있도록 돕는 점이 주목받았다."
     },
     {
       "category": "economy",
@@ -23,7 +23,7 @@
       "title": "Top of the Charts: our most popular work in 2025",
       "url": "https://ourworldindata.org/top-of-the-charts-2025",
       "published_at": "2025-12-04T00:00:00.000Z",
-      "summary": "A look back at the most popular charts, articles, data insights, and more from Our World in Data in 2025."
+      "summary": "2025년 Our World in Data에서 가장 인기 있었던 차트, 기사, 데이터 인사이트를 되돌아본다. 이를 통해 당시 세계 경제와 사회 현상에 대한 대중의 관심과 이해를 파악할 수 있다. 이러한 자료들은 정책 결정과 학술 연구에 중요한 참고가 된다.\n2025년 Our World in Data에서 가장 인기 있었던 차트, 기사, 데이터 인사이트를 되돌아본다. 이를 통해 당시 세계 경제와 사회 현상에 대한 대중의 관심과 이해를 파악할 수 있다. 이러한 자료들은 정책 결정과 학술 연구에 중요한 참고가 된다."
     },
     {
       "category": "economy",
@@ -31,7 +31,7 @@
       "title": "Almost all of the world’s mammal biomass is humans and livestock",
       "url": "https://ourworldindata.org/wild-mammals-birds-biomass",
       "published_at": "2025-12-01T00:00:00.000Z",
-      "summary": "Humans and livestock make up 95% of the world’s mammal biomass; wild mammals are just 5%."
+      "summary": "전 세계 포유류 생물량의 95%가 인간과 가축으로 구성되어 있으며, 야생 포유류는 단 5%에 불과하다. 이는 인간 활동이 자연 생태계에 미치는 영향이 매우 크다는 점을 보여준다. 생태계 균형과 생물 다양성 보전을 위해 이러한 불균형 문제를 인식하고 대응하는 것이 중요하다.\n전 세계 포유류 생물량의 95%가 인간과 가축으로 구성되어 있으며, 야생 포유류는 단 5%에 불과하다. 이는 인간 활동이 자연 생태계에 미치는 영향이 매우 크다는 점을 보여준다. 생태계 균형과 생물 다양성 보전을 위해 이러한 불균형 문제를 인식하고 대응하는 것이 중요하다."
     },
     {
       "category": "economy",
@@ -39,7 +39,7 @@
       "title": "Just ten species make up almost half the weight of all wild mammals on Earth",
       "url": "https://ourworldindata.org/wild-mammal-biomass-dominance",
       "published_at": "2025-11-24T00:00:00.000Z",
-      "summary": "A small number of species dominate the distribution of wild mammal biomass."
+      "summary": "야생 포유류 전체 생물량의 거의 절반이 단 10종에 의해 차지되고 있다는 연구 결과가 나왔다. 이는 특정 종들이 생태계 내에서 매우 큰 비중을 차지하며 생물 다양성에 불균형을 초래할 수 있음을 시사한다. 이러한 집중 현상은 생태계 안정성과 보전에 중요한 영향을 미칠 수 있어 주목된다.\n야생 포유류 전체 생물량의 거의 절반이 단 10종에 의해 차지되고 있다는 연구 결과가 나왔다. 이는 특정 종들이 생태계 내에서 매우 큰 비중을 차지하며 생물 다양성에 불균형을 초래할 수 있음을 시사한다. 이러한 집중 현상은 생태계 안정성과 보전에 중요한 영향을 미칠 수 있어 주목된다."
     },
     {
       "category": "economy",
@@ -47,7 +47,7 @@
       "title": "The end of progress against extreme poverty?",
       "url": "https://ourworldindata.org/end-progress-extreme-poverty",
       "published_at": "2025-11-17T00:00:00.000Z",
-      "summary": "In the last three decades, the world has made progress against extreme poverty faster than ever before. But unless the poorest economies start growing, this period of progress against the worst form of poverty is over."
+      "summary": "지난 30년간 전 세계는 극심한 빈곤 감소에 있어 전례 없는 진전을 이뤘다. 그러나 가장 가난한 국가들의 경제 성장이 멈추면 이러한 빈곤 퇴치의 진전도 중단될 위험이 있다. 이는 극빈층 감소를 위한 지속 가능한 발전에 큰 도전이 될 전망이다.\n지난 30년간 전 세계는 극심한 빈곤 감소에 있어 전례 없는 진전을 이뤘다. 그러나 가장 가난한 국가들의 경제 성장이 멈추면 이러한 빈곤 퇴치의 진전도 중단될 위험이 있다. 이는 극빈층 감소를 위한 지속 가능한 발전에 큰 도전이 될 전망이다."
     },
     {
       "category": "economy",
@@ -55,7 +55,7 @@
       "title": "World Bank Group and Sri Lanka Partner to Improve Digital Services and Grow the Digital Economy",
       "url": "http://www.worldbank.org/en/news/press-release/2025/12/19/world-bank-group-and-sri-lanka-partner-to-improve-digital-services-and-grow-the-digital-economy",
       "published_at": "",
-      "summary": "World Bank Group and Sri Lanka Partner to Improve Digital Services and Grow the Digital Economy"
+      "summary": "세계은행 그룹과 스리랑카가 디지털 서비스 개선과 디지털 경제 성장을 위해 협력하기로 했다. 이번 파트너십은 스리랑카의 디지털 인프라를 강화하고 경제 다변화를 촉진하는 데 중요한 역할을 할 전망이다. 이를 통해 스리랑카 국민의 접근성과 경제적 기회가 확대될 것으로 기대된다.\n세계은행 그룹과 스리랑카가 디지털 서비스 개선과 디지털 경제 성장을 위해 협력하기로 했다. 이번 파트너십은 스리랑카의 디지털 인프라를 강화하고 경제 다변화를 촉진하는 데 중요한 역할을 할 전망이다. 이를 통해 스리랑카 국민의 접근성과 경제적 기회가 확대될 것으로 기대된다."
     },
     {
       "category": "economy",
@@ -63,7 +63,7 @@
       "title": "World Bank Backs Climate-Resilient Rural Development and Jobs for Family Farmers in Paraíba",
       "url": "http://www.worldbank.org/en/news/press-release/2025/12/20/world-bank-backs-climate-resilient-rural-development-and-jobs-for-family-farmers-in-paraiba",
       "published_at": "",
-      "summary": "World Bank Backs Climate-Resilient Rural Development and Jobs for Family Farmers in Paraíba"
+      "summary": "세계은행이 브라질 파라이바 지역의 가족 농업인을 위한 기후 회복력 강화 농촌 개발과 일자리 창출을 지원한다. 이는 기후변화에 취약한 농촌 지역의 경제적 안정성과 지속가능성을 높이기 위한 중요한 조치다. 해당 사업은 지역 농민들의 생계 개선과 기후 변화 대응 능력 강화에 긍정적 영향을 미칠 것으로 기대된다.\n세계은행이 브라질 파라이바 지역의 가족 농업인을 위한 기후 회복력 강화 농촌 개발과 일자리 창출을 지원한다. 이는 기후변화에 취약한 농촌 지역의 경제적 안정성과 지속가능성을 높이기 위한 중요한 조치다. 해당 사업은 지역 농민들의 생계 개선과 기후 변화 대응 능력 강화에 긍정적 영향을 미칠 것으로 기대된다."
     },
     {
       "category": "economy",
@@ -71,7 +71,7 @@
       "title": "Banco Mundial apoia desenvolvimento rural resiliente ao clima e geração de empregos para agricultores familiares na Paraíba",
       "url": "http://www.worldbank.org/pt/news/press-release/2025/12/20/world-bank-backs-climate-resilient-rural-development-and-jobs-for-family-farmers-in-paraiba",
       "published_at": "",
-      "summary": "Banco Mundial apoia desenvolvimento rural resiliente ao clima e geração de empregos para agricultores familiares na Paraíba"
+      "summary": "세계은행이 브라질 파라이바 지역의 기후 변화에 강한 농촌 개발과 가족 농업인들의 일자리 창출을 지원한다. 이는 기후 변화에 취약한 농업 부문의 지속 가능성을 높이고 지역 경제 활성화에 기여할 것으로 기대된다. 해당 지원은 농촌 주민들의 생활 안정과 환경 보호를 동시에 도모하는 중요한 사업이다.\n세계은행이 브라질 파라이바 지역의 기후 변화에 강한 농촌 개발과 가족 농업인들의 일자리 창출을 지원한다. 이는 기후 변화에 취약한 농업 부문의 지속 가능성을 높이고 지역 경제 활성화에 기여할 것으로 기대된다. 해당 지원은 농촌 주민들의 생활 안정과 환경 보호를 동시에 도모하는 중요한 사업이다."
     },
     {
       "category": "economy",
@@ -79,7 +79,7 @@
       "title": "Panamá recibe apoyo financiero del Grupo Banco Mundial para fortalecer la sostenibilidad fiscal",
       "url": "http://www.bancomundial.org/es/news/press-release/2025/12/19/panama-recibe-apoyo-financiero-grupo-banco-mundial-para-fortalecer-sostenibilidad-fiscal",
       "published_at": "",
-      "summary": "Panamá recibe apoyo financiero del Grupo Banco Mundial para fortalecer la sostenibilidad fiscal"
+      "summary": "파나마가 세계은행 그룹으로부터 재정 지속 가능성 강화를 위한 금융 지원을 받았다. 이번 지원은 파나마의 재정 건전성을 높이고 경제 안정성을 확보하는 데 목적이 있다. 이는 국가의 장기적 경제 성장과 재정 위기 대응 능력 강화에 중요한 역할을 할 것으로 기대된다.\n파나마가 세계은행 그룹으로부터 재정 지속 가능성 강화를 위한 금융 지원을 받았다. 이번 지원은 파나마의 재정 건전성을 높이고 경제 안정성을 확보하는 데 목적이 있다. 이는 국가의 장기적 경제 성장과 재정 위기 대응 능력 강화에 중요한 역할을 할 것으로 기대된다."
     },
     {
       "category": "economy",
@@ -87,7 +87,7 @@
       "title": "Panama Receives Financial Support from the World Bank Group to Strengthen Fiscal Sustainability",
       "url": "http://www.worldbank.org/en/news/press-release/2025/12/19/panama-recibe-apoyo-financiero-grupo-banco-mundial-para-fortalecer-sostenibilidad-fiscal",
       "published_at": "",
-      "summary": "Panama Receives Financial Support from the World Bank Group to Strengthen Fiscal Sustainability"
+      "summary": "세계은행 그룹이 파나마에 재정 지속 가능성 강화를 위한 금융 지원을 제공했다. 이번 지원은 파나마의 재정 건전성을 높이고 경제 안정성을 확보하는 데 중요한 역할을 할 것으로 보인다. 이를 통해 파나마는 장기적인 재정 위기에 대응하고 지속 가능한 경제 성장을 도모할 수 있을 전망이다.\n세계은행 그룹이 파나마에 재정 지속 가능성 강화를 위한 금융 지원을 제공했다. 이번 지원은 파나마의 재정 건전성을 높이고 경제 안정성을 확보하는 데 중요한 역할을 할 것으로 보인다. 이를 통해 파나마는 장기적인 재정 위기에 대응하고 지속 가능한 경제 성장을 도모할 수 있을 전망이다."
     },
     {
       "category": "economy",
@@ -95,7 +95,7 @@
       "title": "岡橋麻美（おかはし　あさみ）世界銀行 デジタル・AI総局　上級デジタル専門官 ～第70回 世銀スタッフの横顔インタビュー",
       "url": "http://www.worldbank.org/ja/news/feature/2025/12/19/interview-asami-okahashi",
       "published_at": "",
-      "summary": "岡橋麻美（おかはし あさみ）世界銀行 デジタル・AI総局 上級デジタル専門官 ～第70回 世銀スタッフの横顔インタビュー"
+      "summary": "岡橋麻美은 세계은행 디지털·AI 총국의 상급 디지털 전문가로, 제70회 세계은행 직원 인터뷰에 소개되었다. 그녀는 디지털 기술과 인공지능 분야에서 세계은행의 혁신과 발전을 이끄는 핵심 인물이다. 이러한 역할은 글로벌 개발 프로젝트에 첨단 기술을 접목해 효율성과 영향력을 높이는 데 중요하다.\n岡橋麻美은 세계은행 디지털·AI 총국의 상급 디지털 전문가로, 제70회 세계은행 직원 인터뷰에 소개되었다. 그녀는 디지털 기술과 인공지능 분야에서 세계은행의 혁신과 발전을 이끄는 핵심 인물이다. 이러한 역할은 글로벌 개발 프로젝트에 첨단 기술을 접목해 효율성과 영향력을 높이는 데 중요하다."
     },
     {
       "category": "economy",
@@ -103,7 +103,7 @@
       "title": "Del aula a la empresa: una hoja de ruta para impulsar el empleo en el Estado de México",
       "url": "http://www.bancomundial.org/es/country/mexico/brief/del-aula-a-la-empresa-una-hoja-de-ruta-para-impulsar-el-empleo-en-el-estado-de-mexico",
       "published_at": "",
-      "summary": "Del aula a la empresa: una hoja de ruta para impulsar el empleo en el Estado de México"
+      "summary": "멕시코주에서 교육과 기업을 연계해 고용을 촉진하는 로드맵이 제시됐다. 이는 학생들이 졸업 후 원활하게 노동시장에 진입할 수 있도록 지원하기 위한 전략이다. 해당 방안은 청년 실업 문제 해소와 지역 경제 활성화에 중요한 역할을 할 것으로 기대된다.\n멕시코주에서 교육과 기업을 연계해 고용을 촉진하는 로드맵이 제시됐다. 이는 학생들이 졸업 후 원활하게 노동시장에 진입할 수 있도록 지원하기 위한 전략이다. 해당 방안은 청년 실업 문제 해소와 지역 경제 활성화에 중요한 역할을 할 것으로 기대된다."
     },
     {
       "category": "economy",
@@ -111,7 +111,7 @@
       "title": "Banco Mundial amplía apoyo para promover un sector energético sostenible en Argentina",
       "url": "http://www.bancomundial.org/es/news/press-release/2025/12/19/banco-mundial-amplia-apoyo-para-promover-un-sector-energetico-sostenible-en-argentina",
       "published_at": "",
-      "summary": "Banco Mundial amplía apoyo para promover un sector energético sostenible en Argentina"
+      "summary": "세계은행이 아르헨티나의 지속 가능한 에너지 부문 육성을 위해 지원을 확대했다. 이번 지원은 아르헨티나의 에너지 전환과 친환경 발전 확대를 촉진하는 데 목적이 있다. 이를 통해 아르헨티나의 에너지 안정성과 환경적 지속 가능성이 강화될 것으로 기대된다.\n세계은행이 아르헨티나의 지속 가능한 에너지 부문 육성을 위해 지원을 확대했다. 이번 지원은 아르헨티나의 에너지 전환과 친환경 발전 확대를 촉진하는 데 목적이 있다. 이를 통해 아르헨티나의 에너지 안정성과 환경적 지속 가능성이 강화될 것으로 기대된다."
     }
   ]
 }
