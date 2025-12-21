@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>World Brief</title>
+
+  <style>
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Noto Sans KR", sans-serif;
+      background: #0b0f14;
+      color: #e6edf3;
+    }
+    header, main {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    header h1 {
+      margin: 10px 0 4px;
+      font-size: 32px;
+    }
+    header p {
+      margin: 0;
+      color: #9aa7b2;
+    }
+    .card {
+      background: #111824;
+      border: 1px solid #1f2a3a;
+      border-radius: 14px;
+      padding: 16px;
+      margin-top: 16px;
+    }
+    .item {
+      border-top: 1px solid #1f2a3a;
+      padding: 14px 0;
+    }
+    .item:first-child {
+      border-top: none;
+      padding-top: 0;
+    }
+    .meta {
+      font-size: 12px;
+      color: #9aa7b2;
+      margin-bottom: 6px;
+    }
+    .title {
+      font-size: 18px;
+      margin: 4px 0 8px;
+      line-height: 1.4;
+    }
+    .summary {
+      line-height: 1.6;
+      color: #d7e2ee;
+    }
+    a {
+      color: #7fb7ff;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    footer {
+      max-width: 900px;
+      margin: 40px auto 20px;
+      padding: 0 20px;
+      color: #9aa7b2;
+      font-size: 12px;
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <h1>World Brief</h1>
+    <p>세계 경제 · 세계 정치 — 매일 자동 요약</p>
+  </header>
+
+  <main>
+    <div class="card" id="content">
+      <p>불러오는 중...</p>
+    </div>
+  </main>
+
+  <footer>
+    Sources: Our World in Data · World Bank · Brookings<br>
+    요약은 자동 생성되며, 원문은 각 링크를 통해 확인할 수 있습니다.
+  </footer>
+
+  <script>
+    async function loadData() {
+      try {
+        const res = await fetch("posts/latest.json", { cache: "no-store" });
+        if (!res.ok) throw new Error("JSON not found");
+        const data = await res.json();
+
+        const box = document.getElementById("content");
+        box.innerHTML = "";
+
+        data.items.forEach(item => {
+          const div = document.createElement("div");
+          div.className = "item";
+
+          div.innerHTML = `
+            <div class="meta">
+              ${item.category === "economy" ? "🌍 세계 경제" : "🏛️ 세계 정치"} · ${item.source}
+            </div>
+            <div class="title">${item.title}</div>
+            <div class="summary">${item.summary}</div>
+            <div style="margin-top:6px;">
+              <a href="${item.url}" target="_blank">원문 보기 →</a>
+            </div>
+          `;
+          box.appendChild(div);
+        });
+
+      } catch (e) {
+        document.getElementById("content").innerHTML =
+          "<p>아직 데이터가 없습니다. 잠시 후 새로고침 해주세요.</p>";
+      }
+    }
+
+    loadData();
+  </script>
+</body>
+</html>
