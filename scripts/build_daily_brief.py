@@ -69,6 +69,7 @@ def fallback_summary(text: str, max_len=450):
 # =========================
 def openai_summary(title: str, content: str) -> str | None:
     if not OPENAI_API_KEY:
+        print("OPENAI_API_KEY is missing -> fallback summary")
         return None
 
     url = "https://api.openai.com/v1/responses"
@@ -86,8 +87,8 @@ def openai_summary(title: str, content: str) -> str | None:
                     "너는 세계경제·국제정치를 정리하는 한국어 뉴스 에디터다. "
                     "반드시 한국어로 자연스럽게 요약한다. "
                     "원문 문장을 길게 베끼지 말고 의미를 재구성해라. "
-                    "과장·추측은 금지하고, 불확실하면 그렇게 명시해라. "
-                    "형식은 3~5문장 하나의 단락이다."
+                    "과장·추측 금지. 불확실하면 그렇게 명시. "
+                    "형식은 3~5문장 단락 1개."
                 ),
             },
             {
@@ -96,7 +97,7 @@ def openai_summary(title: str, content: str) -> str | None:
                     f"[제목]\n{title}\n\n"
                     f"[본문]\n{content}\n\n"
                     "위 글을 한국어로 3~5문장으로 요약해줘. "
-                    "무엇이 일어났는지, 왜 중요한지, 어떤 영향을 가지는지 중심으로."
+                    "무엇/왜 중요/영향 중심으로."
                 ),
             },
         ],
@@ -104,11 +105,40 @@ def openai_summary(title: str, content: str) -> str | None:
     }
 
     r = requests.post(url, headers=headers, json=payload, timeout=45)
+
+    # 실패 로그를 남겨서 원인 추적 가능하게
     if r.status_code != 200:
+        print("OpenAI call failed:", r.status_code)
+        print("OpenAI error (head):", r.text[:300])
         return None
 
     data = r.json()
-    return data.get("output_text", "").strip() or None
+
+    # 1) 있으면 바로 사용
+    out = (data.get("output_text") or "").strip()
+    if out:
+        return out
+
+    # 2) Responses 표준 구조(output 배열)에서 텍스트 추출
+    try:
+        texts = []
+        for block in data.get("output", []):
+            for c in block.get("content", []):
+                # text 타입
+                if isinstance(c, dict) and c.get("type") == "output_text" and c.get("text"):
+                    texts.append(c["text"])
+                # 혹시 다른 형태로 들어오는 경우 대비
+                if isinstance(c, dict) and c.get("text"):
+                    texts.append(c["text"])
+        out2 = "\n".join(t.strip() for t in texts if t and t.strip()).strip()
+        if out2:
+            return out2
+    except Exception as e:
+        print("OpenAI parse error:", e)
+
+    # 여기까지 왔으면 파싱 실패 -> fallback
+    print("OpenAI returned no parsable text -> fallback")
+    return None
 
 
 def summarize(title: str, content: str) -> str:
