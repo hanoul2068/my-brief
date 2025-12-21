@@ -1,6 +1,46 @@
 {
-  "generated_at": "2025-12-21T14:15:22.458949+09:00",
+  "generated_at": "2025-12-21T14:18:23.258708+09:00",
   "items": [
+    {
+      "category": "economy",
+      "source": "Our World in Data",
+      "title": "Medicine and Biotechnology",
+      "url": "https://ourworldindata.org/medicine-biotech",
+      "published_at": "2025-12-15T00:00:00.000Z",
+      "summary": "Innovations in medicines and biotechnology have increased life expectancy and saved many lives. Explore how this happened, and how more progress can be made."
+    },
+    {
+      "category": "economy",
+      "source": "Our World in Data",
+      "title": "Top of the Charts: our most popular work in 2025",
+      "url": "https://ourworldindata.org/top-of-the-charts-2025-redirect",
+      "published_at": "2025-12-05T00:00:00.000Z",
+      "summary": "A look back at the most popular charts, articles, data insights, and more from Our World in Data in 2025."
+    },
+    {
+      "category": "economy",
+      "source": "Our World in Data",
+      "title": "Top of the Charts: our most popular work in 2025",
+      "url": "https://ourworldindata.org/top-of-the-charts-2025",
+      "published_at": "2025-12-04T00:00:00.000Z",
+      "summary": "A look back at the most popular charts, articles, data insights, and more from Our World in Data in 2025."
+    },
+    {
+      "category": "economy",
+      "source": "Our World in Data",
+      "title": "Almost all of the world’s mammal biomass is humans and livestock",
+      "url": "https://ourworldindata.org/wild-mammals-birds-biomass",
+      "published_at": "2025-12-01T00:00:00.000Z",
+      "summary": "Humans and livestock make up 95% of the world’s mammal biomass; wild mammals are just 5%."
+    },
+    {
+      "category": "economy",
+      "source": "Our World in Data",
+      "title": "Just ten species make up almost half the weight of all wild mammals on Earth",
+      "url": "https://ourworldindata.org/wild-mammal-biomass-dominance",
+      "published_at": "2025-11-24T00:00:00.000Z",
+      "summary": "A small number of species dominate the distribution of wild mammal biomass."
+    },
     {
       "category": "economy",
       "source": "Our World in Data",
@@ -8,54 +48,6 @@
       "url": "https://ourworldindata.org/end-progress-extreme-poverty",
       "published_at": "2025-11-17T00:00:00.000Z",
       "summary": "In the last three decades, the world has made progress against extreme poverty faster than ever before. But unless the poorest economies start growing, this period of progress against the worst form of poverty is over."
-    },
-    {
-      "category": "economy",
-      "source": "Our World in Data",
-      "title": "South Korea has doubled its productivity since 2000, overtaking Japan",
-      "url": "https://ourworldindata.org/data-insights/south-korea-has-doubled-its-productivity-since-2000-overtaking-japan",
-      "published_at": "2025-12-20T00:00:00.000Z",
-      "summary": "The economist Paul Krugman once said, “Productivity isn’t everything, but in the long run, it’s almost everything”. When workers can produce more value in the same amount of time, economies can grow faster, and living standards can rise. The chart shows the productivity metric published by the Penn World Table for South Korea and Japan. It measures gross domestic product (GDP) per hour of work. Since 2000, South Korea’s productivity has more than doubled, narrowing what was once a vast gap with Japan. It has now even surpassed its neighbor."
-    },
-    {
-      "category": "economy",
-      "source": "Our World in Data",
-      "title": "How the UK government spends £100 of its budget",
-      "url": "https://ourworldindata.org/data-insights/how-the-uk-government-spends-100-of-its-budget",
-      "published_at": "2025-12-18T00:00:00.000Z",
-      "summary": "What does the British government spend its budget on? The chart shows spending broken down by category, scaled to £100. It combines both central and local government spending. Social protection is the single largest item. Out of every £100 spent, £33 goes to it — more than health, at £19 per £100. The UK is typical in this regard — in every OECD country except the US , social protection is the biggest category. Public services also account for a large share: £14 per £100."
-    },
-    {
-      "category": "economy",
-      "source": "Our World in Data",
-      "title": "GDP per capita has doubled in all three Baltic states since 2000",
-      "url": "https://ourworldindata.org/data-insights/gdp-per-capita-has-doubled-in-all-three-baltic-states-since-2000",
-      "published_at": "2025-12-16T00:50:00.000Z",
-      "summary": "Since 2000, GDP per capita has doubled in all three Baltic states: Estonia, Latvia, and Lithuania (where it has nearly tripled). Living conditions in these countries have improved more broadly. Poverty rates are lower , and life satisfaction is higher . Incomes have not just doubled in terms of GDP per capita; median incomes have also doubled. Read more from my colleague Max Roser about economic growth, how it’s measured, and why it matters."
-    },
-    {
-      "category": "economy",
-      "source": "Our World in Data",
-      "title": "In most countries, imports from China account for less than 10% of GDP, even where China is the top partner",
-      "url": "https://ourworldindata.org/data-insights/in-most-countries-imports-from-china-account-for-less-than-10-of-gdp-even-where-china-is-the-top-partner",
-      "published_at": "2025-12-13T00:00:00.000Z",
-      "summary": "This Data Insight is the third of a three-part series on China’s role in global trade, drawing on new writing we added this week to our Trade and Globalization topic page . China is the top source of imports for many countries . But this tells us only how China compares with other trading partners, not how large these imports are relative to the size of each country’s economy. That is what this map shows. The map plots the total value of merchandise imports from China as a share of each importing country’s GDP."
-    },
-    {
-      "category": "economy",
-      "source": "Our World in Data",
-      "title": "Ethiopia imports much more from China than it used to — as do many other African countries",
-      "url": "https://ourworldindata.org/data-insights/ethiopia-imports-much-more-from-china-than-it-used-to-as-do-many-other-african-countries",
-      "published_at": "2025-12-11T00:00:00.000Z",
-      "summary": "This Data Insight is the second of a three-part series on China’s role in global trade, drawing on new writing we added this week to our Trade and Globalization topic page . China’s central role in merchandise trade is the result of a large change that has taken place in just a few decades. This change has been especially large in Africa and South America. In 1990, most African countries imported mainly from Europe, and most South American imports came from North America."
-    },
-    {
-      "category": "economy",
-      "source": "Our World in Data",
-      "title": "China is the top import partner for most countries in the world",
-      "url": "https://ourworldindata.org/data-insights/china-is-the-top-import-partner-for-most-countries-in-the-world",
-      "published_at": "2025-12-09T00:00:00.000Z",
-      "summary": "This Data Insight is the first of a three-part series on China’s role in global trade, drawing on new writing we added this week to our Trade and Globalization topic page . Over the past two decades, China’s role in global trade has expanded substantially. It has become a central hub, particularly through growing relationships with many lower and middle-income countries. The map here shows how China ranks as a source of imports into each country."
     },
     {
       "category": "economy",
@@ -76,6 +68,22 @@
     {
       "category": "economy",
       "source": "World Bank",
+      "title": "Banco Mundial apoia desenvolvimento rural resiliente ao clima e geração de empregos para agricultores familiares na Paraíba",
+      "url": "http://www.worldbank.org/pt/news/press-release/2025/12/20/world-bank-backs-climate-resilient-rural-development-and-jobs-for-family-farmers-in-paraiba",
+      "published_at": "",
+      "summary": "Banco Mundial apoia desenvolvimento rural resiliente ao clima e geração de empregos para agricultores familiares na Paraíba"
+    },
+    {
+      "category": "economy",
+      "source": "World Bank",
+      "title": "Panamá recibe apoyo financiero del Grupo Banco Mundial para fortalecer la sostenibilidad fiscal",
+      "url": "http://www.bancomundial.org/es/news/press-release/2025/12/19/panama-recibe-apoyo-financiero-grupo-banco-mundial-para-fortalecer-sostenibilidad-fiscal",
+      "published_at": "",
+      "summary": "Panamá recibe apoyo financiero del Grupo Banco Mundial para fortalecer la sostenibilidad fiscal"
+    },
+    {
+      "category": "economy",
+      "source": "World Bank",
       "title": "Panama Receives Financial Support from the World Bank Group to Strengthen Fiscal Sustainability",
       "url": "http://www.worldbank.org/en/news/press-release/2025/12/19/panama-recibe-apoyo-financiero-grupo-banco-mundial-para-fortalecer-sostenibilidad-fiscal",
       "published_at": "",
@@ -84,82 +92,26 @@
     {
       "category": "economy",
       "source": "World Bank",
-      "title": "World Bank Expands Support to Promote a Sustainable Energy Sector in Argentina",
-      "url": "http://www.worldbank.org/en/news/press-release/2025/12/19/banco-mundial-amplia-apoyo-para-promover-un-sector-energetico-sostenible-en-argentina",
+      "title": "岡橋麻美（おかはし　あさみ）世界銀行 デジタル・AI総局　上級デジタル専門官 ～第70回 世銀スタッフの横顔インタビュー",
+      "url": "http://www.worldbank.org/ja/news/feature/2025/12/19/interview-asami-okahashi",
       "published_at": "",
-      "summary": "World Bank Expands Support to Promote a Sustainable Energy Sector in Argentina"
+      "summary": "岡橋麻美（おかはし あさみ）世界銀行 デジタル・AI総局 上級デジタル専門官 ～第70回 世銀スタッフの横顔インタビュー"
     },
     {
       "category": "economy",
       "source": "World Bank",
-      "title": "Pakistan: World Bank Supports Efforts to Strengthen Fiscal Systems and Enhance Service Delivery",
-      "url": "http://www.worldbank.org/en/news/press-release/2025/12/19/pakistan-world-bank-supports-efforts-to-strengthen-fiscal-systems-and-enhance-service-delivery",
+      "title": "Del aula a la empresa: una hoja de ruta para impulsar el empleo en el Estado de México",
+      "url": "http://www.bancomundial.org/es/country/mexico/brief/del-aula-a-la-empresa-una-hoja-de-ruta-para-impulsar-el-empleo-en-el-estado-de-mexico",
       "published_at": "",
-      "summary": "Pakistan: World Bank Supports Efforts to Strengthen Fiscal Systems and Enhance Service Delivery"
+      "summary": "Del aula a la empresa: una hoja de ruta para impulsar el empleo en el Estado de México"
     },
     {
       "category": "economy",
       "source": "World Bank",
-      "title": "World Bank Approves New Grant to Boost Climate-Resilient Farming and Food Security in Morocco",
-      "url": "http://www.worldbank.org/en/news/press-release/2025/12/18/world-bank-approves-new-grant-to-boost-climate-resilient-farming-and-food-security-in-morocco",
+      "title": "Banco Mundial amplía apoyo para promover un sector energético sostenible en Argentina",
+      "url": "http://www.bancomundial.org/es/news/press-release/2025/12/19/banco-mundial-amplia-apoyo-para-promover-un-sector-energetico-sostenible-en-argentina",
       "published_at": "",
-      "summary": "World Bank Approves New Grant to Boost Climate-Resilient Farming and Food Security in Morocco"
-    },
-    {
-      "category": "economy",
-      "source": "World Bank",
-      "title": "Transforming Education in Türkiye: Equipping Students and Teachers for Tomorrow’s Careers",
-      "url": "http://www.worldbank.org/en/news/press-release/2025/12/18/transforming-education-in-turkiye-equipping-students-and-teachers-for-tomorrow-s-careers",
-      "published_at": "",
-      "summary": "Transforming Education in Türkiye: Equipping Students and Teachers for Tomorrow’s Careers"
-    },
-    {
-      "category": "economy",
-      "source": "World Bank",
-      "title": "World Bank Approves US$500 Million Guarantee to Boost Infrastructure and Attract Private Investment in Mexico",
-      "url": "http://www.worldbank.org/en/news/press-release/2025/12/18/banco-mundial-aprueba-garantia-por-us-500-millones-para-impulsar-infraestructura-y-atraer-inversion-privada-en-m-xico",
-      "published_at": "",
-      "summary": "World Bank Approves US$500 Million Guarantee to Boost Infrastructure and Attract Private Investment in Mexico"
-    },
-    {
-      "category": "economy",
-      "source": "World Bank",
-      "title": "Regional Summit on Digital Transformation in Western and Central africa - Cotonou Declaration",
-      "url": "http://www.worldbank.org/en/news/statement/2025/11/18/regional-summit-on-digital-transformation-in-western-and-central-africa-cotonou-declaration",
-      "published_at": "",
-      "summary": "Regional Summit on Digital Transformation in Western and Central africa - Cotonou Declaration"
-    },
-    {
-      "category": "economy",
-      "source": "World Bank",
-      "title": "World Bank Group Statement on Support for Jamaica",
-      "url": "http://www.worldbank.org/en/news/statement/2025/10/31/world-bank-group-statement-on-support-for-jamaica",
-      "published_at": "",
-      "summary": "World Bank Group Statement on Support for Jamaica"
-    },
-    {
-      "category": "economy",
-      "source": "World Bank",
-      "title": "Chair’s Statement: 112th Meeting of the Development Committee",
-      "url": "http://www.worldbank.org/en/news/statement/2025/10/17/chair-s-statement-112th-meeting-of-the-development-committee",
-      "published_at": "",
-      "summary": "Chair’s Statement: 112th Meeting of the Development Committee"
-    },
-    {
-      "category": "economy",
-      "source": "World Bank",
-      "title": "Global Sovereign Debt Roundtable - 5th Cochairs Progress Report",
-      "url": "http://www.worldbank.org/en/news/statement/2025/10/15/global-sovereign-debt-roundtable-5th-cochairs-progress-report",
-      "published_at": "",
-      "summary": "Global Sovereign Debt Roundtable - 5th Cochairs Progress Report"
-    },
-    {
-      "category": "economy",
-      "source": "World Bank",
-      "title": "World Bank Group Accelerates Support for Argentina’s Growth Agenda",
-      "url": "http://www.worldbank.org/en/news/statement/2025/09/23/world-bank-group-accelerates-support-for-argentina-growth-agenda",
-      "published_at": "",
-      "summary": "World Bank Group Accelerates Support for Argentina’s Growth Agenda"
+      "summary": "Banco Mundial amplía apoyo para promover un sector energético sostenible en Argentina"
     }
   ]
 }
