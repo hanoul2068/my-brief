@@ -22,6 +22,24 @@ def clean_text(html: str) -> str:
     text = soup.get_text(" ", strip=True)
     text = re.sub(r"\s+", " ", text).strip()
     return text
+    
+def as_text(v) -> str:
+    """문자열/딕트/리스트가 섞여 내려오는 값을 안전하게 문자열로 변환"""
+    if v is None:
+        return ""
+    if isinstance(v, str):
+        return v
+    if isinstance(v, (int, float, bool)):
+        return str(v)
+    if isinstance(v, dict):
+        # 흔한 케이스: {"#text": "..."} 또는 {"text": "..."} 또는 {"value": "..."}
+        for k in ("#text", "text", "value", "name", "title"):
+            if k in v and isinstance(v[k], (str, int, float, bool)):
+                return str(v[k])
+        return " ".join([as_text(x) for x in v.values()]).strip()
+    if isinstance(v, list):
+        return " ".join(as_text(x) for x in v).strip()
+    return str(v)
 
 def simple_extract_summary(text: str, max_chars=550) -> str:
     # 아주 단순 추출 요약: 앞부분을 문장 단위로 자름
@@ -108,25 +126,52 @@ def fetch_worldbank_json(api_url: str, source: str, category: str, limit: int = 
     r = requests.get(api_url, timeout=45)
     r.raise_for_status()
     data = r.json()
-    # search.worldbank.org/api/v2/news는 "documents" 아래에 들어오는 구조가 일반적
+
     docs = data.get("documents", {})
     items = []
-    for _, doc in list(docs.items())[:limit]:
-        title = (doc.get("title") or "").strip()
-        url = (doc.get("url") or doc.get("link") or "").strip()
-        published = (doc.get("pub_date") or doc.get("date") or "").strip()
-        # doc.get("body")는 HTML일 수 있음
-        body = clean_text(doc.get("body", "") or doc.get("summary", "") or "")
-        if not body:
-            body = title
-        items.append({
-            "category": category,
-            "source": source,
-            "title": title,
-            "url": url,
-            "published_at": published,
-            "raw_text": body
-        })
+
+    # documents가 dict일 수도, list일 수도 있어서 둘 다 처리
+    if isinstance(docs, dict):
+        iterable = list(docs.items())
+        for _, doc in iterable[:limit]:
+            title = as_text(doc.get("title")).strip()
+            url = as_text(doc.get("url") or doc.get("link")).strip()
+            published = as_text(doc.get("pub_date") or doc.get("date")).strip()
+
+            body_raw = doc.get("body") or doc.get("summary") or doc.get("description") or ""
+            body = clean_text(as_text(body_raw))
+            if not body:
+                body = title or url
+
+            items.append({
+                "category": category,
+                "source": source,
+                "title": title,
+                "url": url,
+                "published_at": published,
+                "raw_text": body
+            })
+
+    elif isinstance(docs, list):
+        for doc in docs[:limit]:
+            title = as_text(doc.get("title")).strip()
+            url = as_text(doc.get("url") or doc.get("link")).strip()
+            published = as_text(doc.get("pub_date") or doc.get("date")).strip()
+
+            body_raw = doc.get("body") or doc.get("summary") or doc.get("description") or ""
+            body = clean_text(as_text(body_raw))
+            if not body:
+                body = title or url
+
+            items.append({
+                "category": category,
+                "source": source,
+                "title": title,
+                "url": url,
+                "published_at": published,
+                "raw_text": body
+            })
+
     return items
 
 def keyword_filter(items, include_keywords):
