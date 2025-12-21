@@ -17,14 +17,9 @@
       margin: 0 auto;
       padding: 20px;
     }
-    header h1 {
-      margin: 10px 0 4px;
-      font-size: 32px;
-    }
-    header p {
-      margin: 0;
-      color: #9aa7b2;
-    }
+    header h1 { margin: 10px 0 4px; font-size: 32px; }
+    header p { margin: 0; color: #9aa7b2; }
+
     .card {
       background: #111824;
       border: 1px solid #1f2a3a;
@@ -32,19 +27,59 @@
       padding: 16px;
       margin-top: 16px;
     }
+
+    .toolbar {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 12px;
+    }
+
+    .btns { display:flex; gap:8px; flex-wrap:wrap; }
+    .btn {
+      border: 1px solid #2a3a52;
+      background: #0e1622;
+      color: #cfe3ff;
+      padding: 8px 10px;
+      border-radius: 10px;
+      cursor: pointer;
+      font-size: 13px;
+    }
+    .btn.active {
+      background: #1a2b44;
+      border-color: #3b6aa6;
+    }
+
+    .metaTop {
+      font-size: 12px;
+      color: #9aa7b2;
+    }
+
     .item {
       border-top: 1px solid #1f2a3a;
       padding: 14px 0;
     }
-    .item:first-child {
-      border-top: none;
-      padding-top: 0;
-    }
-    .meta {
+    .item:first-child { border-top: none; padding-top: 0; }
+
+    .kicker {
+      display:flex;
+      gap:8px;
+      flex-wrap:wrap;
+      align-items:center;
       font-size: 12px;
       color: #9aa7b2;
       margin-bottom: 6px;
     }
+    .tag {
+      padding: 2px 8px;
+      border: 1px solid #2a3a52;
+      border-radius: 999px;
+      color: #cfe3ff;
+      background: #0e1622;
+    }
+
     .title {
       font-size: 18px;
       margin: 4px 0 8px;
@@ -53,14 +88,12 @@
     .summary {
       line-height: 1.6;
       color: #d7e2ee;
+      margin: 0 0 8px;
+      white-space: pre-line;
     }
-    a {
-      color: #7fb7ff;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
+    a { color: #7fb7ff; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
     footer {
       max-width: 900px;
       margin: 40px auto 20px;
@@ -78,48 +111,98 @@
   </header>
 
   <main>
-    <div class="card" id="content">
-      <p>불러오는 중...</p>
+    <div class="card">
+      <div class="toolbar">
+        <div class="btns">
+          <button class="btn active" data-filter="all">전체</button>
+          <button class="btn" data-filter="economy">경제</button>
+          <button class="btn" data-filter="politics">정치</button>
+        </div>
+        <div class="metaTop" id="metaTop">업데이트: -</div>
+      </div>
+
+      <div id="content">
+        <p>불러오는 중...</p>
+      </div>
     </div>
   </main>
 
   <footer>
     Sources: Our World in Data · World Bank · Brookings<br>
-    요약은 자동 생성되며, 원문은 각 링크를 통해 확인할 수 있습니다.
+    원문은 각 링크를 통해 확인할 수 있습니다.
   </footer>
 
   <script>
+    const state = { data: null, filter: "all" };
+
+    function escapeHtml(s) {
+      return (s ?? "").replace(/[&<>"']/g, (m) => ({
+        "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"
+      })[m]);
+    }
+
+    function formatDate(dt) {
+      try { return new Date(dt).toLocaleString("ko-KR"); }
+      catch { return dt || "-"; }
+    }
+
+    function render() {
+      const box = document.getElementById("content");
+      const meta = document.getElementById("metaTop");
+
+      if (!state.data) {
+        box.innerHTML = "<p>데이터가 없습니다. 잠시 후 새로고침 해주세요.</p>";
+        meta.textContent = "업데이트: -";
+        return;
+      }
+
+      meta.textContent = `업데이트: ${formatDate(state.data.generated_at)} · 총 ${state.data.items.length}건`;
+
+      const items = state.data.items.filter(it => {
+        if (state.filter === "all") return true;
+        return it.category === state.filter;
+      });
+
+      if (items.length === 0) {
+        box.innerHTML = "<p>해당 카테고리 항목이 없습니다.</p>";
+        return;
+      }
+
+      box.innerHTML = items.map(item => `
+        <div class="item">
+          <div class="kicker">
+            <span class="tag">${item.category === "economy" ? "경제" : "정치"}</span>
+            <span class="tag">${escapeHtml(item.source)}</span>
+            ${item.published_at ? `<span>${escapeHtml(item.published_at)}</span>` : ""}
+          </div>
+          <div class="title">${escapeHtml(item.title)}</div>
+          <p class="summary">${escapeHtml(item.summary)}</p>
+          <div><a href="${item.url}" target="_blank" rel="noopener noreferrer">원문 보기 →</a></div>
+        </div>
+      `).join("");
+    }
+
     async function loadData() {
       try {
         const res = await fetch("posts/latest.json", { cache: "no-store" });
-        if (!res.ok) throw new Error("JSON not found");
-        const data = await res.json();
-
-        const box = document.getElementById("content");
-        box.innerHTML = "";
-
-        data.items.forEach(item => {
-          const div = document.createElement("div");
-          div.className = "item";
-
-          div.innerHTML = `
-            <div class="meta">
-              ${item.category === "economy" ? "🌍 세계 경제" : "🏛️ 세계 정치"} · ${item.source}
-            </div>
-            <div class="title">${item.title}</div>
-            <div class="summary">${item.summary}</div>
-            <div style="margin-top:6px;">
-              <a href="${item.url}" target="_blank">원문 보기 →</a>
-            </div>
-          `;
-          box.appendChild(div);
-        });
-
+        if (!res.ok) throw new Error("latest.json not found");
+        state.data = await res.json();
+        render();
       } catch (e) {
-        document.getElementById("content").innerHTML =
-          "<p>아직 데이터가 없습니다. 잠시 후 새로고침 해주세요.</p>";
+        state.data = null;
+        render();
       }
     }
+
+    // 버튼 핸들링
+    document.querySelectorAll(".btn").forEach(btn => {
+      btn.addEventListener("click", () => {
+        document.querySelectorAll(".btn").forEach(b => b.classList.remove("active"));
+        btn.classList.add("active");
+        state.filter = btn.dataset.filter;
+        render();
+      });
+    });
 
     loadData();
   </script>
