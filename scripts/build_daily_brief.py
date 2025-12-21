@@ -74,8 +74,27 @@ def openai_summarize(title: str, content: str) -> str | None:
     payload = {
         "model": os.getenv("OPENAI_MODEL", "gpt-4.1-mini"),
         "input": [
-            {"role":"system","content":"You write concise Korean summaries for a personal news brief. Do not copy long phrases. Use 3~5 bullets worth of meaning as one paragraph."},
-            {"role":"user","content":f"제목: {title}\n\n본문(추출텍스트):\n{content}\n\n요약을 한국어로 3~5문장으로 써줘. 고유명사/수치가 있으면 핵심만 남기고, 원문 문장 그대로 베끼지 말아줘."}
+            {
+                "role": "system",
+                "content": (
+                    "너는 '세계경제/국제정치' 브리핑을 쓰는 한국어 에디터다. "
+                    "반드시 한국어로 자연스럽게 요약한다. "
+                    "원문 문장을 그대로 길게 베끼지 말고, 의미를 재구성해라. "
+                    "과장/추측 금지. 불확실하면 '추정' 또는 '명확하지 않음'이라고 써라. "
+                    "형식: 3~5문장 단락 1개. "
+                    "가능하면 (무엇/왜 중요/영향) 순서로 정리."
+                )
+            },
+            {
+                "role": "user",
+                "content": (
+                    f"아래 글을 한국어로 3~5문장으로 요약해줘.\n"
+                    f"- 숫자/고유명사가 핵심이면 유지\n"
+                    f"- 원문 표현을 길게 복사하지 말 것\n\n"
+                    f"[제목]\n{title}\n\n"
+                    f"[본문(추출 텍스트)]\n{content}\n"
+                )
+            }
         ],
         "temperature": 0.3
     }
