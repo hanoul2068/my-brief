@@ -143,7 +143,11 @@ def openai_summary(title: str, content: str) -> str | None:
 
 def summarize(title: str, content: str) -> str:
     s = openai_summary(title, content)
-    return s if s else fallback_summary(content)
+    if s:
+        print("DEBUG summary(lang):", "KO" if re.search(r"[가-힣]", s) else "NOT-KO")
+        return s
+    print("DEBUG summary used fallback")
+    return fallback_summary(content)
 
 
 # =========================
