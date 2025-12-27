@@ -2,6 +2,7 @@ import json
 import os
 import requests
 from datetime import datetime
+import time
 
 # 설정
 TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
@@ -20,10 +21,12 @@ def send_telegram_msg():
 
     today = datetime.now().strftime("%Y년 %m월 %d일")
     
-    # 텔레그램 메시지 시작
-    message = f"📅 *{today} 뉴스 브리핑*\n"
-    message += "━━━━━━━━━━━━━━\n\n"
-    
+    # 1. 시작 알림 메시지 전송
+    start_msg = f"📅 *{today} 뉴스 브리핑을 시작합니다*\n━━━━━━━━━━━━━━"
+    send_to_telegram(start_msg)
+    time.sleep(1) # 전송 간격 조절
+
+    # 2. 카테고리별로 루프를 돌며 개별 메시지 전송
     for cat in data['categories']:
         if cat['id'] == 'all': continue
         
@@ -31,47 +34,45 @@ def send_telegram_msg():
         cat_items = [it for it in data['items'] if it['category'] == cat['id']][:10]
         if not cat_items: continue
         
-        message += f"📂 *{cat['name']} (Top 10)*\n"
+        # 카테고리 헤더
+        message = f"📂 *{cat['name']} (Top 10)*\n"
+        message += "━━━━━━━━━━━━━━\n\n"
         
         for i, item in enumerate(cat_items, 1):
-            # 제목에서 불필요한 공백 제거
             title = item['title'].replace('*', '').strip()
             
-            # 요약 내용을 3줄 형식으로 다듬기
-            # 이미 저장된 summary가 길 경우, 줄바꿈 기준으로 앞 3문장만 추출하거나
-            # 불필요한 서술어를 쳐내고 3줄로 재구성 (여기서는 가독성을 위해 포맷팅)
+            # 요약 내용 처리 (줄바꿈 및 가독성)
             summary_lines = [line.strip() for line in item['summary'].split('\n') if line.strip()][:3]
             summary_text = "\n".join([f"• {line}" for line in summary_lines])
             
-            message += f"*{i}. {title}*\n"
-            message += f"{summary_text}\n"
-            message += f"[🔗 원문보기]({item['url']})\n\n"
+            item_msg = f"*{i}. {title}*\n{summary_text}\n[🔗 원문보기]({item['url']})\n\n"
+            
+            # 메시지 길이가 너무 길어지면 일단 전송하고 새로 시작 (안전장치)
+            if len(message + item_msg) > 3800:
+                send_to_telegram(message)
+                message = f"📂 *{cat['name']} (계속)*\n━━━━━━━━━━━━━━\n\n"
+            
+            message += item_msg
         
-        message += "━━━━━━━━━━━━━━\n\n"
+        # 카테고리별 전송
+        send_to_telegram(message)
+        time.sleep(1.5) # 텔레그램 API 도배 방지를 위한 휴식
 
-    # 텔레그램 API 전송 (메시지가 너무 길면 잘라서 전송)
-    send_url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
-    
-    # 메시지 길이 제한(4096자) 대응: 너무 길면 섹션별로 나눠 보내거나 조절이 필요하지만, 
-    # 일단 한 번에 보내되 마크다운 모드 적용
+def send_to_telegram(text):
+    """실제 텔레그램 API 호출 함수"""
+    url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
     payload = {
         "chat_id": TELEGRAM_CHAT_ID,
-        "text": message,
+        "text": text,
         "parse_mode": "Markdown",
         "disable_web_page_preview": True
     }
-
     try:
-        response = requests.post(send_url, json=payload)
-        if response.status_code == 200:
-            print("✅ 텔레그램 브리핑 전송 성공!")
-        else:
-            # 메시지 길이가 초과될 경우를 대비한 간단한 예외 처리
-            print(f"❌ 전송 실패: {response.text}")
-            if "message is too long" in response.text:
-                print("⚠️ 뉴스 양이 너무 많아 메시지 길이가 초과되었습니다. limit을 조정하거나 나눠보내야 합니다.")
+        res = requests.post(url, json=payload)
+        if res.status_code != 200:
+            print(f"❌ 전송 실패: {res.text}")
     except Exception as e:
-        print(f"❌ 오류 발생: {e}")
+        print(f"❌ 오류: {e}")
 
 if __name__ == "__main__":
     send_telegram_msg()
