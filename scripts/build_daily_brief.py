@@ -71,7 +71,7 @@ def openai_summary(title: str, content: str) -> str | None:
     payload = {
         "model": OPENAI_MODEL,
         "messages": [
-            {"role": "system", "content": "너는 뉴스 에디터다. [핵심 사실], [배경], [전망]을 포함해 자연스러운 한국어 5문장으로 요약하라."},
+            {"role": "system", "content": "너는 뉴스 에디터다. [핵심 사실], [배경], [전망]을 포함해 자연스러운 한국어 10문장으로 요약하라."},
             {"role": "user", "content": f"제목: {title}\n\n본문: {input_text[:3500]}"}
         ],
         "temperature": 0.5,
