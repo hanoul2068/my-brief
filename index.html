@@ -3,71 +3,96 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>World Brief</title>
+  <title>World Brief - 심층 뉴스 요약</title>
   <style>
-    body { margin:0; font-family: system-ui,-apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Noto Sans KR",sans-serif; background:#0b0f14; color:#e6edf3; }
+    body { margin:0; font-family: system-ui,-apple-system,sans-serif; background:#0b0f14; color:#e6edf3; scroll-behavior: smooth; }
     header, main { max-width: 980px; margin: 0 auto; padding: 20px; }
-    header h1 { margin:10px 0 4px; font-size:32px; }
+    header h1 { margin:10px 0 4px; font-size:32px; color: #fff; }
     header p { margin:0; color:#9aa7b2; }
+
     .card { background:#111824; border:1px solid #1f2a3a; border-radius:14px; padding:16px; margin-top:16px; }
-    .toolbar { display:flex; gap:10px; flex-wrap:wrap; align-items:center; justify-content:space-between; margin-bottom:12px; }
+    .toolbar { display:flex; gap:10px; flex-wrap:wrap; align-items:center; justify-content:space-between; margin-bottom:20px; position: sticky; top: 0; background: #111824; padding: 10px 0; z-index: 10; }
     .btns { display:flex; gap:8px; flex-wrap:wrap; }
-    .btn { border:1px solid #2a3a52; background:#0e1622; color:#cfe3ff; padding:8px 12px; border-radius:10px; cursor:pointer; font-size:14px; transition: 0.2s; }
-    .btn:hover { background: #1a2b44; }
+    .btn { border:1px solid #2a3a52; background:#0e1622; color:#cfe3ff; padding:8px 14px; border-radius:10px; cursor:pointer; font-size:14px; transition: 0.2s; }
     .btn.active { background:#3b6aa6; border-color:#5a8dd3; color:#fff; font-weight: bold; }
     .metaTop { font-size:12px; color:#9aa7b2; }
-    .item { border-top:1px solid #1f2a3a; padding:18px 0; }
+
+    .item { border-top:1px solid #1f2a3a; padding:24px 0; }
     .item:first-child { border-top:none; padding-top:0; }
-    .kicker { display:flex; gap:8px; flex-wrap:wrap; font-size:12px; color:#9aa7b2; margin-bottom:6px; }
-    .tag { padding:2px 8px; border:1px solid #2a3a52; border-radius:999px; color:#cfe3ff; background:#0e1622; }
-    .title { font-size:19px; margin:4px 0 10px; line-height:1.4; font-weight: 600; color: #fff; }
-    .summary { line-height:1.7; color:#d1dce7; margin:0 0 12px; white-space:pre-line; font-size: 15px; }
-    a { color:#7fb7ff; text-decoration:none; font-size: 14px; }
+    .tag { padding:2px 8px; border:1px solid #2a3a52; border-radius:999px; color:#cfe3ff; background:#0e1622; font-size: 12px; }
+    .title { font-size:20px; margin:10px 0; line-height:1.4; font-weight: 700; color: #fff; }
+    .summary { line-height:1.8; color:#d1dce7; margin:0 0 16px; white-space:pre-line; font-size: 15px; text-align: justify; }
+
+    a { color:#7fb7ff; text-decoration:none; font-weight: 500; }
     a:hover { text-decoration:underline; }
-    footer { max-width:980px; margin:40px auto 20px; padding:0 20px; color:#9aa7b2; font-size:12px; }
+    footer { max-width:980px; margin:40px auto 20px; padding:0 20px; color:#9aa7b2; font-size:12px; text-align: center; }
+
+    /* Top 버튼 */
+    #scrollTopBtn {
+      display: none; position: fixed; bottom: 30px; right: 30px; z-index: 99;
+      width: 50px; height: 50px; border: none; background: #3b6aa6; color: white;
+      cursor: pointer; border-radius: 50%; font-size: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+    }
   </style>
 </head>
 <body>
   <header>
     <h1>World Brief</h1>
-    <p>장르별로 모아보는 오늘의 뉴스 요약</p>
+    <p>원문을 보지 않아도 충분한 심층 뉴스 요약 서비스</p>
   </header>
 
   <main>
     <div class="card">
       <div class="toolbar">
         <div class="btns" id="buttons"></div>
-        <div class="metaTop" id="metaTop">업데이트: -</div>
+        <div class="metaTop" id="metaTop">로딩 중...</div>
       </div>
-      <div id="content"><p>뉴스를 분석 중입니다...</p></div>
+      <div id="content">데이터를 불러오는 중입니다...</div>
     </div>
   </main>
 
+  <button id="scrollTopBtn" title="맨 위로">↑</button>
+
   <footer>
-    요약은 OpenAI GPT-4o-mini 모델로 자동 생성되며, 원문 권리는 각 언론사에 있습니다.
+    요약은 AI(GPT-4o-mini)로 자동 생성됩니다. 콘텐츠의 권리는 각 언론사에 있습니다.
   </footer>
 
   <script>
     const state = { data: null, filter: "all" };
 
-    function escapeHtml(s) {
-      return (s ?? "").replace(/[&<>"']/g, (m) => ({
-        "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"
-      })[m]);
+    function render(){
+      const box = document.getElementById("content");
+      const meta = document.getElementById("metaTop");
+      if (!state.data) return;
+
+      meta.textContent = `업데이트: ${new Date(state.data.generated_at).toLocaleString()} · ${state.data.items.length}건`;
+      const filtered = state.data.items.filter(it => state.filter === "all" ? true : it.category === state.filter);
+
+      if (!filtered.length){
+        box.innerHTML = "<p>표시할 뉴스가 없습니다.</p>";
+        return;
+      }
+
+      box.innerHTML = filtered.map(item => `
+        <div class="item">
+          <div><span class="tag">${item.source}</span></div>
+          <div class="title">${item.title}</div>
+          <p class="summary">${item.summary}</p>
+          <div><a href="${item.url}" target="_blank">기사 원문 읽기 →</a></div>
+        </div>
+      `).join("");
     }
 
-    function buildButtons(categories){
+    function buildButtons(cats){
       const box = document.getElementById("buttons");
       box.innerHTML = "";
-
-      categories.forEach(cat => {
+      cats.forEach(c => {
         const b = document.createElement("button");
-        b.className = `btn ${state.filter === cat.id ? 'active' : ''}`;
-        b.id = "btn_" + cat.id;
-        b.textContent = cat.name;
+        b.className = `btn ${state.filter === c.id ? 'active' : ''}`;
+        b.textContent = c.name;
         b.onclick = () => {
-          state.filter = cat.id;
-          document.querySelectorAll(".btn").forEach(btn => btn.classList.remove("active"));
+          state.filter = c.id;
+          document.querySelectorAll(".btn").forEach(el => el.classList.remove("active"));
           b.classList.add("active");
           render();
         };
@@ -75,53 +100,25 @@
       });
     }
 
-    function render(){
-      const box = document.getElementById("content");
-      const meta = document.getElementById("metaTop");
-      if (!state.data) return;
-
-      meta.textContent = `업데이트: ${new Date(state.data.generated_at).toLocaleString()} · 총 ${state.data.items.length}건`;
-
-      // 필터링 로직: category ID가 포함되어 있는지 확인
-      const items = state.data.items.filter(it => 
-        state.filter === "all" ? true : it.category.includes(state.filter)
-      );
-
-      if (!items.length){
-        box.innerHTML = "<p style='padding:20px 0;'>해당 카테고리에 뉴스가 없습니다.</p>";
-        return;
-      }
-
-      box.innerHTML = items.map(item => `
-        <div class="item">
-          <div class="kicker">
-            <span class="tag">${escapeHtml(item.source)}</span>
-          </div>
-          <div class="title">${escapeHtml(item.title)}</div>
-          <p class="summary">${escapeHtml(item.summary)}</p>
-          <div><a href="${item.url}" target="_blank">기사 원문 보기 →</a></div>
-        </div>
-      `).join("");
-    }
-
-    async function loadData(){
-      try{
+    async function init(){
+      try {
         const res = await fetch("posts/latest.json", { cache: "no-store" });
         state.data = await res.json();
-        // 파이썬에서 보낸 categories가 없으면 기본값 사용
-        const cats = state.data.categories || [
-            {id: "all", name: "전체"},
-            {id: "politics", name: "⚖️ 정치"},
-            {id: "economy", name: "💰 경제"},
-            {id: "policy", name: "📢 정책"}
-        ];
-        buildButtons(cats);
+        buildButtons(state.data.categories);
         render();
-      } catch(e){
-        document.getElementById("content").innerHTML = "<p>데이터를 불러오지 못했습니다.</p>";
+      } catch(e) {
+        document.getElementById("content").textContent = "데이터 로드 실패.";
       }
     }
-    loadData();
+
+    // Top 버튼 로직
+    const topBtn = document.getElementById("scrollTopBtn");
+    window.onscroll = () => {
+      topBtn.style.display = (window.scrollY > 300) ? "block" : "none";
+    };
+    topBtn.onclick = () => window.scrollTo({ top: 0, behavior: 'smooth' });
+
+    init();
   </script>
 </body>
 </html>
