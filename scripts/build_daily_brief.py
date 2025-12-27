@@ -9,7 +9,7 @@ from dateutil import tz
 import time
 
 # =========================
-# 1. 기본 설정 및 환경 변수
+# 1. 설정 및 환경 변수
 # =========================
 KST = tz.gettz("Asia/Seoul")
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -18,14 +18,15 @@ POSTS_DIR = os.path.join(ROOT, "posts")
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 OPENAI_MODEL = os.getenv("OPENAI_MODEL") or "gpt-4o-mini"
 
-# 수집량을 늘리기 위해 limit을 상향 조정했습니다. (총 합계 약 75개 -> 중복 제거 후 50~60개 목표)
+# 사회, 과학을 포함한 뉴스 소스 (전체 약 60~70개 수집 -> 중복 제거 후 50~60개 목표)
 SOURCES = [
-    {"id": "politics", "name": "정치 (SBS)", "url": "https://news.sbs.co.kr/news/SectionRssFeed.do?sectionId=01&plink=RSSREADER", "limit": 12},
-    {"id": "politics", "name": "정치 (매경)", "url": "https://www.mk.co.kr/rss/30200030/", "limit": 12},
-    {"id": "economy", "name": "경제 (SBS)", "url": "https://news.sbs.co.kr/news/SectionRssFeed.do?sectionId=02&plink=RSSREADER", "limit": 12},
-    {"id": "economy", "name": "경제 (한경)", "url": "https://www.hankyung.com/feed/economy", "limit": 12},
-    {"id": "headline", "name": "주요뉴스 (연합TV)", "url": "http://www.yonhapnewstv.co.kr/browse/feed/", "limit": 12},
-    {"id": "policy", "name": "정책브리핑", "url": "https://www.korea.kr/rss/policy.xml", "limit": 15},
+    {"id": "headline", "name": "주요뉴스 (연합TV)", "url": "http://www.yonhapnewstv.co.kr/browse/feed/", "limit": 10},
+    {"id": "society", "name": "사회 (YTN)", "url": "https://www.ytn.co.kr/_ln/rss/0103.xml", "limit": 10},
+    {"id": "politics", "name": "정치 (SBS)", "url": "https://news.sbs.co.kr/news/SectionRssFeed.do?sectionId=01&plink=RSSREADER", "limit": 10},
+    {"id": "economy", "name": "경제 (한경)", "url": "https://www.hankyung.com/feed/economy", "limit": 10},
+    {"id": "science", "name": "IT/과학 (SBS)", "url": "https://news.sbs.co.kr/news/SectionRssFeed.do?sectionId=08&plink=RSSREADER", "limit": 10},
+    {"id": "science", "name": "과학 (매경)", "url": "https://www.mk.co.kr/rss/30100041/", "limit": 10},
+    {"id": "policy", "name": "정책브리핑", "url": "https://www.korea.kr/rss/policy.xml", "limit": 12},
 ]
 
 DISPLAY_CATEGORIES = [
@@ -33,11 +34,13 @@ DISPLAY_CATEGORIES = [
     {"id": "headline", "name": "🔥 주요소식"},
     {"id": "politics", "name": "⚖️ 정치"},
     {"id": "economy", "name": "💰 경제/IT"},
+    {"id": "society", "name": "👥 사회/생활"},
+    {"id": "science", "name": "🧪 과학/기술"},
     {"id": "policy", "name": "📢 정부/정책"}
 ]
 
 # =========================
-# 2. 크롤링 및 분석 유틸리티
+# 2. 유틸리티 함수
 # =========================
 def ensure_dir():
     os.makedirs(POSTS_DIR, exist_ok=True)
@@ -62,13 +65,10 @@ def fetch_full_content(url: str) -> str:
 
 def openai_summary(title: str, content: str) -> str | None:
     if not OPENAI_API_KEY: return None
-    
-    # 본문이 너무 짧으면 제목 활용, 길면 3500자까지 사용
     input_text = content if len(content) > 150 else title
     url = "https://api.openai.com/v1/chat/completions"
     headers = {"Authorization": f"Bearer {OPENAI_API_KEY}", "Content-Type": "application/json"}
     
-    # 원문을 안 봐도 될 정도로 알찬 10문장 심층 요약 프롬프트
     payload = {
         "model": OPENAI_MODEL,
         "messages": [
@@ -93,17 +93,8 @@ def openai_summary(title: str, content: str) -> str | None:
     except:
         return None
 
-def generate_markdown(items):
-    now = datetime.now(tz=KST).strftime("%Y-%m-%d %H:%M:%S")
-    md = f"# 📰 World Brief 심층 뉴스 요약\n\n> **업데이트:** {now} (KST)\n\n"
-    md += "오늘의 주요 뉴스를 분석하여 섹션별로 정리했습니다. 제목을 클릭해 상세 내용을 확인하세요.\n\n"
-    
-    for item in items[:20]: # README에는 너무 길어지지 않게 상위 20개만 표시
-        md += f"### {item['title']}\n<details><summary>🔍 심층 분석 보기 (출처: {item['source']})</summary>\n\n{item['summary']}\n\n[🔗 원문 링크]({item['url']})\n</details>\n\n---\n"
-    return md
-
 # =========================
-# 3. 메인 실행 프로세스
+# 3. 실행 프로세스
 # =========================
 def main():
     ensure_dir()
@@ -111,59 +102,44 @@ def main():
     seen_titles = set()
 
     for s in SOURCES:
-        print(f"📡 수집 중: {s['name']} (최대 {s['limit']}개)...")
+        print(f"📡 수집 중: {s['name']}...")
         feed = feedparser.parse(s["url"])
-        
         count = 0
         for e in feed.entries:
             if count >= s["limit"]: break
-            
             title = e.get("title", "").strip()
             link = e.get("link", "").strip()
             
-            # 제목 앞 12글자 기반 지능형 중복 제거
             title_key = title[:12].replace(" ", "")
             if title_key in seen_titles: continue
             seen_titles.add(title_key)
 
-            # 본문 추출 및 심층 요약
             full_text = fetch_full_content(link) or clean_text(e.get("summary", ""))
             summary = openai_summary(title, full_text)
             
-            if not summary:
-                summary = "요약을 생성하는 중 오류가 발생했습니다. 원문을 참고해 주세요."
-
             collected_items.append({
                 "category": s["id"],
                 "source": s["name"],
                 "title": title,
                 "url": link,
                 "published_at": datetime.now(tz=KST).strftime("%Y-%m-%d %H:%M"),
-                "summary": summary
+                "summary": summary or "요약을 불러오지 못했습니다."
             })
             count += 1
-            # API 과부하 방지 및 안정적 수집을 위한 지연
             time.sleep(0.5)
 
-    # 최종 데이터 구성 (최대 60개로 제한)
     final_data = {
         "generated_at": datetime.now(tz=KST).isoformat(),
         "categories": DISPLAY_CATEGORIES,
-        "items": collected_items[:60]
+        "items": collected_items[:65]
     }
 
-    # JSON 파일 저장
     today = datetime.now(tz=KST).strftime("%Y-%m-%d")
     for filename in ["latest.json", f"{today}.json"]:
         with open(os.path.join(POSTS_DIR, filename), "w", encoding="utf-8") as f:
             json.dump(final_data, f, ensure_ascii=False, indent=2)
 
-    # README.md 자동 업데이트
-    readme_content = generate_markdown(collected_items)
-    with open(os.path.join(ROOT, "README.md"), "w", encoding="utf-8") as f:
-        f.write(readme_content)
-
-    print(f"✅ 완료: 총 {len(final_data['items'])}개의 심층 뉴스 요약을 저장했습니다.")
+    print(f"✅ 저장 완료: 총 {len(final_data['items'])}건")
 
 if __name__ == "__main__":
     main()
