@@ -9,22 +9,20 @@
     header, main { max-width: 980px; margin: 0 auto; padding: 20px; }
     header h1 { margin:10px 0 4px; font-size:32px; }
     header p { margin:0; color:#9aa7b2; }
-
     .card { background:#111824; border:1px solid #1f2a3a; border-radius:14px; padding:16px; margin-top:16px; }
     .toolbar { display:flex; gap:10px; flex-wrap:wrap; align-items:center; justify-content:space-between; margin-bottom:12px; }
     .btns { display:flex; gap:8px; flex-wrap:wrap; }
-    .btn { border:1px solid #2a3a52; background:#0e1622; color:#cfe3ff; padding:8px 10px; border-radius:10px; cursor:pointer; font-size:13px; }
-    .btn.active { background:#1a2b44; border-color:#3b6aa6; }
+    .btn { border:1px solid #2a3a52; background:#0e1622; color:#cfe3ff; padding:8px 12px; border-radius:10px; cursor:pointer; font-size:14px; transition: 0.2s; }
+    .btn:hover { background: #1a2b44; }
+    .btn.active { background:#3b6aa6; border-color:#5a8dd3; color:#fff; font-weight: bold; }
     .metaTop { font-size:12px; color:#9aa7b2; }
-
-    .item { border-top:1px solid #1f2a3a; padding:14px 0; }
+    .item { border-top:1px solid #1f2a3a; padding:18px 0; }
     .item:first-child { border-top:none; padding-top:0; }
     .kicker { display:flex; gap:8px; flex-wrap:wrap; font-size:12px; color:#9aa7b2; margin-bottom:6px; }
     .tag { padding:2px 8px; border:1px solid #2a3a52; border-radius:999px; color:#cfe3ff; background:#0e1622; }
-    .title { font-size:18px; margin:4px 0 8px; line-height:1.4; }
-    .summary { line-height:1.6; color:#d7e2ee; margin:0 0 8px; white-space:pre-line; }
-
-    a { color:#7fb7ff; text-decoration:none; }
+    .title { font-size:19px; margin:4px 0 10px; line-height:1.4; font-weight: 600; color: #fff; }
+    .summary { line-height:1.7; color:#d1dce7; margin:0 0 12px; white-space:pre-line; font-size: 15px; }
+    a { color:#7fb7ff; text-decoration:none; font-size: 14px; }
     a:hover { text-decoration:underline; }
     footer { max-width:980px; margin:40px auto 20px; padding:0 20px; color:#9aa7b2; font-size:12px; }
   </style>
@@ -32,7 +30,7 @@
 <body>
   <header>
     <h1>World Brief</h1>
-    <p>출처별로 보는 해외 이슈 요약 — 매일 자동 업데이트</p>
+    <p>장르별로 모아보는 오늘의 뉴스 요약</p>
   </header>
 
   <main>
@@ -41,12 +39,12 @@
         <div class="btns" id="buttons"></div>
         <div class="metaTop" id="metaTop">업데이트: -</div>
       </div>
-      <div id="content"><p>불러오는 중...</p></div>
+      <div id="content"><p>뉴스를 분석 중입니다...</p></div>
     </div>
   </main>
 
   <footer>
-    요약은 자동 생성되며, 원문은 각 링크로 확인할 수 있습니다.
+    요약은 OpenAI GPT-4o-mini 모델로 자동 생성되며, 원문 권리는 각 언론사에 있습니다.
   </footer>
 
   <script>
@@ -57,34 +55,22 @@
         "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"
       })[m]);
     }
-    function formatDate(dt) {
-      try { return new Date(dt).toLocaleString("ko-KR"); }
-      catch { return dt || "-"; }
-    }
 
-    function setActive(btnId){
-      document.querySelectorAll(".btn").forEach(b => b.classList.remove("active"));
-      const el = document.getElementById(btnId);
-      if (el) el.classList.add("active");
-    }
-
-    function buildButtons(sources){
+    function buildButtons(categories){
       const box = document.getElementById("buttons");
       box.innerHTML = "";
 
-      const allBtn = document.createElement("button");
-      allBtn.className = "btn active";
-      allBtn.id = "btn_all";
-      allBtn.textContent = "전체";
-      allBtn.onclick = () => { state.filter = "all"; setActive("btn_all"); render(); };
-      box.appendChild(allBtn);
-
-      sources.forEach(s => {
+      categories.forEach(cat => {
         const b = document.createElement("button");
-        b.className = "btn";
-        b.id = "btn_" + s.id;
-        b.textContent = s.name;
-        b.onclick = () => { state.filter = s.id; setActive("btn_" + s.id); render(); };
+        b.className = `btn ${state.filter === cat.id ? 'active' : ''}`;
+        b.id = "btn_" + cat.id;
+        b.textContent = cat.name;
+        b.onclick = () => {
+          state.filter = cat.id;
+          document.querySelectorAll(".btn").forEach(btn => btn.classList.remove("active"));
+          b.classList.add("active");
+          render();
+        };
         box.appendChild(b);
       });
     }
@@ -92,18 +78,17 @@
     function render(){
       const box = document.getElementById("content");
       const meta = document.getElementById("metaTop");
-      if (!state.data){
-        box.innerHTML = "<p>데이터가 없습니다. 잠시 후 새로고침 해주세요.</p>";
-        meta.textContent = "업데이트: -";
-        return;
-      }
+      if (!state.data) return;
 
-      meta.textContent = `업데이트: ${formatDate(state.data.generated_at)} · 총 ${state.data.items.length}건`;
+      meta.textContent = `업데이트: ${new Date(state.data.generated_at).toLocaleString()} · 총 ${state.data.items.length}건`;
 
-      const items = state.data.items.filter(it => state.filter === "all" ? true : it.category === state.filter);
+      // 필터링 로직: category ID가 포함되어 있는지 확인
+      const items = state.data.items.filter(it => 
+        state.filter === "all" ? true : it.category.includes(state.filter)
+      );
 
       if (!items.length){
-        box.innerHTML = "<p>해당 출처의 항목이 없습니다.</p>";
+        box.innerHTML = "<p style='padding:20px 0;'>해당 카테고리에 뉴스가 없습니다.</p>";
         return;
       }
 
@@ -111,11 +96,10 @@
         <div class="item">
           <div class="kicker">
             <span class="tag">${escapeHtml(item.source)}</span>
-            ${item.published_at ? `<span>${escapeHtml(item.published_at)}</span>` : ""}
           </div>
           <div class="title">${escapeHtml(item.title)}</div>
           <p class="summary">${escapeHtml(item.summary)}</p>
-          <div><a href="${item.url}" target="_blank" rel="noopener noreferrer">원문 보기 →</a></div>
+          <div><a href="${item.url}" target="_blank">기사 원문 보기 →</a></div>
         </div>
       `).join("");
     }
@@ -123,13 +107,18 @@
     async function loadData(){
       try{
         const res = await fetch("posts/latest.json", { cache: "no-store" });
-        if (!res.ok) throw new Error("latest.json not found");
         state.data = await res.json();
-        buildButtons(state.data.sources || []);
+        // 파이썬에서 보낸 categories가 없으면 기본값 사용
+        const cats = state.data.categories || [
+            {id: "all", name: "전체"},
+            {id: "politics", name: "⚖️ 정치"},
+            {id: "economy", name: "💰 경제"},
+            {id: "policy", name: "📢 정책"}
+        ];
+        buildButtons(cats);
         render();
       } catch(e){
-        state.data = null;
-        render();
+        document.getElementById("content").innerHTML = "<p>데이터를 불러오지 못했습니다.</p>";
       }
     }
     loadData();
