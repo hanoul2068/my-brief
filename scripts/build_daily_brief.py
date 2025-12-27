@@ -198,7 +198,7 @@ def openai_summary(title: str, content: str) -> str | None:
                 "role": "system",
                 "content": (
                     "너는 한국 뉴스를 매일 읽기 좋게 정리하는 한국어 에디터다. "
-                    "반드시 한국어로 자연스럽게 3~5문장으로 요약한다. "
+                    "반드시 한국어로 자연스럽게 5문장으로 요약한다. "
                     "원문을 길게 복사하지 말고 의미를 재구성한다. "
                     "추측/과장 금지, 불확실하면 그렇게 명시한다."
                 ),
@@ -208,7 +208,7 @@ def openai_summary(title: str, content: str) -> str | None:
                 "content": (
                     f"[제목]\n{title}\n\n"
                     f"[본문]\n{content}\n\n"
-                    "위 글을 한국어로 3~5문장으로 요약해줘. "
+                    "위 글을 한국어로 5문장으로 요약해줘. "
                     "핵심 사실 → 맥락/배경 → 영향/시사점 순으로."
                 ),
             },
