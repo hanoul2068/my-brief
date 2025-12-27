@@ -18,14 +18,14 @@ POSTS_DIR = os.path.join(ROOT, "posts")
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 OPENAI_MODEL = os.getenv("OPENAI_MODEL") or "gpt-4o-mini"
 
-# 뉴스 소스 설정 (사회, 과학 추가 및 전체 밸런스 조정)
+# 분야별 정확도가 높은 RSS로 재배정 (총 60~70개 수집 -> 중복 제거 후 약 50건 유지)
 SOURCES = [
-    {"id": "headline", "name": "주요뉴스 (연합TV)", "url": "http://www.yonhapnewstv.co.kr/browse/feed/", "limit": 12},
-    {"id": "society", "name": "사회 (YTN)", "url": "https://www.ytn.co.kr/_ln/rss/0103.xml", "limit": 12},
+    {"id": "headline", "name": "주요뉴스 (연합TV)", "url": "http://www.yonhapnewstv.co.kr/browse/feed/", "limit": 10},
+    {"id": "society", "name": "사회 (연합뉴스)", "url": "https://www.yonhapnewsproxy.com/rss/society.xml", "limit": 12}, # 주소 교체
     {"id": "politics", "name": "정치 (SBS)", "url": "https://news.sbs.co.kr/news/SectionRssFeed.do?sectionId=01&plink=RSSREADER", "limit": 10},
     {"id": "economy", "name": "경제 (한경)", "url": "https://www.hankyung.com/feed/economy", "limit": 10},
-    {"id": "science", "name": "IT/과학 (SBS)", "url": "https://news.sbs.co.kr/news/SectionRssFeed.do?sectionId=08&plink=RSSREADER", "limit": 10},
-    {"id": "science", "name": "과학 (매경)", "url": "https://www.mk.co.kr/rss/30100041/", "limit": 10},
+    {"id": "science", "name": "과학/기술 (YTN)", "url": "https://science.ytn.co.kr/ytnscience_rss.php", "limit": 10}, # 과학 전문 채널
+    {"id": "science", "name": "IT/테크 (블로터)", "url": "https://www.bloter.net/rss/allNews.xml", "limit": 8}, # IT 전문지
     {"id": "policy", "name": "정책브리핑", "url": "https://www.korea.kr/rss/policy.xml", "limit": 12},
 ]
 
@@ -40,20 +40,14 @@ DISPLAY_CATEGORIES = [
 ]
 
 # =========================
-# 2. 유틸리티 함수
+# 2. 유틸리티 및 크롤링
 # =========================
 def ensure_dir():
     os.makedirs(POSTS_DIR, exist_ok=True)
 
-def clean_text(text: str) -> str:
-    if not text: return ""
-    text = re.sub(r'\s+', ' ', text)
-    return text.strip()
-
 def normalize_key(text: str, length: int = 15) -> str:
-    """중복 체크를 위해 텍스트를 정규화 (특수문자/괄호 제거 후 앞글자 추출)"""
-    text = re.sub(r'\[.*?\]|\(.*?\)', '', text) # [속보], (종합) 등 제거
-    text = re.sub(r'[^\w\s]', '', text) # 특수문자 제거
+    text = re.sub(r'\[.*?\]|\(.*?\)', '', text)
+    text = re.sub(r'[^\w\s]', '', text)
     return text.replace(" ", "")[:length]
 
 def fetch_full_content(url: str) -> str:
@@ -64,8 +58,12 @@ def fetch_full_content(url: str) -> str:
         soup = BeautifulSoup(resp.text, "html.parser")
         for s in soup(['script', 'style', 'header', 'footer', 'nav', 'aside', 'form', 'iframe']):
             s.decompose()
-        content = soup.find('article') or soup.find('div', id='articleBody') or soup.find('div', class_='article_view') or soup.find('div', id='news_body_area')
-        return clean_text(content.get_text()) if content else ""
+        # 다양한 언론사 본문 영역 대응 강화
+        content = soup.find('article') or soup.find('div', id='articleBody') or soup.find('div', class_='article_view') or soup.find('div', id='news_body_area') or soup.find('div', class_='news_text')
+        if content:
+            text = content.get_text(" ", strip=True)
+            return re.sub(r"\s+", " ", text).strip()
+        return ""
     except:
         return ""
 
@@ -100,16 +98,22 @@ def openai_summary(title: str, content: str) -> str | None:
         return None
 
 # =========================
-# 3. 메인 실행 프로세스
+# 3. 메인 프로세스
 # =========================
 def main():
     ensure_dir()
     collected_items = []
-    seen_keys = set() # 제목 및 본문 중복 체크용 셋
+    seen_keys = set()
 
     for s in SOURCES:
-        print(f"📡 수집 및 중복 검사 중: {s['name']}...")
+        print(f"📡 수집 및 검사 중: {s['name']}...")
         feed = feedparser.parse(s["url"])
+        
+        # RSS 주소가 죽었거나 응답이 없는 경우 체크
+        if not feed.entries:
+            print(f"⚠️ 경고: {s['name']} 피드가 비어있거나 응답이 없습니다.")
+            continue
+
         count = 0
         for e in feed.entries:
             if count >= s["limit"]: break
@@ -117,25 +121,17 @@ def main():
             title = e.get("title", "").strip()
             link = e.get("link", "").strip()
             
-            # 1단계: 제목 기반 중복 체크
+            # 중복 체크
             title_key = normalize_key(title, 15)
-            if title_key in seen_keys:
-                continue
+            if title_key in seen_keys: continue
 
-            # 본문 추출
-            full_text = fetch_full_content(link) or clean_text(e.get("summary", ""))
-            
-            # 2단계: 본문 앞부분 기반 중복 체크 (제목이 달라도 내용이 같은 경우 방지)
+            full_text = fetch_full_content(link) or title
             content_key = normalize_key(full_text, 30)
-            if content_key and content_key in seen_keys:
-                continue
+            if content_key and content_key in seen_keys: continue
 
-            # 중복이 아니면 키 등록
             seen_keys.add(title_key)
-            if content_key:
-                seen_keys.add(content_key)
+            if content_key: seen_keys.add(content_key)
 
-            # 심층 요약 수행
             summary = openai_summary(title, full_text)
             
             collected_items.append({
@@ -144,25 +140,23 @@ def main():
                 "title": title,
                 "url": link,
                 "published_at": datetime.now(tz=KST).strftime("%Y-%m-%d %H:%M"),
-                "summary": summary or "요약을 불러오지 못했습니다."
+                "summary": summary or "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
             })
             count += 1
             time.sleep(0.5)
 
-    # 최종 데이터 구성 (최대 65개 유지)
     final_data = {
         "generated_at": datetime.now(tz=KST).isoformat(),
         "categories": DISPLAY_CATEGORIES,
         "items": collected_items[:65]
     }
 
-    # 파일 저장
     today = datetime.now(tz=KST).strftime("%Y-%m-%d")
     for filename in ["latest.json", f"{today}.json"]:
         with open(os.path.join(POSTS_DIR, filename), "w", encoding="utf-8") as f:
             json.dump(final_data, f, ensure_ascii=False, indent=2)
 
-    print(f"✅ 완료: 총 {len(final_data['items'])}건의 유니크한 뉴스를 정리했습니다.")
+    print(f"✅ 완료: 총 {len(final_data['items'])}건 저장.")
 
 if __name__ == "__main__":
     main()
