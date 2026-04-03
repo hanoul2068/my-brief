@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T06:48:24.563394+09:00",
+  "generated_at": "2026-04-04T08:23:37.531665+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,9 +34,33 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
+      "title": "전주 아파트 화재…60대 심정지 이송",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260404082043Rdh",
+      "published_at": "2026-04-04 08:21",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "미국, 식수 미세플라스틱 첫 규제 검토…오염물질 지정 예고",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260404075951yAZ",
+      "published_at": "2026-04-04 08:21",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "美 F-15 전투기·A-10 공격기 이란서 격추…2명 구조·1명 실종",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260404073502zt6",
+      "published_at": "2026-04-04 08:21",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
       "title": "국가유공자 앞에서 아이처럼 '팔짝팔짝'…'후원 문의 거절' 국밥집 정체 [현장잇슈]",
       "url": "https://www.yonhapnewstv.co.kr/news/MYH20260403174314041",
-      "published_at": "2026-04-04 06:46",
+      "published_at": "2026-04-04 08:22",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -44,7 +68,7 @@
       "source": "주요뉴스 (연합TV)",
       "title": "'5억 잭팟' 하루 뒤 \"시스템 오류\"…충격 받은 영국 남성 심장마비",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260403173950aub",
-      "published_at": "2026-04-04 06:46",
+      "published_at": "2026-04-04 08:22",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -52,7 +76,7 @@
       "source": "주요뉴스 (연합TV)",
       "title": "[알아BIO] \"삼천당 아닌 황천당?\"…각종 논란 두고 '시끌시끌'",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260403170640TNt",
-      "published_at": "2026-04-04 06:46",
+      "published_at": "2026-04-04 08:22",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -60,7 +84,7 @@
       "source": "주요뉴스 (연합TV)",
       "title": "\"저 멀쩡히 살아 있는데요\"…193살 최고령 거북 '사망설' 소동",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260403172424NwV",
-      "published_at": "2026-04-04 06:46",
+      "published_at": "2026-04-04 08:22",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -68,7 +92,7 @@
       "source": "주요뉴스 (연합TV)",
       "title": "인공지능, 인류에게 축복인가 재앙인가…신간 'AI 휴먼 코드'",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260403102221gJj",
-      "published_at": "2026-04-04 06:46",
+      "published_at": "2026-04-04 08:22",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -76,7 +100,7 @@
       "source": "주요뉴스 (연합TV)",
       "title": "트럼프, 미 전투기 첫 격추 \"협상에 전혀 영향 없어\"",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260404053231tQ8",
-      "published_at": "2026-04-04 06:46",
+      "published_at": "2026-04-04 08:22",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -84,31 +108,15 @@
       "source": "주요뉴스 (연합TV)",
       "title": "아프간 산악지대서 규모 5.8 지진…최소 8명 사망",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260404051007yvt",
-      "published_at": "2026-04-04 06:47",
+      "published_at": "2026-04-04 08:22",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "이란군 \"남부 해안서 적 전투기 격추…美 A-10 공격기 추정\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260404044409MaB",
-      "published_at": "2026-04-04 06:47",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "\"이란, 며칠 내 미국과 만날 의사 없다고 공식 통보\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260404032511syB",
-      "published_at": "2026-04-04 06:47",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "미 F-15 전투기, 이란서 격추된 듯…\"미군, 탑승자 1명 구조\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260404015744gyX",
-      "published_at": "2026-04-04 06:47",
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "김주애도 고양이 집사?…평양 자동차·펫샵 선보인 의도는",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008504999&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-04-04 08:22",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -116,7 +124,7 @@
       "source": "정치 (SBS)",
       "title": "윤 탄핵 1년, 서울 곳곳서 집회…교통 혼잡 예상",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008505002&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-04 06:47",
+      "published_at": "2026-04-04 08:22",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -124,7 +132,7 @@
       "source": "정치 (SBS)",
       "title": "주호영 가처분 기각…민주, 김부겸 단수공천",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008504980&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-04 06:47",
+      "published_at": "2026-04-04 08:22",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -132,7 +140,7 @@
       "source": "정치 (SBS)",
       "title": "박상용 '증인 선서 거부'에 퇴장…녹취 또 공개",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008504979&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-04 06:47",
+      "published_at": "2026-04-04 08:22",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -140,7 +148,7 @@
       "source": "정치 (SBS)",
       "title": "마크롱 첫 방한…\"중동 전쟁 위기 공동 대응\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008504977&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-04 06:47",
+      "published_at": "2026-04-04 08:22",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -148,7 +156,7 @@
       "source": "정치 (SBS)",
       "title": "광주서 음주운전 사고 뒤 차량 화재…인명피해 없어",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008504968&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-04 06:47",
+      "published_at": "2026-04-04 08:22",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -156,7 +164,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령, 오는 7일 여야 대표와 오찬",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008504792&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-04 06:47",
+      "published_at": "2026-04-04 08:22",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -164,7 +172,7 @@
       "source": "정치 (SBS)",
       "title": "제78주년 4·3 희생자 추념식…김 총리 \"작별 않겠다\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008504791&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-04 06:47",
+      "published_at": "2026-04-04 08:22",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -172,7 +180,7 @@
       "source": "정치 (SBS)",
       "title": "평양에 자동차 매장 · 펫숍 선보인 북한…의도는?",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008504836&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-04 06:47",
+      "published_at": "2026-04-04 08:22",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -180,15 +188,15 @@
       "source": "정치 (SBS)",
       "title": "김 총리 \"'비축석유 북 유입설' 말도 안 돼…사법당국 엄하게 수사\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008504857&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-04 06:47",
+      "published_at": "2026-04-04 08:22",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "증인 선서 거부하다 퇴장…통화 녹취 추가 공개",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008504774&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-04 06:47",
+      "category": "economy",
+      "source": "경제 (한경)",
+      "title": "美·이란 전쟁 지켜보는 中 전략은 '좌관성패'",
+      "url": "https://www.hankyung.com/article/2026040377471",
+      "published_at": "2026-04-04 08:22",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -196,7 +204,7 @@
       "source": "경제 (한경)",
       "title": "[포토] 삼성전자 'DS 상생협력데이'",
       "url": "https://www.hankyung.com/article/2026040378141",
-      "published_at": "2026-04-04 06:47",
+      "published_at": "2026-04-04 08:22",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -204,7 +212,7 @@
       "source": "경제 (한경)",
       "title": "[포토] 별마당에도 찾아온 봄",
       "url": "https://www.hankyung.com/article/2026040377671",
-      "published_at": "2026-04-04 06:47",
+      "published_at": "2026-04-04 08:22",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -212,7 +220,7 @@
       "source": "경제 (한경)",
       "title": "'가장 완벽한 숫자'…신세계가 12에 꽂힌 이유는",
       "url": "https://www.hankyung.com/article/2026040377661",
-      "published_at": "2026-04-04 06:47",
+      "published_at": "2026-04-04 08:22",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -220,7 +228,7 @@
       "source": "경제 (한경)",
       "title": "'관세 눈속임' 삼성·LG 괜찮나…북미 가전 공급망 또 시험대",
       "url": "https://www.hankyung.com/article/202604037525g",
-      "published_at": "2026-04-04 06:47",
+      "published_at": "2026-04-04 08:22",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -228,7 +236,7 @@
       "source": "경제 (한경)",
       "title": "전영현 \"협력사 동반성장 생태계 조성\"",
       "url": "https://www.hankyung.com/article/2026040380301",
-      "published_at": "2026-04-04 06:47",
+      "published_at": "2026-04-04 08:22",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -236,7 +244,7 @@
       "source": "경제 (한경)",
       "title": "한화솔루션 \"2030년까지 추가 유증 안 한다\"",
       "url": "https://www.hankyung.com/article/2026040380421",
-      "published_at": "2026-04-04 06:47",
+      "published_at": "2026-04-04 08:22",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -244,7 +252,7 @@
       "source": "경제 (한경)",
       "title": "입는 립밤, 바르는 키링 뜬다",
       "url": "https://www.hankyung.com/article/202604037979i",
-      "published_at": "2026-04-04 06:47",
+      "published_at": "2026-04-04 08:22",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -252,7 +260,7 @@
       "source": "경제 (한경)",
       "title": "김정관 산업부 장관, 양경수 민주노총 위원장 면담",
       "url": "https://www.hankyung.com/article/202604037959i",
-      "published_at": "2026-04-04 06:47",
+      "published_at": "2026-04-04 08:22",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -260,15 +268,7 @@
       "source": "경제 (한경)",
       "title": "우리 아이 옷에 알록달록 헬로키티…압소바, 산리오 담아냈다",
       "url": "https://www.hankyung.com/article/202604037966i",
-      "published_at": "2026-04-04 06:47",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "economy",
-      "source": "경제 (한경)",
-      "title": "\"프리미엄 화물로 승부\"…UPS, 인천공항 물류센터 4배 확장",
-      "url": "https://www.hankyung.com/article/202604037854i",
-      "published_at": "2026-04-04 06:47",
+      "published_at": "2026-04-04 08:22",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -276,7 +276,7 @@
       "source": "정책브리핑",
       "title": "수입 물품 통관절차 간소화 등 규제 개선…중동발 공급망 병목 해소",
       "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148962051&call_from=rsslink",
-      "published_at": "2026-04-04 06:47",
+      "published_at": "2026-04-04 08:22",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -284,7 +284,7 @@
       "source": "정책브리핑",
       "title": "기술사·기능장 '경력 응시자격' 2~4년 단축…\"청년층 기회 확대\"",
       "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148962075&call_from=rsslink",
-      "published_at": "2026-04-04 06:47",
+      "published_at": "2026-04-04 08:22",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -292,7 +292,7 @@
       "source": "정책브리핑",
       "title": "김 총리 \"제주4 ·3 끝까지 기억…더 큰 민주주의 꽃 피울 것\"",
       "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148962065&call_from=rsslink",
-      "published_at": "2026-04-04 06:47",
+      "published_at": "2026-04-04 08:22",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -300,7 +300,7 @@
       "source": "정책브리핑",
       "title": "정부, 중동전쟁 관련 건설자재 수급상황 관리…\"애로사항 신속 개선\"",
       "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148962063&call_from=rsslink",
-      "published_at": "2026-04-04 06:47",
+      "published_at": "2026-04-04 08:22",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -308,7 +308,7 @@
       "source": "정책브리핑",
       "title": "한·프랑스, '보훈협력 MOU' 체결…\"6.25 참전용사 예우 강화\"",
       "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148962057&call_from=rsslink",
-      "published_at": "2026-04-04 06:47",
+      "published_at": "2026-04-04 08:23",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -316,7 +316,7 @@
       "source": "정책브리핑",
       "title": "건축물 분양계약 해약사유 정비…\"분쟁 줄이고 수분양자 보호 강화\"",
       "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148962062&call_from=rsslink",
-      "published_at": "2026-04-04 06:48",
+      "published_at": "2026-04-04 08:23",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -324,7 +324,7 @@
       "source": "정책브리핑",
       "title": "정부, 중동 전쟁 장기화 대비 자동차 수출입 물류 현장 점검",
       "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148962055&call_from=rsslink",
-      "published_at": "2026-04-04 06:48",
+      "published_at": "2026-04-04 08:23",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -332,7 +332,7 @@
       "source": "정책브리핑",
       "title": "'K-푸드+' 수출 33억 5000만 달러, 3.5%↑…가공·신선 모두 호조",
       "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148962039&call_from=rsslink",
-      "published_at": "2026-04-04 06:48",
+      "published_at": "2026-04-04 08:23",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -340,7 +340,7 @@
       "source": "정책브리핑",
       "title": "한-불 수교 140주년, AI·양자 등 전략 기술 핵심 파트너 재확인",
       "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148962042&call_from=rsslink",
-      "published_at": "2026-04-04 06:48",
+      "published_at": "2026-04-04 08:23",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -348,7 +348,7 @@
       "source": "정책브리핑",
       "title": "한-프랑스 정상 \"호르무즈 해협 내 안전한 해상수송로 확보 협력\"",
       "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148962058&call_from=rsslink",
-      "published_at": "2026-04-04 06:48",
+      "published_at": "2026-04-04 08:23",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -356,7 +356,7 @@
       "source": "정책브리핑",
       "title": "이달부터 희귀난치질환 치료약 관·부가세 면제…환자 부담 낮춘다",
       "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148962035&call_from=rsslink",
-      "published_at": "2026-04-04 06:48",
+      "published_at": "2026-04-04 08:23",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -364,7 +364,7 @@
       "source": "정책브리핑",
       "title": "'주식회사 대한민국'이 창업 동반자 된다…닻 올린 '국가창업시대'",
       "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148961761&call_from=rsslink",
-      "published_at": "2026-04-04 06:48",
+      "published_at": "2026-04-04 08:23",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
