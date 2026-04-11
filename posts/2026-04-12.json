@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T06:47:22.169046+09:00",
+  "generated_at": "2026-04-12T08:22:44.287588+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,57 +34,41 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "[속보] 이란, 美협상 도중 \"호르무즈 통과하려는 군함에 강력 대응\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260412061324Lyd",
-      "published_at": "2026-04-12 06:45",
+      "title": "[속보] 美·이란, 협상 일단 종료…\"오늘 속개 예정\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260412081626WQ3",
+      "published_at": "2026-04-12 08:20",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "유명 배우 섭외 실패하자 AI 가상 인터뷰로 기사화…싱가포르 잡지 논란",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260410112828GhA",
-      "published_at": "2026-04-12 06:45",
+      "title": "[속보]\"美-이란 협상 12일 속개 예정\" <이란 매체>",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260412074631sQq",
+      "published_at": "2026-04-12 08:20",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "\"하루 2잔씩 마셔\"…버블티로 30kg 찌워 징집 피한 태국 남성 논란",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260410102852RGI",
-      "published_at": "2026-04-12 06:45",
+      "title": "[속보] 이란 정부 \"일부 입장차 남아 있지만 협상 계속할 것\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260412073105531",
+      "published_at": "2026-04-12 08:21",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "네타냐후 \"대이란 공세 안 끝났다…할 일 남아\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260412042330AC6",
-      "published_at": "2026-04-12 06:45",
+      "title": "트럼프 \"이란과 협상 타결 안 돼도 상관없다…우리가 이겨\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260412064800vAW",
+      "published_at": "2026-04-12 08:21",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "NYT \"中, 이란에 미사일 지원 가능성\"…중국 \"사실 아냐\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260412041329fiI",
-      "published_at": "2026-04-12 06:45",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "교황, 미·이란 종전 협상일에 \"전쟁의 광기 끝내야\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260412025548AQK",
-      "published_at": "2026-04-12 06:45",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "미군, 협상 와중에 호르무즈 기뢰 제거 나서…\"구축함 2척 해협 통과\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260412024033W7Q",
-      "published_at": "2026-04-12 06:45",
+      "title": "이란 \"호르무즈 통과 군함 강력 대응\"…美 기뢰 제거 경고",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260412064737vHK",
+      "published_at": "2026-04-12 08:21",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -92,7 +76,7 @@
       "source": "정치 (SBS)",
       "title": "김정은 \"하나의 중국 지지…북중 관계 최우선\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008514465&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-12 06:45",
+      "published_at": "2026-04-12 08:21",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -100,7 +84,7 @@
       "source": "정치 (SBS)",
       "title": "국힘 부산시장 후보 박형준…민주 경선 후폭풍",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008514464&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-12 06:45",
+      "published_at": "2026-04-12 08:21",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -108,7 +92,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령, 이스라엘 반발에 \"반인권적 행동 지적…실망\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008514462&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-12 06:45",
+      "published_at": "2026-04-12 08:21",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -116,7 +100,7 @@
       "source": "정치 (SBS)",
       "title": "민주당 전북지사 경선 후폭풍…안호영, '이원택 재감찰 요구' 단식 돌입",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008514505&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-12 06:46",
+      "published_at": "2026-04-12 08:21",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -124,7 +108,7 @@
       "source": "정치 (SBS)",
       "title": "[D리포트] 국힘 부산시장 후보에 박형준 확정…민주 전재수와 맞대결 성사",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008514396&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-12 06:46",
+      "published_at": "2026-04-12 08:21",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -132,7 +116,7 @@
       "source": "정치 (SBS)",
       "title": "오세훈 \"정원오, 정부의 과도한 부동산 규제 철회부터 요구해야\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008514314&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-12 06:46",
+      "published_at": "2026-04-12 08:21",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -140,7 +124,7 @@
       "source": "정치 (SBS)",
       "title": "정부, 26.2조 '전쟁 추경' 국무회의 의결…소득하위 70% 지원",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008514281&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-12 06:46",
+      "published_at": "2026-04-12 08:21",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -148,7 +132,7 @@
       "source": "정치 (SBS)",
       "title": "김 총리 \"고유가 피해지원금 기준 조속히 확정…집행에 박차\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008514280&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-12 06:46",
+      "published_at": "2026-04-12 08:21",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -156,7 +140,7 @@
       "source": "정치 (SBS)",
       "title": "국토부 추경 2.2천억 확정…대중교통비·전세사기피해 지원 확대",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008514214&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-12 06:46",
+      "published_at": "2026-04-12 08:21",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -164,7 +148,7 @@
       "source": "정치 (SBS)",
       "title": "김정은, 왕이에 \"영토 완정 지지\"…'하나의 중국 원칙' 언급",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008514176&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-12 06:46",
+      "published_at": "2026-04-12 08:21",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -172,7 +156,7 @@
       "source": "경제 (한경)",
       "title": "\"원금만 겨우 건질 수도\"…1억 예금했다가 '낭패'본 사연",
       "url": "https://www.hankyung.com/article/202604102623i",
-      "published_at": "2026-04-12 06:46",
+      "published_at": "2026-04-12 08:21",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -180,7 +164,7 @@
       "source": "경제 (한경)",
       "title": "\"440만원 아꼈어요\"…서학개미 '절세 꿀팁' 알고 보니",
       "url": "https://www.hankyung.com/article/202604103146i",
-      "published_at": "2026-04-12 06:46",
+      "published_at": "2026-04-12 08:21",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -188,15 +172,15 @@
       "source": "경제 (한경)",
       "title": "\"주말마다 가요\"…'맞벌이' 40대 직장인,  백화점 가는 이유 [트렌드+]",
       "url": "https://www.hankyung.com/article/202604102391g",
-      "published_at": "2026-04-12 06:46",
+      "published_at": "2026-04-12 08:21",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "economy",
       "source": "경제 (한경)",
-      "title": "삼성전자, 중국 사업 구조조정 시작하나…\"반도체 분야 집중\" 전망",
+      "title": "삼성전자, 中사업 구조조정 시작하나…\"반도체 분야 집중\" 전망",
       "url": "https://www.hankyung.com/article/202604113989i",
-      "published_at": "2026-04-12 06:46",
+      "published_at": "2026-04-12 08:21",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -204,7 +188,7 @@
       "source": "경제 (한경)",
       "title": "\"강남 아파트에 상가까지 있는데\"…70대 부부의 '한숨' [돈 버는 법 아끼는 법]",
       "url": "https://www.hankyung.com/article/202604102181i",
-      "published_at": "2026-04-12 06:46",
+      "published_at": "2026-04-12 08:21",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -212,7 +196,7 @@
       "source": "경제 (한경)",
       "title": "석유 등 공급망 안정에 '1.1조' 투입…\"민생물가 안정 기대\"",
       "url": "https://www.hankyung.com/article/2026041138507",
-      "published_at": "2026-04-12 06:46",
+      "published_at": "2026-04-12 08:21",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -220,7 +204,7 @@
       "source": "경제 (한경)",
       "title": "27일부터 '최대 60만원' 고유가 지원금…신청 방법은?",
       "url": "https://www.hankyung.com/article/2026041138077",
-      "published_at": "2026-04-12 06:46",
+      "published_at": "2026-04-12 08:21",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -228,7 +212,7 @@
       "source": "경제 (한경)",
       "title": "[속보] 고유가 피해지원금, 1차 지급 27일부터…취약계층 우선",
       "url": "https://www.hankyung.com/article/2026041138047",
-      "published_at": "2026-04-12 06:46",
+      "published_at": "2026-04-12 08:21",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -236,7 +220,7 @@
       "source": "경제 (한경)",
       "title": "[속보] 고유가 피해지원금, 2차 지급 5월 18일부터…국민 70% 대상",
       "url": "https://www.hankyung.com/article/2026041138037",
-      "published_at": "2026-04-12 06:46",
+      "published_at": "2026-04-12 08:21",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -244,7 +228,7 @@
       "source": "경제 (한경)",
       "title": "[속보] 고유가 피해지원금, 8월 31일까지 사용…잔액 소멸",
       "url": "https://www.hankyung.com/article/2026041138027",
-      "published_at": "2026-04-12 06:46",
+      "published_at": "2026-04-12 08:21",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -252,7 +236,7 @@
       "source": "정책브리핑",
       "title": "고유가 피해지원금, 4월 27일부터 국민 70%에 최대 60만 원 지급",
       "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148962496&call_from=rsslink",
-      "published_at": "2026-04-12 06:46",
+      "published_at": "2026-04-12 08:21",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -260,7 +244,7 @@
       "source": "정책브리핑",
       "title": "고유가 피해지원금 등 10조 5000억 신속 집행…상반기 내 85% 이상",
       "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148962498&call_from=rsslink",
-      "published_at": "2026-04-12 06:46",
+      "published_at": "2026-04-12 08:21",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -268,7 +252,7 @@
       "source": "정책브리핑",
       "title": "추경 26조 2000억 원, 국무회의 의결…김 총리 \"조속 집행\" 지시",
       "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148962497&call_from=rsslink",
-      "published_at": "2026-04-12 06:46",
+      "published_at": "2026-04-12 08:21",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -276,7 +260,7 @@
       "source": "정책브리핑",
       "title": "김 총리, 광주형 응급환자 이송체계 점검…골든타임 강조",
       "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148962473&call_from=rsslink",
-      "published_at": "2026-04-12 06:46",
+      "published_at": "2026-04-12 08:21",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -284,7 +268,7 @@
       "source": "정책브리핑",
       "title": "이 대통령 \"기간제법이 2년 이상 절대 고용 금지법 돼…현실적 대안 만들어야\"",
       "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148962467&call_from=rsslink",
-      "published_at": "2026-04-12 06:46",
+      "published_at": "2026-04-12 08:21",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -292,7 +276,7 @@
       "source": "정책브리핑",
       "title": "지방 주도 민간투자 발굴…'찾아가는 민자카라반' 본격 가동",
       "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148962468&call_from=rsslink",
-      "published_at": "2026-04-12 06:46",
+      "published_at": "2026-04-12 08:22",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -300,7 +284,7 @@
       "source": "정책브리핑",
       "title": "잇단 코인 유출 사고에…정부, 780억 공공 가상자산 관리 강화",
       "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148962458&call_from=rsslink",
-      "published_at": "2026-04-12 06:46",
+      "published_at": "2026-04-12 08:22",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -308,7 +292,7 @@
       "source": "정책브리핑",
       "title": "K-바이오의약품 수출 20억 달러 돌파…1분기 역대 최대 기록",
       "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148962461&call_from=rsslink",
-      "published_at": "2026-04-12 06:46",
+      "published_at": "2026-04-12 08:22",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -316,7 +300,7 @@
       "source": "정책브리핑",
       "title": "개인정보 유출 사전예방 강화…개인정보보호 인증제 전면 개편",
       "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148962457&call_from=rsslink",
-      "published_at": "2026-04-12 06:46",
+      "published_at": "2026-04-12 08:22",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -324,7 +308,7 @@
       "source": "정책브리핑",
       "title": "중동발 공급망 위기 대응…수급위기 화학물질 등록절차 한시 완화",
       "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148962455&call_from=rsslink",
-      "published_at": "2026-04-12 06:47",
+      "published_at": "2026-04-12 08:22",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -332,7 +316,7 @@
       "source": "정책브리핑",
       "title": "개정 노동조합법 시행 한 달…하청 노조 1011곳 교섭요구 접수",
       "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148962447&call_from=rsslink",
-      "published_at": "2026-04-12 06:47",
+      "published_at": "2026-04-12 08:22",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -340,7 +324,7 @@
       "source": "정책브리핑",
       "title": "중동전쟁 여파에 공공계약 참여 기업 부담 완화…계약금액 조정·납품 연장 등",
       "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148962450&call_from=rsslink",
-      "published_at": "2026-04-12 06:47",
+      "published_at": "2026-04-12 08:22",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
