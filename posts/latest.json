@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-14T07:00:09.413630+09:00",
+  "generated_at": "2026-04-14T08:32:43.042268+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,17 +34,65 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "[AM-PM] 윤 전 대통령 재판에 김건희 증인으로…법정 대면 外",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260414065529HYN",
-      "published_at": "2026-04-14 06:58",
+      "title": "이란, 호르무즈 후폭풍 경고…이스라엘 \"美 지지\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260414082748TuR",
+      "published_at": "2026-04-14 08:32",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "트럼프, 배달기사와 즉석 기자회견…'팁 비과세' 정책 홍보",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR202604140633367rC",
-      "published_at": "2026-04-14 06:58",
+      "title": "잠 들어있던 국민연금 주주대표소송의 칼…7년 만에 다시 뽑는다",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260414082222S8j",
+      "published_at": "2026-04-14 08:32",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "북 구축함 '최현호' 순항미사일 발사…김정은 참관",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260414082004PSD",
+      "published_at": "2026-04-14 08:32",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "이 대통령 \"오목 좀 둔다고 명인전 훈수…화성인 편들 태세\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260414081410Lcg",
+      "published_at": "2026-04-14 08:32",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "\"주유소 도로점용료 감면을\"…석유유통협회, 제도적 지원 촉구",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202604140800396Mq",
+      "published_at": "2026-04-14 08:32",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "중기부, '팹리스 스타트업' 지원 공고…시제품 제작 최대 2억원 지원",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202604140800013Lv",
+      "published_at": "2026-04-14 08:32",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "맞상대도 아닌데…전재수·한동훈 사사건건 격돌",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008516912&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-04-14 08:32",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "김정은 \"핵억제력 한계 없다\"…구축함 '최현'호 미사일 발사 참관",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008516874&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-04-14 08:32",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -52,7 +100,7 @@
       "source": "정치 (SBS)",
       "title": "'난데없는 방미' 논란에…\"해야할 일\" vs \"직무 유기\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008516815&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-14 06:58",
+      "published_at": "2026-04-14 08:32",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -60,7 +108,7 @@
       "source": "정치 (SBS)",
       "title": "재보선 '최대 17곳'…한동훈 부산·조국 평택?",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008516789&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-14 06:58",
+      "published_at": "2026-04-14 08:32",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -68,7 +116,7 @@
       "source": "정치 (SBS)",
       "title": "5부제·2부제로 운행 거리↓…\"보험료도 낮춘다\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008516785&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-14 06:58",
+      "published_at": "2026-04-14 08:32",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -76,7 +124,7 @@
       "source": "정치 (SBS)",
       "title": "\"5·2부제로 운행 거리↓…보험료 인하안 다음 주 발표\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008516708&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-14 06:58",
+      "published_at": "2026-04-14 08:32",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -84,7 +132,7 @@
       "source": "정치 (SBS)",
       "title": "[뉴스직격] 전해철 \"굳이 분류한다면 난 비명계였지만…\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008516605&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-14 06:58",
+      "published_at": "2026-04-14 08:32",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -92,7 +140,7 @@
       "source": "정치 (SBS)",
       "title": "\"난데없는 방미\" 논란에 \"해야 할 일\"…\"직무 유기\" 비판",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008516593&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-14 06:58",
+      "published_at": "2026-04-14 08:32",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -100,7 +148,7 @@
       "source": "정치 (SBS)",
       "title": "국회의원 재보선 최대 17곳…한동훈 부산·조국 평택에?",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008516592&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-14 06:58",
+      "published_at": "2026-04-14 08:32",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -108,199 +156,87 @@
       "source": "정치 (SBS)",
       "title": "\"'5부제·2부제'로 운행 거리↓…보험료 인하 내주 발표\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008516583&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-14 06:58",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "국민의힘 \"기후 대응 공론화, '답정너'식 편향 운영·설문…국민 선택 왜곡 우려\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008516564&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-14 06:58",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "신임 지작사령관에 이상렬 3군단장…비육사 출신으론 두 번째",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008516529&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-14 06:58",
+      "published_at": "2026-04-14 08:32",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "economy",
       "source": "경제 (한경)",
-      "title": "美법원,트럼프의 엡스타인에 보낸 편지 관련 WSJ 소송 기각",
-      "url": "https://www.hankyung.com/article/202604148263i",
-      "published_at": "2026-04-14 06:58",
+      "title": "밀레, iF 디자인 어워드 2026 '금상…4년 연속 쾌거",
+      "url": "https://www.hankyung.com/article/202604148609g",
+      "published_at": "2026-04-14 08:32",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "economy",
       "source": "경제 (한경)",
-      "title": "\"韓 스테이블코인 시장 역동적\"…서클 창업자, 국내 금융사와 회동",
-      "url": "https://www.hankyung.com/article/2026041382021",
-      "published_at": "2026-04-14 06:58",
+      "title": "WTI 100달러까지 상승했다가 다시 하락…중동 긴장에 롤러코스터 장세 [오늘의 유가]",
+      "url": "https://www.hankyung.com/article/202604148549i",
+      "published_at": "2026-04-14 08:32",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "economy",
       "source": "경제 (한경)",
-      "title": "호르무즈 봉쇄로 유가 상승…뉴욕증시 혼조세",
-      "url": "https://www.hankyung.com/article/202604138191i",
-      "published_at": "2026-04-14 06:58",
+      "title": "\"BTS 트레이너가 1일 PT 해준다\"…올리브영 클래스 뭐길래",
+      "url": "https://www.hankyung.com/article/202604138240i",
+      "published_at": "2026-04-14 08:32",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "economy",
       "source": "경제 (한경)",
-      "title": "美, 호르무즈 해협 선박 출입 차단 시작",
-      "url": "https://www.hankyung.com/article/202604138247i",
-      "published_at": "2026-04-14 06:58",
+      "title": "일동후디스 하이뮨·아미노포텐, FC서울과 3년 연속 스폰서십",
+      "url": "https://www.hankyung.com/article/202604148506g",
+      "published_at": "2026-04-14 08:32",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "economy",
       "source": "경제 (한경)",
-      "title": "\"관광객 1900만명 넘으면\"…'글로벌 핫플' 한국 역대급 상황",
-      "url": "https://www.hankyung.com/article/2026041377901",
-      "published_at": "2026-04-14 06:58",
+      "title": "\"이젠 매일 먹는 디저트\"…신세계푸드, 1만원 이하 '떠먹는 케이크' 확대",
+      "url": "https://www.hankyung.com/article/202604148489g",
+      "published_at": "2026-04-14 08:32",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "economy",
       "source": "경제 (한경)",
-      "title": "프랑스·독일 이어 영국도 \"미국의 해협봉쇄 지지 안 해\"",
-      "url": "https://www.hankyung.com/article/202604138143i",
-      "published_at": "2026-04-14 06:58",
+      "title": "GS25, 김밥 '풀체인지' 효과…한 달 만에 매출 30% 늘었다",
+      "url": "https://www.hankyung.com/article/202604148466g",
+      "published_at": "2026-04-14 08:32",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "economy",
       "source": "경제 (한경)",
-      "title": "이란 \"해상 운송거점 위협 시 우리도 페르시아만 항구 공격\"",
-      "url": "https://www.hankyung.com/article/202604138119i",
-      "published_at": "2026-04-14 06:58",
+      "title": "명품 없이도 집객 효과…신세계百, 지역 점포 키우는 '메가샵' 통했다",
+      "url": "https://www.hankyung.com/article/202604148445g",
+      "published_at": "2026-04-14 08:32",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "economy",
       "source": "경제 (한경)",
-      "title": "美 호르무즈 봉쇄에 유가 100弗 재진입…글로벌 주식·채권 하락",
-      "url": "https://www.hankyung.com/article/202604138016i",
-      "published_at": "2026-04-14 06:58",
+      "title": "홍콩반점·새마을식당…백종원 점포 '256곳' 줄줄이 터졌다",
+      "url": "https://www.hankyung.com/article/2026041377861",
+      "published_at": "2026-04-14 08:32",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "economy",
       "source": "경제 (한경)",
-      "title": "美 호르무즈 봉쇄…\"일관성 없는 미국 대응, 아시아국들 희생\"",
-      "url": "https://www.hankyung.com/article/202604138036i",
-      "published_at": "2026-04-14 06:58",
+      "title": "가족기업에선 '셀프 보수 인상' 마음대로 할 수 있나요? [김승아의 가족기업 전략노트]",
+      "url": "https://www.hankyung.com/article/202604136114i",
+      "published_at": "2026-04-14 08:32",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "economy",
       "source": "경제 (한경)",
-      "title": "초고압 이어 중저압 전력기기도 '초호황'",
-      "url": "https://www.hankyung.com/article/2026041378151",
-      "published_at": "2026-04-14 06:58",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "policy",
-      "source": "정책브리핑",
-      "title": "\"중동전쟁은 건설현장에 불가항력\"…'책임준공' 연장사유 인정",
-      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148962571&call_from=rsslink",
-      "published_at": "2026-04-14 06:59",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "policy",
-      "source": "정책브리핑",
-      "title": "'반값여행' 신청 서두르세요…지역사랑상품권으로 50% 환급",
-      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148962566&call_from=rsslink",
-      "published_at": "2026-04-14 06:59",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "policy",
-      "source": "정책브리핑",
-      "title": "부적절한 정부포상 전면 재검토…취소사유 공개 확대 등 추진",
-      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148962562&call_from=rsslink",
-      "published_at": "2026-04-14 06:59",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "policy",
-      "source": "정책브리핑",
-      "title": "베트남 등 아시아 5개국서 '한국형 AI 스마트도시 기술' 실증 본격화",
-      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148962552&call_from=rsslink",
-      "published_at": "2026-04-14 06:59",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "policy",
-      "source": "정책브리핑",
-      "title": "종량제봉투 '재생원료' 사용 확대로 공급망 위기 파고 넘는다",
-      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148962565&call_from=rsslink",
-      "published_at": "2026-04-14 06:59",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "policy",
-      "source": "정책브리핑",
-      "title": "이공계 박사과정생에 연 750만 원 지원…박사우수장학금 첫 시행",
-      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148962564&call_from=rsslink",
-      "published_at": "2026-04-14 06:59",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "policy",
-      "source": "정책브리핑",
-      "title": "전 국민 '매일 일회용 컵 하나 줄이기' 실천하면…폐플라스틱 10% ↓",
-      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148962563&call_from=rsslink",
-      "published_at": "2026-04-14 06:59",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "policy",
-      "source": "정책브리핑",
-      "title": "이달부터 소아 의료취약지 14곳서 야간·휴일 진료 실시",
-      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148962567&call_from=rsslink",
-      "published_at": "2026-04-14 06:59",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "policy",
-      "source": "정책브리핑",
-      "title": "민생 안정 추경 3461억 원 확정…먹거리·돌봄·의료 지원 확대",
-      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148962558&call_from=rsslink",
-      "published_at": "2026-04-14 06:59",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "policy",
-      "source": "정책브리핑",
-      "title": "[정책 바로보기] 기후부 \"에너지 절약은 선택이 아닌 필수\"",
-      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148962560&call_from=rsslink",
-      "published_at": "2026-04-14 06:59",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "policy",
-      "source": "정책브리핑",
-      "title": "노동부, 산재 고위험사업장 10만개 전수조사…5월부터 감독·점검",
-      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148962555&call_from=rsslink",
-      "published_at": "2026-04-14 06:59",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "policy",
-      "source": "정책브리핑",
-      "title": "구 부총리 \"미 무역법 301조 조사, 기업 이익 훼손 안되게 총력\"",
-      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148962545&call_from=rsslink",
-      "published_at": "2026-04-14 07:00",
+      "title": "'5000원 품절템' 불티나게 팔리더니…\"10년 만에 4배 커졌다\"",
+      "url": "https://www.hankyung.com/article/202604137444g",
+      "published_at": "2026-04-14 08:32",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
