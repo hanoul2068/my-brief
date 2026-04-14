@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T07:01:29.280511+09:00",
+  "generated_at": "2026-04-15T08:32:50.025116+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,49 +34,73 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "[AM-PM] 신현송 한국은행 총재 후보자 인사청문회 실시 外",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH202604150655342Q9",
-      "published_at": "2026-04-15 07:00",
+      "title": "미 부통령 \"협상 진행 중\"…이스라엘·레바논 회담",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260415083043aOh",
+      "published_at": "2026-04-15 08:32",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "북한, 일본 외교청서에 \"핵보유국 지위 시비 좌시못해\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260415065006Is0",
-      "published_at": "2026-04-15 07:00",
+      "title": "교육부, 점자교과서 발행사와 '적기 보급' 업무협약",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260415083055OBa",
+      "published_at": "2026-04-15 08:32",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "미 재무, 中 '이란전 기간 석유 비축' 지적…\"신뢰 어려워\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260415064537UqS",
-      "published_at": "2026-04-15 07:00",
+      "title": "'학대 의심' 양주 3세 아이, 치료 중 숨져…입원 엿새만",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202604150824400Jy",
+      "published_at": "2026-04-15 08:32",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "빅터 차 \"美 대북 초점, 비핵화서 러·이란과 협력으로 이동\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260415063044a4R",
-      "published_at": "2026-04-15 07:01",
+      "title": "공부 많이 해서 근시? 한국인 40세 이전 유병률, 미국의 2배",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260415081926e4o",
+      "published_at": "2026-04-15 08:32",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "국제유가, 미·이란 협상 재개 기대감에 급락…WTI 8%↓",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260415062259Y0J",
-      "published_at": "2026-04-15 07:01",
+      "title": "3월 고용률 역대 최고인데…청년 고용·취준 악화",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260415081826DbS",
+      "published_at": "2026-04-15 08:32",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "에콰도르, 경제협력협정 비준…한국車 고율관세 피한다",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260415061922iIn",
-      "published_at": "2026-04-15 07:01",
+      "title": "미 부통령 \"트럼프, '포괄적 합의' 원해…핵포기시 이란 번영\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR2026041508002139g",
+      "published_at": "2026-04-15 08:32",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "한동훈 겨냥한 '자객 공천'?…경북은 '재대결'",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008518446&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-04-15 08:32",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "조국, 평택을로…'친명' 안호영 단식 지속",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008518445&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-04-15 08:32",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "이화영 \"검찰이 진술 회유\"…수사팀 \"그런 적 없었다\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008518469&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-04-15 08:32",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -84,7 +108,7 @@
       "source": "정치 (SBS)",
       "title": "\"오목 좀 둔다고 훈수\"…\"복사 직원도 다주택자면 배제\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008518344&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-15 07:01",
+      "published_at": "2026-04-15 08:32",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -92,7 +116,7 @@
       "source": "정치 (SBS)",
       "title": "이란에 선박 정보 제공…50만 달러 인도적 지원",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008518340&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-15 07:01",
+      "published_at": "2026-04-15 08:32",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -100,7 +124,7 @@
       "source": "정치 (SBS)",
       "title": "청문회 내내…\"검찰이 진술 회유\" \"그런 적 없었다\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008518263&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-15 07:01",
+      "published_at": "2026-04-15 08:32",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -108,7 +132,7 @@
       "source": "정치 (SBS)",
       "title": "주한 미 대사에 한국계 '박은주' 지명…역대 두 번째",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008518259&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-15 07:01",
+      "published_at": "2026-04-15 08:32",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -116,7 +140,7 @@
       "source": "정치 (SBS)",
       "title": "정부, 이란에 50만 달러 규모 인도적 지원 결정",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008518222&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-15 07:01",
+      "published_at": "2026-04-15 08:32",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -124,7 +148,7 @@
       "source": "정치 (SBS)",
       "title": "청문회 내내 신경전…\"검찰이 진술 회유\" \"그런 적 없다\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008518108&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-15 07:01",
+      "published_at": "2026-04-15 08:32",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -132,47 +156,23 @@
       "source": "정치 (SBS)",
       "title": "부산 북갑에 '자객 공천'?…경북은 8년 만에 '재대결'",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008518106&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-15 07:01",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "조국, 평택을 간다…'친명' 안호영 나흘째 단식",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008518105&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-15 07:01",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "이 대통령, 고광헌 방미심위원장 임명안 재가",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008518188&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-15 07:01",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "\"오목 좀 둔다고 훈수\" 발끈…이 대통령이 올린 글",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008518099&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-15 07:01",
+      "published_at": "2026-04-15 08:32",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "economy",
       "source": "경제 (한경)",
-      "title": "\"아아 팔아 갖고는\"…치킨·볶음밥까지 내놓은 커피전문점 '속사정' [트렌드+]",
+      "title": "\"커피만 팔면 망해요\"…잘 나갔던 저가커피 '반격의 메뉴' [트렌드+]",
       "url": "https://www.hankyung.com/article/202604140734g",
-      "published_at": "2026-04-15 07:01",
+      "published_at": "2026-04-15 08:32",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "economy",
       "source": "경제 (한경)",
-      "title": "쿠팡 로저스 대표 \"한국계 대표가 창업한 로봇기업 콘토로에 투자\"",
+      "title": "쿠팡, 1200억 쏟아부었다더니…깜짝 공개한 '비밀 병기'는",
       "url": "https://www.hankyung.com/article/202604151111i",
-      "published_at": "2026-04-15 07:01",
+      "published_at": "2026-04-15 08:32",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -180,7 +180,7 @@
       "source": "경제 (한경)",
       "title": "미·이란 협상 재개 기대감에 국제유가 급락…WTI 8%↓",
       "url": "https://www.hankyung.com/article/2026041511807",
-      "published_at": "2026-04-15 07:01",
+      "published_at": "2026-04-15 08:32",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -188,7 +188,7 @@
       "source": "경제 (한경)",
       "title": "삼전닉스 '수억' 성과급 받더니…\"백화점 갈까?\" 바글바글",
       "url": "https://www.hankyung.com/article/2026041405551",
-      "published_at": "2026-04-15 07:01",
+      "published_at": "2026-04-15 08:32",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -196,7 +196,7 @@
       "source": "경제 (한경)",
       "title": "아마존, 글로벌스타 인수…스페이스X 스타링크 추격 시동",
       "url": "https://www.hankyung.com/article/202604151090i",
-      "published_at": "2026-04-15 07:01",
+      "published_at": "2026-04-15 08:32",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -204,7 +204,7 @@
       "source": "경제 (한경)",
       "title": "CNBC \"백악관, 미국과 이란 2차 협상 논의 중 확인\"",
       "url": "https://www.hankyung.com/article/202604151081i",
-      "published_at": "2026-04-15 07:01",
+      "published_at": "2026-04-15 08:32",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -212,7 +212,7 @@
       "source": "경제 (한경)",
       "title": "국제유가 90달러 초중반대 하락…美증시 상승폭 확대",
       "url": "https://www.hankyung.com/article/202604141054i",
-      "published_at": "2026-04-15 07:01",
+      "published_at": "2026-04-15 08:32",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -220,7 +220,7 @@
       "source": "경제 (한경)",
       "title": "IMF \"전쟁 여파 세계 경제성장 전망 하향…韓 1.9% 성장 유지\"",
       "url": "https://www.hankyung.com/article/202604141047i",
-      "published_at": "2026-04-15 07:01",
+      "published_at": "2026-04-15 08:32",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -228,7 +228,7 @@
       "source": "경제 (한경)",
       "title": "하버드 학자 \"美, 이란전에 최소 1조 달러 소요\"",
       "url": "https://www.hankyung.com/article/202604141018i",
-      "published_at": "2026-04-15 07:01",
+      "published_at": "2026-04-15 08:32",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -236,7 +236,7 @@
       "source": "경제 (한경)",
       "title": "1000원짜리 팔아 매출 '4조 클럽' 가입한 다이소",
       "url": "https://www.hankyung.com/article/2026041409967",
-      "published_at": "2026-04-15 07:01",
+      "published_at": "2026-04-15 08:32",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
