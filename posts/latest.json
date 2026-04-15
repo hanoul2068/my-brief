@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T07:01:36.397384+09:00",
+  "generated_at": "2026-04-16T08:32:11.263758+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,41 +34,57 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "국가대표 가드 박지현, 미국 LA 스파크스와 계약",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260416065845eqg",
-      "published_at": "2026-04-16 07:01",
+      "title": "트럼프 SNS 직전 원유 불공정거래 의혹 조사",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260416082934OrZ",
+      "published_at": "2026-04-16 08:31",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "네타냐후 \"헤즈볼라 계속 타격\"…레바논 휴전 배제",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260416065018aSq",
-      "published_at": "2026-04-16 07:01",
+      "title": "삼천당제약 '공시위 심의' 회부…거래소 \"23일 제재 수위 결정\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260416081832LZl",
+      "published_at": "2026-04-16 08:31",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "\"봉쇄 안 따르면 무력 대응\"…트럼프, 미군 경고방송 SNS 게시",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260416064616qmK",
-      "published_at": "2026-04-16 07:01",
+      "title": "[속보] 미 중부사령부 \"미 구축함, 호르무즈서 이란 선박 나포·회항\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260416080309liJ",
+      "published_at": "2026-04-16 08:31",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "[속보] 레바논 당국자 \"이스라엘과 휴전 곧 이뤄질 것\"<FT>",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260416064021MZY",
-      "published_at": "2026-04-16 07:01",
+      "title": "제니, 타임지 '가장 영향력 있는 100인' 포함…유일한 한국인",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260416080120fyp",
+      "published_at": "2026-04-16 08:31",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "미, 이란에 '경제적 분노' 작전…중국 은행 겨냥 '2차 제재' 칼 뺐다",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260416061454P8y",
-      "published_at": "2026-04-16 07:01",
+      "title": "주한미군사령관, 다음주 미 의회 청문회 출석…사드 반출 이슈될 듯",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260416074328jNk",
+      "published_at": "2026-04-16 08:31",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "대구·울산 등 단일화 논의 한창…\"선택 아닌 필수\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008520091&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-04-16 08:31",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "김정은, 김일성 생일에 포사격 경기 참관…참배는 불참",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008520110&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-04-16 08:31",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -76,7 +92,7 @@
       "source": "정치 (SBS)",
       "title": "\"북 핵무기 생산 능력 증대…한국 핵잠, 검증 필수\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008519998&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-16 07:01",
+      "published_at": "2026-04-16 08:31",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -84,7 +100,7 @@
       "source": "정치 (SBS)",
       "title": "\"규제 합리화\"…스쿨존·임신중지약 규제 완화 제안",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008519995&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-16 07:01",
+      "published_at": "2026-04-16 08:31",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -92,7 +108,7 @@
       "source": "정치 (SBS)",
       "title": "\"원유 2억 7,300만 배럴 확보…호르무즈 안 거친다\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008519992&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-16 07:01",
+      "published_at": "2026-04-16 08:31",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -100,7 +116,7 @@
       "source": "정치 (SBS)",
       "title": "'이 대통령·이준석 명예훼손' 전한길 영장실질심사…이르면 오늘 구속 여부 결정",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008520032&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-16 07:01",
+      "published_at": "2026-04-16 08:31",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -108,7 +124,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령 부부, 영화 내 이름은 관람…\"영원히 책임 묻자\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008519905&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-16 07:01",
+      "published_at": "2026-04-16 08:31",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -116,7 +132,7 @@
       "source": "정치 (SBS)",
       "title": "\"북 핵무기 생산 능력 증대…한국 '핵잠수함' 검증 필수\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008519779&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-16 07:01",
+      "published_at": "2026-04-16 08:31",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -124,7 +140,7 @@
       "source": "정치 (SBS)",
       "title": "선거 앞두고 단일화 움직임…대구·울산 등서 달아오른다",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008519777&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-16 07:01",
+      "published_at": "2026-04-16 08:31",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -132,23 +148,7 @@
       "source": "정치 (SBS)",
       "title": "\"규제 합리화해달라\" 스쿨존·임신중지약 규제 완화되나",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008519776&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-16 07:01",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "[단독] 86명이 236억 원…'선거보전금' 안 갚고 버텼다",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008519769&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-16 07:01",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "\"원유 2억 7,300만 배럴 호르무즈 안 거치고 들여온다\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008519765&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-16 07:01",
+      "published_at": "2026-04-16 08:31",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -156,7 +156,7 @@
       "source": "경제 (한경)",
       "title": "美 IEEPA 관세 환급 20일 시작…\"수입신고자·통관대리인 신청, 최대 90일 소요\"",
       "url": "https://www.hankyung.com/article/202604153588i",
-      "published_at": "2026-04-16 07:01",
+      "published_at": "2026-04-16 08:32",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -164,7 +164,7 @@
       "source": "경제 (한경)",
       "title": "\"이름 처음 들어보는 비싼 와인 사겠나\"…'200년 역사' 내세운 佛와인 명가",
       "url": "https://www.hankyung.com/article/202604152705g",
-      "published_at": "2026-04-16 07:01",
+      "published_at": "2026-04-16 08:32",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -172,7 +172,7 @@
       "source": "경제 (한경)",
       "title": "디자이너, CEO도 바꿔도 비틀대는 구찌, 1분기 매출 -8%",
       "url": "https://www.hankyung.com/article/202604153312i",
-      "published_at": "2026-04-16 07:01",
+      "published_at": "2026-04-16 08:32",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -180,7 +180,7 @@
       "source": "경제 (한경)",
       "title": "롯데칠성음료, 칠성사이다 신규 광고…\"일상 속 답답함 해소\"",
       "url": "https://www.hankyung.com/article/202604153408g",
-      "published_at": "2026-04-16 07:01",
+      "published_at": "2026-04-16 08:32",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -188,7 +188,7 @@
       "source": "경제 (한경)",
       "title": "LG생활건강, 협력사 납품단가 인상 추진…연내 최대 200억원 반영",
       "url": "https://www.hankyung.com/article/202604153332g",
-      "published_at": "2026-04-16 07:01",
+      "published_at": "2026-04-16 08:32",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -196,7 +196,7 @@
       "source": "경제 (한경)",
       "title": "부가부, '코코아 브라운' 컬러 국내 첫선…친환경 공법도 적용",
       "url": "https://www.hankyung.com/article/202604153304g",
-      "published_at": "2026-04-16 07:01",
+      "published_at": "2026-04-16 08:32",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -204,7 +204,7 @@
       "source": "경제 (한경)",
       "title": "리플과 손잡은 교보생명, 토큰화 국채 거래 시스템 기술검증 돌입",
       "url": "https://www.hankyung.com/article/202604153158i",
-      "published_at": "2026-04-16 07:01",
+      "published_at": "2026-04-16 08:32",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -212,15 +212,7 @@
       "source": "경제 (한경)",
       "title": "금융사 AI 열풍에…금융위, 규제 샌드박스 승인 '1위' [금융당국 백브리핑]",
       "url": "https://www.hankyung.com/article/202604153159i",
-      "published_at": "2026-04-16 07:01",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "economy",
-      "source": "경제 (한경)",
-      "title": "[단독] 현대위아, 로템에 방산사업 매각…현대차그룹 사업재편 속도",
-      "url": "https://www.hankyung.com/article/202604153187i",
-      "published_at": "2026-04-16 07:01",
+      "published_at": "2026-04-16 08:32",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -228,7 +220,15 @@
       "source": "경제 (한경)",
       "title": "\"공고 나와 SK하이닉스 생산직, 인생 달다\"…성과급 13억 전망에 '화제'",
       "url": "https://www.hankyung.com/article/202604153104g",
-      "published_at": "2026-04-16 07:01",
+      "published_at": "2026-04-16 08:32",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "economy",
+      "source": "경제 (한경)",
+      "title": "'성장보다 물가' 다시 확인한 신현송 한은 총재 후보자 [심성미의 BOK 워치]",
+      "url": "https://www.hankyung.com/article/202604153162i",
+      "published_at": "2026-04-16 08:32",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
