@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T06:57:52.367192+09:00",
+  "generated_at": "2026-04-24T08:34:11.227013+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,33 +34,57 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "[AM-PM] 윤석열 '北 무인기 의혹' 1심 종결…특검 구형 外",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260424065439Iyw",
-      "published_at": "2026-04-24 06:57",
+      "title": "삼성전자, 장 초반 잠시 '25만전자'…넥스트레이드가 시장 왜곡?",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260424082829VSK",
+      "published_at": "2026-04-24 08:33",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "[속보] 트럼프 \"이란, 헤즈볼라 자금 지원 차단할 것\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260424063855GL7",
-      "published_at": "2026-04-24 06:57",
+      "title": "트럼프 \"이란에 핵무기 사용 안해…협상 서두르지 않을 것\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260424082525OoL",
+      "published_at": "2026-04-24 08:33",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "이탈리아 \"이란 대신 월드컵 나가라고? 모욕감 느낄 것\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR202604240630335z8",
-      "published_at": "2026-04-24 06:57",
+      "title": "앤디 김 \"미국, 공고한 동맹 구축 중요…한국은 필수 파트너\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260424074730B7A",
+      "published_at": "2026-04-24 08:33",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "국제에너지기구 총장 \"역사상 가장 큰 에너지 안보 위협\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260424062053cnS",
-      "published_at": "2026-04-24 06:57",
+      "title": "IBK투자 \"SK하이닉스, 세계 기업 역사에서 최고 영업이익률\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260424074344i52",
+      "published_at": "2026-04-24 08:33",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "KB증권 “삼성전자 파업, 가격 상승 압력 증폭 요인”",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260424074258n3d",
+      "published_at": "2026-04-24 08:33",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "\"후보자도 해당 행위 시 즉시 교체\"…주호영, 불출마 선언",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008530732&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-04-24 08:33",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "연수갑 송영길·계양을 김남준…\"낮은 자세로 겸손하게\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008530731&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-04-24 08:33",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -68,7 +92,7 @@
       "source": "정치 (SBS)",
       "title": "'평양무인기 의혹' 윤석열·김용현 1심 오늘 마무리",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008530717&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-24 06:57",
+      "published_at": "2026-04-24 08:33",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -76,7 +100,7 @@
       "source": "정치 (SBS)",
       "title": "\"'홍강의 기적' 함께 만들자\"…오늘 귀국",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008530639&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-24 06:57",
+      "published_at": "2026-04-24 08:33",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -84,7 +108,7 @@
       "source": "정치 (SBS)",
       "title": "미 국무부 \"장동혁 대표 만난 국무부 인사는 차관 비서실장\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008530621&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-24 06:57",
+      "published_at": "2026-04-24 08:33",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -92,7 +116,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령, 김혜경 여사와 하노이 산책…쌀국수로 식사",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008530549&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-24 06:57",
+      "published_at": "2026-04-24 08:33",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -100,7 +124,7 @@
       "source": "정치 (SBS)",
       "title": "[한반도 포커스] 정동영 언급한 '구성'은 어떤 곳? 기밀인가 아닌가",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008530529&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-24 06:57",
+      "published_at": "2026-04-24 08:33",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -108,7 +132,7 @@
       "source": "정치 (SBS)",
       "title": "[한반도 포커스] 김정은이 일부러 불러 모은 네 사람, 면면 살펴보니?",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008530528&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-24 06:57",
+      "published_at": "2026-04-24 08:33",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -116,7 +140,7 @@
       "source": "정치 (SBS)",
       "title": "\"'홍강의 기적' 함께 만들자\"…오늘 밤 귀국",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008530525&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-24 06:57",
+      "published_at": "2026-04-24 08:33",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -124,47 +148,47 @@
       "source": "정치 (SBS)",
       "title": "김용범 \"'삼성 파업 가능성'에 슬기롭게 대화 통해 해결되길\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008530508&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-24 06:57",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "소수야당 대표들, 평택을 '집결'…국힘은 공천 연기",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008530346&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-24 06:57",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "\"전작권 전환 조건, 29년 3월까지\"…현 정부 내 전환?",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008530344&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-24 06:57",
+      "published_at": "2026-04-24 08:33",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "economy",
       "source": "경제 (한경)",
-      "title": "[여기는 논설실]월급은 못 도망간다…유리지갑 더 두꺼워진 세금 설계",
+      "title": "\"벌써 한여름이네\"…소노인터내셔널, 때 이른 더위에 워터파크 개장 당겼다",
+      "url": "https://www.hankyung.com/article/202604243437g",
+      "published_at": "2026-04-24 08:34",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "economy",
+      "source": "경제 (한경)",
+      "title": "4월 24일 외신에스프레소",
+      "url": "https://www.hankyung.com/article/202604243353i",
+      "published_at": "2026-04-24 08:34",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "economy",
+      "source": "경제 (한경)",
+      "title": "월급은 못 도망간다…유리지갑 더 두꺼워진 세금 설계 [여기는 논설실]",
       "url": "https://www.hankyung.com/article/202604233041i",
-      "published_at": "2026-04-24 06:57",
+      "published_at": "2026-04-24 08:34",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "economy",
       "source": "경제 (한경)",
-      "title": "무신사, 성수에 2000평 메가스토어…'패션 랜드마크' 노린다 [현장+]",
+      "title": "\"백화점인 줄 알았는데\"…성수동 2000평 '초대형 매장' 가보니 [현장+]",
       "url": "https://www.hankyung.com/article/202604232088g",
-      "published_at": "2026-04-24 06:57",
+      "published_at": "2026-04-24 08:34",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "economy",
       "source": "경제 (한경)",
-      "title": "\"스마트폰이랑 비교 불가\"…매출 100% 폭증한 '인싸템' 정체",
+      "title": "남녀노소 하나씩 들고 다니더니…불티나게 팔린 '인싸템' 정체",
       "url": "https://www.hankyung.com/article/202604232423g",
-      "published_at": "2026-04-24 06:57",
+      "published_at": "2026-04-24 08:34",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -172,7 +196,7 @@
       "source": "경제 (한경)",
       "title": "쿠팡 로비 대상·금액 급증…\"적힌 것은 일부에 불과\"",
       "url": "https://www.hankyung.com/article/202604243135i",
-      "published_at": "2026-04-24 06:57",
+      "published_at": "2026-04-24 08:34",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -180,7 +204,7 @@
       "source": "경제 (한경)",
       "title": "[포토] 밀라노서 선보인 삼성 AI 빌트인 가전",
       "url": "https://www.hankyung.com/article/2026042326631",
-      "published_at": "2026-04-24 06:57",
+      "published_at": "2026-04-24 08:34",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -188,7 +212,7 @@
       "source": "경제 (한경)",
       "title": "[포토] 토스, 조폐공사와 협약",
       "url": "https://www.hankyung.com/article/2026042326261",
-      "published_at": "2026-04-24 06:57",
+      "published_at": "2026-04-24 08:34",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -196,7 +220,7 @@
       "source": "경제 (한경)",
       "title": "이재용 \"기업인은 실적으로 말해야죠\"…베트남서 '자신감'",
       "url": "https://www.hankyung.com/article/2026042330027",
-      "published_at": "2026-04-24 06:57",
+      "published_at": "2026-04-24 08:34",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -204,23 +228,7 @@
       "source": "경제 (한경)",
       "title": "버튼 누르면 '아아'까지…김고은도 반한 신상 '커피머신'",
       "url": "https://www.hankyung.com/article/202604232333g",
-      "published_at": "2026-04-24 06:57",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "economy",
-      "source": "경제 (한경)",
-      "title": "'삼전닉스' 현장직들이 무섭게 사간다더니…'대박' 터졌다",
-      "url": "https://www.hankyung.com/article/2026042325791",
-      "published_at": "2026-04-24 06:57",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "economy",
-      "source": "경제 (한경)",
-      "title": "[속보] 유가 떨어졌는데 또 묶었다…4차 석유 최고가격 동결",
-      "url": "https://www.hankyung.com/article/2026042328847",
-      "published_at": "2026-04-24 06:57",
+      "published_at": "2026-04-24 08:34",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
