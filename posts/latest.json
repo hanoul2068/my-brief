@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T06:58:02.650414+09:00",
+  "generated_at": "2026-04-25T08:30:05.840591+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,9 +34,25 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
+      "title": "'딥페이크로 여직원과 커플샷' 구청 직원 송치",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260425081656X7B",
+      "published_at": "2026-04-25 08:29",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "미, 중국 정유사·40여개 해운사 제재…이란 가상화폐 동결",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260425073704YhD",
+      "published_at": "2026-04-25 08:29",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
       "title": "관광객 음식 먹은 야생원숭이, '흙 디저트' 이유는…\"배탈 방지용 소화제\"",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260424162928hG7",
-      "published_at": "2026-04-25 06:57",
+      "published_at": "2026-04-25 08:29",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -44,7 +60,7 @@
       "source": "주요뉴스 (연합TV)",
       "title": "\"결혼 전 바다의 신 만져보려고\"…16세기 이탈리아 동상 훼손한 관광객",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260424102916Dpw",
-      "published_at": "2026-04-25 06:57",
+      "published_at": "2026-04-25 08:29",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -52,7 +68,7 @@
       "source": "주요뉴스 (연합TV)",
       "title": "미·이란 재협상 기대…S&P·나스닥 최고치 경신",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260425052634qWj",
-      "published_at": "2026-04-25 06:57",
+      "published_at": "2026-04-25 08:29",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -60,55 +76,15 @@
       "source": "주요뉴스 (연합TV)",
       "title": "[속보] 이란 국영방송 \"아라그치 외무, 이번 순방 중 미국 안 만나\"",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260425042231uqB",
-      "published_at": "2026-04-25 06:57",
+      "published_at": "2026-04-25 08:29",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "\"미국 협상단, 이란 회담 위해 주말 파키스탄행\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260425022905WVO",
-      "published_at": "2026-04-25 06:57",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "[속보] 백악관 \"이란이 대화 요청…윗코프·쿠슈너, 25일 파키스탄행\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260425021231H6c",
-      "published_at": "2026-04-25 06:57",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "정보공유 논란속 한미 고위급 협의…\"정상화 노력중\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR202604250153405mx",
-      "published_at": "2026-04-25 06:57",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "네타냐후 \"헤즈볼라, 평화협상 방해…휴전중이라도 응징\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260425011818hQG",
-      "published_at": "2026-04-25 06:57",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "트럼프, '미국 선박만 미국 항구 간 운송' 유예 90일 연장",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260425011134J87",
-      "published_at": "2026-04-25 06:57",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "미 법무부, 파월 수사 중단…후임 인준 속도낼 듯",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260425010943PL4",
-      "published_at": "2026-04-25 06:57",
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "텃밭 찾은 정원오·오세훈…서로 \"시즌2\" 공세",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008532220&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-04-25 08:29",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -116,7 +92,7 @@
       "source": "정치 (SBS)",
       "title": "정당 지지율 민주 48% 국힘 20%…PK도 41:28",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008532213&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-25 06:57",
+      "published_at": "2026-04-25 08:29",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -124,7 +100,7 @@
       "source": "정치 (SBS)",
       "title": "'미 차관보 면담'은 거짓…고민 3시간 만에 \"사퇴 불가\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008532212&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-25 06:57",
+      "published_at": "2026-04-25 08:29",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -132,15 +108,7 @@
       "source": "정치 (SBS)",
       "title": "\"쿠팡, 한미 안보 협의 영향은 사실…단기간 수습\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008532211&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-25 06:57",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "텃밭 찾은 정원오·오세훈…서로 \"시즌2\" 공세",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008531990&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-25 06:57",
+      "published_at": "2026-04-25 08:29",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -148,7 +116,7 @@
       "source": "정치 (SBS)",
       "title": "\"뒷모습 맞다\" 거짓말 논란…결국 \"사퇴 안 해\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008531988&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-25 06:57",
+      "published_at": "2026-04-25 08:29",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -156,7 +124,7 @@
       "source": "정치 (SBS)",
       "title": "강훈식 \"중동전쟁에도 한국 경제 굳건…원유 수급 큰 우려 안 해도 돼\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008532035&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-25 06:57",
+      "published_at": "2026-04-25 08:29",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -164,7 +132,7 @@
       "source": "정치 (SBS)",
       "title": "말레이시아서 납치 한국인 구조…납치범 3명도 한국인",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008532022&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-25 06:57",
+      "published_at": "2026-04-25 08:29",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -172,7 +140,7 @@
       "source": "정치 (SBS)",
       "title": "이진숙, 이르면 주말 새 대구시장 출마 관련 입장 표명 가능성",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008531959&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-25 06:57",
+      "published_at": "2026-04-25 08:29",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -180,7 +148,7 @@
       "source": "정치 (SBS)",
       "title": "\"1분기 한국경제 성장 전환…반도체 수출·내수 개선 덕\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008531945&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-25 06:57",
+      "published_at": "2026-04-25 08:29",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -188,7 +156,15 @@
       "source": "정치 (SBS)",
       "title": "'뒤통수 차관보'는 거짓…\"사퇴 고민하겠다\"도 손바닥 뒤집기 [이브닝 브리핑]",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008531907&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-04-25 06:57",
+      "published_at": "2026-04-25 08:29",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "economy",
+      "source": "경제 (한경)",
+      "title": "\"손만 대면 수백억대 잭팟\"…외식업계 승부사의 생존전략 [권용훈의 직업불만족(族)]",
+      "url": "https://www.hankyung.com/article/202604217188i",
+      "published_at": "2026-04-25 08:29",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -196,7 +172,7 @@
       "source": "경제 (한경)",
       "title": "[포토] LG전자, 美서 동물보호 캠페인",
       "url": "https://www.hankyung.com/article/2026042454811",
-      "published_at": "2026-04-25 06:57",
+      "published_at": "2026-04-25 08:29",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -204,7 +180,7 @@
       "source": "경제 (한경)",
       "title": "'제2의 마뗑킴' 르셉템버, 해외 매출 500억원 돌파",
       "url": "https://www.hankyung.com/article/2026042454431",
-      "published_at": "2026-04-25 06:57",
+      "published_at": "2026-04-25 08:29",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -212,7 +188,7 @@
       "source": "경제 (한경)",
       "title": "금융위 첫 여성 고위 공무원에 이석란",
       "url": "https://www.hankyung.com/article/2026042456451",
-      "published_at": "2026-04-25 06:57",
+      "published_at": "2026-04-25 08:29",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -220,7 +196,7 @@
       "source": "경제 (한경)",
       "title": "4시간반 대화 끝에 '고성'만…CU물류 교섭 결국 빈손으로",
       "url": "https://www.hankyung.com/article/2026042456197",
-      "published_at": "2026-04-25 06:57",
+      "published_at": "2026-04-25 08:29",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -228,7 +204,7 @@
       "source": "경제 (한경)",
       "title": "결국 이재용 집 앞까지…\"최악의 시기\" 경고에도 노조 '폭주'",
       "url": "https://www.hankyung.com/article/2026042455287",
-      "published_at": "2026-04-25 06:57",
+      "published_at": "2026-04-25 08:29",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -236,7 +212,7 @@
       "source": "경제 (한경)",
       "title": "'1500원짜리' 저가커피 공세에도…스타벅스, 韓서 웃는 이유",
       "url": "https://www.hankyung.com/article/202604245184g",
-      "published_at": "2026-04-25 06:57",
+      "published_at": "2026-04-25 08:30",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -244,7 +220,7 @@
       "source": "경제 (한경)",
       "title": "\"중동 전쟁보다 무섭다\" 산업장관의 경고…韓제조업 '사형 선고' 피할 방법은",
       "url": "https://www.hankyung.com/article/202604245355i",
-      "published_at": "2026-04-25 06:57",
+      "published_at": "2026-04-25 08:30",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -252,7 +228,7 @@
       "source": "경제 (한경)",
       "title": "\"단골도 발길 돌렸다\"…화물연대 파업에 불똥 맞은 CU '한숨' [현장+]",
       "url": "https://www.hankyung.com/article/2026042441717",
-      "published_at": "2026-04-25 06:57",
+      "published_at": "2026-04-25 08:30",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -260,15 +236,7 @@
       "source": "경제 (한경)",
       "title": "건보료 폭탄 피하려면…소득관리 이렇게 [퇴근길 30초 경제]",
       "url": "https://www.hankyung.com/article/2026042449617",
-      "published_at": "2026-04-25 06:57",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "economy",
-      "source": "경제 (한경)",
-      "title": "증권 질주에…5대 금융 1분기 순익 6.2조 '신기록'",
-      "url": "https://www.hankyung.com/article/2026042454791",
-      "published_at": "2026-04-25 06:57",
+      "published_at": "2026-04-25 08:30",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
