@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T06:55:10.154286+09:00",
+  "generated_at": "2026-05-03T08:31:32.046279+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,9 +34,49 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
+      "title": "출구 못 찾는 이란전…트럼프, '유가 대응' 카드 제한적",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260503082335qPl",
+      "published_at": "2026-05-03 08:30",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "미 \"호르무즈 통행료 내면 제재\"…이란 제안도 거부",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260503081723V0C",
+      "published_at": "2026-05-03 08:31",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "\"이란, 종전한 뒤 핵협상 제안\"…트럼프는 거절",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260503081206jU5",
+      "published_at": "2026-05-03 08:31",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "미, 중동에 13조원대 무기수출…긴급조항 적용",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202605030805039GV",
+      "published_at": "2026-05-03 08:31",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "청년들 만난 김정은 \"강철 전투력이 국가 자부심\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202605030748431zQ",
+      "published_at": "2026-05-03 08:31",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
       "title": "'고온·다습' 인도에서 허스키 키우기가 왜 유행…이 와중에 40마리 집단 유기",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260430164107UPJ",
-      "published_at": "2026-05-03 06:54",
+      "published_at": "2026-05-03 08:31",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -44,7 +84,7 @@
       "source": "주요뉴스 (연합TV)",
       "title": "희귀 질환 심해져 트림 막힌 영국 여성...목 보톡스 맞고 6년 만에 '꺼억'",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260429173705VuE",
-      "published_at": "2026-05-03 06:54",
+      "published_at": "2026-05-03 08:31",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -52,7 +92,7 @@
       "source": "주요뉴스 (연합TV)",
       "title": "중국 방해 뚫고…대만 라이칭더 총통, 아프리카 유일 수교국 도착",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260503052928J6A",
-      "published_at": "2026-05-03 06:54",
+      "published_at": "2026-05-03 08:31",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -60,7 +100,7 @@
       "source": "주요뉴스 (연합TV)",
       "title": "새 CEO 맞은 버크셔, 현금보유액 '사상 최대' 590조원 비축",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260503052616MgW",
-      "published_at": "2026-05-03 06:54",
+      "published_at": "2026-05-03 08:31",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -68,47 +108,31 @@
       "source": "주요뉴스 (연합TV)",
       "title": "부산 '다세대주택 공동거주자 살해' 60대 구속",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260503051142ASB",
-      "published_at": "2026-05-03 06:54",
+      "published_at": "2026-05-03 08:31",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "\"원유 저장고 차오른 이란, 이미 산유량 감축 중\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260503050319U6Q",
-      "published_at": "2026-05-03 06:54",
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "북 \"미국의 북 사이버 위협 여론화는 중상모략\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008544084&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-05-03 08:31",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "'이란 피격' UAE, 영공 내 항공편 운항제한 완전 해제…정상화",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260503023048f4e",
-      "published_at": "2026-05-03 06:54",
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "장동혁, 대구 추경호 개소식 참석…선거 한달 앞 연이틀 지역행",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008544045&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-05-03 08:31",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "이라크, 북서부 검문소 육로 통해서 시리아로 원유 수출",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260503022843L2X",
-      "published_at": "2026-05-03 06:54",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "\"美스피릿항공 구제협상 막후엔 러트닉 상무장관\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260503022040dwX",
-      "published_at": "2026-05-03 06:54",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "한-이란 외교장관 통화…\"호르무즈 선박 안전 통항 필요\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260502214935h6k",
-      "published_at": "2026-05-03 06:54",
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "이틀째 영남 찾는 여야…\"경북도 승리\" \"하나된 힘\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008543958&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-05-03 08:31",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -116,7 +140,7 @@
       "source": "정치 (SBS)",
       "title": "정청래, 오늘부터 부산·경남 돌며 본격 선거 지원",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008543924&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-03 06:54",
+      "published_at": "2026-05-03 08:31",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -124,7 +148,7 @@
       "source": "정치 (SBS)",
       "title": "한-이란 외교장관 통화…\"협상 입장 설명\" \"통항 재개 강조\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008543870&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-03 06:54",
+      "published_at": "2026-05-03 08:31",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -132,7 +156,7 @@
       "source": "정치 (SBS)",
       "title": "조작기소 특검법에 \"끔찍한 짓\"…\"정치검찰 지키나\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008543780&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-03 06:54",
+      "published_at": "2026-05-03 08:31",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -140,7 +164,7 @@
       "source": "정치 (SBS)",
       "title": "\"경북도 승리\" vs \"하나 된 힘\"…나란히 영남행",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008543779&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-03 06:55",
+      "published_at": "2026-05-03 08:31",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -148,7 +172,7 @@
       "source": "정치 (SBS)",
       "title": "국힘 경기 후보 양향자…추미애와 여성 후보 대결",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008543778&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-03 06:55",
+      "published_at": "2026-05-03 08:31",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -156,7 +180,7 @@
       "source": "정치 (SBS)",
       "title": "[단독] 360도 도는 최첨단 레이더…주한미군, 신무기로 재편?",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008543776&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-03 06:55",
+      "published_at": "2026-05-03 08:31",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -164,31 +188,7 @@
       "source": "정치 (SBS)",
       "title": "정원오, '부동산 지옥' 공세에 \"적반하장…본인이 시장 아녔나\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008543753&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-03 06:55",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "\"여러분 때문에 국힘이 안돼\"…조경태, '윤 어게인' 직격",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008543611&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-03 06:55",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "'국힘 경기지사 후보' 양향자, 추미애 겨냥해 \"정치 아닌 경제 선거\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008543623&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-03 06:55",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "국힘 \"이 대통령, 왜 침묵하나\"…민주당 조작기소 특검법 공세 '고삐'",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008543618&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-03 06:55",
+      "published_at": "2026-05-03 08:31",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
