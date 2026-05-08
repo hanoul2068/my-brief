@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T07:08:53.548479+09:00",
+  "generated_at": "2026-05-09T08:43:13.146240+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,9 +34,41 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
+      "title": "어린이집 세면대 사고…법원 “3천여만 원 배상”",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260509084133yza",
+      "published_at": "2026-05-09 08:42",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "고유가 피해지원금 1차 신청률 91.2%",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260509083757pJl",
+      "published_at": "2026-05-09 08:42",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "[속보] 미국, 이란 무기 부문 조력한 개인·기업 10곳 제재",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260509074812znP",
+      "published_at": "2026-05-09 08:42",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "이란 하르그섬 원유 해상유출 포착…저장시설 포화?",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260509071459OYE",
+      "published_at": "2026-05-09 08:42",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
       "title": "'한미 조선파트너십 이니셔티브' 양해각서 체결…조선 협력 강화",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260509062332OBT",
-      "published_at": "2026-05-09 07:08",
+      "published_at": "2026-05-09 08:42",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -44,7 +76,7 @@
       "source": "주요뉴스 (연합TV)",
       "title": "[알아BIO] '파업 리스크'에 떨고 있는 삼성바이오… 주가·수주 '비상등'",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260507173119OV0",
-      "published_at": "2026-05-09 07:08",
+      "published_at": "2026-05-09 08:42",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -52,63 +84,23 @@
       "source": "주요뉴스 (연합TV)",
       "title": "\"열정적으로 몰려드는 역주행 차량\"…구글 지도 오류에 캐나다 마을 발칵",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260507150018wmf",
-      "published_at": "2026-05-09 07:08",
+      "published_at": "2026-05-09 08:42",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "중국서 사고당한 유기견에 택시 기사들 '십시일반'…병원도 수술비 깎아줘",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260507183037Xqe",
-      "published_at": "2026-05-09 07:08",
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "\"국가가 자식 된 도리 다할 것\" 울먹인 대통령",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008553152&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-05-09 08:42",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "트럼프 행정부, 美무역법원 관세 제동에 즉각 항소",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR202605090414554Al",
-      "published_at": "2026-05-09 07:08",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "미국, '한타바이러스' 크루즈 귀환 준비…항공편 마련",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260509035828t3o",
-      "published_at": "2026-05-09 07:08",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "[뉴스특보] 트럼프 백악관 연설…이란 언급 가능성 주목",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260509032609tu9",
-      "published_at": "2026-05-09 07:08",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "미국, 이스라엘-레바논 3번째 평화회담 중재키로",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260509031937YQ3",
-      "published_at": "2026-05-09 07:08",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "트럼프 \"러-우, 9일부터 사흘간 휴전…포로 1천명씩 교환\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR202605090308035df",
-      "published_at": "2026-05-09 07:08",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "미국, 'UFO 파일' 공개…아폴로 17호 촬영 사진도 포함",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260509020810gtD",
-      "published_at": "2026-05-09 07:08",
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "\"'명품 가방' 무혐의 종결 석 달 전 윤과 관저 회동\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008553154&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-05-09 08:43",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -116,7 +108,7 @@
       "source": "정치 (SBS)",
       "title": "개헌안 표결 시도 중단…우 의장 \"정략으로 무산 유감\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008553124&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-09 07:08",
+      "published_at": "2026-05-09 08:43",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -124,15 +116,7 @@
       "source": "정치 (SBS)",
       "title": "\"국가가 자식 된 도리와 책임 다할 것\" 울먹인 이 대통령",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008552917&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-09 07:08",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "\"'명품가방' 무혐의 종결 석 달 전 윤과 관저에서 만났다\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008552913&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-09 07:08",
+      "published_at": "2026-05-09 08:43",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -140,7 +124,7 @@
       "source": "정치 (SBS)",
       "title": "민주당 \"국힘, 필버로 민생 볼모 삼아 개헌 저지…국회법 개정 검토\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008552889&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-09 07:08",
+      "published_at": "2026-05-09 08:43",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -148,7 +132,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령 부부, 남대문시장 깜짝 방문…족발집서 점심 식사",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008552852&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-09 07:08",
+      "published_at": "2026-05-09 08:43",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -156,7 +140,7 @@
       "source": "정치 (SBS)",
       "title": "[지식의 발견] \"이란이 불편해했단 걸 확인했다\" 호르무즈 한국 선박 폭발 뒤에 천궁Ⅱ 있나? (ft.최기일 군사학과 교수)",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008552778&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-09 07:08",
+      "published_at": "2026-05-09 08:43",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -164,7 +148,7 @@
       "source": "정치 (SBS)",
       "title": "\"개헌안 상정 않겠다\"…본회의 산회 후 여야 반응은",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008552642&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-09 07:08",
+      "published_at": "2026-05-09 08:43",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -172,7 +156,7 @@
       "source": "정치 (SBS)",
       "title": "[D리포트] '서울 사정권' 북한판 K9 자주포…김정은 \"올해 남부 국경 배치\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008552538&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-09 07:08",
+      "published_at": "2026-05-09 08:43",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -180,15 +164,7 @@
       "source": "정치 (SBS)",
       "title": "[민심어때] 요동치는 영남 민심…'공소취소 논란' 영향 미쳤나",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008552532&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-09 07:08",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "'개헌안 필리버스터' 국민의힘에 우 의장 작심 비판…\"부끄럽게 여겨야\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008552593&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-09 07:08",
+      "published_at": "2026-05-09 08:43",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
