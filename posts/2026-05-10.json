@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T06:57:00.319579+09:00",
+  "generated_at": "2026-05-10T08:34:31.267066+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,9 +34,65 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
+      "title": "\"이스라엘, 이란 공습 위해 이라크 사막에 '비밀기지' 구축\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260510080759Spn",
+      "published_at": "2026-05-10 08:33",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "대서양 동맹 파열음…'새 유럽 방위동맹' 주장까지",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260510075804tzG",
+      "published_at": "2026-05-10 08:33",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "트루스소셜 모회사 트럼프미디어 '적자'…비트코인 투자 실패",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260510074258mPp",
+      "published_at": "2026-05-10 08:34",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "이란 매체 \"호르무즈 해저케이블 사용료 징수\" 제안",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202605100738591YG",
+      "published_at": "2026-05-10 08:34",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "이란 \"유조선 공격시 미 기지·선박에 보복\" 경고",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260510073705bnO",
+      "published_at": "2026-05-10 08:34",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "미, '호르무즈 안보리 결의안'서 강제조치 근거 조항 삭제",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260510073444D7i",
+      "published_at": "2026-05-10 08:34",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "한타바이러스 크루즈선, 10일 카나리아 제도 도착",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202605100731095k4",
+      "published_at": "2026-05-10 08:34",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
       "title": "군산 쓰레기 야적장서 불…9시간30분 만에 진화",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260510065341cqd",
-      "published_at": "2026-05-10 06:56",
+      "published_at": "2026-05-10 08:34",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -44,7 +100,7 @@
       "source": "주요뉴스 (연합TV)",
       "title": "장갑까지 챙겨와 냄새 강한 두리안 '쩝쩝'…홍콩 영화관 뒤집은 민폐 커플",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260508101725ek5",
-      "published_at": "2026-05-10 06:56",
+      "published_at": "2026-05-10 08:34",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -52,55 +108,23 @@
       "source": "주요뉴스 (연합TV)",
       "title": "\"아침에 눈 뜨면 기린이 옆에서 '날름'\"…미 '동물원 호텔' 화제",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260507161454KPI",
-      "published_at": "2026-05-10 06:56",
+      "published_at": "2026-05-10 08:34",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "민주당, 오늘 6·3 지방선거 선대위 출범",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260510052722Tes",
-      "published_at": "2026-05-10 06:56",
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "\"국민 위 군림 용납 못 해\"…오늘 부산 북갑 집결",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008553751&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-05-10 08:34",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "미, 중·러 거부권 우려에 안보리 호르무즈 결의안 수정",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR202605100404348lz",
-      "published_at": "2026-05-10 06:56",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "미군 \"대이란 해상봉쇄…58척 항로 변경·4척 무력화\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR202605100038586LW",
-      "published_at": "2026-05-10 06:56",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "트럼프 \"우크라전 종식 시작되길\"…러 \"휴전은 딱 3일간\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260509212634IVF",
-      "published_at": "2026-05-10 06:56",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "'살인미수' 태권도관장·직원 구속…\"김소영 수법\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260509195022D8q",
-      "published_at": "2026-05-10 06:56",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "엘리베이터서 마주친 위층 이웃 흉기로 살해…20대 체포",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260509193424D7G",
-      "published_at": "2026-05-10 06:56",
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "\"행정수도특별법 반드시\"…장동혁엔 \"상처 짓밟아\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008553750&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-05-10 08:34",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -108,7 +132,7 @@
       "source": "정치 (SBS)",
       "title": "선거 쟁점 된 '공소취소'·'윤어게인'…단일화도 변수",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008553552&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-10 06:56",
+      "published_at": "2026-05-10 08:34",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -116,15 +140,7 @@
       "source": "정치 (SBS)",
       "title": "\"국민 위 군림 용납 못 해\"…내일 부산 북갑 집결",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008553551&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-10 06:56",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "\"행정수도특별법 반드시\"…장동혁엔 \"상처 짓밟아\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008553550&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-10 06:56",
+      "published_at": "2026-05-10 08:34",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -132,7 +148,7 @@
       "source": "정치 (SBS)",
       "title": "장동혁 \"95세 노모에 '공소 취소' 뜻 묻자 '무시하냐' 역정\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008553475&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-10 06:56",
+      "published_at": "2026-05-10 08:34",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -140,7 +156,7 @@
       "source": "정치 (SBS)",
       "title": "국민의힘, \"공소취소 대응TF\" 다음주 발족…\"헌정 질서 유린 알리겠다\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008553432&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-10 06:56",
+      "published_at": "2026-05-10 08:34",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -148,7 +164,7 @@
       "source": "정치 (SBS)",
       "title": "안규백, 10∼14일 전격 방미…한미국방장관 회담",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008553417&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-10 06:56",
+      "published_at": "2026-05-10 08:34",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -156,7 +172,7 @@
       "source": "정치 (SBS)",
       "title": "민주당 \"장동혁, 윤어게인 회귀도 모자라 내란으로 상처입은 국민마음 짓밟아\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008553414&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-10 06:56",
+      "published_at": "2026-05-10 08:34",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -164,7 +180,7 @@
       "source": "정치 (SBS)",
       "title": "\"국가가 자식 된 도리 다할 것\" 울먹인 대통령",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008553152&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-10 06:56",
+      "published_at": "2026-05-10 08:34",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -172,15 +188,7 @@
       "source": "정치 (SBS)",
       "title": "\"'명품 가방' 무혐의 종결 석 달 전 윤과 관저 회동\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008553154&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-10 06:56",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "개헌안 표결 시도 중단…우 의장 \"정략으로 무산 유감\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008553124&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-10 06:56",
+      "published_at": "2026-05-10 08:34",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
