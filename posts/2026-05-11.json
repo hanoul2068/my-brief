@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T06:59:23.699923+09:00",
+  "generated_at": "2026-05-11T08:38:09.682275+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,9 +34,57 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "레오·실바 잔류…프로배구 6개 구단, 외국인 선수 재계약",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260511065535Kjb",
-      "published_at": "2026-05-11 06:58",
+      "title": "트럼프 \"이란 답 용납 불가\"…종전협상 '안갯속'",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260511083051NxT",
+      "published_at": "2026-05-11 08:37",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "이란측 \"트럼프 반응 중요치 않아…만족시키려 계획 짠 것 아냐\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260511080004m4n",
+      "published_at": "2026-05-11 08:37",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "삼성전자 노사 오늘 사후조정 돌입…총파업 전 마지막 기회",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260511075742i1g",
+      "published_at": "2026-05-11 08:37",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "LVMH 베르나르 아르노 회장 3년 만에 방한…신세계·롯데 주요 매장 점검",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260511075218g9u",
+      "published_at": "2026-05-11 08:37",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "이 대통령 \"갭투자 허용 주장은 '억까'…세 낀 1주택자도 매도 기회\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260511074133vod",
+      "published_at": "2026-05-11 08:37",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[정치쇼] 한동훈 \"박민식에 투표하는 것은 장동혁에 투표하는 것\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008554723&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-05-11 08:37",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "이 대통령 \"세입자 있는 1주택자 매도 기회…갭투자 허용 주장 억까\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008554647&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-05-11 08:37",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -44,7 +92,7 @@
       "source": "정치 (SBS)",
       "title": "전 국무총리와 전 경제부총리…대구시민들 마음은?",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008554563&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-11 06:59",
+      "published_at": "2026-05-11 08:37",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -52,7 +100,7 @@
       "source": "정치 (SBS)",
       "title": "붉은광장서 첫 행진…파병으로 두터워진 '혈맹' 과시",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008554499&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-11 06:59",
+      "published_at": "2026-05-11 08:37",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -60,7 +108,7 @@
       "source": "정치 (SBS)",
       "title": "한날 일제히 사무소 연 '북갑'…여야 총출동",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008554498&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-11 06:59",
+      "published_at": "2026-05-11 08:38",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -68,7 +116,7 @@
       "source": "정치 (SBS)",
       "title": "\"비행체 2기, 1분 간격 타격\"…기종·주체 추가 조사",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008554493&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-11 06:59",
+      "published_at": "2026-05-11 08:38",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -76,7 +124,7 @@
       "source": "정치 (SBS)",
       "title": "붉은 광장서 인공기 들었다…러 군대와 어깨 나란히",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008554311&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-11 06:59",
+      "published_at": "2026-05-11 08:38",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -84,7 +132,7 @@
       "source": "정치 (SBS)",
       "title": "정부 \"미상 비행체 2기, 나무호 선미 1분 간격 타격\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008554399&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-11 06:59",
+      "published_at": "2026-05-11 08:38",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -92,7 +140,7 @@
       "source": "정치 (SBS)",
       "title": "수성? 탈환? 국회 입성?…뜨거워지는 '북갑' 보궐",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008554303&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-11 06:59",
+      "published_at": "2026-05-11 08:38",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -100,23 +148,7 @@
       "source": "정치 (SBS)",
       "title": "'북갑' 종일 들썩…하정우·박민식·한동훈 한날 개소식",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008554302&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-11 06:59",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "외교부 \"나무호 사고, 미상 비행체가 선미 타격\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008554360&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-11 06:59",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "'최대 격전지' 부산 북갑 보선 후보들 같은 날 캠프 열고 세몰이",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008554280&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-11 06:59",
+      "published_at": "2026-05-11 08:38",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
