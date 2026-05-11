@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T07:16:49.835856+09:00",
+  "generated_at": "2026-05-12T08:44:30.342384+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,25 +34,41 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "[AM-PM]  안규백, 나흘간 방미…한미 안보 현안 논의 外",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260512071429Rpj",
-      "published_at": "2026-05-12 07:16",
+      "title": "삼성전자 총파업 '운명의 날'…노사, 오늘 마지막 협상",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260512081637kfb",
+      "published_at": "2026-05-12 08:43",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "한국 1분기 성장률 세계 1위…반도체가 견인",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260512071115PKk",
-      "published_at": "2026-05-12 07:16",
+      "title": "[뉴스특보] 트럼프, 군사작전 재개 시사…이란 \"대응할 준비\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260512080614eIb",
+      "published_at": "2026-05-12 08:43",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "쿠팡 개인정보 유출 제재 임박…“역대급 과징금 가능성”",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260512071017vLF",
-      "published_at": "2026-05-12 07:16",
+      "title": "청송 주왕산 초등생 실종 사흘째…수색 재개",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260512075650FEO",
+      "published_at": "2026-05-12 08:44",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "전남 서해안 호우주의보…충청이남 집중호우 주의",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260512072219IPg",
+      "published_at": "2026-05-12 08:44",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "오세훈 \"민주, 재개발·재건축 적대적\"…한강버스 논란엔",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008556523&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-05-12 08:44",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -60,7 +76,7 @@
       "source": "정치 (SBS)",
       "title": "\"내란 극복\" vs \"공소취소 막아야\"…승부처 된 '영남'",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008556422&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-12 07:16",
+      "published_at": "2026-05-12 08:44",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -68,7 +84,7 @@
       "source": "정치 (SBS)",
       "title": "청와대 \"민간 선박 공격 규탄\"…대상은 특정 안 해",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008556416&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-12 07:16",
+      "published_at": "2026-05-12 08:44",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -76,7 +92,7 @@
       "source": "정치 (SBS)",
       "title": "\"세 준 1주택 매도 기회에 '갭투자 허용'?…'억까'\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008556296&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-12 07:16",
+      "published_at": "2026-05-12 08:44",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -84,7 +100,7 @@
       "source": "정치 (SBS)",
       "title": "일부러 기관실 노렸나…자폭 드론? 대함 미사일?",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008556291&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-12 07:16",
+      "published_at": "2026-05-12 08:44",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -92,7 +108,7 @@
       "source": "정치 (SBS)",
       "title": "추미애 \"피해자 명예 회복 당연\"…정원오 \"입법부 일\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008556162&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-12 07:16",
+      "published_at": "2026-05-12 08:44",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -100,7 +116,7 @@
       "source": "정치 (SBS)",
       "title": "[지선직관] '1년 월세' 구한 조국…김용남 SNS에 \"인생 오점\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008556164&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-12 07:16",
+      "published_at": "2026-05-12 08:44",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -108,7 +124,7 @@
       "source": "정치 (SBS)",
       "title": "\"김관영, 영구 복당 불허\"…\"신청할 이유 없다\" 신경전",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008556165&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-12 07:16",
+      "published_at": "2026-05-12 08:44",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -116,7 +132,7 @@
       "source": "정치 (SBS)",
       "title": "\"갭투자 허용 주장은 '억까'\"…이 대통령 SNS로 반박",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008556151&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-12 07:16",
+      "published_at": "2026-05-12 08:44",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -124,15 +140,7 @@
       "source": "정치 (SBS)",
       "title": "정치권도 '나무호 공방'…이란 소행 가능성에도 '신중론'",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008556142&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-12 07:16",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "태국 화물선도 같은 곳 '뻥'…일부러 노리고 타격했나",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008556141&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-12 07:16",
+      "published_at": "2026-05-12 08:44",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
