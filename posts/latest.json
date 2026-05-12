@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T07:21:01.573764+09:00",
+  "generated_at": "2026-05-13T08:47:28.049939+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,113 +34,33 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "영동고속도로서 화물차가 승용차 추돌…2명 중상",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260513065728hp9",
-      "published_at": "2026-05-13 07:20",
+      "title": "안규백 \"호르무즈 단계적 기여 검토 미국 전달\"…전작권 전환에 공감, 약간 인식차",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260513084501RBN",
+      "published_at": "2026-05-13 08:47",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "[AM-PM] 이 대통령, 베선트 장관·허리펑 부총리 접견 外",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH202605130656109Dt",
-      "published_at": "2026-05-13 07:20",
+      "title": "트럼프 중국으로 출발…이란 전쟁 논의할까",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH202605130836518dt",
+      "published_at": "2026-05-13 08:47",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "[속보] 안규백 \"美국방, 조건에 기초한 전작권 조속 전환 공감\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260513064133sgm",
-      "published_at": "2026-05-13 07:20",
+      "title": "이번 주말 종로 일대서 '연등회' 행렬…주요 도로 통제",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260513083305Elw",
+      "published_at": "2026-05-13 08:47",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "이란, 트럼프 방문 앞둔 中에 입장 대변 요청…영구종전 등",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260513063619xK4",
-      "published_at": "2026-05-13 07:20",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "\"짜장면 왔어요\" 한 곳 모인 3인…때론 어색한 기운도",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008558487&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-13 07:20",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "'국민배당금' 제안 파장…\"공산당 본색\" \"개인 의견\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008558485&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-13 07:20",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "[단독] \"비행체 엔진 잔해 약 1㎥\"…곧 국내서 정밀감식",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008558483&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-13 07:20",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "이 대통령 오늘 베선트 미 재무장관·허리펑 중국 부총리 접견",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008558537&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-13 07:20",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "\"짜장면 신속 배달\" 한데 모인 세 후보…어색한 조우",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008558376&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-13 07:20",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "'국민배당금' 발언에 국장 흔들?…청와대 \"개인 의견\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008558373&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-13 07:20",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "[단독] \"타격 비행체 엔진 잔해 약 1㎥\"…곧 국내서 감식",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008558372&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-13 07:20",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "[지선직관] 조국 게시글에 잇따라…문 전 대통령의 '좋아요'",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008558154&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-13 07:20",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "\"보수를 살리는 망언\"…서울은 지도부와 '거리두기'",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008558152&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-13 07:20",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "공천자 대회서 \"반민주 심판\"…밖에선 \"대표 사퇴하라\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008558151&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-13 07:20",
+      "title": "4월 취업자 수 7만명대 증가…16개월 만에 최소폭",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260513080300ecN",
+      "published_at": "2026-05-13 08:47",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
