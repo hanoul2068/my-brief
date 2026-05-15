@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T07:08:46.803049+09:00",
+  "generated_at": "2026-05-16T08:42:31.484265+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,9 +34,17 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
+      "title": "트럼프 \"이란 인프라, 이틀이면 날릴 수 있어\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH202605160830433MA",
+      "published_at": "2026-05-16 08:41",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
       "title": "[알아BIO] \"댕냥이도 100세 시대?\"…제약사, 펫시장 정조준",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260514174619ywa",
-      "published_at": "2026-05-16 07:08",
+      "published_at": "2026-05-16 08:42",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -44,7 +52,7 @@
       "source": "주요뉴스 (연합TV)",
       "title": "14억 당첨은 집념의 승리?…30년 간 같은 번호로 로또 산 미 남성",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR2026051416543772m",
-      "published_at": "2026-05-16 07:08",
+      "published_at": "2026-05-16 08:42",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -52,7 +60,7 @@
       "source": "주요뉴스 (연합TV)",
       "title": "폭우 쏟아지기 직전, 맨홀 아래서 \"야옹\"…고양이 울음소리 틀어 유인·구조",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260514122909WFo",
-      "published_at": "2026-05-16 07:08",
+      "published_at": "2026-05-16 08:42",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -60,7 +68,7 @@
       "source": "주요뉴스 (연합TV)",
       "title": "스페이스X, 이르면 다음달 12일 나스닥 상장",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR202605160501016lc",
-      "published_at": "2026-05-16 07:08",
+      "published_at": "2026-05-16 08:42",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -68,15 +76,23 @@
       "source": "주요뉴스 (연합TV)",
       "title": "미국 \"이스라엘-레바논, 휴전 45일 연장 합의\"",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260516035342pxZ",
-      "published_at": "2026-05-16 07:08",
+      "published_at": "2026-05-16 08:42",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "대만 외교수장 \"美 대만정책 변함없어…中, 위험 고조 원천\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260516010620Eaq",
-      "published_at": "2026-05-16 07:08",
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "TK 신공항-모내기 현장 방문…야 \"노골적 선거 개입\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008564603&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-05-16 08:42",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "김상욱-김종훈, 울산 경선 합의…김두겸-박맹우는?",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008564602&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-05-16 08:42",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -84,7 +100,7 @@
       "source": "정치 (SBS)",
       "title": "정원오 \"206억 혈세 투입\"…오세훈 \"토론 회피\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008564601&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-16 07:08",
+      "published_at": "2026-05-16 08:42",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -92,15 +108,7 @@
       "source": "정치 (SBS)",
       "title": "후보등록 마감…\"장동혁이 전략자산\" \"함량미달 후보들\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008564575&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-16 07:08",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "김상욱-김종훈, 울산 경선 합의…김두겸-박맹우는?",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008564147&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-16 07:08",
+      "published_at": "2026-05-16 08:42",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -108,7 +116,7 @@
       "source": "정치 (SBS)",
       "title": "청와대 수석-장관-대표 출신 맞붙은 부산 북갑…민심은?",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008564145&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-16 07:08",
+      "published_at": "2026-05-16 08:42",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -116,7 +124,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령 \"사적보복대행은 중대범죄…법질서 따라 해결해야\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008564235&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-16 07:08",
+      "published_at": "2026-05-16 08:42",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -124,7 +132,7 @@
       "source": "정치 (SBS)",
       "title": "김종철 방미통위원장, 단말기 유통현장 방문…휴대전화 직접 개통도",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008564227&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-16 07:08",
+      "published_at": "2026-05-16 08:42",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -132,7 +140,7 @@
       "source": "정치 (SBS)",
       "title": "방미통위, 연합뉴스TV·YTN 사추위 미구성 시정명령…2시간 치열한 토론",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008564197&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-16 07:08",
+      "published_at": "2026-05-16 08:42",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -140,7 +148,7 @@
       "source": "정치 (SBS)",
       "title": "청와대, 블룸버그 'AI 초과 이익 배분' 보도에 항의·사과 요구",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008564174&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-16 07:08",
+      "published_at": "2026-05-16 08:42",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -148,15 +156,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령, TK 신공항 건설 예정 부지 방문…\"사업 지연 안타까워\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008564173&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-16 07:08",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "나무호 비행체 엔진 잔해 등 국내 도착…외교부 \"정밀 분석 예정\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008564049&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-16 07:08",
+      "published_at": "2026-05-16 08:42",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
