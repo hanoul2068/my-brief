@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T07:03:34.142073+09:00",
+  "generated_at": "2026-05-18T08:44:16.687929+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,17 +34,89 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "[AM-PM] 제46회 5·18 광주민주화운동 기념식 개최 外",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260518065444Vfq",
-      "published_at": "2026-05-18 07:03",
+      "title": "LG전자, 기능성 신소재 '마린 글라스'로 대통령 표창",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202605180832282i6",
+      "published_at": "2026-05-18 08:43",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "\"오케이, 발사\"…트럼프, 이란 군용기 타격 AI 영상 게시",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260518064639GDL",
-      "published_at": "2026-05-18 07:03",
+      "title": "미 \"中, 2028년까지 농산물 구매\"…이란 압박 재개",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260518083124NV8",
+      "published_at": "2026-05-18 08:43",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "노사 갈등, 바이오·IT 업계로 확산",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260518082826NcQ",
+      "published_at": "2026-05-18 08:43",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "집보다 주식…코스피, 수도권 주택 시총 추월",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202605180826516gg",
+      "published_at": "2026-05-18 08:43",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "삼성전자, 파업 D-3 마지막 대화…'성과급 15%' 쟁점",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260518082608MFd",
+      "published_at": "2026-05-18 08:43",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "증시로 돈 빠지자…은행권 예금 금리 잇달아 인상",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260518082341SEq",
+      "published_at": "2026-05-18 08:43",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "'2차 고유가 피해 지원금' 오늘부터 지급 시작",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260518082328aOZ",
+      "published_at": "2026-05-18 08:43",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "법원 \"제자 논문 표절한 서울대 교수 해임은 정당\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260518082242ApZ",
+      "published_at": "2026-05-18 08:44",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "주식 결제 하루 단축 추진…내년 10월 도입 전망",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260518082158g9k",
+      "published_at": "2026-05-18 08:44",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "북 내고향 온 날…김정은 \"남부 국경 요새로\" 지시",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008566295&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-05-18 08:44",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "한미 정상 통화…\"팩트시트 충실 이행 노력\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008566191&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-05-18 08:44",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -52,7 +124,7 @@
       "source": "정치 (SBS)",
       "title": "정청래 \"원팀·원보이스\"…장동혁 \"보수 위해 큰 결단\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008566048&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-18 07:03",
+      "published_at": "2026-05-18 08:44",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -60,7 +132,7 @@
       "source": "정치 (SBS)",
       "title": "8년 만에 입국한 북 선수들…환영에도 굳은 표정",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008566047&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-18 07:03",
+      "published_at": "2026-05-18 08:44",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -68,7 +140,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령, 트럼프와 통화…\"팩트시트 충실 이행 노력\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008566045&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-18 07:03",
+      "published_at": "2026-05-18 08:44",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -76,7 +148,7 @@
       "source": "정치 (SBS)",
       "title": "\"파업 손실 상상 초월…긴급조정 등 모든 수단 강구\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008566043&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-18 07:03",
+      "published_at": "2026-05-18 08:44",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -84,7 +156,7 @@
       "source": "정치 (SBS)",
       "title": "한미정상, 팩트시트 '역사적 합의' 상기…\"충실한 이행 위해 노력\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008566002&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-18 07:03",
+      "published_at": "2026-05-18 08:44",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -92,7 +164,7 @@
       "source": "정치 (SBS)",
       "title": "한미정상 통화…미중회담 결과·한반도평화·팩트시트 등 논의",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008565979&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-18 07:03",
+      "published_at": "2026-05-18 08:44",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -100,7 +172,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령, 트럼프 대통령과 통화…미중정상회담 결과 공유",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008565975&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-18 07:03",
+      "published_at": "2026-05-18 08:44",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -108,23 +180,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령, 트럼프와 통화…미중 정상회담 결과 논의",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008565971&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-18 07:03",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "부산 북갑 추세 분석해보니…서울·대구 여론 추이는",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008565868&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-18 07:03",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "환영에도 침묵에 무표정…정장 차림에 김일성 부자 배지",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008565839&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-18 07:03",
+      "published_at": "2026-05-18 08:44",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
