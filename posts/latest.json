@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T07:38:18.331494+09:00",
+  "generated_at": "2026-05-22T08:45:36.842673+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,41 +34,81 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "'이스라엘서 석방' 한국인 활동가 2명 한국 도착",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260522072713ulq",
-      "published_at": "2026-05-22 07:37",
+      "title": "고기가 당기는 이유…\"장이 음식 속 단백질 부족 알려줘\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260522084059zco",
+      "published_at": "2026-05-22 08:45",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "태영호 \"김정은, 주애 태어나자 '혈통주의' 원칙으로…10년간 후계 준비\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260522072357nE6",
-      "published_at": "2026-05-22 07:37",
+      "title": "\"정부가 20% 손실 우선 부담\"…국민참여성장펀드 오늘부터 선착순 판매",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260522084014vPD",
+      "published_at": "2026-05-22 08:45",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "트럼프, 냉장고·에어컨 냉매규제 완화…바이든표 '환경규제' 뒤집기",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR202605220647174BJ",
-      "published_at": "2026-05-22 07:37",
+      "title": "쿠팡이츠 무료배달 확대에 소상공인 반발…\"결국 업주 부담\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202605220833561Re",
+      "published_at": "2026-05-22 08:45",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "'228명 사망' 항공참사…에어프랑스·에어버스, 17년만에 과실치사 유죄",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260522064351MZb",
-      "published_at": "2026-05-22 07:37",
+      "title": "삼성전자 노사, '노조 블랙리스트 의혹' 등 고소 취하키로",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260522083337cg0",
+      "published_at": "2026-05-22 08:45",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "[속보] \"이란, 파키스탄 중재로 미국과 메시지 교환 중\" <이란 매체>",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260522064112Vwt",
-      "published_at": "2026-05-22 07:38",
+      "title": "미 \"이란, 해협 통행료 징수시 합의 불가능\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260522083300AKw",
+      "published_at": "2026-05-22 08:45",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "이란 매체 \"美와 종전 합의 위해 중재국 통한 메시지 교환중\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260522080533JkC",
+      "published_at": "2026-05-22 08:45",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "'석방' 활동가 2명 귀국…\"이스라엘군이 얼굴 여러 차례 구타\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260522080426XA6",
+      "published_at": "2026-05-22 08:45",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "대전MBC, 김태흠 모두발언 방송 누락…김태흠 측 \"공정성 훼손\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008574462&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-05-22 08:45",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "3인 3색 출정식…'보수 재건'·'배신' 신경전에 '삭발'까지",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008574354&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-05-22 08:45",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "정원오 성동·오세훈 강북 유세…'철근 누락' 공방",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008574261&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-05-22 08:45",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -76,7 +116,7 @@
       "source": "정치 (SBS)",
       "title": "\"내란 심판\" vs \"정권 심판\"…첫날부터 '후끈'",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008574260&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-22 07:38",
+      "published_at": "2026-05-22 08:45",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -84,7 +124,7 @@
       "source": "정치 (SBS)",
       "title": "익선동 찾은 이 대통령…카페서 \"거기 커피는 아니죠?\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008574227&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-22 07:38",
+      "published_at": "2026-05-22 08:45",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -92,7 +132,7 @@
       "source": "정치 (SBS)",
       "title": "[한반도 포커스] 다시 나온 '북비핵화' 목표…청와대 \"시진핑 방북 주시\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008574132&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-22 07:38",
+      "published_at": "2026-05-22 08:45",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -100,15 +140,7 @@
       "source": "정치 (SBS)",
       "title": "[한반도 포커스] 여권 손에 든 북 선수단…두 국가 지침? 항의는 안 해",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008574131&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-22 07:38",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "정원오 성동·오세훈 강북 유세…'철근누락' 공방",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008574126&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-22 07:38",
+      "published_at": "2026-05-22 08:45",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -116,7 +148,7 @@
       "source": "정치 (SBS)",
       "title": "\"내란 심판\" vs \"정권 심판\"…공식 선거운동 돌입",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008574125&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-22 07:38",
+      "published_at": "2026-05-22 08:45",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -124,7 +156,7 @@
       "source": "정치 (SBS)",
       "title": "공식 선거운동 개시…후보들 여론조사 수치는?",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008573917&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-22 07:38",
+      "published_at": "2026-05-22 08:45",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -132,23 +164,7 @@
       "source": "정치 (SBS)",
       "title": "부산 북갑, '보수 재건'·'배신' 설전…삭발도",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008573916&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-22 07:38",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "'가상자산' 신고 누락 의혹…'AI 주식' 놓고 논란",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008573915&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-22 07:38",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "오늘부터 공식 선거운동…13일간 '열전' 돌입",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008573913&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-22 07:38",
+      "published_at": "2026-05-22 08:45",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
