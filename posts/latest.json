@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T07:15:22.537783+09:00",
+  "generated_at": "2026-05-23T08:54:11.699720+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,81 +34,33 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "인천 벽돌공장서 용접 작업자 추락…50대 1명 숨지고 70대 부상",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260523070244cKH",
-      "published_at": "2026-05-23 07:14",
+      "title": "'김규리 자택 강도' 구속 영장 발부…법원 \"도주 우려\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260523084804oPP",
+      "published_at": "2026-05-23 08:53",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "[알아BIO] 한타·에볼라에 '팬데믹 시즌2' 위기감 커지나",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR202605211801545Y4",
-      "published_at": "2026-05-23 07:14",
+      "title": "미 무역대표 \"반도체 관세, 지금 당장은 없다\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260523082123QSx",
+      "published_at": "2026-05-23 08:53",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "\"털북숭이 용의자, 꿀잠 뒤 훈방\"…캐나다 심야 흑곰 출몰 소동",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260519161741KBr",
-      "published_at": "2026-05-23 07:14",
+      "title": "이란 전쟁 낙관론 이어가는 뉴욕증시…다우지수 또 최고치",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260523081804LyW",
+      "published_at": "2026-05-23 08:53",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "\"크루즈 타다 심심해서\"…1분 동안 이쑤시개 84개 부러뜨린 '기록 사냥꾼'",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260519100734mxQ",
-      "published_at": "2026-05-23 07:14",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "이 대통령 \"아파트·오피스텔 등 관리비 과다징수는 이제 불법\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260523044107rjf",
-      "published_at": "2026-05-23 07:14",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "트럼프 \"백악관에 있어야 할 때\"…장남 결혼식 불참",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260523044047vzJ",
-      "published_at": "2026-05-23 07:14",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "케빈 워시, 미 연방준비제도 신임 의장 취임…트럼프 \"독립적으로 일하길\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260523013130Ohl",
-      "published_at": "2026-05-23 07:15",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "미 국무, 나토 분열 재차 경고…\"트럼프, 동맹국들에 실망\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260523011012VxL",
-      "published_at": "2026-05-23 07:15",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "삼성 노조 첫날 투표율 66% 돌파…찬반 결집",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260523010213hfQ",
-      "published_at": "2026-05-23 07:15",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "민주 김용남, '차명 대부업·불법 배당 의혹'에 \"사실 아냐\" 반박",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260523003304Dqd",
-      "published_at": "2026-05-23 07:15",
+      "title": "미 영주권 신청 더 까다로워진다…\"본국 돌아가서 해야\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202605230816025DR",
+      "published_at": "2026-05-23 08:53",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -116,7 +68,7 @@
       "source": "정치 (SBS)",
       "title": "나포 활동가 귀국…\"여러 차례 폭행당했다\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008575776&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-23 07:15",
+      "published_at": "2026-05-23 08:53",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -124,7 +76,7 @@
       "source": "정치 (SBS)",
       "title": "\"정용진 석고대죄하길\" 직격…'탱크데이' 공방 계속",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008575781&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-23 07:15",
+      "published_at": "2026-05-23 08:53",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -132,7 +84,7 @@
       "source": "정치 (SBS)",
       "title": "평택을 5파전 첫 토론…'단일화'·'부정선거' 난타전",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008575760&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-23 07:15",
+      "published_at": "2026-05-23 08:53",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -140,7 +92,7 @@
       "source": "정치 (SBS)",
       "title": "'단일화' 시끌…\"정정당당 붙자\" VS \"하정우 돕나\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008575759&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-23 07:15",
+      "published_at": "2026-05-23 08:53",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -148,7 +100,7 @@
       "source": "정치 (SBS)",
       "title": "\"파란색 부러워 얼굴 시퍼렇게\" 발언 논란 [지선직관]",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008575533&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-23 07:15",
+      "published_at": "2026-05-23 08:53",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -156,7 +108,7 @@
       "source": "정치 (SBS)",
       "title": "'단일화' 시끌…\"정정당당 붙자\" \"하정우 돕나\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008575527&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-23 07:15",
+      "published_at": "2026-05-23 08:54",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -164,7 +116,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령 \"거기 커피 아니죠?\"…정치권도 파장",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008575521&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-23 07:15",
+      "published_at": "2026-05-23 08:54",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -172,7 +124,7 @@
       "source": "정치 (SBS)",
       "title": "청와대 \"소방청장 감찰 착수…이 대통령, 진상 확인 지시\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008575564&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-23 07:15",
+      "published_at": "2026-05-23 08:54",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -180,7 +132,7 @@
       "source": "정치 (SBS)",
       "title": "장동혁 경기·송언석 울산…국힘, 험지·텃밭 동시 공략",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008575555&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-23 07:15",
+      "published_at": "2026-05-23 08:54",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -188,7 +140,7 @@
       "source": "정치 (SBS)",
       "title": "민주당, 충북·강원행…'강호축' 등 지역 공약 앞세워 부동층 공략",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008575552&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-23 07:15",
+      "published_at": "2026-05-23 08:54",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
