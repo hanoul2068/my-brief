@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T07:03:30.851537+09:00",
+  "generated_at": "2026-05-24T08:44:01.337252+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,9 +34,25 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
+      "title": "[속보] 美방송 \"백악관 검문소 총격에 2명 부상…트럼프는 안전\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR2026052408350289s",
+      "published_at": "2026-05-24 08:43",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "이란 혁명수비대 \"상선 25척 호르무즈 통과\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260524081205BYC",
+      "published_at": "2026-05-24 08:43",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
       "title": "정부, 스타벅스 '총리 표창' 취소 검토…\"추후 포상에 영향\"",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260524065758RfN",
-      "published_at": "2026-05-24 07:03",
+      "published_at": "2026-05-24 08:43",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -44,7 +60,7 @@
       "source": "주요뉴스 (연합TV)",
       "title": "\"선생님, 이 쇳조각 뭐예요?\"…노르웨이 소년이 발견한 1,300년 전 고대 검",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260519162912aXa",
-      "published_at": "2026-05-24 07:03",
+      "published_at": "2026-05-24 08:43",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -52,63 +68,23 @@
       "source": "주요뉴스 (연합TV)",
       "title": "\"이대로면 폐사한다\"…불볕더위에 미 꿀벌 2,500만 마리 '냉각 구조' 작전",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260519164705fvp",
-      "published_at": "2026-05-24 07:03",
+      "published_at": "2026-05-24 08:43",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "[속보] 트럼프 \"협정 최종 사안·세부내용 논의중…조만간 발표\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260524054202RY1",
-      "published_at": "2026-05-24 07:03",
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "스타벅스 2차 사과에도…불매·정치권 공방 확산",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008576542&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-05-24 08:43",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "나홍진 '호프' 칸영화제 수상 불발…황금종려상은 '피오르드'",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260524044500h12",
-      "published_at": "2026-05-24 07:03",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "서울 내발산동 아파트서 불…1명 부상·50명 대피",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR202605240353532Vw",
-      "published_at": "2026-05-24 07:03",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "트럼프 \"이란과 합의할지, 공습 재개할지 50대 50…24일까지 결정\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260524004726jQj",
-      "published_at": "2026-05-24 07:03",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "하남 망월동 주택서 화재…1명 사망",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260524004141lIW",
-      "published_at": "2026-05-24 07:03",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "[사건사고] 지인 살해 40대 남성 긴급체포…채무 갈등 추정",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260523231610w6m",
-      "published_at": "2026-05-24 07:03",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "미 국무 \"오늘이나 내일, 며칠 뒤 종전합의 발표 가능성\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260523231501Inp",
-      "published_at": "2026-05-24 07:03",
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "이 대통령 \"반칙과 특권 걷어내는 개혁 추진\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008576541&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-05-24 08:43",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -116,7 +92,7 @@
       "source": "정치 (SBS)",
       "title": "정청래 전남·장동혁 충남…첫 주말 유세 총력전",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008576261&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-24 07:03",
+      "published_at": "2026-05-24 08:43",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -124,7 +100,7 @@
       "source": "정치 (SBS)",
       "title": "박근혜 유세 지원에…\"추경호 급했나\" 김부겸 맞불 유세",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008576262&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-24 07:03",
+      "published_at": "2026-05-24 08:43",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -132,7 +108,7 @@
       "source": "정치 (SBS)",
       "title": "봉하 찾은 이 대통령 \"반칙과 특권 걷어내는 개혁 추진\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008576263&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-24 07:03",
+      "published_at": "2026-05-24 08:43",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -140,7 +116,7 @@
       "source": "정치 (SBS)",
       "title": "[바로이뉴스] 박근혜 전 대통령, 대구서 추경호 후보 유세 지원",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008576179&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-24 07:03",
+      "published_at": "2026-05-24 08:43",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -148,7 +124,7 @@
       "source": "정치 (SBS)",
       "title": "범여권, '노무현 전 대통령 서거 17주기' 총집결…지방선거 승리 다짐",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008576180&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-24 07:03",
+      "published_at": "2026-05-24 08:43",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -156,7 +132,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령 \"기득권 반발 두려워 않고 개혁…남북공동선언 계승\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008576125&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-24 07:03",
+      "published_at": "2026-05-24 08:43",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -164,7 +140,7 @@
       "source": "정치 (SBS)",
       "title": "[바로이뉴스] 이 대통령, 노무현 전 대통령 서거 17주기 추도식 참석",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008576102&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-24 07:03",
+      "published_at": "2026-05-24 08:43",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -172,23 +148,7 @@
       "source": "정치 (SBS)",
       "title": "정원오 \"삼풍 참사 원인도 반토막 철근\"…안전 문제 앞세워 오세훈 비판",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008576111&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-24 07:03",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "민주당은 '봉하마을' 집결…국힘은 '충남·전북'으로",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008576031&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-24 07:03",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "[자막뉴스] 이틀 전까지만 해도 칭찬했는데…\"김승룡 소방청장 긴급 감찰\" 이재명 대통령 지시, 왜?",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008575991&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-24 07:03",
+      "published_at": "2026-05-24 08:43",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
