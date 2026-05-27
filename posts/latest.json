@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T07:47:52.574771+09:00",
+  "generated_at": "2026-05-28T08:52:58.667732+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,41 +34,65 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "쿡 연준 이사 \"인플레 잘못된 방향…지속시 금리 인상 준비\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR202605280734028sf",
-      "published_at": "2026-05-28 07:47",
+      "title": "국제유가, 미·이란 협상타결 기대에 급락…WTI 90달러 하회",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260528083300IdI",
+      "published_at": "2026-05-28 08:52",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "트럼프 \"협상 아직 불만족\"…호르무즈·핵 강경론",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260528072959Ps9",
-      "published_at": "2026-05-28 07:47",
+      "title": "[속보] \"미군, '호르무즈 위협' 이란 드론 요격…군기지 추가 타격\"<로이터>",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202605280827031Vt",
+      "published_at": "2026-05-28 08:52",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "북한 외무성, '북 비핵화' 쿼드 공동성명에 \"비핵화 영원히 없어\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR202605280721201CO",
-      "published_at": "2026-05-28 07:47",
+      "title": "토스증권에 뜬금없이 대통령 합성 사진이?…\"크롬 캐싱 때문\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260528081842YbJ",
+      "published_at": "2026-05-28 08:52",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "젠슨 황 \"대만, AI혁명 진원지…연 207조원 투자할 것\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260528070147nKA",
-      "published_at": "2026-05-28 07:47",
+      "title": "NC AI, 현대로템과 국방 분야 '피지컬AI' 개발 나선다",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260528081840ZWz",
+      "published_at": "2026-05-28 08:52",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "대미 의존 줄이려는 캐나다…美보잉 대신 스웨덴 조기경보기 선택",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260528062055wue",
-      "published_at": "2026-05-28 07:47",
+      "title": "[단독] 더벤티도 가격 인상…콜드브루 12%·이천쌀라떼 18% 올라",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260528081707C5p",
+      "published_at": "2026-05-28 08:52",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "노동시장 불참 20대 후반 6년만에 최대↑…'쉬었음' 3만명 증가",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260528081635qnj",
+      "published_at": "2026-05-28 08:52",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "타워크레인 노조 총파업…\"저가수주·안전문제 개선요구\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260528081056meX",
+      "published_at": "2026-05-28 08:52",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "태풍 '장미' 북상 중…우리나라 영향 가능성은?",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260528080115ypE",
+      "published_at": "2026-05-28 08:52",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -76,7 +100,7 @@
       "source": "정치 (SBS)",
       "title": "오늘부터 여론조사 공표 금지…29일부터 사전 투표",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008582469&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-28 07:47",
+      "published_at": "2026-05-28 08:52",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -84,7 +108,7 @@
       "source": "정치 (SBS)",
       "title": "청와대 \"통화한 적 없어\"…\"후보 사퇴해야\" vs \"아전인수\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008582388&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-28 07:47",
+      "published_at": "2026-05-28 08:52",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -92,7 +116,7 @@
       "source": "정치 (SBS)",
       "title": "박근혜 '부울경' 지원에…정청래 \"부끄러움 모르고\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008582339&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-28 07:47",
+      "published_at": "2026-05-28 08:52",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -100,7 +124,7 @@
       "source": "정치 (SBS)",
       "title": "연이틀 부산 전통시장 방문…국힘 \"대놓고 관권선거\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008582338&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-28 07:47",
+      "published_at": "2026-05-28 08:52",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -108,7 +132,7 @@
       "source": "정치 (SBS)",
       "title": "\"이란 대함미사일 가능성 높다\" 결론…이란은 부인",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008582332&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-28 07:47",
+      "published_at": "2026-05-28 08:52",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -116,7 +140,7 @@
       "source": "정치 (SBS)",
       "title": "내일부터 이틀간 사전투표 진행…전국 투표소 어디서나 가능",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008582379&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-28 07:47",
+      "published_at": "2026-05-28 08:52",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -124,7 +148,7 @@
       "source": "정치 (SBS)",
       "title": "여야, 나무호 발표에 시각차…\"이란 사과해야\"·\"늑장 발표\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008582274&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-28 07:47",
+      "published_at": "2026-05-28 08:52",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -132,7 +156,7 @@
       "source": "정치 (SBS)",
       "title": "투표 전 토론회 평균 1.2회…유권자는 뭘 보고 뽑나",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008582073&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-28 07:47",
+      "published_at": "2026-05-28 08:52",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -140,7 +164,7 @@
       "source": "정치 (SBS)",
       "title": "\"착착개발\" vs \"닥치고 공급\"…부동산 공약 따져보니",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008582072&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-28 07:47",
+      "published_at": "2026-05-28 08:52",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -148,7 +172,7 @@
       "source": "정치 (SBS)",
       "title": "'미니 총선' 14곳 보니…'우세' 판단은 민주 9 국힘 2",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008582064&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-05-28 07:47",
+      "published_at": "2026-05-28 08:52",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
