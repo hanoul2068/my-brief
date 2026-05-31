@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T07:10:30.867421+09:00",
+  "generated_at": "2026-06-01T08:53:00.898384+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,25 +34,81 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "호르무즈 봉쇄에도…미군지시 속 하루 3척꼴 해협 통과",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260601070651gwP",
-      "published_at": "2026-06-01 07:10",
+      "title": "트럼프 \"이란, 핵무기 개발은 물론 구매도 않겠다고 동의\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260601085042PAn",
+      "published_at": "2026-06-01 08:52",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "[날씨] 주 초 30도 넘는 더위…제주·남해안 비",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260601070530vUx",
-      "published_at": "2026-06-01 07:10",
+      "title": "미군 안내 속 하루 3척꼴 호르무즈 해협 통과",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260601083800WLF",
+      "published_at": "2026-06-01 08:52",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "미 상무부, 중국 기업 해외 자회사의 첨단 AI칩 확보 차단",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260601065806fys",
-      "published_at": "2026-06-01 07:10",
+      "title": "한미약품, 릴리와 신약후보물질 라이선스 계약 체결",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202606010835293fi",
+      "published_at": "2026-06-01 08:52",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "LG전자, 1분기 올레드TV 점유율 과반 달성…1위 순항",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202606010824268Tr",
+      "published_at": "2026-06-01 08:52",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "김정은, 딸 주애와 신의주 온실농장 시찰…\"새시대 지방변천 표준\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260601081307xxE",
+      "published_at": "2026-06-01 08:52",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "홍명보호 수비수 조유민, 족저근막 부분 파열…훈련 파트너 조위제 대체 발탁",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202606010812539LR",
+      "published_at": "2026-06-01 08:52",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "스타벅스, 오늘부터 카드 조건 없이 전액 환불…규모 '촉각'",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260601081049gaF",
+      "published_at": "2026-06-01 08:52",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "\"틈을 메우다 내 삶을 채우다\" 선거 방송은 SBS!",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008588527&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-06-01 08:52",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "논의 테이블 오른 '한일 군수물자 지원'…\"아직은 신중\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008588438&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-06-01 08:52",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "김정은, 중국 맞닿은 신의주온실농장 찾아 실태 점검",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008588466&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-06-01 08:52",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -60,7 +116,7 @@
       "source": "정치 (SBS)",
       "title": "뜨거웠던 마지막 주말…평택을 민심은 어디로?",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008588405&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-01 07:10",
+      "published_at": "2026-06-01 08:52",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -68,7 +124,7 @@
       "source": "정치 (SBS)",
       "title": "\"투표 포기, 내 삶 망치는 자들에 기회\"…\"갈라치기\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008588341&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-01 07:10",
+      "published_at": "2026-06-01 08:52",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -76,7 +132,7 @@
       "source": "정치 (SBS)",
       "title": "\"정권 폭주 막아달라\"…MB도 부산서 유세 지원",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008588340&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-01 07:10",
+      "published_at": "2026-06-01 08:52",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -84,7 +140,7 @@
       "source": "정치 (SBS)",
       "title": "\"DJ 옳았다는 걸 보여달라\"…호남·충청 집중 유세",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008588339&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-01 07:10",
+      "published_at": "2026-06-01 08:52",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -92,7 +148,7 @@
       "source": "정치 (SBS)",
       "title": "정청래, 천안서 마지막 선대위 회의…기초단체 핀셋 지원",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008588362&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-01 07:10",
+      "published_at": "2026-06-01 08:52",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -100,7 +156,7 @@
       "source": "정치 (SBS)",
       "title": "\"한일 국방, 군수물자 지원 논의\"…\"아직은 신중\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008588096&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-01 07:10",
+      "published_at": "2026-06-01 08:52",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -108,31 +164,7 @@
       "source": "정치 (SBS)",
       "title": "대구·경남·전북 '팽팽'…지난 여론조사 결과 보니",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008588118&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-01 07:10",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "\"무소속 후보가 된다면\"…판 흔들릴까 '촉각'",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008588090&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-01 07:10",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "뜨거운 마지막 주말…평택을 민심은 어디로?",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008588089&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-01 07:10",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "\"정권 폭주 막아달라\"…부산 찾은 MB도 유세 지원",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008588087&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-01 07:10",
+      "published_at": "2026-06-01 08:52",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
