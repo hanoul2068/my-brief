@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T08:07:31.922434+09:00",
+  "generated_at": "2026-06-02T09:02:29.035235+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,17 +34,33 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "[속보] 지난달 물가 3.1% 상승…26개월 만 3%대",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260602080555bKc",
-      "published_at": "2026-06-02 08:07",
+      "title": "140년 전 한국-프랑스 이은 역사, 고종이 보낸 선물은?",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR2026060117501880K",
+      "published_at": "2026-06-02 09:02",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "[속보] 지난달 물가 상승률 3.1%…2년2개월 만에 최고",
+      "title": "'협상 좌초' 모면?…트럼프 \"다음주 휴전 연장·해협 개방 예상\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260602083401GRz",
+      "published_at": "2026-06-02 09:02",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "배달 종사자 보험가입 의무화…\"대인 무한·대물 2천만원 이상\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR2026060208274130Y",
+      "published_at": "2026-06-02 09:02",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "지난달 물가 상승률 3.1%…2년2개월 만에 최고",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260602080314La6",
-      "published_at": "2026-06-02 08:07",
+      "published_at": "2026-06-02 09:02",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -52,23 +68,31 @@
       "source": "주요뉴스 (연합TV)",
       "title": "이 대통령, 달러매각 가짜뉴스에 \"고의적 허위사실 유포, 반드시 엄단\"",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260602075221rE4",
-      "published_at": "2026-06-02 08:07",
+      "published_at": "2026-06-02 09:02",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "이란전쟁 여파에 미 5월 원유수출 사상 최대",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260602072628Ihc",
-      "published_at": "2026-06-02 08:07",
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[정치쇼] 김부겸  \"대구 바꾸려는 시민 마음 사전투표율 상승으로 나타나…민주당 견제도 내가 더 잘해\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008590622&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-06-02 09:02",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "바이든 여사 회고록 홍보 구설수…\"대선 패배 상처만 들춰\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR202606020712364DP",
-      "published_at": "2026-06-02 08:07",
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "정청래, 강원·수도권서 마지막 유세…청계광장 피날레",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008590579&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-06-02 09:02",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "이 대통령 \"허위 사실 유포, 포용 대상 아냐…반드시 찾아내 엄단\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008590575&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-06-02 09:02",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -76,7 +100,7 @@
       "source": "정치 (SBS)",
       "title": "\"오물\" \"민주당 흉내\"…평택을 '진흙탕 싸움'",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008590488&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-02 08:07",
+      "published_at": "2026-06-02 09:02",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -84,7 +108,7 @@
       "source": "정치 (SBS)",
       "title": "김정은, '우승' U-17 대표팀 ·내고향팀 경기 관람하고 격려",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008590526&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-02 08:07",
+      "published_at": "2026-06-02 09:02",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -92,7 +116,7 @@
       "source": "정치 (SBS)",
       "title": "선거철만 되면 터지는 '인증샷 색깔 논란'…빨간색 떡볶이와 파란색 떡볶이 사진까지",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008590518&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-02 08:07",
+      "published_at": "2026-06-02 09:02",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -100,7 +124,7 @@
       "source": "정치 (SBS)",
       "title": "\"축구 빼면 손흥민도 보통 사람?…왜 반도체 빼나\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008590441&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-02 08:07",
+      "published_at": "2026-06-02 09:02",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -108,7 +132,7 @@
       "source": "정치 (SBS)",
       "title": "\"이번엔 김부겸\" 세 확장…'박근혜 마케팅' 힘준 추경호",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008590427&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-02 08:07",
+      "published_at": "2026-06-02 09:02",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -116,7 +140,7 @@
       "source": "정치 (SBS)",
       "title": "\"국무회의 54번 불참\"…\"대통령의 허수아비\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008590395&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-02 08:07",
+      "published_at": "2026-06-02 09:02",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -124,31 +148,7 @@
       "source": "정치 (SBS)",
       "title": "민주 \"모든 후보 유세 중단\"…국힘 \"차분한 선거운동\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008590394&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-02 08:07",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "민주당 \"모든 후보 유세 중단\"…국힘 \"차분한 선거 운동\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008590323&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-02 08:07",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "\"가장 비싼 민주주의\"…가치 결정은 유권자 손에",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008590149&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-02 08:07",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "\"축구 빼면 손흥민도 보통?\"…이 대통령 '정면 반박'",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008590139&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-02 08:07",
+      "published_at": "2026-06-02 09:02",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
