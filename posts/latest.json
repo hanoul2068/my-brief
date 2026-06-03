@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T08:06:39.165375+09:00",
+  "generated_at": "2026-06-03T09:21:31.735488+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,33 +34,81 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "경찰 \"한화에어로 폭발사고 사망자 5명 신원확인 완료\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260603080230KRm",
-      "published_at": "2026-06-03 08:06",
+      "title": "[날씨] 지방선거일 30도 안팎 땡볕 더위…오후 곳곳 소나기",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260603091543qeb",
+      "published_at": "2026-06-03 09:21",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "막 올린 운명의 6·3 지선…여야 성적표는?",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260603080109WfR",
-      "published_at": "2026-06-03 08:06",
+      "title": "S&P, LG전자 신용등급 12년 만 상향…\"핵심사업 견조한 실적\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260603091501MsN",
+      "published_at": "2026-06-03 09:21",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "한화에어로 폭발 사망자 시신 5구 신원확인 완료…인도 예정",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260603072709hWM",
-      "published_at": "2026-06-03 08:06",
+      "title": "삼전·닉스에만 쏠렸나…우울한 코스닥",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260603091324c12",
+      "published_at": "2026-06-03 09:21",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "대전 시내버스서 흉기 휘두른 10대 학생 현행범 체포",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260603064444ggj",
-      "published_at": "2026-06-03 08:06",
+      "title": "이명박 전 대통령 한표…\"많은 국민이 투표했으면\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260603091203YK9",
+      "published_at": "2026-06-03 09:21",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "BTS 호주 멜버른 공연 1회 추가…월드투어 '아리랑' 확대",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202606030910303by",
+      "published_at": "2026-06-03 09:21",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "삼전닉스 단일종목 레버리지 투자 큰손 누구?…40대가 가장 적극적",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260603090900KUB",
+      "published_at": "2026-06-03 09:21",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "장동혁 \"투표하면 바꿀 수 있다…꼭 투표장 가달라\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260603090829UG7",
+      "published_at": "2026-06-03 09:21",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "미, 이란 경제 압박 강화…가상화폐 거래소 4곳 제재",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260603090754aUo",
+      "published_at": "2026-06-03 09:21",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "미 \"이란 향하던 유조선 봉쇄 경고 불응해 미사일로 무력화\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260603085712OKE",
+      "published_at": "2026-06-03 09:21",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[속보] 지방선거 투표율 오전 9시 현재 7.4%…4년 전보다 1.4%p↑",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008592372&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-06-03 09:21",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -68,7 +116,7 @@
       "source": "정치 (SBS)",
       "title": "\"검찰, 잘못하면 사과·취소해야\"…\"공소 취소 시동\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008592240&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-03 08:06",
+      "published_at": "2026-06-03 09:21",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -76,7 +124,7 @@
       "source": "정치 (SBS)",
       "title": "서소문 고가·스타벅스…선거전 강타한 이슈들",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008592201&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-03 08:06",
+      "published_at": "2026-06-03 09:21",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -84,7 +132,7 @@
       "source": "정치 (SBS)",
       "title": "\"집권여당 후보 당선돼야\" vs \"정청래 지도부 심판\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008592200&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-03 08:06",
+      "published_at": "2026-06-03 09:21",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -92,7 +140,7 @@
       "source": "정치 (SBS)",
       "title": "접전지 당선 윤곽 새벽쯤…지방선거 첫 '수검표'",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008592145&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-03 08:06",
+      "published_at": "2026-06-03 09:21",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -100,7 +148,7 @@
       "source": "정치 (SBS)",
       "title": "\"서울시 지켜달라\"…\"기호 2번에 표를\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008592144&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-03 08:06",
+      "published_at": "2026-06-03 09:21",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -108,7 +156,7 @@
       "source": "정치 (SBS)",
       "title": "\"안전한 서울 만들 것\"…\"이재명 성공 위해 1번\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008592143&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-03 08:06",
+      "published_at": "2026-06-03 09:21",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -116,7 +164,7 @@
       "source": "정치 (SBS)",
       "title": "민주 '9+α'·국힘 '2+α'…서울·부울경 \"접전\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008592059&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-03 08:06",
+      "published_at": "2026-06-03 09:21",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -124,7 +172,7 @@
       "source": "정치 (SBS)",
       "title": "\"안전한 서울 만들 것\"…\"이재명 정부에 힘을\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008592072&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-03 08:06",
+      "published_at": "2026-06-03 09:21",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -132,15 +180,7 @@
       "source": "정치 (SBS)",
       "title": "민주, 김관영 전북지사 후보 '허위사실공표'로 고발",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008592040&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-03 08:06",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "사전 투표율 역대 최대…최종 투표율 예상치는",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008591865&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-03 08:06",
+      "published_at": "2026-06-03 09:21",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
