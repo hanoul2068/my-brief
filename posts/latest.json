@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T08:09:09.985577+09:00",
+  "generated_at": "2026-06-04T09:23:14.352368+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,33 +34,129 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "[속보] 미 국무부 \"이스라엘·레바논, 휴전 합의\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260604080653IEf",
-      "published_at": "2026-06-04 08:08",
+      "title": "김정은, 새 핵물질 생산공장 방문…\"핵무력 기하급수적 강화\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260604090645ocw",
+      "published_at": "2026-06-04 09:22",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "서울시장 선거 초박빙·개표 막판 오세훈, 정원오에 첫 역전",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260604074254P6G",
-      "published_at": "2026-06-04 08:08",
+      "title": "차기 국무총리, 정성호·한성숙·강훈식 압축…이 대통령 막판 고심",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202606040906116Kt",
+      "published_at": "2026-06-04 09:22",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "전국 개표율 98.3%…이 시각 개표상황실",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260604074204PXY",
-      "published_at": "2026-06-04 08:08",
+      "title": "코스피, 2.02% 내린 8,623.82 출발…코스닥은 소폭 상승",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260604090557aXG",
+      "published_at": "2026-06-04 09:22",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "미 운용자산 1조달러 돌파 ETF 탄생…\"시장 성숙 이정표\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260604062421Uxy",
-      "published_at": "2026-06-04 08:08",
+      "title": "'엔비디아 CEO' 젠슨 황, 두산 마운드 오른다…7일 시구 확정",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260604090538r9D",
+      "published_at": "2026-06-04 09:22",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "[현장연결] 경남지사 확실…국민의힘 박완수 당선 소감",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260604085702gkb",
+      "published_at": "2026-06-04 09:22",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "[단독] '남양주 스토킹 살인' 부실대응 경찰관 3명 중징계",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260604085657agf",
+      "published_at": "2026-06-04 09:22",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "교황, 태권도 명예 10단 됐다…\"난민 지원 태권도에 감사\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260604084618Khh",
+      "published_at": "2026-06-04 09:22",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "양파 공급과잉에…정부, 중만생종 양파 수매비축 2만t 추진",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260604084315DHl",
+      "published_at": "2026-06-04 09:22",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "최태원, 대만서 TSMC 회장과도 만남…'반도체 동맹' 과시",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260604084250ba9",
+      "published_at": "2026-06-04 09:22",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "복지부 \"제약바이오 등 부서 공무원 관련 주식 신규투자 금지\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202606040839115o9",
+      "published_at": "2026-06-04 09:22",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "경기 추미애·인천 박찬대가 이겼다…민주, 충청도 '석권'",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008593788&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-06-04 09:23",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "이광재·김남국 국회 입성한다…이진숙 대구달성 금배지",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008593791&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-06-04 09:23",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "정원오 역전한 순간 일제히 '환호'…이 시각 오세훈 캠프",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008593993&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-06-04 09:23",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "격차 점점 좁혀지다 역전에 '탄식'…이 시각 정원오 캠프",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008593994&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-06-04 09:23",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[정치쇼] 유의동 \"선관위가 필요한가?…장동혁 거취 고민할 것, 민심과 얼마나 먼지 측정해야\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008594178&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-06-04 09:23",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[정치쇼] 송영길 \"평택을, 질 수 없는 선거를 졌다…지도부가 얼마나 중요한지 이번 선거로 느껴\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008594177&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-06-04 09:23",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -68,15 +164,23 @@
       "source": "정치 (SBS)",
       "title": "차기 총리, 정성호·강훈식·한성숙 3인 압축…이 대통령 막판 고심",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008594117&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-04 08:08",
+      "published_at": "2026-06-04 09:23",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "politics",
       "source": "정치 (SBS)",
-      "title": "[속보] 정원오 48.62%, 오세훈 48.66% 역전…개표율 93.84% 현재",
+      "title": "서울시장 선거 초박빙·개표 막판 오세훈, 정원오에 첫 역전",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008594102&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-06-04 09:23",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "정원오 48.62%, 오세훈 48.66% 역전…개표율 93.84% 현재",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008594077&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-04 08:08",
+      "published_at": "2026-06-04 09:23",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -84,63 +188,7 @@
       "source": "정치 (SBS)",
       "title": "경기 단체장 민주 19곳·국힘 12곳…4년 만에 지형 반전",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008594075&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-04 08:08",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "정계 개편 움직임 본격화하나…한동훈·조국 엇갈린 운명도 변수",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008594074&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-04 08:09",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "한동훈, 개표 88%서 역전…유의동 대역전 드라마 썼다",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008593790&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-04 08:09",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "본투표함 열자 뒤집혔다…결국 웃은 추경호 두 손 '번쩍'",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008593787&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-04 08:09",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "\"투표용지 왜 없나\" 우르르…투표소 수백 명이 에워쌌다",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008593815&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-04 08:09",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "김정은, 새 핵물질공장 시찰 공개…\"기하급수적 강화 계획 확정\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008594034&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-04 08:09",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "충주시장 이동석, 충북 역대 최연소 단체장 타이틀",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008593983&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-04 08:09",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "권기창 안동시장 재선 성공…이삼걸 맹추격 따돌려",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008593977&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-04 08:09",
+      "published_at": "2026-06-04 09:23",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
