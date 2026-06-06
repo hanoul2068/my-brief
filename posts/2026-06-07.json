@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T07:16:00.316994+09:00",
+  "generated_at": "2026-06-07T08:53:17.244122+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,9 +34,25 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
+      "title": "허경민, 결승 만루포 '쾅!'…KT, SSG 4연승 저지",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260607084300CbX",
+      "published_at": "2026-06-07 08:52",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "김정은 \"미사일 수요 대폭 증대…생산량 2.5배로 확대\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260607071428rpH",
+      "published_at": "2026-06-07 08:52",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
       "title": "北김여정 \"핵보유 지위 절대불퇴…어떤 위협도 용납안해\"",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260607064900VRU",
-      "published_at": "2026-06-07 07:13",
+      "published_at": "2026-06-07 08:52",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -44,39 +60,39 @@
       "source": "주요뉴스 (연합TV)",
       "title": "\"떨어진 으깬 감자 밟고 '꽈당'\"…미국서 아웃백 상대 20억대 소송",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260604142532yE7",
-      "published_at": "2026-06-07 07:13",
+      "published_at": "2026-06-07 08:52",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "대출금리 한달새 0.33%p↑…'빚투족' 패닉",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260607054927qGG",
-      "published_at": "2026-06-07 07:13",
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "김정은 \"미사일 정량 수요 대폭 늘어..생산 능력 5년 내 2.5배 확대\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008598063&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-06-07 08:52",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "잠실 마운드 오르는 젠슨 황…게임업계와 AI 회동",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260607054307Qwa",
-      "published_at": "2026-06-07 07:13",
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "김여정 \"미중정상회담서 비핵화 목표? 미국의 거짓정보\" 반박",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008598015&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-06-07 08:53",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "크렘린궁 \"김정은, 언제나 환영받는 손님\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260606223127RfV",
-      "published_at": "2026-06-07 07:13",
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "이 대통령 \"배신 단죄해야…친일 부당 재산 환수\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008597957&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-06-07 08:53",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "'개표소 봉쇄 시위' 이틀째…\"재선거\" 연호",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260606222614u4N",
-      "published_at": "2026-06-07 07:13",
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "사태 수습 대신 동반 사의…선관위 공백",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008597956&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-06-07 08:53",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -84,15 +100,7 @@
       "source": "정치 (SBS)",
       "title": "\"마지막 한 사람까지\"…머피 상병 유해 찾는다",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008597782&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-07 07:13",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "이 대통령 \"배신 단죄해야…친일 부당 재산 환수\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008597781&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-07 07:13",
+      "published_at": "2026-06-07 08:53",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -100,7 +108,7 @@
       "source": "정치 (SBS)",
       "title": "[단독] 국민의힘 의총서 '박덕흠 국회부의장 후보' 뽑았는데…본회의 '조경태 28표'",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008597837&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-07 07:13",
+      "published_at": "2026-06-07 08:53",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -108,7 +116,7 @@
       "source": "정치 (SBS)",
       "title": "특검 · 해체 수준 개혁 요구…\"억지 선동 멈추라\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008597776&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-07 07:13",
+      "published_at": "2026-06-07 08:53",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -116,7 +124,7 @@
       "source": "정치 (SBS)",
       "title": "사퇴하면 끝?…'투톱' 사라진 선관위 '마비'",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008597775&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-07 07:13",
+      "published_at": "2026-06-07 08:53",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -124,7 +132,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령, 강동구 전통시장 '깜짝 방문'…상인들 \"내일도 오시라\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008597805&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-07 07:13",
+      "published_at": "2026-06-07 08:53",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -132,31 +140,7 @@
       "source": "정치 (SBS)",
       "title": "'당 복귀 임박' 김 총리, 광주서 지선 평가 언급하며 \"혁신해야\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008597804&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-07 07:13",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "이 대통령, 보훈병원 위문…\"국가유공자 예우, 국가의 기본 책무\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008597802&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-07 07:13",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "\"이유는 뻔해\" 사퇴 하루 만에 9일 원내대표 선거…국민의힘 당내 반발 '부글부글'",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008597728&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-07 07:13",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "이 대통령 \"배신 단죄해야 정의로운 통합…친일 부당재산 환수\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008597616&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-07 07:13",
+      "published_at": "2026-06-07 08:53",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
