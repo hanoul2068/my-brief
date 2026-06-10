@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T07:46:59.844502+09:00",
+  "generated_at": "2026-06-10T09:05:18.956676+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,25 +34,73 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "[속보] \"이란 혁명수비대, 미 목표물 향해 미사일·드론\"<CNN>",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260610074220LfP",
-      "published_at": "2026-06-10 07:44",
+      "title": "이란, 미군 공습에 강력 경고…\"반드시 응징\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260610083328Egb",
+      "published_at": "2026-06-10 09:02",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "[이시각헤드라인] 6월 10일 라이브투데이",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260610072306Z8h",
-      "published_at": "2026-06-10 07:44",
+      "title": "\"스페이스X 공모 청약 흥행…목표 3.5~4배 도달\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260610083227Y3z",
+      "published_at": "2026-06-10 09:02",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "영·프 등 6개국, 이스라엘 극우 장관 등 입국 금지",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR202606100654306KW",
-      "published_at": "2026-06-10 07:44",
+      "title": "이 대통령 \"필리핀 교민 살해 주범 검거…국민 대상 범죄 끝까지 추적\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260610083145v1f",
+      "published_at": "2026-06-10 09:02",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "[속보] \"미국, 이란 남부 2차 공습 진행 중\"<악시오스>",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260610083023E8w",
+      "published_at": "2026-06-10 09:02",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "[단독] 레미콘 운송단가 4,200원 인상 잠정 합의…이르면 오늘 운송 재개",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260610082331jTl",
+      "published_at": "2026-06-10 09:02",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "블룸버그 \"대만, AI칩 중국 수출 전면 통제 검토\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260610082139Dyl",
+      "published_at": "2026-06-10 09:02",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "BTS 공연 앞둔 부산…'바가지 숙박' 민원 폭증",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260610081413stL",
+      "published_at": "2026-06-10 09:02",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "카카오 오늘 첫 파업…'카톡' 정상 작동",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202606100813367ys",
+      "published_at": "2026-06-10 09:02",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "시진핑, 김정은에 감사…\"새 역사적 여정, 다시 만나길 기대\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008602809&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-06-10 09:02",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -60,7 +108,7 @@
       "source": "정치 (SBS)",
       "title": "\"정신승리 안 돼\" 책임론…'분수령' 원내대표 선거",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008602770&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-10 07:44",
+      "published_at": "2026-06-10 09:02",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -68,7 +116,7 @@
       "source": "정치 (SBS)",
       "title": "오세훈 \"서울을 글로벌 톱3 도시로…삶의 질 향상 주력\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008602752&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-10 07:44",
+      "published_at": "2026-06-10 09:02",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -76,7 +124,7 @@
       "source": "정치 (SBS)",
       "title": "대통령 환송장서 안 보인 정청래…안 갔나, 못 갔나",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008602659&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-10 07:44",
+      "published_at": "2026-06-10 09:02",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -84,7 +132,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령 유럽 도착…오늘 벨기에·EU 정상과 회담",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008602607&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-10 07:44",
+      "published_at": "2026-06-10 09:02",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -92,7 +140,7 @@
       "source": "정치 (SBS)",
       "title": "\"7,194장 부족, 최장 105분 중단\"…오늘 진상규명위 가동",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008602603&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-10 07:44",
+      "published_at": "2026-06-10 09:02",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -100,7 +148,7 @@
       "source": "정치 (SBS)",
       "title": "벨기에 교민 만난 이 대통령 \"격변에 걱정…더 나은 한국 보여줄 것\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008602677&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-10 07:44",
+      "published_at": "2026-06-10 09:02",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -108,7 +156,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령 \"농어촌기본소득, 지속화하고 금액 높이면 효과 있을 것\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008602676&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-10 07:44",
+      "published_at": "2026-06-10 09:02",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -116,7 +164,7 @@
       "source": "정치 (SBS)",
       "title": "'투표용지 부족사태' 진상규명위, 오늘 첫 회의…본격 가동",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008602668&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-10 07:44",
+      "published_at": "2026-06-10 09:03",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -124,15 +172,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령, 오늘 벨기에·EU와 정상회담…무역·공급망 협력 논의",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008602669&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-10 07:44",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "국힘, 오늘 신임 원내대표 선출…김도읍·정점식·성일종 3파전",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008602664&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-10 07:44",
+      "published_at": "2026-06-10 09:03",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
