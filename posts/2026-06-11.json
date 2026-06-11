@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T07:55:03.923494+09:00",
+  "generated_at": "2026-06-11T09:05:51.607623+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,41 +34,73 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "[뉴스초점] 미군 \"이란 추가 공격 개시\"…중동 긴장 재고조",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260611075216ChH",
-      "published_at": "2026-06-11 07:54",
+      "title": "[속보] 경찰 '투표지 부족' 중앙선관위 등 압수수색",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260611090203cZd",
+      "published_at": "2026-06-11 09:05",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "[속보] 이란군 \"호르무즈 해협 모든 선박 통행 금지\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260611074943nbX",
-      "published_at": "2026-06-11 07:54",
+      "title": "[속보] 경찰 \"선관위 압수수색에 경찰·합수본 검사 등 110여명 투입\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260611085658Ue8",
+      "published_at": "2026-06-11 09:05",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "종묘 앞 세운4구역, 서울시 안전영향평가 통과…종로구청장 교체 '변수'",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260611074942KKR",
-      "published_at": "2026-06-11 07:54",
+      "title": "[속보] 트럼프 \"토마호크 49발…전투기, 이란 방공망 파괴 중\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260611084354pSC",
+      "published_at": "2026-06-11 09:05",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "이 대통령, 벨기에 필립 국왕 면담 소회…\"동반자로 나아가길 소망\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260611074348sCe",
-      "published_at": "2026-06-11 07:54",
+      "title": "\"업무별 맞춤형 활용\"…삼성전자, 생성형AI 3종 사내 도입",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260611083931fTl",
+      "published_at": "2026-06-11 09:05",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "이 대통령 이탈리아 로마 도착…한·이탈리아 정상회담",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR2026061107423946H",
-      "published_at": "2026-06-11 07:54",
+      "title": "[속보] 트럼프 \"미군 공습 곧 멈출것…내가 이란 당국자와 직접 대화\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260611083656yBs",
+      "published_at": "2026-06-11 09:05",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "10만개 넘은 커피전문점…저가커피 해외 공략 속도",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202606110831042wF",
+      "published_at": "2026-06-11 09:05",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[AFTER 8 SPECIAL] \"민주당 표가 사라졌다\"…한동훈 당선시킨 '부산 북구갑'의 비밀",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008600379&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-06-11 09:05",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "국힘 새 원내대표 정점식…\"도로 친윤당?\" vs \"통합\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008604827&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-06-11 09:05",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "책임론 휩싸인 정청래…\"국민은 영원, 정권은 짧다\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008604826&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-06-11 09:05",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -76,7 +108,7 @@
       "source": "정치 (SBS)",
       "title": "이재명 대통령, 로마 도착…오늘 한-이탈리아 정상회담",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008604816&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-11 07:54",
+      "published_at": "2026-06-11 09:05",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -84,7 +116,7 @@
       "source": "정치 (SBS)",
       "title": "\"동일득표 발생 확률 0.9%\"…\"5.9억 분의 1은 주술\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008604732&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-11 07:54",
+      "published_at": "2026-06-11 09:05",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -92,7 +124,7 @@
       "source": "정치 (SBS)",
       "title": "한국-EU 정상회담…\"북한의 러시아 지원 강력 규탄\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008604685&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-11 07:54",
+      "published_at": "2026-06-11 09:05",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -100,7 +132,7 @@
       "source": "정치 (SBS)",
       "title": "'50% 미만' 1,371곳…'황당 실수'로 득표수까지 누락",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008604681&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-11 07:54",
+      "published_at": "2026-06-11 09:05",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -108,7 +140,7 @@
       "source": "정치 (SBS)",
       "title": "[단독] 추가 용지 70%가 '무번호'…'수기'에 시간 허비",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008604680&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-11 07:54",
+      "published_at": "2026-06-11 09:05",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -116,7 +148,7 @@
       "source": "정치 (SBS)",
       "title": "김혜경 여사, 벨기에서 젊은 클래식 음악인 만나 격려",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008604652&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-11 07:54",
+      "published_at": "2026-06-11 09:05",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -124,31 +156,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령 \"EU와 비밀정보보호 협정 협상 개시\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008604647&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-11 07:54",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "한-EU 정상회담…\"러시아에 대한 북한 지원 규탄\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008604590&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-11 07:54",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "'인쇄 비율 50% 미만' 전국 1,371곳…표수 누락 사례도",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008604583&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-11 07:54",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "[단독] 추가 용지 70% '일련번호' 없어…'수기' 대응 역부족",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008604582&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-11 07:55",
+      "published_at": "2026-06-11 09:05",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
