@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T07:18:14.558099+09:00",
+  "generated_at": "2026-06-14T08:55:30.087342+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,9 +34,17 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
+      "title": "스페이스X 공모주 '전량 삭감'…한국 패싱 논란",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260614085352YOU",
+      "published_at": "2026-06-14 08:54",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
       "title": "비타민 먹다 무선이어폰 '꿀꺽'…130만 명이 지켜본 '에어팟 배출기'",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260612171430ly4",
-      "published_at": "2026-06-14 07:15",
+      "published_at": "2026-06-14 08:54",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -44,15 +52,7 @@
       "source": "주요뉴스 (연합TV)",
       "title": "\"건초 더미서 바늘 찾기\"…영국행 비행기서 발견된 독사, 행방 묘연",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260610163041RiM",
-      "published_at": "2026-06-14 07:15",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "트럼프 \"이란과 합의 14일 서명…직후 모두에 호르무즈 개방\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260614043120l5Z",
-      "published_at": "2026-06-14 07:15",
+      "published_at": "2026-06-14 08:54",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -60,87 +60,103 @@
       "source": "주요뉴스 (연합TV)",
       "title": "트럼프, SNS에 과거 북미정상회담 사진…8년전 산책 모습 게재",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR202606140410564ai",
-      "published_at": "2026-06-14 07:15",
+      "published_at": "2026-06-14 08:54",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "국립중앙박물관, 우피치미술관 협력…소장품 대여 등 교류증진",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008608939&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-14 07:15",
+      "category": "policy",
+      "source": "정책브리핑",
+      "title": "이 대통령 \"한-이탈리아는 최적의 파트너…글로벌 불확실성 함께 헤쳐나가야\"",
+      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148966450&call_from=rsslink",
+      "published_at": "2026-06-14 08:54",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "청와대, 한-EU 성명 북한 반발에 \"긴 안목으로 평화공존 정책 추진\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008608938&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-14 07:15",
+      "category": "policy",
+      "source": "정책브리핑",
+      "title": "이 대통령, 멜로니 이탈리아 총리와 공식회담…\"양국 협력 관계 더욱 강화\"",
+      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148966451&call_from=rsslink",
+      "published_at": "2026-06-14 08:54",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "북한, 한국·EU성명에 \"집권자 평화가면 내던져…한국 적대 원칙불변\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008608888&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-14 07:15",
+      "category": "policy",
+      "source": "정책브리핑",
+      "title": "'노인학대' 작년보다 16.8%↑…신고의무자 확대 등 노인 보호 강화",
+      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148966437&call_from=rsslink",
+      "published_at": "2026-06-14 08:54",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "\"집권여당, 책임의 언어 집중해야\"…정청래 겨냥?",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008608841&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-14 07:15",
+      "category": "policy",
+      "source": "정책브리핑",
+      "title": "AI와 데이터허브로 '지속가능한 스마트도시' 만든다",
+      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148966435&call_from=rsslink",
+      "published_at": "2026-06-14 08:54",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "이 대통령 \"패가망신하는 주가조작 그만…정론직필로 돌아가야\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008608831&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-14 07:15",
+      "category": "policy",
+      "source": "정책브리핑",
+      "title": "전기 사용 1%만 줄여도 캐시백 혜택",
+      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148965983&call_from=rsslink",
+      "published_at": "2026-06-14 08:54",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "한미일 도쿄서 북한 관련 협의…\"비핵화 목표·UN결의 이행 재확인\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008608790&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-14 07:15",
+      "category": "policy",
+      "source": "정책브리핑",
+      "title": "'첨단산업 인재양성 부트캠프'로 청년들의 미래 경쟁력 키운다",
+      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148966427&call_from=rsslink",
+      "published_at": "2026-06-14 08:54",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "[지식의 발견] \"당이 장악 안 되면 반쪽 대통령이 됩니다\" 홍준표의 단언..\"이 대통령도 그걸 다 알고있기 때문에\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008608093&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-14 07:15",
+      "category": "policy",
+      "source": "정책브리핑",
+      "title": "정부, BTS 부산 공연 인파에 \"안전관리 빈틈없이 챙긴다\"",
+      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148966434&call_from=rsslink",
+      "published_at": "2026-06-14 08:54",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "군 차세대 공격헬기 미르온서 엔진결함…비행 중단",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008608756&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-14 07:15",
+      "category": "policy",
+      "source": "정책브리핑",
+      "title": "구 부총리 \"물가·고용 각별한 경각심…청년고용 개선에 정책 최우선\"",
+      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148966412&call_from=rsslink",
+      "published_at": "2026-06-14 08:55",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "민주당 \"국힘, 구태 즉각 중단하고 참정권 보호에 힘 모아야\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008608736&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-14 07:15",
+      "category": "policy",
+      "source": "정책브리핑",
+      "title": "2026 북중미월드컵 거리응원…행안부 \"현장 안전관리 만전\"",
+      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148966414&call_from=rsslink",
+      "published_at": "2026-06-14 08:55",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "이재용 \"이탈리아, 특별한 국가\"…페라리 회장 \"한국, 영감 주는 시장\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008608669&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-14 07:15",
+      "category": "policy",
+      "source": "정책브리핑",
+      "title": "한국, AI·6G 보안 국제표준 개발 주도…국제회의서 총 29건 성과",
+      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148966428&call_from=rsslink",
+      "published_at": "2026-06-14 08:55",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "policy",
+      "source": "정책브리핑",
+      "title": "병역 공정성 높이고 입영 부담 낮추고…체감형 정책 중점 추진",
+      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148966411&call_from=rsslink",
+      "published_at": "2026-06-14 08:55",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "policy",
+      "source": "정책브리핑",
+      "title": "한-이탈리아, 통상환경 개선으로 첨단산업 공급망 시너지 본격화",
+      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148966409&call_from=rsslink",
+      "published_at": "2026-06-14 08:55",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
