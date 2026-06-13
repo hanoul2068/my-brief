@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T07:45:37.359870+09:00",
+  "generated_at": "2026-06-13T09:12:32.904242+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,9 +34,17 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
+      "title": "네타냐후 \"내가 있는 한 이란 핵무기 보유 못해\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH202606130908362IJ",
+      "published_at": "2026-06-13 09:09",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
       "title": "주유소 기름값 4주 연속 소폭 하락…전국 평균 휘발윳값 2,009원대",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR202606130704375ZT",
-      "published_at": "2026-06-13 07:42",
+      "published_at": "2026-06-13 09:09",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -44,7 +52,7 @@
       "source": "주요뉴스 (연합TV)",
       "title": "북한, 한미 무기거래 규탄…\"자위적 억제력 부단 갱신강화\"",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260613065442NQO",
-      "published_at": "2026-06-13 07:42",
+      "published_at": "2026-06-13 09:09",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -52,7 +60,7 @@
       "source": "주요뉴스 (연합TV)",
       "title": "미 증시 일제히 상승…스페이스X 상장·종전 기대감",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR202606130605046P0",
-      "published_at": "2026-06-13 07:42",
+      "published_at": "2026-06-13 09:10",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -60,55 +68,31 @@
       "source": "주요뉴스 (연합TV)",
       "title": "월드컵 보려고 은퇴하고 집까지 매물로…10번째 원정 나선 영국 '월드컵 가이'",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR202606121725161jP",
-      "published_at": "2026-06-13 07:42",
+      "published_at": "2026-06-13 09:10",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "[알아BIO] 미국, 임상 문턱 낮춘다…K-바이오 수혜 볼까",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260611180259iz9",
-      "published_at": "2026-06-13 07:42",
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "북, 한미 무기거래에 \"규탄…자위적 억제력 부단 갱신강화\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008608493&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-06-13 09:10",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "스웨터 50겹 껴입고 '벌크업'…7살 미국 소년 기네스 신기록",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260611110449Hnd",
-      "published_at": "2026-06-13 07:43",
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "'투표지 부족'이 '선거 결과'에 미친 영향은 [사실은]",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008607959&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-06-13 09:10",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "이란 협상단장, 종전 양해각서 합의에 \"약속 반드시 지켜야\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260613045143kA3",
-      "published_at": "2026-06-13 07:43",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "이 대통령 \"이탈리아와 월드컵 본선서 만났어야 했는데 아쉽다\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260613033646RRR",
-      "published_at": "2026-06-13 07:43",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "미 텍사스 서부서 총기난사로 10명 사상…총격범도 숨져",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260613031841BUW",
-      "published_at": "2026-06-13 07:43",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "이 대통령 \"이탈리아는 최적의 파트너…불확실성 함께 헤쳐가야\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260613025815yA9",
-      "published_at": "2026-06-13 07:43",
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "\"당권은 짧다\" 정면충돌…\"좌표 찍기·문자 폭탄\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008608368&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-06-13 09:10",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -116,7 +100,7 @@
       "source": "정치 (SBS)",
       "title": "'선관위 개혁' 번번이 놓친 국회…눈치 본 이유는",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008608365&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-13 07:43",
+      "published_at": "2026-06-13 09:10",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -124,7 +108,7 @@
       "source": "정치 (SBS)",
       "title": "\"한국과 이탈리아, 보완적 관계\"…2030 전략계획 채택",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008608341&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-13 07:43",
+      "published_at": "2026-06-13 09:10",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -132,7 +116,7 @@
       "source": "정치 (SBS)",
       "title": "무번호 용지에 번호 매기다 시간 허비…\"총체적 부실\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008608337&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-13 07:43",
+      "published_at": "2026-06-13 09:10",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -140,7 +124,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령 \"한국과 이탈리아, 글로벌 경제 불확실성 함께 헤쳐가자\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008608313&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-13 07:43",
+      "published_at": "2026-06-13 09:10",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -148,7 +132,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령, 멜로니 총리와 정상회담…\"한국·이탈리아는 보완적 관계\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008608312&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-13 07:43",
+      "published_at": "2026-06-13 09:10",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -156,7 +140,7 @@
       "source": "정치 (SBS)",
       "title": "김혜경 여사, \"세계청년대회, 세계 청년 품어안는 시간\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008608260&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-13 07:43",
+      "published_at": "2026-06-13 09:10",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -164,31 +148,7 @@
       "source": "정치 (SBS)",
       "title": "힌국-이탈리아, AI 등 첨단기술 협력 MOU…중소 정책 교류도",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008608259&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-13 07:43",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "한국·이탈리아, '특별 전략적 동반자 관계'로 격상하기로",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008608126&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-13 07:43",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "\"당권은 짧다\" 면전서 정면충돌…\"좌표 찍기·문자 폭탄\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008608122&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-13 07:43",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "부실선거 67·부정선거 25%…전면 재선거 찬44 반48",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008608113&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-13 07:43",
+      "published_at": "2026-06-13 09:10",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
