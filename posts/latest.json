@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T08:08:21.525901+09:00",
+  "generated_at": "2026-06-16T09:21:50.268827+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,17 +34,57 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "미·이란 '샅바싸움'…이스라엘 \"철군 안해\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260616072528wo5",
-      "published_at": "2026-06-16 08:06",
+      "title": "현대위아, 유럽 방산전시회 첫 참가…경량 105㎜ 자주포 공개",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260616091840L8I",
+      "published_at": "2026-06-16 09:19",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "\"트럼프의 항복\"·\"오바마 합의 수준\"…미 강경우파 진영 불만↑",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260616071625V3d",
-      "published_at": "2026-06-16 08:07",
+      "title": "[날씨] 당분간 땡볕 더위 이어져…오늘 한낮 서울 33도",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260616091707Wg5",
+      "published_at": "2026-06-16 09:19",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "코스피, 1.76% 오른 8,696.55 출발…개장 직후 8,700선 회복",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260616090621LWb",
+      "published_at": "2026-06-16 09:19",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "FT \"트럼프, 한국기업 등 참여하는 이란 재건기금 추진\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260616090537lno",
+      "published_at": "2026-06-16 09:19",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "스페이스X 주가, 이틀 만에 40% 급등…시총 6위",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260616090056b8F",
+      "published_at": "2026-06-16 09:19",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "SKT, AI에 사번 부여…조직 체계 실험 나선다",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202606160853450NG",
+      "published_at": "2026-06-16 09:19",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[정치쇼] 박현도 \"종전 아닌 휴전으로 봐야…핵협상은 이제 시작이지만 잘 되기 어려운 상황\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008611994&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-06-16 09:19",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -52,7 +92,7 @@
       "source": "정치 (SBS)",
       "title": "전대 앞두고 계파 갈등 고조…지지율 역전엔 \"긴장해야\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008611903&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-16 08:07",
+      "published_at": "2026-06-16 09:19",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -60,7 +100,7 @@
       "source": "정치 (SBS)",
       "title": "[단독] '용지 부족' 난리났는데…다음날 새벽에야 첫 회의",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008611822&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-16 08:07",
+      "published_at": "2026-06-16 09:19",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -68,7 +108,7 @@
       "source": "정치 (SBS)",
       "title": "JTBC·중앙홀딩스 등 5곳 회생 신청…\"진심으로 사죄\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008611775&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-16 08:07",
+      "published_at": "2026-06-16 09:19",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -76,7 +116,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령, 레오 14세 교황 접견…내년 방한 초청",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008611772&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-16 08:07",
+      "published_at": "2026-06-16 09:19",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -84,7 +124,7 @@
       "source": "정치 (SBS)",
       "title": "국민의힘, 서울 등 6곳 선거소청…오세훈 측 \"지켜보겠다\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008611770&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-16 08:07",
+      "published_at": "2026-06-16 09:19",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -92,7 +132,7 @@
       "source": "정치 (SBS)",
       "title": "이탈리아 동포 만난 이 대통령 \"투표권 행사 못하는 건 심각한 문제\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008611731&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-16 08:07",
+      "published_at": "2026-06-16 09:19",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -100,7 +140,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령 \"참정권 문제 제기 인정…시위대 행패 엄중 수사\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008611663&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-16 08:07",
+      "published_at": "2026-06-16 09:19",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -108,7 +148,7 @@
       "source": "정치 (SBS)",
       "title": "국민의힘, 서울 등 6곳 선거소청하기로…오세훈 측 \"지켜보겠다\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008611662&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-16 08:07",
+      "published_at": "2026-06-16 09:19",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -116,111 +156,7 @@
       "source": "정치 (SBS)",
       "title": "김 총리 \"6말7초 물러날 듯…당에서 국정 뒷받침\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008611655&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-16 08:07",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "\"'참정권 침해' 문제 제기는 인정…시위대 행패 엄중 수사\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008611473&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-16 08:07",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "policy",
-      "source": "정책브리핑",
-      "title": "한-EU 항공사, 승객예약자료 상호 공유…아시아 국가 '최초'",
-      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148966556&call_from=rsslink",
-      "published_at": "2026-06-16 08:07",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "policy",
-      "source": "정책브리핑",
-      "title": "외국인 관광객들, '서울'에서 '전국'으로…버스요금 할인 지원",
-      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148966553&call_from=rsslink",
-      "published_at": "2026-06-16 08:07",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "policy",
-      "source": "정책브리핑",
-      "title": "한-프 수교 140주년, 파리에서 '케이-컬처' 잔치 한마당",
-      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148966555&call_from=rsslink",
-      "published_at": "2026-06-16 08:07",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "policy",
-      "source": "정책브리핑",
-      "title": "국립대병원, '지역 핵심병원'으로 키운다…인력·인프라 지원",
-      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148966540&call_from=rsslink",
-      "published_at": "2026-06-16 08:07",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "policy",
-      "source": "정책브리핑",
-      "title": "\"K팝, 월드컵 역사 새로 쓴다\"…개막식서 울려 퍼진 한국어",
-      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148966547&call_from=rsslink",
-      "published_at": "2026-06-16 08:07",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "policy",
-      "source": "정책브리핑",
-      "title": "'6·15 남북공동선언' 26주년…\"대화와 협력 희망 이어갈 것\"",
-      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148966550&call_from=rsslink",
-      "published_at": "2026-06-16 08:07",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "policy",
-      "source": "정책브리핑",
-      "title": "어르신 낙상사고 줄인다…안전손잡이·문턱 경사로 설치 지원",
-      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148966548&call_from=rsslink",
-      "published_at": "2026-06-16 08:07",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "policy",
-      "source": "정책브리핑",
-      "title": "청년미래적금 6월 22일 출시…7월 3일까지 가입 신청",
-      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148966534&call_from=rsslink",
-      "published_at": "2026-06-16 08:07",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "policy",
-      "source": "정책브리핑",
-      "title": "민영주택 '신생아 특별공급 10%' 신설…혼인 기간 허들 없애",
-      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148966536&call_from=rsslink",
-      "published_at": "2026-06-16 08:08",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "policy",
-      "source": "정책브리핑",
-      "title": "수도권 전철 15분내 재탑승 시 기본운임 면제…이달 20일부터 시행",
-      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148966539&call_from=rsslink",
-      "published_at": "2026-06-16 08:08",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "policy",
-      "source": "정책브리핑",
-      "title": "한-사우디, 원유·가스 MOU 체결…자원·산업 협력 동반자관계 강화",
-      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148966535&call_from=rsslink",
-      "published_at": "2026-06-16 08:08",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "policy",
-      "source": "정책브리핑",
-      "title": "고의 교통사고·보험사기 집중 단속…조직범죄 엄정 대응",
-      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148966528&call_from=rsslink",
-      "published_at": "2026-06-16 08:08",
+      "published_at": "2026-06-16 09:19",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
