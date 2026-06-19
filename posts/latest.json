@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T07:14:21.339023+09:00",
+  "generated_at": "2026-06-20T08:57:28.094207+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,121 +34,9 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "\"묘지 관리하랬더니 조문객 정리\"…사람 들이받는 영국 '묘지 염소 떼' 논란",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260618170836FHs",
-      "published_at": "2026-06-20 07:11",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "[알아BIO] \"탈모는 생존 문제\"…'뜨거운 감자' 된 건보 적용",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR202606171742180ni",
-      "published_at": "2026-06-20 07:11",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "'술파티 위증' 이화영 징역 4개월…정자법 무죄·직권남용 기각",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260620053359gBq",
-      "published_at": "2026-06-20 07:11",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "[속보] '술파티 위증' 이화영 1심 징역 4개월…정치자금법은 무죄",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260620035652jld",
-      "published_at": "2026-06-20 07:11",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "대낮 뉴욕 타임스스퀘어서 총격…10대 용의자 체포",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260620004421yOB",
-      "published_at": "2026-06-20 07:11",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "\"원수 싸우듯 하지 말아야\"…\"보완수사권, 정치적 슬로건 활용\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008619200&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-20 07:11",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "\"트럼프, 북한에 관심 가질 때라고 말해\"…군함 10척 건조 요청",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008619199&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-20 07:11",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "[단독] 성주 사드 '완전체' 복귀…발사대 6기 재배치",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008618999&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-20 07:11",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "이 대통령 \"어처구니 없는 일\"…'개헌'까지 언급",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008618996&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-20 07:11",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "\"원수처럼 싸우지 말라\"…보완수사권은 이견",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008618995&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-20 07:11",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "\"북한 문제 관심 가질 때\"…군함 10척 건조 요청",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008618994&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-20 07:11",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "[단독] 사드, 성주 복귀 완료…'발사대 6기' 완전체 재배치",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008618893&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-20 07:11",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "이 대통령 \"참정권 집회 편승한 불법 폭력·가짜뉴스, 책임 물어야\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008619024&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-20 07:12",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "이 대통령 \"검찰 보완수사 다 봉쇄하면 문제 생길 수도…판단은 국회서\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008618941&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-20 07:12",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "[지식의 발견] '한동훈 싫어' '이준석 싫어' 다 사치라는 유의동 의원…\"다음에 이기려면 '닥치고 통합'\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008618702&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-20 07:12",
+      "title": "조희팔 사기 공탁금 추가 배당…320억 지급 절차",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260620085201EKm",
+      "published_at": "2026-06-20 08:55",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
