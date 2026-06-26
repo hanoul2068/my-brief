@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T07:42:48.733502+09:00",
+  "generated_at": "2026-06-26T09:03:06.543424+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,41 +34,65 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "[뉴스초점] 베네수엘라 연쇄 강진…일본도 규모 7 이상 지진",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH202606260739443nN",
-      "published_at": "2026-06-26 07:41",
+      "title": "'대표팀 불화 논란' 김민재 \"수비 간격 벌어지는 아쉬움 표한 것…반성 중\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260626085840lIR",
+      "published_at": "2026-06-26 09:01",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "이 대통령 \"다행히 자살자 수 줄어…국민 생명 구하기 효과\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260626073040tqh",
-      "published_at": "2026-06-26 07:41",
+      "title": "美기관 공격으로 5조원대 피해 입힌 이란 해커 체포",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260626084611x2W",
+      "published_at": "2026-06-26 09:01",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "이 대통령, 이재용 회장과 회동…'지방 반도체 투자' 논의",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR202606260730261O1",
-      "published_at": "2026-06-26 07:41",
+      "title": "김정은, '갈마관광기차역' 현지 지도…\"불과 1년 사이 건설\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260626083218DuL",
+      "published_at": "2026-06-26 09:01",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "이 대통령, 수원 전통시장 방문…민생 현장 목소리 들어",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260626073010PKh",
-      "published_at": "2026-06-26 07:41",
+      "title": "세계 최대 해상연합훈련 '림팩' 시작…한국, 첫 해군지휘관 임무",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260626083040tzc",
+      "published_at": "2026-06-26 09:01",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "외국인, 지난달 국내주식 47조원 순매도…보유 비중 '역대 최고'",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260626062613SMx",
-      "published_at": "2026-06-26 07:41",
+      "title": "[속보] 구윤철 \"석유최고가격 낮추되 소비자가 안정 때까지 유지\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260626081415Lxk",
+      "published_at": "2026-06-26 09:01",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "구윤철 \"하반기 전기·가스요금 동결…석유 최고가격 인하\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260626081357J5e",
+      "published_at": "2026-06-26 09:01",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[정치쇼] 안상훈 \"최고위원들 '장동혁호' 탈출할 것…한동훈 복당은 장동혁 퇴진과 동시에\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008628541&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-06-26 09:01",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "이 대통령, 오늘 일본 초당적 '지한파' 모임 다케다 회장 접견",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008628522&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-06-26 09:01",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -76,7 +100,7 @@
       "source": "정치 (SBS)",
       "title": "김정은, 원산갈마 관광지구 시찰…철도역·응급치료소 신설",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008628453&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-26 07:41",
+      "published_at": "2026-06-26 09:01",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -84,7 +108,7 @@
       "source": "정치 (SBS)",
       "title": "김정은 \"남부 국경 화력 태세 변화\"…'중요 무기' 시험 참관",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008628445&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-26 07:41",
+      "published_at": "2026-06-26 09:01",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -92,7 +116,7 @@
       "source": "정치 (SBS)",
       "title": "\"권력 마귀\" \"총리 적임자\"…청문회 첫날 '격돌'",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008628352&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-26 07:41",
+      "published_at": "2026-06-26 09:01",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -100,7 +124,7 @@
       "source": "정치 (SBS)",
       "title": "당원 표심 잡겠다고…앞다퉈 \"보완수사권 폐지\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008628315&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-26 07:41",
+      "published_at": "2026-06-26 09:01",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -108,7 +132,7 @@
       "source": "정치 (SBS)",
       "title": "\"핵심 산업 투자, 지방으로\"…다음 주 대국민 보고",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008628348&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-26 07:41",
+      "published_at": "2026-06-26 09:01",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -116,7 +140,7 @@
       "source": "정치 (SBS)",
       "title": "[한반도 포커스] 회전문 인사에 '석 달짜리' 국회의장? 이례적 헌법 강조",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008628238&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-26 07:41",
+      "published_at": "2026-06-26 09:01",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -124,7 +148,7 @@
       "source": "정치 (SBS)",
       "title": "[한반도 포커스] '두뇌 영양' 클로즈업…북한식 광고는 PPL?",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008628237&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-26 07:41",
+      "published_at": "2026-06-26 09:01",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -132,23 +156,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령 \"총리 책임하에 자살자 감소 총력…효과 내고 있어\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008628220&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-26 07:41",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "반기문 \"어떤 나라도 혼자 못 살아…미국, 국제기구 복귀해야\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008628211&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-26 07:41",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "조현 \"한반도가 지정학적 충돌 현장 되는 것 막아야\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008628208&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-26 07:41",
+      "published_at": "2026-06-26 09:01",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -156,7 +164,7 @@
       "source": "정책브리핑",
       "title": "이 대통령 \"수도권 일극체제 극복 위해 전략 산업 다극화 필수\"",
       "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148967136&call_from=rsslink",
-      "published_at": "2026-06-26 07:41",
+      "published_at": "2026-06-26 09:01",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -164,7 +172,7 @@
       "source": "정책브리핑",
       "title": "AI가 딥페이크 먼저 찾아낸다…정부, 성범죄 영상물 공동 대응",
       "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148967112&call_from=rsslink",
-      "published_at": "2026-06-26 07:41",
+      "published_at": "2026-06-26 09:02",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -172,7 +180,7 @@
       "source": "정책브리핑",
       "title": "내년 교사 신규채용, 초등 2700~2900명…중등 4700~5100명",
       "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148967122&call_from=rsslink",
-      "published_at": "2026-06-26 07:41",
+      "published_at": "2026-06-26 09:02",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -180,7 +188,7 @@
       "source": "정책브리핑",
       "title": "신혼희망타운 예비신혼부부 혼인 증명기한 '입주전까지'로 연장",
       "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148967107&call_from=rsslink",
-      "published_at": "2026-06-26 07:41",
+      "published_at": "2026-06-26 09:02",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -188,7 +196,7 @@
       "source": "정책브리핑",
       "title": "'새출발기금' 재산심사 강화…가상자산·비상장주식 등도 면밀히 확인",
       "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148967101&call_from=rsslink",
-      "published_at": "2026-06-26 07:42",
+      "published_at": "2026-06-26 09:02",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -196,7 +204,7 @@
       "source": "정책브리핑",
       "title": "글로벌 로컬브랜드 키운다…수출 유망 소상공인 100개사 선정",
       "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148967110&call_from=rsslink",
-      "published_at": "2026-06-26 07:42",
+      "published_at": "2026-06-26 09:02",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -204,7 +212,7 @@
       "source": "정책브리핑",
       "title": "'한미 조선협력투자 협의체' 구성…1500억 달러 조선협력투자 본격 시동",
       "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148967103&call_from=rsslink",
-      "published_at": "2026-06-26 07:42",
+      "published_at": "2026-06-26 09:02",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -212,7 +220,7 @@
       "source": "정책브리핑",
       "title": "직무발명 규제 걷어내고 기업 지원 넓힌다…\"기술혁신 촉진\"",
       "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148967109&call_from=rsslink",
-      "published_at": "2026-06-26 07:42",
+      "published_at": "2026-06-26 09:02",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -220,7 +228,7 @@
       "source": "정책브리핑",
       "title": "이 대통령 \"강력한 국방력으로 평화의 한반도 반드시 만들어 낼 것\"",
       "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148967120&call_from=rsslink",
-      "published_at": "2026-06-26 07:42",
+      "published_at": "2026-06-26 09:02",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -228,7 +236,7 @@
       "source": "정책브리핑",
       "title": "올여름 전력수요 역대 최대 전망…정부 \"안정적 전력수급 총력\"",
       "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148967105&call_from=rsslink",
-      "published_at": "2026-06-26 07:42",
+      "published_at": "2026-06-26 09:02",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -236,7 +244,7 @@
       "source": "정책브리핑",
       "title": "지역과 산업을 잇고 사람과 미래를 잇고",
       "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148966833&call_from=rsslink",
-      "published_at": "2026-06-26 07:42",
+      "published_at": "2026-06-26 09:03",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -244,7 +252,7 @@
       "source": "정책브리핑",
       "title": "\"화학사고 인명피해 줄인다\" 현장 중심 안전대책 추진",
       "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148967049&call_from=rsslink",
-      "published_at": "2026-06-26 07:42",
+      "published_at": "2026-06-26 09:03",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
