@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T07:13:06.403751+09:00",
+  "generated_at": "2026-06-29T08:59:06.261585+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,49 +34,89 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "[날씨] 오늘도 한낮 더위 계속…내륙 요란한 소나기",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260629070730edu",
-      "published_at": "2026-06-29 07:11",
+      "title": "\"중국 쓰촨성서 규모 5.5 지진 발생\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260629085322h4E",
+      "published_at": "2026-06-29 08:56",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "'역대 최하 순위' 오명…홍명보, 12년 전 악몽 되풀이",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR202606290659555zq",
-      "published_at": "2026-06-29 07:11",
+      "title": "이 대통령 국정 지지율 46.5%…민주 41%·국힘 42%",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260629085302HGA",
+      "published_at": "2026-06-29 08:56",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "'개최국' 캐나다, 남아공 꺾고 첫 16강 확정",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260629064330sol",
-      "published_at": "2026-06-29 07:11",
+      "title": "백종원 “강남역에 특산물 장터를”…더본코리아, 지역개발 ESG 확대",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260629084740ZJI",
+      "published_at": "2026-06-29 08:56",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "'트럼프 관세 키맨' 그리어 급부상…러트닉은 '조용'",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR202606290637480DK",
-      "published_at": "2026-06-29 07:11",
+      "title": "유해란, 여자 PGA챔피언십 우승…생애 첫 '메이저퀸' 등극",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260629084717CtI",
+      "published_at": "2026-06-29 08:56",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "바이든, 트럼프 향해 \"한심한 놈\" 맹비난",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR202606290618095Gj",
-      "published_at": "2026-06-29 07:11",
+      "title": "푸틴 \"중동분쟁 끝나면 미 협상단 러 찾을것\"…우크라 피격 속 연료부족 인정",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260629083707id0",
+      "published_at": "2026-06-29 08:56",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "\"트럼프·러트닉 일가, 정부지원 14개 사업서 혜택받아\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260629061222VGh",
-      "published_at": "2026-06-29 07:11",
+      "title": "평화 합의 해놓고…이스라엘 \"200m 헤즈볼라 땅굴 파괴\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260629082037F1n",
+      "published_at": "2026-06-29 08:56",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "[속보] 유해란, '메이저퀸' 등극…여자 PGA챔피언십 우승",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260629081838XMW",
+      "published_at": "2026-06-29 08:56",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "이 대통령, '3대 메가프로젝트 국민보고회' 주재…호남 반도체 프로젝트 공개",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260629081645O4r",
+      "published_at": "2026-06-29 08:56",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[정치쇼] 홍익표 \"반도체 공장 물, 전기, 연구 인프라까지 호남 최적…정부 팔 비틀기 아냐\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008631657&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-06-29 08:56",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "이 대통령 지지도 2주 연속 40%대…민주 41%·국힘 42% [리얼미터]",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008631658&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-06-29 08:56",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "축협 대수술 예고…문체부 \"위원회 구성해 철저히 조사\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008631553&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-06-29 08:56",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -84,7 +124,7 @@
       "source": "정치 (SBS)",
       "title": "장동혁 \"특검과 재선거, 나에게 주어진 사명\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008631550&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-29 07:11",
+      "published_at": "2026-06-29 08:56",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -92,7 +132,7 @@
       "source": "정치 (SBS)",
       "title": "\"예상 밖 결과에 황당함 느껴…조직과 인사의 실패\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008631502&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-29 07:11",
+      "published_at": "2026-06-29 08:56",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -100,7 +140,7 @@
       "source": "정치 (SBS)",
       "title": "여야, '원구성 논의' 의총…법사위 고리 강 대 강 대치 지속",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008631523&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-29 07:11",
+      "published_at": "2026-06-29 08:56",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -108,7 +148,7 @@
       "source": "정치 (SBS)",
       "title": "오늘 '메가 프로젝트' 보고회…\"호남 반도체 특혜 아냐\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008631395&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-29 07:11",
+      "published_at": "2026-06-29 08:56",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -116,7 +156,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령, 호남 반도체 클러스터 발표…\"국가적 대의 실천\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008631405&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-29 07:11",
+      "published_at": "2026-06-29 08:56",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -124,7 +164,7 @@
       "source": "정치 (SBS)",
       "title": "민주당 \"국힘, 호남 반도체 투자 지역감정 몰아…대안 없이 발목잡기\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008631308&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-29 07:11",
+      "published_at": "2026-06-29 08:56",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -132,127 +172,7 @@
       "source": "정치 (SBS)",
       "title": "한일 국방 \"특수비행팀 교류·해양구조훈련 지속\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008631208&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-29 07:11",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "\"역사적 성과 비방 말길\"…\"우려를 음해로 보나\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008631199&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-29 07:11",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "국방부, 'KADIZ 무단진입' 중·러에 엄중 항의·재발 방지 촉구",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008631225&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-29 07:11",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "'재건축론' 파장 속…정청래 \"범진보 통합\" vs 김민석 \"판 확장해야\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008631182&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-29 07:11",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "policy",
-      "source": "정책브리핑",
-      "title": "석유 최고가격, 150원 전격 인하…휘발유 1784원, 경유 1773원",
-      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148967228&call_from=rsslink",
-      "published_at": "2026-06-29 07:12",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "policy",
-      "source": "정책브리핑",
-      "title": "이 대통령 \"2030년까지 기업 가치 1조 원 이상 신안보 기업 5개 육성\"",
-      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148967227&call_from=rsslink",
-      "published_at": "2026-06-29 07:12",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "policy",
-      "source": "정책브리핑",
-      "title": "정부, 1조 원 규모 재정 투입…하반기 물가상승률 3% 이내 관리",
-      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148967216&call_from=rsslink",
-      "published_at": "2026-06-29 07:12",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "policy",
-      "source": "정책브리핑",
-      "title": "MZ세대는 어떻게 영화를 즐기고 있을까요?",
-      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148966836&call_from=rsslink",
-      "published_at": "2026-06-29 07:12",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "policy",
-      "source": "정책브리핑",
-      "title": "'모세의 기적'을 하늘에서 바라보다",
-      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148966838&call_from=rsslink",
-      "published_at": "2026-06-29 07:12",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "policy",
-      "source": "정책브리핑",
-      "title": "베트남과 800년 인연, 봉화·안동 'K-관광상품'으로 잇는다",
-      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148967175&call_from=rsslink",
-      "published_at": "2026-06-29 07:12",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "policy",
-      "source": "정책브리핑",
-      "title": "'K-팔란티어' 키운다…2030년까지 신안보 유니콘 기업 5개 육성",
-      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148967207&call_from=rsslink",
-      "published_at": "2026-06-29 07:12",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "policy",
-      "source": "정책브리핑",
-      "title": "한국형 장거리 자폭 드론 전력화 추진…50만 드론 전사 양성",
-      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148967169&call_from=rsslink",
-      "published_at": "2026-06-29 07:12",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "policy",
-      "source": "정책브리핑",
-      "title": "국토부, 대한항공-아시아나 합병 인가…12월 통합항공사 출범",
-      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148967184&call_from=rsslink",
-      "published_at": "2026-06-29 07:12",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "policy",
-      "source": "정책브리핑",
-      "title": "김구 탄생 150주년 유네스코 기념 '공식 로고' 공개",
-      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148967185&call_from=rsslink",
-      "published_at": "2026-06-29 07:13",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "policy",
-      "source": "정책브리핑",
-      "title": "지역·필수의료 보상 대폭 늘린다…건강보험 수가체계 전면 개편",
-      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148967170&call_from=rsslink",
-      "published_at": "2026-06-29 07:13",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "policy",
-      "source": "정책브리핑",
-      "title": "이 대통령 \"수도권 일극체제 극복 위해 전략 산업 다극화 필수\"",
-      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148967136&call_from=rsslink",
-      "published_at": "2026-06-29 07:13",
+      "published_at": "2026-06-29 08:56",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
