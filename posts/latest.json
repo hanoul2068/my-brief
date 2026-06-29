@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T07:19:35.838375+09:00",
+  "generated_at": "2026-06-30T08:51:15.667392+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,25 +34,73 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "[날씨] 30도 웃도는 여름 더위…수도권·충청 폭염특보",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260630070335skS",
-      "published_at": "2026-06-30 07:16",
+      "title": "로비에 놓인 꾸러미가 '펑'…모나코서 폭탄테러 의심 사건",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260630084153Rg6",
+      "published_at": "2026-06-30 08:48",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "문체부, 축구협회 '특별감사' 착수…부조리 제보 접수도",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260630065204SAD",
-      "published_at": "2026-06-30 07:17",
+      "title": "베네수 사망자 1,700명대…'카타르 회담' 열리나?",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH2026063008413775x",
+      "published_at": "2026-06-30 08:48",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "40년간 서랍 속 뼈…알고 보니 '남극 최초 공룡 화석'",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260629154906B9S",
-      "published_at": "2026-06-30 07:17",
+      "title": "인도서 애플 데이터 유출…'출시 예정' 아이폰18 정보까지",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260630084021oIS",
+      "published_at": "2026-06-30 08:48",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "요금 낮춰준다며 몰래 태블릿 계약…서울 장애인 소비 피해 상담 2만 8천 건",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260630083107XIi",
+      "published_at": "2026-06-30 08:48",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "삼성전자 '감사페스티벌' 다음달 5일까지…구매금액 20% 온누리로",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260630082816jjw",
+      "published_at": "2026-06-30 08:48",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "넷플릭스·디즈니보다 더?…워너 CEO 보수, 할리우드 1위",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260630082540Xoj",
+      "published_at": "2026-06-30 08:48",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "\"브라질과 격차 좁혀져…세계 정상 가까워졌다\" 모리야스 일본 감독 소회 밝혀",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260630082148P1E",
+      "published_at": "2026-06-30 08:48",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "민주 \"'선관위 특검' 당론 추진\"…국힘 \"야당이 추천해야\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008633444&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-06-30 08:48",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "민주당, 상임위원장 선출 시도…국힘 반발",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008633468&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-06-30 08:48",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -60,7 +108,7 @@
       "source": "정치 (SBS)",
       "title": "\"관치 개입 억지 결정\"…\"철 지난 지역주의\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008633310&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-30 07:17",
+      "published_at": "2026-06-30 08:48",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -68,7 +116,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령 \"호남, 장기간 소외…기업 손실 강요 아냐\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008633309&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-30 07:17",
+      "published_at": "2026-06-30 08:48",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -76,7 +124,7 @@
       "source": "정치 (SBS)",
       "title": "호남에 '800조' 제2 반도체 기지…\"국민영웅\" 인사",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008633307&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-30 07:17",
+      "published_at": "2026-06-30 08:48",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -84,7 +132,7 @@
       "source": "정치 (SBS)",
       "title": "김혜경 여사, 청소년 오케스트라 찾아…\"현장 목소리에 귀 기울일 것\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008633204&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-30 07:17",
+      "published_at": "2026-06-30 08:48",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -92,7 +140,7 @@
       "source": "정치 (SBS)",
       "title": "\"선관위 특검 당론 추진\"…\"야당이 추천해야\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008633091&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-30 07:17",
+      "published_at": "2026-06-30 08:48",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -100,7 +148,7 @@
       "source": "정치 (SBS)",
       "title": "\"장동혁 내려와야\" 정면 충돌…당 윤리위 곧 가동",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008633126&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-30 07:17",
+      "published_at": "2026-06-30 08:48",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -108,7 +156,7 @@
       "source": "정치 (SBS)",
       "title": "\"호남, 장기간 소외…기업 손실 강요 아냐\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008633073&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-30 07:17",
+      "published_at": "2026-06-30 08:48",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -116,23 +164,7 @@
       "source": "정치 (SBS)",
       "title": "창원대 SMR² 플랫폼 국가연구소, 국책사업 선정…최형두 \"창원, AI 중심으로 도약\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008633060&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-30 07:17",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "정동영, 임진강 수해방지 점검…\"국가 간 공유하천 협력\" 언급",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008633057&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-30 07:17",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "이 대통령 \"광부들 덕 산업화 결실…'사북' 아픔에 위로\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008633056&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-06-30 07:17",
+      "published_at": "2026-06-30 08:48",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
