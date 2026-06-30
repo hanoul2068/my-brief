@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T07:25:00.571852+09:00",
+  "generated_at": "2026-07-01T08:56:56.315519+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,41 +34,129 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "[이시각헤드라인] 7월 1일 라이브투데이",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260701072052Lmx",
-      "published_at": "2026-07-01 07:22",
+      "title": "맥주 한잔에 2만6천원…월드컵 경기장 물가에 팬들 한숨",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260701085210f3u",
+      "published_at": "2026-07-01 08:54",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "김정은, '공산당 창건일' 맞아 시진핑에 축전…\"북중 관계 승화\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR202607010719426Ls",
-      "published_at": "2026-07-01 07:22",
+      "title": "뉴욕증시 이틀째 강세…나스닥, 2분기 21% 급등",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260701085055XA5",
+      "published_at": "2026-07-01 08:54",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "워싱턴 밤하늘 수놓을 '기네스급' 불꽃…폭염 속 '독립 250돌' 준비",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR2026070107001562w",
-      "published_at": "2026-07-01 07:22",
+      "title": "예상보다 북상한 장마 구름…오늘부터 전국 장마 시작",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260701084039iRm",
+      "published_at": "2026-07-01 08:54",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "\"브라질 나와!\" 괴물 공격수 홀란, 결승골로 월드컵 16강 이끌어",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR202607010658239N8",
-      "published_at": "2026-07-01 07:22",
+      "title": "'멀티골' 음바페, 메시와 최다 골 공동 선두…데샹 감독 최다승 겹경사",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260701082740MbD",
+      "published_at": "2026-07-01 08:54",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "르브론 제임스, 레이커스와 결별…24번째 시즌은 커리와 함께?",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260701065019PyK",
-      "published_at": "2026-07-01 07:22",
+      "title": "[단독] YG플러스, 생성형 AI 활용 음원 발매 전면 제한",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260701082728xCU",
+      "published_at": "2026-07-01 08:54",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "세리나 윌리엄스, '4년만의 복귀전' 윔블던 1회전 패배",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260701082524Din",
+      "published_at": "2026-07-01 08:54",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "오늘 선관위 2차 국조특위…윤호중 행안부 장관·노태악 전 중앙선관위원장 등 출석 예정",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008635785&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-07-01 08:54",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "김정은, '공산당 창건일' 시진핑에 축전…\"북중관계 승화발전\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008635705&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-07-01 08:54",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "김정은, 시진핑에 축전…\"시대적 요구 맞게 관계 발전\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008635700&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-07-01 08:54",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "\"한미 FTA 반대 선봉\"…'적통·간신·파묘' 격돌",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008635641&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-07-01 08:54",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "김민석 전 총리, 임기 마지막 일정으로 송파경찰서·송파소방서 격려...\"최선 다해줘 감사\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008635657&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-07-01 08:54",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "광주서 국민 보고회…\"호남 투자, 경제적 원리\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008635562&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-07-01 08:54",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "이 대통령, 한성숙 총리 임명안 재가…역대 두 번째 여성총리 탄생",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008635613&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-07-01 08:54",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "민주, 11개 상임위원장 단독 선출…국힘 \"오만과 독선\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008635561&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-07-01 08:54",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "이 대통령, 오늘 문재인 전 대통령과 청와대서 오찬",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008635576&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-07-01 08:54",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "법사위 등 11개 상임위원장 민주당 단독 선출",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008635445&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-07-01 08:54",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
