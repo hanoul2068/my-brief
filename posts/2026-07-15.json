@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T07:08:39.016772+09:00",
+  "generated_at": "2026-07-15T08:41:22.178684+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,17 +34,49 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "[날씨] 오후까지 전국 대부분 장맛비…강한 바람 주의",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260715070138rVG",
-      "published_at": "2026-07-15 07:08",
+      "title": "증권업계, '단일종목 레버리지' 예탁금 더 높인다",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260715082533Xuv",
+      "published_at": "2026-07-15 08:38",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "'뾰족한 방패' 스페인, '무딘 창' 프랑스 잡고 16년 만에 월드컵 결승 진출",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260715061726m47",
-      "published_at": "2026-07-15 07:08",
+      "title": "'영웅본색' '무간도' 제작, 홍콩 영화계 대모 시남생 별세",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260715082358mI3",
+      "published_at": "2026-07-15 08:38",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "밤사이 중부 강한 비바람…남부 체감 35도 찜통",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260715082316L55",
+      "published_at": "2026-07-15 08:38",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "'장윤기 사건' 증거은닉·압력행사 혐의 경찰 수사팀장 구속송치",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260715082303SCx",
+      "published_at": "2026-07-15 08:38",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "지난달 취업자 수 6.3만 명 증가…청년 고용률은 26개월 연속 하락",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202607150802526V9",
+      "published_at": "2026-07-15 08:38",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "\"감시 무풍지대\"·\"일감 몰아주기\"…여야 모두 질타",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008658096&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-07-15 08:38",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -52,15 +84,23 @@
       "source": "정치 (SBS)",
       "title": "여당 의원 11명 '보완수사권 일부 허용' 법안 발의",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008657958&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-07-15 07:08",
+      "published_at": "2026-07-15 08:38",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "\"초고가 주택 부담 강화는 1번\"…댓글 의견수렴",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008657956&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-07-15 08:38",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "politics",
       "source": "정치 (SBS)",
       "title": "\"초고가 주택 부담 강화는 1번\"…실시간 댓글 투표",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008657956&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-07-15 07:08",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008657849&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-07-15 08:38",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -68,7 +108,7 @@
       "source": "정치 (SBS)",
       "title": "\"감시 무풍지대\"·\"일감 몰아주기\"…쏟아진 질타",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008657661&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-07-15 07:08",
+      "published_at": "2026-07-15 08:38",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -76,7 +116,7 @@
       "source": "정치 (SBS)",
       "title": "\"견제 장치 무력화\" vs \"검찰 개혁 마지막 퍼즐\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008657637&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-07-15 07:08",
+      "published_at": "2026-07-15 08:39",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -84,7 +124,7 @@
       "source": "정치 (SBS)",
       "title": "민주당 의원 11명, '보완수사권 일부 허용' 법안 발의",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008657636&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-07-15 07:08",
+      "published_at": "2026-07-15 08:39",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -92,7 +132,7 @@
       "source": "정치 (SBS)",
       "title": "'초고가 1주택' 실시간 투표…집값 기준엔 \"의외네\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008657629&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-07-15 07:08",
+      "published_at": "2026-07-15 08:39",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -100,7 +140,7 @@
       "source": "정치 (SBS)",
       "title": "장관 지시로 강경화 주미대사 일시 귀국…쿠팡 등 한미관계 현안 점검",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008657711&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-07-15 07:08",
+      "published_at": "2026-07-15 08:39",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -108,23 +148,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령, 분당 아파트 매도 임박…\"난 이제 집 없다\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008657700&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-07-15 07:08",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "이 대통령, 분당 아파트 매도 완료…\"난 이제 집 없다\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008657545&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-07-15 07:08",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "이 대통령 \"난 이제 집 없다\"…분당 아파트 매도 완료 임박",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008657535&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-07-15 07:08",
+      "published_at": "2026-07-15 08:39",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
