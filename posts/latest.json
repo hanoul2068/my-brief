@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T07:11:14.157528+09:00",
+  "generated_at": "2026-07-24T08:45:16.690358+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,33 +34,129 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "[AM-PM] 이 대통령, 美·남미 3개국 등 순방…젠슨황 만나 外",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260724070343b7V",
-      "published_at": "2026-07-24 07:10",
+      "title": "'불혹의 미드필더' 모드리치, 현역 생활 이어간다",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260724083418Mug",
+      "published_at": "2026-07-24 08:44",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "[현생탐구] 장마철 '젤리슈즈 꾸미기' 열기 후끈…\"신발 대신 개성 샀어요\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260723144218QrX",
-      "published_at": "2026-07-24 07:11",
+      "title": "막바지 장마 속 폭염…전국 곳곳 찜통더위",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260724083009iVp",
+      "published_at": "2026-07-24 08:44",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "미, 60개국에 '강제노동 관세' 확정…한국은 12.5%",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR202607240628582T6",
-      "published_at": "2026-07-24 07:11",
+      "title": "한화오션, 한미 함정 공동개발 등 계약…한미 조선협력 선도",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260724082003ohu",
+      "published_at": "2026-07-24 08:44",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "[속보] 미 무역대표부, 무역법 301조 '강제노동 관세' 부과",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260724061036Sy2",
-      "published_at": "2026-07-24 07:11",
+      "title": "신지은, 여자 스코틀랜드 오픈 1R 공동 선두…LPGA 통산 2승 '청신호'",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202607240819506Oj",
+      "published_at": "2026-07-24 08:44",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "[속보] 단일종목 레버리지 예탁금 3천만원, 이달 31일부터 시행",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260724081903YFt",
+      "published_at": "2026-07-24 08:44",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "靑 \"한미, 관세합의 준수 공감대…15% 지켜지게 협의\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260724081142XYp",
+      "published_at": "2026-07-24 08:44",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "유시민 \"이 대통령 1년의 방식, 진영을 혼돈에 몰아넣을 수도\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008672631&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-07-24 08:45",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "\"비자 4년 제한 재검토\" 요청…안보 협의도 촉구",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008672551&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-07-24 08:45",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "오세훈 1심 '시장직 상실형'에…정치권 '술렁'",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008672550&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-07-24 08:45",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "\"쉬운 전세대출 조정해야\"…공급은 '속도전' 강조",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008672453&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-07-24 08:45",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "차기 당대표 '김민석·정청래·송영길' 3파전 압축",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008672457&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-07-24 08:45",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "\"똘똘한 한 채, 문제 불러\"…보유세 강화에 '무게'",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008672452&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-07-24 08:45",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[한반도 포커스] 방탄소년단은 NO! BTS는 OK? 오락가락 북한폰",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008672380&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-07-24 08:45",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[한반도 포커스] 평양서 교통사고 시비…차 소유 허용에 '새 고민'",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008672379&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-07-24 08:45",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "조현 외교부 장관, 미국 측에 \"유학생 비자 4년 제한 재검토\" 요청",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008672367&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-07-24 08:45",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "조현 \"인내심 갖고 북한과 대화 재개 노력\"…EAS 회원국에 협조 당부",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008672313&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-07-24 08:45",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
