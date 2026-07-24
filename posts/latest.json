@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T07:14:48.599213+09:00",
+  "generated_at": "2026-07-25T08:54:18.466313+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,89 +34,57 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "어떻게 올라갔나…전신주 꼭대기까지 오른 곰 한마리",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260723144634jMk",
-      "published_at": "2026-07-25 07:14",
+      "title": "여고생 흉기 피습…'살인미수' 10대 남성 구속영장",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH202607250846457w7",
+      "published_at": "2026-07-25 08:51",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "중국 폭염 속 이색 '동과 피서법'…\"먹지 말고 안아보세요\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260722154933T4k",
-      "published_at": "2026-07-25 07:14",
+      "title": "17세 3개월 10일…서울 이랜드 안주완, K리그 최연소 득점 신기록",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260725073758EnB",
+      "published_at": "2026-07-25 08:51",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "열 빠르게 식혀 드려요…일본서 등장한 '인간용 냉장고'",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260723161841Qer",
-      "published_at": "2026-07-25 07:14",
+      "title": "모기 서식장소 찾아 군 드론까지 동원…스리랑카 뎅기열 확산 비상",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260724161246Fjc",
+      "published_at": "2026-07-25 08:51",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "\"AI를 AI에게 배운다\"…미국 고교, 로봇 교사 '샐리' 도입",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260722154713N7o",
-      "published_at": "2026-07-25 07:14",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "국제유가 6일 만에 하락…중·파키스탄 중재설에 브렌트유 3.9%↓",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260725051431Gr1",
-      "published_at": "2026-07-25 07:14",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "이 대통령, 앤트로픽 CEO에 \"대한민국, AI 투자 대대적 확대\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260725051407z08",
-      "published_at": "2026-07-25 07:14",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "美 민주당, 대선 첫 경선지로 사우스캐롤라이나 잠정 결정",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260725050535zvU",
-      "published_at": "2026-07-25 07:14",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "美 중소기업들, '301조 강제노동 관세' 제소…\"대통령 권한 남용\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260725045050cIb",
-      "published_at": "2026-07-25 07:14",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "이란 매체 \"미군, 오만해서에서 LPG 운반선 공격\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260725041142oBH",
-      "published_at": "2026-07-25 07:14",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "트럼프 \"중·러, 이란 무기판매 관여하면 '나쁜 일' 일어날 것\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260725040247pOM",
-      "published_at": "2026-07-25 07:14",
+      "title": "'킹' 르브론, 필라델피아 전격 이적…통산 24번째 시즌 준비",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260725071727ULZ",
+      "published_at": "2026-07-25 08:51",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "politics",
       "source": "정치 (SBS)",
-      "title": "샌프란시스코 도착…오늘 젠슨 황 만나 'AI 선언' 발표",
+      "title": "[속보] 이 대통령 만난 젠슨 황 \"엔비디아-SK, 5천억 불 파트너십 발표\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008674265&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-07-25 08:51",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "'명청대전' 본격화…'신천지 개입 의혹' 놓고 충돌",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008674153&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-07-25 08:51",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "이 대통령, 샌프란 도착…오늘 젠슨 황 만나 'AI 선언' 발표",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008674147&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-07-25 07:14",
+      "published_at": "2026-07-25 08:51",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -124,7 +92,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령, 앤트로픽 CEO에 \"한국 인공지능 투자 대대적 확대\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008674144&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-07-25 07:14",
+      "published_at": "2026-07-25 08:51",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -132,7 +100,7 @@
       "source": "정치 (SBS)",
       "title": "김용범, 대규모 AI 투자에 \"돈은 많은데 상상력이 부족\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008674094&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-07-25 07:14",
+      "published_at": "2026-07-25 08:51",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -140,7 +108,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령, 샌프란 도착…미국 측 '이정후 사인볼'로 환영",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008674091&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-07-25 07:14",
+      "published_at": "2026-07-25 08:51",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -148,15 +116,7 @@
       "source": "정치 (SBS)",
       "title": "정성호 법무장관 사의 표명…이 대통령 만류",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008674071&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-07-25 07:14",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "'명청대전' 본격화…'신천지 개입 의혹' 놓고 충돌",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008673947&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-07-25 07:14",
+      "published_at": "2026-07-25 08:51",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -164,7 +124,7 @@
       "source": "정치 (SBS)",
       "title": "[정치사냥꾼] '부동산 민심' 요동…민주당 당권 경쟁, 김·정·송 '3파전' 판세는?",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008673836&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-07-25 07:14",
+      "published_at": "2026-07-25 08:52",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -172,7 +132,7 @@
       "source": "정치 (SBS)",
       "title": "오세훈 시장, 김윤덕 국토부장관 만나 주택공급 방안 논의",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008673925&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-07-25 07:14",
+      "published_at": "2026-07-25 08:52",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -180,15 +140,7 @@
       "source": "정치 (SBS)",
       "title": "북한 \"미일한 부질없는 시도, 새 역학 구도에 영향 못 미친다\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008673854&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-07-25 07:14",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "李 운명 가를 '부동산'…국민의힘은 '失速' [이브닝 브리핑]",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008673668&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-07-25 07:14",
+      "published_at": "2026-07-25 08:52",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
