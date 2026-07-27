@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T07:14:45.961905+09:00",
+  "generated_at": "2026-07-28T08:51:11.550209+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,25 +34,49 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "신지은, LPGA 우승 힘입어 세계랭킹 62계단 껑충…36위 기록",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260728070735li9",
-      "published_at": "2026-07-28 07:14",
+      "title": "뉴욕증시, 유가 급락 속 혼조…반도체주 하락",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260728084914RrM",
+      "published_at": "2026-07-28 08:50",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "잉글랜드, '골키퍼 침대축구' 철퇴…지연시 필드플레이어 1분 퇴장 '시범 도입'",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260728070016pbg",
-      "published_at": "2026-07-28 07:14",
+      "title": "머스크 자산 한 달 만에 '반토막'…스페이스X·테슬라 주가 하락 영향",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260728084516Hi3",
+      "published_at": "2026-07-28 08:50",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "분당서 택시가 오피스텔 건물 들이받아…70대 기사 숨져",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR202607280639249NE",
-      "published_at": "2026-07-28 07:14",
+      "title": "올해 상반기 방한객 1,071만 명…카드 지출액 10조원 돌파",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260728082649Yf4",
+      "published_at": "2026-07-28 08:50",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "핵잠특별법에 \"핵무기 개발 없을 것\" 명시…조만간 입법예고",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR2026072808255881M",
+      "published_at": "2026-07-28 08:50",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "장난감 칼로 행인 '콕' 찌르고 낄낄…선 넘은 10대들",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260728081846WKq",
+      "published_at": "2026-07-28 08:50",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "\"새 술은 새 부대에\" 또 사의… 청와대는 \"사실 아냐\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008677610&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-07-28 08:50",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -60,7 +84,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령,룰라와 정상회담…\"한-메르코수르 협정 재개\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008677488&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-07-28 07:14",
+      "published_at": "2026-07-28 08:50",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -68,7 +92,7 @@
       "source": "정치 (SBS)",
       "title": "\"397억 즉각 반환해야\" VS \"434억도 예외 아냐\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008677485&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-07-28 07:14",
+      "published_at": "2026-07-28 08:51",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -76,7 +100,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령 \"브라질과 핵심광물 협력…한-메르코수르 무역협정 재개\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008677461&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-07-28 07:14",
+      "published_at": "2026-07-28 08:51",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -84,7 +108,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령, 룰라 브라질 대통령과 '손하트'…약 2시간 정상회담",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008677458&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-07-28 07:14",
+      "published_at": "2026-07-28 08:51",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -92,7 +116,7 @@
       "source": "정치 (SBS)",
       "title": "우주발사장 이용 간소화·공급망 협력…브라질과 MOU 7건 체결",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008677456&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-07-28 07:14",
+      "published_at": "2026-07-28 08:51",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -100,15 +124,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령, 룰라 브라질 대통령과 포옹 인사…정상회담 시작",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008677416&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-07-28 07:14",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "\"새 술은 새 부대에\" 또 사의…청와대는 \"사실 아냐\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008677396&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-07-28 07:14",
+      "published_at": "2026-07-28 08:51",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -116,7 +132,7 @@
       "source": "정치 (SBS)",
       "title": "한-브라질 정상회담…\"핵심 광물 공급망 협력\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008677395&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-07-28 07:14",
+      "published_at": "2026-07-28 08:51",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -124,7 +140,7 @@
       "source": "정치 (SBS)",
       "title": "투표자 수 72건 수정…수천 표 오락가락해도 \"실수\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008677392&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-07-28 07:14",
+      "published_at": "2026-07-28 08:51",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -132,7 +148,7 @@
       "source": "정치 (SBS)",
       "title": "국민의힘 윤리위, 조경태·진종오·권영진 징계 절차 개시",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008677221&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-07-28 07:14",
+      "published_at": "2026-07-28 08:51",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
