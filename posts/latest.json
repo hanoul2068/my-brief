@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T07:14:01.806420+09:00",
+  "generated_at": "2026-07-29T08:46:36.493252+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,41 +34,65 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "[날씨] 서울 다시 폭염경보…전국 체감 35도 이상 찜통",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260729071249RAU",
-      "published_at": "2026-07-29 07:13",
+      "title": "[뉴스특보] 日구마모토 7.1 강진…\"일주일 내 추가 가능성\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260729084318JD0",
+      "published_at": "2026-07-29 08:46",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "대한불교조계종 차기 총무원장 선거 본격화…38대 '불교 수장' 경쟁 막 오른다",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260729063929Dci",
-      "published_at": "2026-07-29 07:13",
+      "title": "검찰, UN 최정원 ‘연인 특수협박’ 기소유예…스토킹 무혐의",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260729083146EuL",
+      "published_at": "2026-07-29 08:46",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "돌고 돌아 만치니, 위기의 이탈리아 축구 사령탑 복귀…'명가 재건' 중책",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260729062105WjH",
-      "published_at": "2026-07-29 07:13",
+      "title": "\"예쁜 사람이 사장님 옆자리에\"…법원 \"직장 내 성희롱, 감봉 정당\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260729082149Ke7",
+      "published_at": "2026-07-29 08:46",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "미, 외국산 로봇 수입 금지…\"중국 겨냥 조치\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260729061634XDJ",
-      "published_at": "2026-07-29 07:13",
+      "title": "2만 명 정보 유출에 무단 소액결제 피해까지…개보위, KT 제재 심의",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260729081532Ens",
+      "published_at": "2026-07-29 08:46",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "한국, 펜싱 세계선수권대회 여자 에페 단체전 동메달",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260729061411Puq",
-      "published_at": "2026-07-29 07:13",
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "조정식 의장 \"현직 대통령 연임은 개헌 논의 대상 아냐…논란 유감\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008679727&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-07-29 08:46",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "징계 개시에 \"장동혁 사당화\" 반발…윤리위도 '내홍'",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008679650&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-07-29 08:46",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "충청 당원 투표 시작했지만…'신천지 의혹' 어수선",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008679649&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-07-29 08:46",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "\"현직 대통령 연임은 국민 선택의 문제\"…야권 '반발'",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008679647&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-07-29 08:46",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -76,7 +100,7 @@
       "source": "정치 (SBS)",
       "title": "\"한국 기술, 브라질 자원 힘 합쳐야\"…희토류 협력도",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008679528&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-07-29 07:13",
+      "published_at": "2026-07-29 08:46",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -84,7 +108,7 @@
       "source": "정치 (SBS)",
       "title": "법사위 소위, '보완수사권 폐지' 형소법 개정안 여당 주도 의결",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008679491&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-07-29 07:13",
+      "published_at": "2026-07-29 08:46",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -92,7 +116,7 @@
       "source": "정치 (SBS)",
       "title": "한국-브라질 경제인 행사…\"양국은 시대적 파트너, 원팀 희망\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008679543&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-07-29 07:13",
+      "published_at": "2026-07-29 08:46",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -100,7 +124,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령 \"브라질과 차세대 민항기 개발…핵심 광물·뷰티 협력\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008679538&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-07-29 07:13",
+      "published_at": "2026-07-29 08:46",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -108,15 +132,7 @@
       "source": "정치 (SBS)",
       "title": "조정식 국회의장 '대통령 연임 개헌론' 거론 파장…여당 '촉각'·야당 '반발'",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008679530&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-07-29 07:13",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "홍명보, 자택 인근서 법카 1천400만 원 사용…호텔·식당 등 결제",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008679522&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-07-29 07:13",
+      "published_at": "2026-07-29 08:46",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -124,31 +140,7 @@
       "source": "정치 (SBS)",
       "title": "한-브라질 공동성명…희토류 협력·메르코수르 협정 협상 속도",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008679497&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-07-29 07:13",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "\"현직 대통령 연임은 국민 선택의 문제\"…국민의힘 \"반발\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008679384&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-07-29 07:13",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "징계 개시에 \"장동혁 사당화\" 반발…윤리위원회도 '내홍'",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008679215&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-07-29 07:13",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "충청 당원 투표 시작했지만…신천지 의혹 불거져 어수선",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008679214&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-07-29 07:13",
+      "published_at": "2026-07-29 08:46",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
