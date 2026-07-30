@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T07:18:08.331779+09:00",
+  "generated_at": "2026-07-31T08:49:17.207891+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,49 +34,49 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "[날씨] 연일 기록적 더위…경남 중심 '폭염중대경보'",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260731070542yPH",
-      "published_at": "2026-07-31 07:15",
+      "title": "유해란, 메이저 3연승 '시동'…AIG 여자오픈서 1R 공동 2위",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202607310844574E3",
+      "published_at": "2026-07-31 08:48",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "스코틀랜드서 낚시질 한 번에 '거대 가오리' 낚은 14살 소년 화제",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR202607301626368Yt",
-      "published_at": "2026-07-31 07:15",
+      "title": "지퍼백 닫고 쓰레기봉투 묶어…제미나이 로보틱스2 공개",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH202607310842536X8",
+      "published_at": "2026-07-31 08:48",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "트럼프, 폐배터리 등 수출 금지 지시…중국 핵심광물 패권 견제",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR202607310656409su",
-      "published_at": "2026-07-31 07:15",
+      "title": "월드컵 후폭풍…아르헨티나, '자국 혐오 외국인' 입국 금지·추방령",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260731084218ne9",
+      "published_at": "2026-07-31 08:48",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "오늘부터 단일종목 레버리지 예탁금 1천→3천만원 상향",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260731064709FfM",
-      "published_at": "2026-07-31 07:15",
+      "title": "10년 일한 집에서 수천만원 명품  '슬쩍'…가사도우미 징역형 집행유예",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260731082903Vat",
+      "published_at": "2026-07-31 08:48",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "트럼프 \"불법 이민 트럭 운전사, 퇴역군인으로 대체\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260731063634OTo",
-      "published_at": "2026-07-31 07:15",
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "1년 반 만에 부임한 주한 미 대사…한국어로 첫 인사",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008683772&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-07-31 08:49",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "미, 이란 마한항공 지원기업 제재…\"혁명수비대 무기수송 통로\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR202607310630101Qz",
-      "published_at": "2026-07-31 07:15",
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "\"더 배려해야 하는데 송구\"…정몽규와 문자 논란",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008683770&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-07-31 08:49",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -84,7 +84,7 @@
       "source": "정치 (SBS)",
       "title": "알맹이 없는 청문회…\"왜 졌나?\" 질문에 '눈살'",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008683645&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-07-31 07:15",
+      "published_at": "2026-07-31 08:49",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -92,7 +92,7 @@
       "source": "정치 (SBS)",
       "title": "'올공 재검표' 8월 18일 합의…'선관위 특검법' 통과",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008683643&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-07-31 07:15",
+      "published_at": "2026-07-31 08:49",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -100,7 +100,7 @@
       "source": "정치 (SBS)",
       "title": "한-칠레 정상회담…\"한-칠레 FTA 개선·광물 협력\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008683652&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-07-31 07:15",
+      "published_at": "2026-07-31 08:49",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -108,7 +108,7 @@
       "source": "정치 (SBS)",
       "title": "'보완수사권 폐지' 형소법 강행…밤샘 필리버스터 '맞불'",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008683641&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-07-31 07:15",
+      "published_at": "2026-07-31 08:49",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -116,7 +116,7 @@
       "source": "정치 (SBS)",
       "title": "칠레 대통령 \"광물협력, 백지장도 맞들면 나아\"…이 대통령 남극 초대",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008683606&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-07-31 07:15",
+      "published_at": "2026-07-31 08:49",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -124,7 +124,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령 \"한-칠레 FTA 위원회 10년 만에 재가동…광물 공급망 협력\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008683600&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-07-31 07:15",
+      "published_at": "2026-07-31 08:49",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -132,7 +132,7 @@
       "source": "정치 (SBS)",
       "title": "'구리·리튬 매장 1위' 칠레와 자원협력 강화…초국가범죄 공동 대응",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008683598&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-07-31 07:15",
+      "published_at": "2026-07-31 08:49",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -140,23 +140,7 @@
       "source": "정치 (SBS)",
       "title": "모호한 공소기각 사유…거세지는 '졸속 입법' 비판",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008683550&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-07-31 07:15",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "형소법 개정안 처리 강행…밤샘 필리버스터 '맞불'",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008683549&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-07-31 07:15",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "미셸 스틸 주한미국대사 부임…\"트럼프 비전 함께 실현\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008683386&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-07-31 07:15",
+      "published_at": "2026-07-31 08:49",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
