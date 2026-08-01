@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T07:08:28.232669+09:00",
+  "generated_at": "2026-08-02T08:46:48.438612+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,9 +34,25 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
+      "title": "'수영 독학' 71세 할머니, 물에 빠진 남성 구한 뒤 \"별일 아니었다\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260731170056Vyo",
+      "published_at": "2026-08-02 08:44",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "'복귀' 배준호 교체 출전…스토크시티, 발렌시아와 1-1 무승부",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260802073803v3e",
+      "published_at": "2026-08-02 08:44",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
       "title": "승객 가방서 '남북 전쟁 포탄 5발' 발견…미 공항 발칵",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260731151451Ewg",
-      "published_at": "2026-08-02 07:05",
+      "published_at": "2026-08-02 08:44",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -44,7 +60,7 @@
       "source": "주요뉴스 (연합TV)",
       "title": "\"어흥!\" 인도 도심 누빈 꼬마 호랑이들…세계 호랑이의 날 축제",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260731155348d5O",
-      "published_at": "2026-08-02 07:05",
+      "published_at": "2026-08-02 08:44",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -52,7 +68,7 @@
       "source": "주요뉴스 (연합TV)",
       "title": "연체료 2,800만원…호주 도서관 150년 만에 돌아온 책",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260731162315E03",
-      "published_at": "2026-08-02 07:05",
+      "published_at": "2026-08-02 08:44",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -60,7 +76,7 @@
       "source": "주요뉴스 (연합TV)",
       "title": "주담대·마통 늘었다…가계대출 4조원가량 증가",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260802064445a5f",
-      "published_at": "2026-08-02 07:05",
+      "published_at": "2026-08-02 08:44",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -68,7 +84,7 @@
       "source": "주요뉴스 (연합TV)",
       "title": "열사병 환자 5년간 3.1배 급증…\"고령층 주의\"",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR202608020643487mY",
-      "published_at": "2026-08-02 07:05",
+      "published_at": "2026-08-02 08:44",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -76,7 +92,7 @@
       "source": "주요뉴스 (연합TV)",
       "title": "주인 안 오자 경적 '빵빵'…범인은 '성질 급한 개'",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260731163025f0G",
-      "published_at": "2026-08-02 07:05",
+      "published_at": "2026-08-02 08:44",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -84,7 +100,7 @@
       "source": "주요뉴스 (연합TV)",
       "title": "페루 나스카 관광 비행기 추락…13명 사망",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260802054505ggA",
-      "published_at": "2026-08-02 07:05",
+      "published_at": "2026-08-02 08:44",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -92,103 +108,7 @@
       "source": "주요뉴스 (연합TV)",
       "title": "러 모스크바 도심 카페서 폭발…3명 사망·15명 부상",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260802053830wFx",
-      "published_at": "2026-08-02 07:05",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "이탈리아 나폴리 인근 규모 4.7 지진…26명 부상",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260802053559qV8",
-      "published_at": "2026-08-02 07:05",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "트럼프 \"사법피해자기금 재추진\"…측근 인준 압박",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR202608020533272UL",
-      "published_at": "2026-08-02 07:05",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "아르헨 원유 수입…핵심 광물 협력 확대",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008685802&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-02 07:05",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "민주 충청 경선 김민석 1위…전망은?",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008685800&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-02 07:06",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "민주 당대표 첫 경선 충청 당원 투표…김민석 박빙승리",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008685837&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-02 07:06",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "\"역사적 전환\" vs \"최악의 악법\"…형소법 후폭풍",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008685797&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-02 07:06",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "국민의힘, 모레 청와대 앞서 최고위…\"보완수사권 폐지법 국민 분노 전달\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008685634&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-02 07:06",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "북, 나토 군사연료 수송체계 개편에 \"전례 없는 노골적 전쟁 준비\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008685532&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-02 07:06",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "\"북, 맥 OS 겨냥 악성코드 공격…걸리면 가산 자산 '탈탈'\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008685531&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-02 07:06",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "한·중앙아시아 정상회의 준비회의, 카자흐스탄서 개최",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008685530&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-02 07:06",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "'10년 공석' 특별감찰관…민주, 최길수 추천",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008685343&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-02 07:06",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "한-아르헨 정상회담…\"리튬 협력·아르헨 원유 수입\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008685332&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-02 07:06",
+      "published_at": "2026-08-02 08:44",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
