@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T07:07:31.676770+09:00",
+  "generated_at": "2026-08-03T08:48:09.666120+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,33 +34,41 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "[속보] 트럼프 \"미국, 일본과 좋은 관계여서 엔화 개입\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260803065558UWZ",
-      "published_at": "2026-08-03 07:04",
+      "title": "미 재무 \"엔화 저평가 시정 전폭 지지…추가 공동개입도 불사\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR2026080308442675p",
+      "published_at": "2026-08-03 08:45",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "美, 주말 '대공습' 취소에 협상 국면 전환되나",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260803064559Rcg",
-      "published_at": "2026-08-03 07:04",
+      "title": "코트라, '월마트'와 맞손…소비재 기업 미국시장 진출 지원",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260803084423DKK",
+      "published_at": "2026-08-03 08:45",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "유해란, 메이저 3연승 불발…AIG 여자오픈 공동 6위",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260803063336VO0",
-      "published_at": "2026-08-03 07:04",
+      "title": "GS칼텍스, 임직원 가족들과 '패밀리데이' 행사",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260803084342jy5",
+      "published_at": "2026-08-03 08:45",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "칠레 시속 100㎞ 폭풍…아르헨은 기록적 폭설",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260803055530n3B",
-      "published_at": "2026-08-03 07:05",
+      "title": "한밤중 전주 자원순환시설서 화재…8시간 만에 완진",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260803083108XGx",
+      "published_at": "2026-08-03 08:45",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "서쪽 한낮 39도 극한폭염…서울 열대야 계속",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260803082633NM2",
+      "published_at": "2026-08-03 08:45",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -68,7 +76,7 @@
       "source": "정치 (SBS)",
       "title": "1시간마다 100명씩 투표?…\"허위 입력\" \"조작은 아냐\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008686791&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-03 07:05",
+      "published_at": "2026-08-03 08:45",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -76,7 +84,7 @@
       "source": "정치 (SBS)",
       "title": "'부울경' 순회 경선 정청래 1위…'신천지 의혹' 설전",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008686790&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-03 07:05",
+      "published_at": "2026-08-03 08:45",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -84,7 +92,7 @@
       "source": "정치 (SBS)",
       "title": "[단독] 순방 마치고 귀국길…곧바로 부동산·증시 점검 회의",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008686789&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-03 07:05",
+      "published_at": "2026-08-03 08:45",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -92,7 +100,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령 \"한국과 독일, 많이 닮아…전쟁·분단 딛고 일어서\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008686705&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-03 07:05",
+      "published_at": "2026-08-03 08:45",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -100,7 +108,7 @@
       "source": "정치 (SBS)",
       "title": "민주당 부울경 순회 경선서 정청래 1위…득표율 46.6%",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008686604&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-03 07:05",
+      "published_at": "2026-08-03 08:45",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -108,7 +116,7 @@
       "source": "정치 (SBS)",
       "title": "[단독] 순방 일정 마무리…귀국 직후 부동산·증시 점검 회의",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008686603&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-03 07:05",
+      "published_at": "2026-08-03 08:45",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -116,7 +124,7 @@
       "source": "정치 (SBS)",
       "title": "시간당 '딱 100명씩' 늘어난 투표자…또 황당한 해명",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008686598&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-03 07:05",
+      "published_at": "2026-08-03 08:45",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -124,7 +132,7 @@
       "source": "정치 (SBS)",
       "title": "'노무현 사위' 곽상언, '검찰개혁' 재차 직격…\"고인, 정치적 노리개로\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008686628&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-03 07:05",
+      "published_at": "2026-08-03 08:45",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -132,7 +140,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령, 이번 주 부처별 업무보고 재개…산업·국방·법무부 등",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008686591&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-03 07:05",
+      "published_at": "2026-08-03 08:45",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -140,7 +148,7 @@
       "source": "정치 (SBS)",
       "title": "휴전선 코앞에 세워진 수상한 도로 ㄷㄷ 이게 위험한 '진짜 이유' / 스브스뉴스",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008685175&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-03 07:05",
+      "published_at": "2026-08-03 08:45",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
