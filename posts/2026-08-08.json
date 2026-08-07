@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T06:53:43.443830+09:00",
+  "generated_at": "2026-08-08T08:21:35.045532+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,9 +34,33 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
+      "title": "560세대 아파트 19시간 정전…폭염에 땀 뻘뻘",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260808082030frn",
+      "published_at": "2026-08-08 08:21",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "폭염으로 중단된 경복궁 수문장 교대 의식, 8일부터 재개",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260808070956KZS",
+      "published_at": "2026-08-08 08:21",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "'세탁 필요 없는 티셔츠' 홍보한 미 스타트업…과학적 검증 '물음표'",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260806164129uON",
+      "published_at": "2026-08-08 08:21",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
       "title": "프랑스, 수신자 동의 없는 텔레 마케팅에 벌금 '최대 6억원'",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260806180839QsC",
-      "published_at": "2026-08-08 06:51",
+      "published_at": "2026-08-08 08:21",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -44,7 +68,7 @@
       "source": "주요뉴스 (연합TV)",
       "title": "집에서 말다툼 중 어머니에게 흉기 휘둘러 살해…10대 아들 체포",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260808061809raB",
-      "published_at": "2026-08-08 06:51",
+      "published_at": "2026-08-08 08:21",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -52,7 +76,7 @@
       "source": "주요뉴스 (연합TV)",
       "title": "민주당 전대, 오늘 제주·인천 경선…정청래·김민석 '초접전' 속 2차전",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260808061757f8f",
-      "published_at": "2026-08-08 06:51",
+      "published_at": "2026-08-08 08:21",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -60,7 +84,7 @@
       "source": "주요뉴스 (연합TV)",
       "title": "뉴욕 증시, 금리 인상 기대론 후퇴에 상승…S&P500 '사상 최고치'",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260808061743Am6",
-      "published_at": "2026-08-08 06:51",
+      "published_at": "2026-08-08 08:21",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -68,47 +92,7 @@
       "source": "주요뉴스 (연합TV)",
       "title": "조수석 수납 공간 열었더니 거대 비단뱀 '쿨쿨'",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260806180649BGS",
-      "published_at": "2026-08-08 06:51",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "미국 생방송 중 '꾸벅'…잠든 워킹맘 앵커에 쏟아진 응원",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260807163815VUH",
-      "published_at": "2026-08-08 06:51",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "일본 대기업 사원 여름 보너스 봉투 '두툼'…100만엔 첫 돌파",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260807162926SVS",
-      "published_at": "2026-08-08 06:51",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "오픈AI, 챗GPT 무료고객에 최신 모델 무한제공",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260808033509qxK",
-      "published_at": "2026-08-08 06:51",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "트럼프 \"중국의 AI·암호화폐 장악 안돼…시진핑과 논의하겠다\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR202608080226448il",
-      "published_at": "2026-08-08 06:51",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "음성 공장 화재 14시간 만에 진화…직원 화상",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260808003942rhD",
-      "published_at": "2026-08-08 06:51",
+      "published_at": "2026-08-08 08:21",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -116,7 +100,7 @@
       "source": "정치 (SBS)",
       "title": "'돌려차기 막말' 서범수 징계 개시…쇄신파 겨누나",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008695768&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-08 06:51",
+      "published_at": "2026-08-08 08:21",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -124,7 +108,7 @@
       "source": "정치 (SBS)",
       "title": "'검사 수사권 폐지'…9개 합수본 해산 불가피",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008695760&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-08 06:51",
+      "published_at": "2026-08-08 08:21",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -132,7 +116,7 @@
       "source": "정치 (SBS)",
       "title": "청년 주택난에 \"버스 하우스\"…\"청년이 난민?\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008695759&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-08 06:51",
+      "published_at": "2026-08-08 08:21",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -140,7 +124,7 @@
       "source": "정치 (SBS)",
       "title": "\"과감히 실천\"…이르면 내주 수도권 공급 계획 발표",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008695758&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-08 06:51",
+      "published_at": "2026-08-08 08:21",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -148,7 +132,7 @@
       "source": "정치 (SBS)",
       "title": "'검사 수사권 폐지'로 앞으론?…9개 합수본 해산 불가피",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008695535&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-08 06:51",
+      "published_at": "2026-08-08 08:21",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -156,7 +140,7 @@
       "source": "정치 (SBS)",
       "title": "'청년 주택난' 대책이라며 \"버스 하우스\"…비난 쏟아지자",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008695533&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-08 06:51",
+      "published_at": "2026-08-08 08:21",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -164,7 +148,7 @@
       "source": "정치 (SBS)",
       "title": "용산 어린이정원 추가 검토?…주택 공급 부지 곳곳 변수",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008695531&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-08 06:51",
+      "published_at": "2026-08-08 08:21",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -172,7 +156,7 @@
       "source": "정치 (SBS)",
       "title": "[정치사냥꾼] '전대' 아니라 '전쟁'? 벼랑 끝 내홍…여야 리더십 시험대",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008695518&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-08 06:51",
+      "published_at": "2026-08-08 08:21",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -180,7 +164,7 @@
       "source": "정치 (SBS)",
       "title": "장동혁, '버스 하우스' 제안에 \"민주당 의원님 자녀들부터 살아라\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008695554&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-08 06:51",
+      "published_at": "2026-08-08 08:21",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -188,7 +172,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령 \"국가폭력 피해자에 사과…국가가 책임지고 치유할 것\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008695507&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-08 06:51",
+      "published_at": "2026-08-08 08:21",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
