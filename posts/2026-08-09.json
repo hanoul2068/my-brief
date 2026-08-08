@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T06:43:00.727625+09:00",
+  "generated_at": "2026-08-09T08:17:29.273065+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,9 +34,73 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
+      "title": "새 바이러스까지 만들어낸 AI…미 연구진 16종 생성해 번식도 확인",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260807163037afN",
+      "published_at": "2026-08-09 08:14",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "보령 캠핑장서 7명 벌쏘임 피해…\"돌풍에 벌집 흔들린 탓\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260809075055bHO",
+      "published_at": "2026-08-09 08:14",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "'데뷔 10주년' 블랙핑크, 라이브 방송서 팬들에 감사 인사…이벤트 논란에는 사과",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR2026080907470318G",
+      "published_at": "2026-08-09 08:14",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "폭염에 부산 북구 986가구 정전…\"전력 설비에 까마귀 접촉 추정\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260809073931YXk",
+      "published_at": "2026-08-09 08:14",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "부산 철강 제조공장 화재 10시간 만 완진…인명피해 없어",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260809072758nrf",
+      "published_at": "2026-08-09 08:14",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "다름슈타트 이호재, 독일 데뷔전서 '환상 골'…다친 동료 번쩍 들어 SNS에서 화제도",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260809072550Nmc",
+      "published_at": "2026-08-09 08:14",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "김정은, 北 국립교향악단과 기념사진…\"음악예술, 국가부흥 추동력\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260809070308JmP",
+      "published_at": "2026-08-09 08:14",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "새벽 가평 계곡서 60대 여성 숨진 채 발견…\"다슬기 잡던 중 실종\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260809064831OQp",
+      "published_at": "2026-08-09 08:14",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
       "title": "경기 고양 아파트서 불…1명 화상·주민 40여 명 대피",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR202608090628562Cz",
-      "published_at": "2026-08-09 06:40",
+      "published_at": "2026-08-09 08:14",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -44,71 +108,23 @@
       "source": "주요뉴스 (연합TV)",
       "title": "전한길, 출국금지 연장 취소소송 '패소'…법원 \"수사 차질 우려\"",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260809062201HiK",
-      "published_at": "2026-08-09 06:40",
+      "published_at": "2026-08-09 08:15",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "\"꽝인 줄 알았는데 16억 당첨…쓰레기 더미 뒤져 복권 찾았다\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260807154322aT3",
-      "published_at": "2026-08-09 06:40",
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "'ISA·주가누르기' 개편안 질타…전면 재검토",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008696391&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-08-09 08:15",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "저승사자 복장으로 병원 옥상서 '괴성'…영국 '흑사병 의사' 난동",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260807103901ljw",
-      "published_at": "2026-08-09 06:40",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "미국 '셧다운 방지' 임시예산안 상원 통과…'유권자 ID법'은 좌절",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260809045736KEn",
-      "published_at": "2026-08-09 06:40",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "엔비디아, 전력업체 랜시엄에 4조원 투자…AI 인프라 확보",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260809044912vAu",
-      "published_at": "2026-08-09 06:40",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "튀르키예 외무 \"메카 공동방위조약, 이란 겨냥 아냐\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260809043943QTu",
-      "published_at": "2026-08-09 06:40",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "트럼프 '풍성 금발'에 밈 쏟아져……백악관 \"행사장 LED 조명\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR202608090430282Oi",
-      "published_at": "2026-08-09 06:40",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "태평양 섬나라들 \"이달말 정상회의에 대만 참석\"…중국 반발할 듯",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260809041603lCN",
-      "published_at": "2026-08-09 06:40",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "젤렌스키, '친러' 세르비아 첫 공식 방문…\"양자 관계 강화\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260809035540O59",
-      "published_at": "2026-08-09 06:40",
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "민주당 인천·제주 순회경선 김민석 1위",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008696403&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-08-09 08:15",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -116,7 +132,7 @@
       "source": "정치 (SBS)",
       "title": "제주·인천서 김민석 47.75%로 이겼다…득표 합산 보니",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008696225&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-09 06:40",
+      "published_at": "2026-08-09 08:15",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -124,7 +140,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령, 'ISA·주가 누르기' 개편안 질타…전면 재검토",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008696221&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-09 06:40",
+      "published_at": "2026-08-09 08:15",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -132,7 +148,7 @@
       "source": "정치 (SBS)",
       "title": "[속보] 김민석, 민주당 전당대회 제주·인천 당원 투표서 승리",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008696246&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-09 06:40",
+      "published_at": "2026-08-09 08:15",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -140,7 +156,7 @@
       "source": "정치 (SBS)",
       "title": "한 총리, 경북 청도 찾아 가뭄·폭염 피해 점검…\"적극 대응\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008696167&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-09 06:40",
+      "published_at": "2026-08-09 08:15",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -148,7 +164,7 @@
       "source": "정치 (SBS)",
       "title": "\"왜 그렇게 했어요\" 대통령, 'ISA·주가누르기 방지법' 질타",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008696013&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-09 06:40",
+      "published_at": "2026-08-09 08:15",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -156,7 +172,7 @@
       "source": "정치 (SBS)",
       "title": "민주당, 오늘 제주·인천 경선…정청래·김민석 2차전",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008696019&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-09 06:40",
+      "published_at": "2026-08-09 08:15",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -164,7 +180,7 @@
       "source": "정치 (SBS)",
       "title": "'폭염 대응' 범정부 대응체계 강화…분야별 비상대응기구 가동",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008696028&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-09 06:40",
+      "published_at": "2026-08-09 08:15",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -172,23 +188,7 @@
       "source": "정치 (SBS)",
       "title": "[비디오머그] 완성 선언한 KF-21 보라매…개발사 완벽 총정리",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008690030&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-09 06:40",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "미 \"북 송환 유해서 미군 112명 신원확인…DMZ 유해 발굴 재개\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008695955&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-09 06:40",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "'돌려차기 막말' 서범수 징계 개시…쇄신파 겨누나",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008695768&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-09 06:40",
+      "published_at": "2026-08-09 08:15",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
