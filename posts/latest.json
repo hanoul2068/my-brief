@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T06:59:20.221218+09:00",
+  "generated_at": "2026-08-13T08:27:11.185585+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,33 +34,49 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "[AM-PM] 경제관계장관회의 개최…민주당, 의원총회 진행 外",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260813065454CX9",
-      "published_at": "2026-08-13 06:56",
+      "title": "미국도 속수무책…우크라 드론에 美 기갑여단 훈련서 '전멸'",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260813080727upb",
+      "published_at": "2026-08-13 08:26",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "뉴욕증시, 인플레 둔화 속 혼조 마감…S&P500 0.3%↑",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR202608130609174wL",
-      "published_at": "2026-08-13 06:56",
+      "title": "[날씨] 내일까지 동해안 비…17호 태풍 '낭카' 북상 중",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260813080639eVc",
+      "published_at": "2026-08-13 08:26",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "레빗 백악관 대변인 이달말 퇴임…트럼프 \"가족 위한 결정 존중\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260813060555uYF",
-      "published_at": "2026-08-13 06:56",
+      "title": "엔비디아 젠슨 황, 美 직원이 뽑은 '최고 CEO' 1위",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260813080247qAN",
+      "published_at": "2026-08-13 08:26",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "'트럼프 SNS 미리보기' 유료 서비스 피소…\"이례적 부패행위\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260813055912fRS",
-      "published_at": "2026-08-13 06:56",
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "\"안 싸우는 당협위원장은 물갈이\"…'굳히기' 나선 장동혁",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008702949&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-08-13 08:26",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "북한, 미사일 발사 다음날 보도 없이 '침묵'",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008702967&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-08-13 08:27",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "민주당, 오늘 의총서 부동산 세제 개편안·공급 방안 논의",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008702965&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-08-13 08:27",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -68,7 +84,7 @@
       "source": "정치 (SBS)",
       "title": "안보 뚫는 '중화권 스파이'…단순 촬영 넘어 도청·포섭까지",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008702922&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-13 06:56",
+      "published_at": "2026-08-13 08:27",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -76,7 +92,7 @@
       "source": "정치 (SBS)",
       "title": "마지막 TV토론까지 난타전…이번 주 '슈퍼위크'",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008702851&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-13 06:56",
+      "published_at": "2026-08-13 08:27",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -84,7 +100,7 @@
       "source": "정치 (SBS)",
       "title": "'TF 회의' 열고 민심 달래기…오늘 공급대책 발표",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008702849&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-13 06:56",
+      "published_at": "2026-08-13 08:27",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -92,7 +108,7 @@
       "source": "정치 (SBS)",
       "title": "싸늘한 민심 달래기 '진땀'…\"청년세대 우려 전달\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008702759&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-13 06:56",
+      "published_at": "2026-08-13 08:27",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -100,7 +116,7 @@
       "source": "정치 (SBS)",
       "title": "방송광고 하루 20%까지 가능…30분 프로그램도 중간광고",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008702724&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-13 06:56",
+      "published_at": "2026-08-13 08:27",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -108,7 +124,7 @@
       "source": "정치 (SBS)",
       "title": "방미통위, 구글·애플 4시간 가까이 의견청취…사무처 \"위법\" 판단",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008702700&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-13 06:57",
+      "published_at": "2026-08-13 08:27",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -116,31 +132,7 @@
       "source": "정치 (SBS)",
       "title": "\"안 싸우는 당협위원장 물갈이\"…'굳히기' 나선 장동혁",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008702580&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-13 06:57",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "전당대회 닷새 앞으로…마지막 TV 토론까지 '난타전'",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008702579&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-13 06:57",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "원산에서 동해상으로 '사거리 2배'…신형 미사일?",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008702578&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-13 06:57",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "\"세제 개편안 전면 수정\" 제안까지…민심 달래기 '진땀'",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008702562&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-13 06:57",
+      "published_at": "2026-08-13 08:27",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
