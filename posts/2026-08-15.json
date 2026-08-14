@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T06:35:18.342299+09:00",
+  "generated_at": "2026-08-15T08:09:36.081448+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,9 +34,57 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
+      "title": "[속보] \"고이즈미 방위상 등 일본 장관 2명 야스쿠니 참배\" <교도통신>",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260815080752thE",
+      "published_at": "2026-08-15 08:09",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "서울 홍대 인근 251세대 정전…4시간 만에 복구",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260815080422PKp",
+      "published_at": "2026-08-15 08:09",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "인도네시아 연안에 규모 7.7 강진…쓰나미 경보",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260815075934tik",
+      "published_at": "2026-08-15 08:09",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "한국프로야구 유일 4할 타자, 백인천 전 감독 별세",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260815074433eng",
+      "published_at": "2026-08-15 08:09",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "NC 임지민, 타구에 얼굴 맞아 병원 이송…\"정밀 검진 예정\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR2026081506562312t",
+      "published_at": "2026-08-15 08:09",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "ATM 이강인, 마르세이유전 '강렬한 35분'…다음주 개막전 선발 노린다",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260815065055hEb",
+      "published_at": "2026-08-15 08:09",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
       "title": "\"피임약 효과 떨어질 수도\"…'마운자로 베이비' 주의해야",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260813161400JrZ",
-      "published_at": "2026-08-15 06:34",
+      "published_at": "2026-08-15 08:09",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -44,7 +92,7 @@
       "source": "주요뉴스 (연합TV)",
       "title": "트럼프, 美항모 장기배치·승조원 건강 우려 일축",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260815052821VLZ",
-      "published_at": "2026-08-15 06:34",
+      "published_at": "2026-08-15 08:09",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -52,7 +100,7 @@
       "source": "주요뉴스 (연합TV)",
       "title": "유조선 피격·협상은 지지부진…국제 유가 1%대 상승 마감",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260815052620TM1",
-      "published_at": "2026-08-15 06:34",
+      "published_at": "2026-08-15 08:09",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -60,55 +108,47 @@
       "source": "주요뉴스 (연합TV)",
       "title": "배 안에 고양이 60마리가…미국 '고양이 보트' 구조 소동",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260813145738jDo",
-      "published_at": "2026-08-15 06:34",
+      "published_at": "2026-08-15 08:09",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "게임 실력이 취업 스펙?…미 연방항공청, 게이머 2천명 채용",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260812174457orZ",
-      "published_at": "2026-08-15 06:34",
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "김정은, 광복절 앞두고 소련군 추모…푸틴은 축전",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008706612&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-08-15 08:09",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "\"공포의 추격전\"… 관광객 보트 돌진한 '거대 하마'",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260811162156E0K",
-      "published_at": "2026-08-15 06:34",
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "'기후보험' 내년 시범사업 추진…건설노동자 대상",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008706510&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-08-15 08:09",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "美, 고강도 이란 경제제재 예고…\"전례없는 고립 조치 적용\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260815044911xun",
-      "published_at": "2026-08-15 06:34",
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "폭염 속 '인간 받침대' 논란…\"진심으로 죄송\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008706506&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-08-15 08:09",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "미, 중동서 다국적 공격드론TF 띄운다…역내 파트너국과 협력",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR2026081503355623l",
-      "published_at": "2026-08-15 06:34",
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "이재명 지지율 '44%' 최저…부동산 정책이 '타격'",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008706505&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-08-15 08:09",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "이라크 \"8월 일일 원유 수출량, 이란 전쟁 이후 최고치\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260815025314JpD",
-      "published_at": "2026-08-15 06:35",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "프랑스 '15세 미만 SNS 금지' 정책, 위헌 판결…\"과한 기본권 침해\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260815024756NO6",
-      "published_at": "2026-08-15 06:35",
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "'5·18 토론회' 이진숙 제명 촉구…당내서도 '눈총'",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008706495&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-08-15 08:09",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -116,7 +156,7 @@
       "source": "정치 (SBS)",
       "title": "\"4년 중임·연임으로 책임정치…개헌 입장 변함없어\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008706494&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-15 06:35",
+      "published_at": "2026-08-15 08:09",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -124,7 +164,7 @@
       "source": "정치 (SBS)",
       "title": "용산공원 활용에 \"거듭 반대\"…\"전향적 협조해야\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008706491&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-15 06:35",
+      "published_at": "2026-08-15 08:09",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -132,7 +172,7 @@
       "source": "정치 (SBS)",
       "title": "서울 한강공원 내 수상건물서 불…\"전기적 요인 추정\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008706516&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-15 06:35",
+      "published_at": "2026-08-15 08:09",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -140,7 +180,7 @@
       "source": "정치 (SBS)",
       "title": "청와대, '대미 투자 최후통첩' 보도에…\"다양한 채널 통해 논의 진행\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008706415&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-15 06:35",
+      "published_at": "2026-08-15 08:09",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -148,47 +188,7 @@
       "source": "정치 (SBS)",
       "title": "[단독] '기후보험' 길 열리나…내년 시범사업 추진",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008706279&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-15 06:35",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "\"인간 지지대 세웠다\" 논란의 사진…장동혁 결국 사과",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008706274&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-15 06:35",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "\"물러나라\" 이진숙 제명 촉구…국힘서도 비판 목소리",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008706273&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-15 06:35",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "'44%' 최저 지지율 찍었다…부정 평가 이유 1위는",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008706268&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-15 06:35",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "\"거주 자유 제약, 그린벨트 해제 반대\"…민주 반응은?",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008706267&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-15 06:35",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "[정치사냥꾼] 민주당 전대 어디로?…지지율 첫 '데드크로스'",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008706177&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-15 06:35",
+      "published_at": "2026-08-15 08:09",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
