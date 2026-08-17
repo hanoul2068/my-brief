@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T06:37:11.471368+09:00",
+  "generated_at": "2026-08-18T08:12:33.898997+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,49 +34,113 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "가습기살균제 피해자 \"진상규명 활동 재개해야\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260818063101xJS",
-      "published_at": "2026-08-18 06:34",
+      "title": "靑 \"대미 전략투자 1호 프로젝트 '반도체' 아냐\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260818080837r9P",
+      "published_at": "2026-08-18 08:09",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "챗GPT에 산업인력공단 공공데이터 실시간 반영…'HRD코리아 MCP'",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260818062834pJp",
-      "published_at": "2026-08-18 06:34",
+      "title": "대기업 신규채용 2년새 15% 감소…청년 줄고 장년 늘며 세대역전",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260818075629EEv",
+      "published_at": "2026-08-18 08:10",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "무디스, 한국 성장률 3.5%로 깜짝 상향…\"메모리 기업 대체 제한적\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR202608180628165dw",
-      "published_at": "2026-08-18 06:34",
+      "title": "[3분증시] 뉴욕증시, 중동 리스크에 2거래일째 하락",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260818075114FgI",
+      "published_at": "2026-08-18 08:10",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "뉴욕증시, 국제유가 급등에 일제히 하락…다우 0.5%↓",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR202608180605118y4",
-      "published_at": "2026-08-18 06:34",
+      "title": "러 외무장관, 북한에 광복절 축전…파병 공적 강조",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202608180724242VG",
+      "published_at": "2026-08-18 08:10",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "EU \"러시아 경제 1,600조원 타격\"…대폭 추가제재도 예고",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260818060220Fv6",
-      "published_at": "2026-08-18 06:34",
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[정치쇼] 최민희 \"팀정청래 선전 이유? 이 대통령 뒷받침하면서 당은 '개혁' 앞장서란 뜻\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008708999&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-08-18 08:10",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "인도서 힌두교 행사 관련 압사·화재 사고…최소 14명 사망",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260818055910V5d",
-      "published_at": "2026-08-18 06:34",
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "러 외무장관, 북 외무상에 광복절 축전…북한군 파병 공적 강조",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008709000&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-08-18 08:10",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "김민석, 당선 후 첫 행보 '집중호우 피해' 거제 현장 방문",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008708972&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-08-18 08:10",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[단독] \"다시 하나로 뭉쳐야\"…내일 출마자 초청 만찬",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008708899&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-08-18 08:10",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "이진숙 윤리위 제소한 당원들…\"최고 수준 징계를\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008708848&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-08-18 08:10",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "'친청계 3인' 전원 최고위원 입성…김용은 탈락",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008708847&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-08-18 08:10",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "민주당 신임 당 대표 김민석…선호투표로 승리 확정",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008708894&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-08-18 08:10",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "트럼프 달래기?…韓, 호르무즈 \"군사적 기여 방안 협의\" 첫 언급",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008708867&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-08-18 08:10",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "이진숙 윤리위 제소한 당원들…\"만류 묵살하고 강행\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008708752&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-08-18 08:10",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[단독] \"다시 하나로 뭉쳐야\"…모레 출마자 초청 만찬",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008708751&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-08-18 08:10",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
