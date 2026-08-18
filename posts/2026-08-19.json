@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T06:34:04.550489+09:00",
+  "generated_at": "2026-08-19T08:12:13.645684+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,49 +34,49 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "대기업 고액연봉자 보수 36%가 주식보상…SK·두산 63%",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260819062533toF",
-      "published_at": "2026-08-19 06:33",
+      "title": "[날씨] 전국 폭염특보 확대…돌풍·벼락 요란한 소나기",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260819080528hnB",
+      "published_at": "2026-08-19 08:09",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "IAEA \"자포리자 원전 정류장서 드론 폭발…16명 사상\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260819062519U5v",
-      "published_at": "2026-08-19 06:33",
+      "title": "트럼프 옛 안보보좌관, 한미훈련 축소에 \"큰 실수…전략적 사고 안해\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260819071648iGA",
+      "published_at": "2026-08-19 08:09",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "[날씨클릭] 서울 등 전국 폭염주의보 확대…곳곳 비·소나기",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260819061800VfU",
-      "published_at": "2026-08-19 06:33",
+      "title": "U-18 농구대표팀, 한일전 역전승…조 1위로 아시아컵 8강 직행",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260819071320LAv",
+      "published_at": "2026-08-19 08:09",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "\"이란전에 취약성 드러난 美기지…걸프지역 미군 축소 검토\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260819055403aNR",
-      "published_at": "2026-08-19 06:33",
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "김민석 \"벽이 없는 원팀 완성\"…'탈당 금지' 외친 정청래",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008710840&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-08-19 08:09",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "양말 22켤레에 도마뱀 200마리…일본 입국하다 딱 걸린 밀반입",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260818170652KG4",
-      "published_at": "2026-08-19 06:33",
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "트럼프 언급 없이…북한 \"명백한 행동으로 자위권 행사\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008710852&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-08-19 08:09",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "국제유가, 중동 불안 이어지자 사흘 연속 상승…WTI 0.5%↑",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260819054155iI2",
-      "published_at": "2026-08-19 06:33",
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "한미연합훈련 '초유의 축소'인데…북 \"새로운 힘으로 대응\" 뒷북 비판",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008710846&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-08-19 08:09",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -84,7 +84,7 @@
       "source": "정치 (SBS)",
       "title": "용산공원에 '청년임대주택'…오세훈 \"미래 세대 몫\" 반대",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008710745&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-19 06:33",
+      "published_at": "2026-08-19 08:09",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -92,15 +92,7 @@
       "source": "정치 (SBS)",
       "title": "[단독] 한미훈련 '대폭 축소'…\"최대 10건 이상 취소\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008710740&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-19 06:33",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "김민석 \"벽이 없는 원팀 완성\"…\"탈당 금지\" 외친 정청래",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008710661&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-19 06:33",
+      "published_at": "2026-08-19 08:09",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -108,7 +100,7 @@
       "source": "정치 (SBS)",
       "title": "[단독] 연합 실기동훈련 14건 중 10건 이상 취소될 듯",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008710659&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-19 06:33",
+      "published_at": "2026-08-19 08:09",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -116,7 +108,7 @@
       "source": "정치 (SBS)",
       "title": "용산공원에 '청년임대주택' 추진…\"미래 세대 몫\" 반대",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008710656&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-19 06:33",
+      "published_at": "2026-08-19 08:09",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -124,7 +116,7 @@
       "source": "정치 (SBS)",
       "title": "법무장관 사직서 제출…청와대 \"후속 인사까지만\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008710493&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-19 06:33",
+      "published_at": "2026-08-19 08:09",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -132,7 +124,7 @@
       "source": "정치 (SBS)",
       "title": "김민석 \"벽이 없는 원팀\"…\"탈당 금지\" 외친 정청래",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008710489&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-19 06:33",
+      "published_at": "2026-08-19 08:09",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -140,23 +132,7 @@
       "source": "정치 (SBS)",
       "title": "[단독] \"한미연합 실기동 훈련 10건 이상 취소될 수도\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008710488&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-19 06:33",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "\"이란 도움 사양하더라\"…\"힘 키워야 동맹 가치\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008710487&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-19 06:33",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "'닥치고 공급' 한다지만…곳곳서 이해관계 충돌",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008710481&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-19 06:34",
+      "published_at": "2026-08-19 08:09",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
