@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T06:35:11.314179+09:00",
+  "generated_at": "2026-08-20T08:13:19.920016+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,41 +34,73 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "[날씨클릭] 찜통더위 속 대기 불안정…내륙 곳곳 강한 소나기",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260820062259Hlg",
-      "published_at": "2026-08-20 06:34",
+      "title": "[날씨] 남부 열대야주의보 확대…무더위 속 내륙 소나기",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260820080349YJt",
+      "published_at": "2026-08-20 08:10",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "이강인, AT마드리드 데뷔전 데뷔골 폭발…라리가 말라가전 중거리슛 원더골",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260820060738kFT",
-      "published_at": "2026-08-20 06:34",
+      "title": "치킨 맛 나는 오레오 나왔다…KFC와 손잡고 '단짠' 파격 실험",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260819165025iZW",
+      "published_at": "2026-08-20 08:10",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "국제유가, UAE·이란 갈등 고조에 나흘째 상승…WTI 1%↑",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260820055726X7a",
-      "published_at": "2026-08-20 06:34",
+      "title": "美 국채금리 '하락'…뉴욕증시 소폭 상승 마감",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202608200736234js",
+      "published_at": "2026-08-20 08:10",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "푸틴, 물류망 복구 지시…'8조원 피해' 고려인 기업 지원받나",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260820055521ddn",
-      "published_at": "2026-08-20 06:34",
+      "title": "트럼프 \"인플레 우려해 금리인상? 오히려 내려야\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260820073138wWN",
+      "published_at": "2026-08-20 08:10",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "7월 FOMC 의사록 \"물가 안 잡히면 금리 인상 필요\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260820055114yuJ",
-      "published_at": "2026-08-20 06:34",
+      "title": "김상식호 베트남, 말레이시아 완파하고 현대컵 결승 진출…'숙적' 태국과 우승 다툼",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260820072620hMg",
+      "published_at": "2026-08-20 08:10",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "이강인, 데뷔전 데뷔골 폭발… 인터뷰서 \"경기 감각 더 올리겠다\" 겸손",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260820071333fdi",
+      "published_at": "2026-08-20 08:10",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "김윤덕-오세훈 오늘 회동…용산공원 주택 공급 '분수령'",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008712804&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-08-20 08:10",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "주택 공급 속도전에 거세지는 '용산공원' 논란",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008712797&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-08-20 08:10",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "\"조희대 씨 당장 물러나라\"…\"사법부 겁박 안 돼\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008712718&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-08-20 08:10",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -76,7 +108,7 @@
       "source": "정치 (SBS)",
       "title": "손 맞잡고 \"당정청은 운명공동체\"…화합 강조",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008712694&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-20 06:34",
+      "published_at": "2026-08-20 08:10",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -84,7 +116,7 @@
       "source": "정치 (SBS)",
       "title": "\"중국도 남북 평화 건설적 역할\"…미 정책 변화 촉구",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008712692&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-20 06:34",
+      "published_at": "2026-08-20 08:10",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -92,7 +124,7 @@
       "source": "정치 (SBS)",
       "title": "'훈련 축소'에도 북 반응 냉랭…대화여지는 남겨",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008712691&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-20 06:35",
+      "published_at": "2026-08-20 08:10",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -100,7 +132,7 @@
       "source": "정치 (SBS)",
       "title": "\"한미훈련 축소해 대화 여건 조성…결단에 경의\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008712690&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-20 06:35",
+      "published_at": "2026-08-20 08:10",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -108,7 +140,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령 \"'한미훈련 축소해 대화 여건 조성' 트럼프 결단에 경의\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008712624&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-20 06:35",
+      "published_at": "2026-08-20 08:10",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -116,7 +148,7 @@
       "source": "정치 (SBS)",
       "title": "김민석·정청래·송영길과 만찬…\"당정청은 운명공동체\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008712596&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-20 06:35",
+      "published_at": "2026-08-20 08:11",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -124,31 +156,7 @@
       "source": "정치 (SBS)",
       "title": "\"중국도 남북 공존 건설적 역할\"…미 대북 정책 변화 촉구",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008712594&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-20 06:35",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "\"훈련 축소, 평할 가치 없어…지도자 간 소통 알지 못해\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008712593&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-20 06:35",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "김민석·정청래·송영길에 \"세 사람 모두 주역\"…'더 강한 원팀'으로 뜻 모아",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008712522&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-20 06:35",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "북 김여정 \"북미 지도자 간 소통 전혀 알지 못하는 일\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008712515&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-20 06:35",
+      "published_at": "2026-08-20 08:11",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
