@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T06:34:27.908598+09:00",
+  "generated_at": "2026-08-22T08:13:18.781563+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,9 +34,41 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
+      "title": "임명권 vs 제청권…헌정사 초유 서면 제청 충돌",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH202608220806124ps",
+      "published_at": "2026-08-22 08:10",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "주유소 기름값 14주 연속 하락…휘발유·경유 1,800원 중반대",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260822072851X13",
+      "published_at": "2026-08-22 08:10",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "국제유가, 중동 불안에 6일 연속 상승…브렌트유 94달러대",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260822070959v1D",
+      "published_at": "2026-08-22 08:10",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "뉴욕 증시 일제히 상승 마감…다우 1%↑",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260822070944fTK",
+      "published_at": "2026-08-22 08:10",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
       "title": "아이스박스 타고 닷새 표류… 멕시코서 실종된 어부 '극적 구조'",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260821151152Yok",
-      "published_at": "2026-08-22 06:34",
+      "published_at": "2026-08-22 08:10",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -44,7 +76,7 @@
       "source": "주요뉴스 (연합TV)",
       "title": "\"이게 들어가?\"…미니 농구공으로 31m 슛 성공, 기네스 경신",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260820172739jvT",
-      "published_at": "2026-08-22 06:34",
+      "published_at": "2026-08-22 08:10",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -52,7 +84,7 @@
       "source": "주요뉴스 (연합TV)",
       "title": "러, 젤렌스키 고향 쇼핑몰 공습…최소 15명 사망·130명 부상",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260822051626aiv",
-      "published_at": "2026-08-22 06:34",
+      "published_at": "2026-08-22 08:10",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -60,7 +92,7 @@
       "source": "주요뉴스 (연합TV)",
       "title": "달리던 차 보닛서 뱀 '빼꼼'…미 도로 질주하다 '화들짝'",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260818180332dfv",
-      "published_at": "2026-08-22 06:34",
+      "published_at": "2026-08-22 08:10",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -68,7 +100,7 @@
       "source": "주요뉴스 (연합TV)",
       "title": "팟타이·망고 찰밥 '입었다'…미스 태국 '시선 강탈' 경선",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260821175121tiP",
-      "published_at": "2026-08-22 06:34",
+      "published_at": "2026-08-22 08:10",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -76,39 +108,23 @@
       "source": "주요뉴스 (연합TV)",
       "title": "집이 불타 없어졌는데 인터넷 위약금 내라고?…캐나다 통신사 사과",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260819163810PYJ",
-      "published_at": "2026-08-22 06:34",
+      "published_at": "2026-08-22 08:10",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "트럼프 '백악관 연회장' 공사 당분간 계속…美 대법원장 임시명령",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260822043948Lxh",
-      "published_at": "2026-08-22 06:34",
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "\"5·18 왜곡 입장 밝혀라\"…장동혁은 '침묵'",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008716436&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-08-22 08:10",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "미국, 유엔 미납 분담금 1조원 납부 추진…\"전체 20%도 안돼\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260822043516nBC",
-      "published_at": "2026-08-22 06:34",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "美 국무부 \"한국에 AIM-9X 공대공 미사일 판매 잠정 승인\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260822034141YCx",
-      "published_at": "2026-08-22 06:34",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "서울 송파구 다세대주택서 화재…5명 대피·8명 구조",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260822014513Wzb",
-      "published_at": "2026-08-22 06:34",
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "비당권파 중징계 후폭풍…'당협 물갈이'도 반발",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008716434&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-08-22 08:10",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -116,7 +132,7 @@
       "source": "정치 (SBS)",
       "title": "\"비방, 신뢰 도움 안 돼\"…\"평화 '여정' 함께\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008716437&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-22 06:34",
+      "published_at": "2026-08-22 08:10",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -124,7 +140,7 @@
       "source": "정치 (SBS)",
       "title": "\"대법원장 국회 나와야\"…\"사법부 장악 시도\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008716430&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-22 06:34",
+      "published_at": "2026-08-22 08:10",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -132,23 +148,7 @@
       "source": "정치 (SBS)",
       "title": "\"헌정사 초유 일방 통보\"…'재제청' 요구?",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008716433&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-22 06:34",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "\"5·18 왜곡 입장 밝혀라\"…장동혁은 '침묵'",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008716260&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-22 06:34",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "비당권파 중징계 후폭풍…'당협 물갈이'도 반발",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008716259&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-22 06:34",
+      "published_at": "2026-08-22 08:10",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -156,7 +156,7 @@
       "source": "정치 (SBS)",
       "title": "청와대 \"헌정사 초유 일방통보\"…'재제청' 요구?",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008716246&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-22 06:34",
+      "published_at": "2026-08-22 08:10",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -164,7 +164,7 @@
       "source": "정치 (SBS)",
       "title": "\"비방, 신뢰에 도움 안 돼\"…\"평화 '여정' 함께\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008716244&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-22 06:34",
+      "published_at": "2026-08-22 08:10",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -172,7 +172,7 @@
       "source": "정치 (SBS)",
       "title": "\"서울, 가긍한 처지\" 조롱…'한국 배제' 포석?",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008716243&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-22 06:34",
+      "published_at": "2026-08-22 08:11",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -180,7 +180,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령 \"반부패보다 헌정질서 파괴 심각…대책 논의해야\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008716314&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-22 06:34",
+      "published_at": "2026-08-22 08:11",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -188,7 +188,7 @@
       "source": "정치 (SBS)",
       "title": "[정치사냥꾼] 대법관 '서면 제청' 파문…여야 모두 '집안싸움' 격화",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008716131&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-22 06:34",
+      "published_at": "2026-08-22 08:11",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
