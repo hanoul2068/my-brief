@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T08:14:30.952773+09:00",
+  "generated_at": "2026-08-30T09:51:22.141297+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,129 +34,9 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "우상혁, 부상 복귀 후 잇단 부진…아시안게임 도전 '비상'",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260830080213NjI",
-      "published_at": "2026-08-30 08:14",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "이재성 선발·정우영 교체…마인츠·우니온 베를린 개막전 잇달아 무승부",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260830075258ng1",
-      "published_at": "2026-08-30 08:14",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "'아시안게임 와일드카드' 엄지성, 1골 1도움 맹활약…스완지 완승 견인",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260830074340h0y",
-      "published_at": "2026-08-30 08:14",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "피겨 최하빈, 주니어 그랑프리 2차 대회 대역전 우승",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260830073750CTO",
-      "published_at": "2026-08-30 08:14",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "대응팀, 드디어 수색 헬기 띄워…추가 인력도 합류",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260830072509zWF",
-      "published_at": "2026-08-30 08:14",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "'푸른거탑·막돼먹은 영애씨' 출연한 배우 이용주 별세…향년 44세",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260830070631VRi",
-      "published_at": "2026-08-30 08:14",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "김민석, 국힘 향해 \"이진숙 내쫓든지 아니면 김영삼 사진 내려라\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008727985&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-30 08:14",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "한 총리 \"K-컬처의 시대, 백범 꿈꿨던 나라 만드는 데 최선\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008727959&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-30 08:14",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "한국 헬기 수색 개시…정부 신속대응팀 9명 추가 파견",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008727940&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-30 08:14",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "신속대응팀 9명 추가 파견…헬기 허가는 아직",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008727897&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-30 08:14",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "외교부, 홍수 피해 우려 네팔 4개 지역에 특별여행주의보",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008727879&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-30 08:14",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "민주, 제주 실종 허위 종결에 \"경찰개혁으로 바로잡아야\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008727877&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-30 08:14",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "국힘, '노웅래 상고 포기' 검찰에 \"권력 눈치보며 하명에 굴복\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008727849&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-30 08:14",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "민주 \"감사원 개혁 착수\" vs 국힘 \"감사원 쇄신 쇼\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008727799&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-30 08:14",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "청와대, 손봉기 '재제청' 요청…조희대 \"국민께 송구\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008727559&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-30 08:14",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "청년 예산 43조로 확대…이 대통령 \"성장 파이 키울 것\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008727558&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-08-30 08:14",
+      "title": "공장 입지 바꿀 전기료…지방 투자 신호 될까",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260830094507j3U",
+      "published_at": "2026-08-30 09:48",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
