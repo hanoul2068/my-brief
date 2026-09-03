@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T08:18:31.048176+09:00",
+  "generated_at": "2026-09-03T09:46:49.394192+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,33 +34,97 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "[날씨] 동해안·제주 산발적 비…서쪽 중심 낮 더위",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260903080736GTh",
-      "published_at": "2026-09-03 08:15",
+      "title": "[현장연결] 조희대 대법원장 업무 복귀…\"경과 들어보고 말씀드리겠다\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260903094321TsV",
+      "published_at": "2026-09-03 09:46",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "산업부, 추석 앞두고 마트 등 '가격 표시제' 이행실태 점검",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260903080630BrJ",
-      "published_at": "2026-09-03 08:15",
+      "title": "취업 후에도 남은 학자금 빚…체납자 첫 6만명 돌파",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260903093615a0t",
+      "published_at": "2026-09-03 09:46",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "'트럼프 얼굴' 새긴 동전 나왔다…개당 2천~3천원 판매",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260903073742JmB",
-      "published_at": "2026-09-03 08:15",
+      "title": "한전, 삼성·하이닉스에 25조원 전기요금 선납 제안",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260903092800PPS",
+      "published_at": "2026-09-03 09:46",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "이 대통령 \"취임 때 비교하면 상전벽해…잠재성장률 3%·국민소득 5만불 더 달려야\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR202609030736228Yu",
-      "published_at": "2026-09-03 08:16",
+      "title": "\"이소영, '배당소득 분리과세' 개정안 발의 후 주식자산 12배 증가\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260903092729fgb",
+      "published_at": "2026-09-03 09:46",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "이형일 \"과천 아파트, 오래 전 매입…재건축으로 멸실 중\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260903092556DRM",
+      "published_at": "2026-09-03 09:46",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "'김민재 풀타임' 바이에른 뮌헨, DFB 포칼 1라운드 4-1 역전승",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260903092341Zhs",
+      "published_at": "2026-09-03 09:46",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "북한, 7년 만에 '전국 교원대회'…김정은 \"교육은 제일 중대사\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260903092320ttX",
+      "published_at": "2026-09-03 09:46",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "제주서 실종 발달장애인…한 시간 반 만에 발견",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260903092227rVy",
+      "published_at": "2026-09-03 09:46",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "현대모비스, 슬로바키아서 '전기차 심장' PE 양산…전동화 가속",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260903092159FXV",
+      "published_at": "2026-09-03 09:46",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "청와대, 미국 '반도체 표적관세'…\"구체적인 사항 아직 확정 안 돼\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008735560&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-09-03 09:46",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[정치쇼] 김영진 \"용혜인 겸직논란? 의정활동 잘해왔으니 본인판단 지켜봐야…조국은 레드팀\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008735426&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-09-03 09:46",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "\"통상의 경우와 다른 듯\" 김민석, 용혜인 논란 입 열었다",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008735402&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-09-03 09:46",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -68,7 +132,7 @@
       "source": "정치 (SBS)",
       "title": "\"배은망덕\" 민주당 격분…연일 여권 때린 조국 무슨 일?",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008735249&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-03 08:16",
+      "published_at": "2026-09-03 09:46",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -76,7 +140,7 @@
       "source": "정치 (SBS)",
       "title": "[단독] \"증여세 탈루 의혹\"…\"전대차 계약 들은 적 없어\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008735143&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-03 08:16",
+      "published_at": "2026-09-03 09:46",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -84,7 +148,7 @@
       "source": "정치 (SBS)",
       "title": "국회, 오늘 본회의…'이태원 참사 특조위 활동기간 연장' 전망",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008735216&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-03 08:16",
+      "published_at": "2026-09-03 09:46",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -92,7 +156,7 @@
       "source": "정치 (SBS)",
       "title": "\"빠른 처리 부탁\" 문자로 청탁?…야권 \"자격 미달\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008735140&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-03 08:16",
+      "published_at": "2026-09-03 09:46",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -100,7 +164,7 @@
       "source": "정치 (SBS)",
       "title": "의원직 사퇴 묻자 \"청문회 잘 준비\"…여당도 '눈총'",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008735139&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-03 08:16",
+      "published_at": "2026-09-03 09:46",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -108,7 +172,7 @@
       "source": "정치 (SBS)",
       "title": "'공소취소'·'세제개편안' 때리는 조국…민주 \"배은망덕\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008734903&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-03 08:16",
+      "published_at": "2026-09-03 09:46",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -116,31 +180,7 @@
       "source": "정치 (SBS)",
       "title": "\"1년 지났을 뿐\"…\"젊은 부총리 등장도 사직 논거\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008734902&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-03 08:16",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "식약처장에 \"빠른 처리 부탁\"…브로커 연락에 문자 청탁?",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008734881&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-03 08:16",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "방미심위, '신속심의' 절차 손본다…표적심의 논란 차단",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008734869&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-03 08:16",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "왜 나한테만 가혹할까 싶겠지만… [이브닝 브리핑]",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008734727&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-03 08:16",
+      "published_at": "2026-09-03 09:46",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
