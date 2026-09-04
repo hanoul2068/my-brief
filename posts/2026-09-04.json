@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T08:16:38.677298+09:00",
+  "generated_at": "2026-09-04T09:31:21.980715+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,9 +34,81 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "[날씨] 강원 영동·제주 가끔 비…예년 이맘때 초가을",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260904080553E49",
-      "published_at": "2026-09-04 08:14",
+      "title": "정부, 네팔에 보온담요 등 긴급구호 물품 제공",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260904092742KzA",
+      "published_at": "2026-09-04 09:28",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "오만서 현대차 수소전기버스 달린다…전기차 충전 인프라도 구축",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260904092716cpC",
+      "published_at": "2026-09-04 09:28",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "KB증권, ‘퇴직연금형 개인투자용 국채’ 거래 서비스 오픈",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260904092502oFv",
+      "published_at": "2026-09-04 09:28",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "오늘 초대 중수청장 윤곽 나온다…후보추천위 회의 개최",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260904092213arA",
+      "published_at": "2026-09-04 09:28",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "코스피, 1.14% 오른 6,654.36 출발…코스닥도 1%대 상승",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260904091842Gnz",
+      "published_at": "2026-09-04 09:28",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "문체부 내년 예산안 9.6조 '역대 최대'…청년문화패스 8천억으로 전면 확대",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260904091830OxX",
+      "published_at": "2026-09-04 09:28",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "[날씨] 맑고 초가을 날씨…동해안 비, 전국 강풍 주의",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260904091406bNp",
+      "published_at": "2026-09-04 09:28",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "인텔리빅스, 코스닥 상장예비심사 승인",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260904091223CR1",
+      "published_at": "2026-09-04 09:28",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "통합 17년만에 다시 쪼개지는 LH…'주택 공급' 속도 낼까",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260904090416hTZ",
+      "published_at": "2026-09-04 09:28",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[정치쇼] 하준경 \"내년 예산은 성장예산…용산 '공공자산' 취지엔 동의하나 공적인 주거형태로 하잔 것\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008737400&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-09-04 09:28",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -44,7 +116,7 @@
       "source": "정치 (SBS)",
       "title": "\"김승원은 멘토\"…영장 판사까지 함께 '3인 셀카'",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008737169&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-04 08:14",
+      "published_at": "2026-09-04 09:28",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -52,7 +124,7 @@
       "source": "정치 (SBS)",
       "title": "법무·성평등부 내년 세종 이전…공공기관도 지방으로",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008737153&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-04 08:14",
+      "published_at": "2026-09-04 09:28",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -60,7 +132,7 @@
       "source": "정치 (SBS)",
       "title": "'언더조직·가족정당' 논란…\"위선의 전형\" 파상 공세",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008737152&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-04 08:14",
+      "published_at": "2026-09-04 09:28",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -68,7 +140,7 @@
       "source": "정치 (SBS)",
       "title": "[단독] \"호르무즈 파병 준비…P-8 초계기·군수지원함 포함\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008737147&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-04 08:14",
+      "published_at": "2026-09-04 09:28",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -76,7 +148,7 @@
       "source": "정치 (SBS)",
       "title": "[한반도 포커스] 북한 최고 규범서도 '통일' 뺐다…김정은 권한은 강화",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008737065&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-04 08:14",
+      "published_at": "2026-09-04 09:29",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -84,7 +156,7 @@
       "source": "정치 (SBS)",
       "title": "[한반도 포커스] 기후위기에 민감한 북…네팔 대홍수에도 촉각",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008737064&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-04 08:14",
+      "published_at": "2026-09-04 09:29",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -92,7 +164,7 @@
       "source": "정치 (SBS)",
       "title": "[단독] \"호르무즈 파병 준비 착수…초계기·군수지원함 등 파병\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008737059&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-04 08:14",
+      "published_at": "2026-09-04 09:29",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -100,7 +172,7 @@
       "source": "정치 (SBS)",
       "title": "[단독] 호르무즈 파병 준비…\"P-8, EOD, 군수지원함 등 파병\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008737072&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-04 08:14",
+      "published_at": "2026-09-04 09:29",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -108,15 +180,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령, 양대노총 위원장 면담…'정년연장 연내 결과 도출' 공감대",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008737049&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-04 08:14",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "용혜인, 재산 4억 7천 신고…배우자 당직 급여 5년간 1억 2천",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008737027&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-04 08:14",
+      "published_at": "2026-09-04 09:29",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
