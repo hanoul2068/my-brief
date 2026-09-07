@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T07:52:04.478765+09:00",
+  "generated_at": "2026-09-07T09:26:36.504749+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,17 +34,73 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "美 \"한국 정부 호르무즈 자원 투입 기다려\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH202609070749236Xw",
-      "published_at": "2026-09-07 07:51",
+      "title": "일본 혼슈 동부 기록적 폭우…일부 지역 대피령도",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202609070918216tJ",
+      "published_at": "2026-09-07 09:23",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "누리호 5차 발사 한 달 앞으로…위성 15기 역대 최다",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260907070740GfP",
-      "published_at": "2026-09-07 07:51",
+      "title": "키움증권, 생애 첫 고객에 '세전 연 5% 발행어음' 특판",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260907091239xu7",
+      "published_at": "2026-09-07 09:23",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "[날씨] 절기 '백로' 쾌청한 초가을…동해안·제주 산발적 비",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260907091055aoC",
+      "published_at": "2026-09-07 09:23",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "KB증권, AI기반 소비자보호 시스템 확장 가동",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260907090903TQJ",
+      "published_at": "2026-09-07 09:23",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "코스피, 3.34% 상승 출발…코스닥 1.16%↑",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260907090418sI3",
+      "published_at": "2026-09-07 09:24",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "\"AI 속도 조절 해야\"…오픈AI 최고 과학자도 위험성 경고",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260907085835Pyo",
+      "published_at": "2026-09-07 09:24",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "이 대통령 지지율 37.4% 최저치…8주 연속 하락<리얼미터>",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260907085104eZ1",
+      "published_at": "2026-09-07 09:24",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "이 대통령 \"북미대화 페이스메이커 역할…권한 분산 개헌 필요\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008740550&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-09-07 09:24",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "이재명 대통령 지지도 37.4%로 취임 후 최저…민주 41.8%·국힘 37.6% [리얼미터]",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008740474&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-09-07 09:24",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -52,7 +108,7 @@
       "source": "정치 (SBS)",
       "title": "선관위 특검 공식 출범…최장 150일간 12개 의혹 수사",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008740344&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-07 07:51",
+      "published_at": "2026-09-07 09:24",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -60,7 +116,7 @@
       "source": "정치 (SBS)",
       "title": "민주당 김민석 대표, 오늘 교섭단체 대표연설 예정",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008740270&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-07 07:51",
+      "published_at": "2026-09-07 09:24",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -68,7 +124,7 @@
       "source": "정치 (SBS)",
       "title": "북한, 구축함 강건호 취역식…\"적들에게 명백한 신호\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008740339&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-07 07:51",
+      "published_at": "2026-09-07 09:24",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -76,7 +132,7 @@
       "source": "정치 (SBS)",
       "title": "\"특별 분양 받으려고 위장전입\"…\"사실 아냐\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008740257&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-07 07:51",
+      "published_at": "2026-09-07 09:24",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -84,7 +140,7 @@
       "source": "정치 (SBS)",
       "title": "\"성공한 로비\" 주장에 \"앞뒤 잘라 정치공세\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008740255&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-07 07:51",
+      "published_at": "2026-09-07 09:24",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -92,7 +148,7 @@
       "source": "정치 (SBS)",
       "title": "미-이란 사이 고심↑…내일 마크롱과 호르무즈 논의",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008740254&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-07 07:51",
+      "published_at": "2026-09-07 09:24",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -100,7 +156,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령, 프랑스 도착…내일 영화·영상 정상회의 참석",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008740197&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-07 07:51",
+      "published_at": "2026-09-07 09:24",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -108,23 +164,7 @@
       "source": "정치 (SBS)",
       "title": "한동훈 \"성공한 로비\" 주장하자…\"앞뒤 잘라 정치 공세\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008740067&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-07 07:51",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "\"한국 파병하면 전쟁 참여 간주\" 엄포…정부, 여론 '촉각'",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008740065&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-07 07:52",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "[자막뉴스] 김승원 후보, 한동훈 추가 녹취 공개 반박…내일 첫 공개 해명",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008739966&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-07 07:52",
+      "published_at": "2026-09-07 09:24",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
