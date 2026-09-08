@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T08:29:43.658424+09:00",
+  "generated_at": "2026-09-08T09:48:06.686814+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,41 +34,105 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "최재성 전 수석, 한동훈 제기한 '신약로비 브로커' 연루 의혹 반박",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR202609080825291a7",
-      "published_at": "2026-09-08 08:27",
+      "title": "\"20대 술자리 3년 새 반토막…'2차'도 급감\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260908094443xHw",
+      "published_at": "2026-09-08 09:45",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "5천억원 규모 '수도권 유휴부지' 비축…\"주택수요 대비\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260908082110Ie2",
-      "published_at": "2026-09-08 08:27",
+      "title": "국제선 승객 '국내선 청사'에 내려준 대한항공…4명 심사 없이 입국",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260908094333rqU",
+      "published_at": "2026-09-08 09:45",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "[날씨] 맑고 내륙 큰 일교차…동해안 비, 강한 바람까지",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260908080921oS9",
-      "published_at": "2026-09-08 08:27",
+      "title": "\"발전소 하류·육상 수색 집중\"…인력 충원 검토",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260908094157rC3",
+      "published_at": "2026-09-08 09:45",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "반도체 호황에…2분기 명목 GDP 성장률 47년 만에 최고",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260908080055LZa",
-      "published_at": "2026-09-08 08:27",
+      "title": "대학생 자녀가 매달 150만원 달라는데…개강 맞아 '용돈' 논쟁 [SNS 와글]",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260908094143a3t",
+      "published_at": "2026-09-08 09:45",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "김민석, '용혜인 부적격 판단 전달' 보도에 \"사실과 달라\" 부인",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260908075204gSw",
-      "published_at": "2026-09-08 08:27",
+      "title": "\"트럼프, 중간선거 때 투표소에 군 배치하나\"…美야당 우려",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202609080938337lu",
+      "published_at": "2026-09-08 09:45",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "靑 \"공소 취소보다 '조작 기소' 규명 먼저…연임 개헌 생각 없어\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260908093159hPK",
+      "published_at": "2026-09-08 09:45",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "김민석·송영길, 한동훈에 맹공…\"철없는 관종\"·\"존재감 발버둥\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202609080924595KV",
+      "published_at": "2026-09-08 09:45",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "'5명 사망' 美아마존 화물기 사고 원인은…\"착지 늦었고 안전벽 없어\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202609080924160HQ",
+      "published_at": "2026-09-08 09:45",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[정치쇼] 최은석 \"김승원 '사기성 주가조작'에 역할 의혹…한동훈 청문위원 승인은 국회법상 어려워\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008742328&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-09-08 09:45",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "김승원 출근길 질문 세례에…기자 말 끊더니 반복한 말",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008742280&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-09-08 09:45",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[정치쇼] 김영훈 \"'영업이익 N%' 성과급 쟁의 제한…모든 성과급 제외는 아냐\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008742259&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-09-08 09:45",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[속보] 김승원 법무장관 후보 '신약 청탁 의혹' 피고발사건, 영등포서 배당",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008742305&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-09-08 09:45",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "김민석 \"철없는 관종\"·송영길 \"존재감 발버둥\"…한동훈에 맹공",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008742235&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-09-08 09:45",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -76,15 +140,15 @@
       "source": "정치 (SBS)",
       "title": "이 대통령, 미국영화협회 만나…\"작품 만드는 데 정부가 적극 지원\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008742133&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-08 08:27",
+      "published_at": "2026-09-08 09:45",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "politics",
       "source": "정치 (SBS)",
-      "title": "청와대, 김승원·용혜인에 \"인사시스템 통해 지명, 청문회 거쳐야\"",
+      "title": "쏟아지는 '김승원·용혜인' 의혹들…청와대 입장 밝혔다",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008742132&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-08 08:27",
+      "published_at": "2026-09-08 09:45",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -92,7 +156,7 @@
       "source": "정치 (SBS)",
       "title": "김 여사, 마크롱 여사와 수도원 방문…한국인 수녀들과 대화",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008742096&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-08 08:27",
+      "published_at": "2026-09-08 09:45",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -100,7 +164,7 @@
       "source": "정치 (SBS)",
       "title": "\"개헌, 국민이 원하는 선까지\"…'주거 뉴딜'도 제안",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008742013&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-08 08:27",
+      "published_at": "2026-09-08 09:45",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -108,47 +172,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령, 초대 중수청장 후보에 김지용 변호사 지명",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008742077&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-08 08:27",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "\"존중하는 친한 후배\"…\"'오빠' 아니면 해줬겠나\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008741992&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-08 08:27",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "\"방해·지연 막으려고\" 해명…업체는 거짓 실험",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008741991&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-08 08:27",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "대미 투자 '원전 8기' 검토…합의 '줄다리기'",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008741990&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-08 08:27",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "오늘 한-프 정상회담…'호르무즈 파병' 논의 주목",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008742010&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-08 08:27",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "이 대통령, 김지용 중수청장 후보 지명키로…\"중수청 안착 적임\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008742032&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-08 08:27",
+      "published_at": "2026-09-08 09:45",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
