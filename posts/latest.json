@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T08:06:07.053658+09:00",
+  "generated_at": "2026-09-11T09:38:02.906297+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,33 +34,89 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "일본 야구계, 장훈 추모…요미우리 \"위대한 타자에 경의\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260911074137ZFs",
-      "published_at": "2026-09-11 08:05",
+      "title": "한빛 2호기도 가동 중단…40년 설계수명 만료",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260911093523WSm",
+      "published_at": "2026-09-11 09:37",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "\"이란, 탄도미사일 생산 재개…지하기지서 부품 조립\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260911073545Su0",
-      "published_at": "2026-09-11 08:05",
+      "title": "[속보] '인플루엔자 유행주의보' 발령...작년보다 한 달 빨라",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260911093147ysD",
+      "published_at": "2026-09-11 09:37",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "이란 \"미 무인정찰정 타격\"…구호대 2진 오늘 네팔 도착",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260911073517osS",
-      "published_at": "2026-09-11 08:05",
+      "title": "中, 자동차·태양광 '제살깎기 가격경쟁' 제동…기업 원가 조사",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260911091732aMI",
+      "published_at": "2026-09-11 09:37",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "뉴욕증시 나흘째 하락…유가 고공행진·美 국채금리 급등 영향",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260911065616fPB",
-      "published_at": "2026-09-11 08:05",
+      "title": "中 주도 통신사기 대응연합 출범…46개국 창립 참여",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260911091439YSK",
+      "published_at": "2026-09-11 09:37",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "[날씨] 아침 평년기온 밑돌아 쌀쌀…10도 이상 큰 일교차",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260911091428BaZ",
+      "published_at": "2026-09-11 09:37",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "미국, 중동 기업·개인에 2차 제재…\"이란 대리세력 지원\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260911091353y77",
+      "published_at": "2026-09-11 09:37",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "中 선전 APEC에 미중러 정상 집결 전망…한반도 정상외교 주목",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260911091252XRw",
+      "published_at": "2026-09-11 09:37",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "코스피, 3.29% 하락 출발…코스닥 2.39%↓",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260911090833Qet",
+      "published_at": "2026-09-11 09:37",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[정치쇼] 윤상현 \"김승원 청문회 계기로 한동훈과 뭉쳐야…소아적 자아 버리고 복당시켜야\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008748227&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-09-11 09:37",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[바로이뉴스] '3인 셀카' 판사 아들 채용?…김승원 \"정식으로 직원은 아니고…\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008748189&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-09-11 09:37",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "김승원 법무후보 \"심려 끼쳐 송구…청문회서 상세히 설명\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008748179&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-09-11 09:37",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -68,7 +124,7 @@
       "source": "정치 (SBS)",
       "title": "'국민 선택'에 커진 논란…\"연임 않겠다 말하라\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008748041&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-11 08:05",
+      "published_at": "2026-09-11 09:37",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -76,7 +132,7 @@
       "source": "정치 (SBS)",
       "title": "[단독] 승인 두 달 뒤 \"미흡\" 판단…복지부는 지원 거부",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008747941&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-11 08:05",
+      "published_at": "2026-09-11 09:37",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -84,7 +140,7 @@
       "source": "정치 (SBS)",
       "title": "\"일반인입니다\"…알고 보니 총리실 간부",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008747947&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-11 08:05",
+      "published_at": "2026-09-11 09:37",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -92,7 +148,7 @@
       "source": "정치 (SBS)",
       "title": "\"겸직, 법률이 허용\" 버티기…\"잘못한 인선\" 63%",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008747940&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-11 08:05",
+      "published_at": "2026-09-11 09:37",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -100,7 +156,7 @@
       "source": "정치 (SBS)",
       "title": "한동훈 \"총리실이 사찰\"…한성숙 총리 \"과한 말씀, 부적절 시 엄정 처리\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008747951&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-11 08:05",
+      "published_at": "2026-09-11 09:37",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -108,7 +164,7 @@
       "source": "정치 (SBS)",
       "title": "[한반도 포커스] \"손하트했다가 반성문\"…원조는 김정은?",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008747858&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-11 08:05",
+      "published_at": "2026-09-11 09:37",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -116,31 +172,7 @@
       "source": "정치 (SBS)",
       "title": "[한반도포커스] 경기 관람 때도 흡연…최고지도자는 처벌 예외",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008747857&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-11 08:06",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "\"겸직, 법률이 허용\" 버티기…\"용혜인 인선 잘못\" 63%",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008747849&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-11 08:06",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "\"일반인\"이라더니…기자인 척 질문에 \"총리실이 사찰?\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008747661&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-11 08:06",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "이 대통령 \"제 임기는 헌법상 제한\"…첫 공개 발언",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008747658&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-11 08:06",
+      "published_at": "2026-09-11 09:37",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
