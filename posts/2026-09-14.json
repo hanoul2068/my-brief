@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T08:07:59.567969+09:00",
+  "generated_at": "2026-09-14T09:30:45.126637+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,17 +34,121 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "동대문 골목서 흉기 난동…\"시비 붙은 뒤 맴돌다 찔러\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260914075557Az6",
-      "published_at": "2026-09-14 08:05",
+      "title": "미래에셋증권, 프리마켓 주문 체결조회 지연",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260914092207Aeg",
+      "published_at": "2026-09-14 09:30",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "북한, 도발 이틀 만에 포·미사일 합동타격훈련 확인…김정은 불참",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260914073754UfO",
-      "published_at": "2026-09-14 08:05",
+      "title": "[날씨] 당분간 일교차 큰 초가을…남부 한낮 30도 늦더위",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH202609140921557Kp",
+      "published_at": "2026-09-14 09:30",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "코스피, 3.14% 내린 6,692.61 출발…코스닥도 1%대 내려",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260914091656p0I",
+      "published_at": "2026-09-14 09:30",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "한미, 16일부터 부산서 고위국방회의…호르무즈 파병 논의 주목",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260914090938eKA",
+      "published_at": "2026-09-14 09:30",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "이하늘 \"민주당 누구든 못 이겨\"…한동훈 \"팬입니다ㅎ\" 화답 사연",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260914090358kI5",
+      "published_at": "2026-09-14 09:30",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "김민석 \"盧 탄핵 전조와 비슷한 상황…정신 차리고 힘 모아야\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260914090050qOE",
+      "published_at": "2026-09-14 09:30",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "홍서범·조갑경 아들 '외도 논란' 소송, 전 며느리 승소",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260914084633xzR",
+      "published_at": "2026-09-14 09:30",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "이 대통령 지지도 33.8% 최저 기록…9주 연속 하락",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008751388&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-09-14 09:30",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[바로이뉴스] \"임상 받은 사람들한테 사과해!\"…고성 오간 '김승원 청문회 D-1' 출근길",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008751327&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-09-14 09:30",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[정치쇼] 조갑제 \"국힘 지지층, 한동훈으로…전대 열리면 장동혁 누를 것\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008751353&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-09-14 09:30",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "한미, 16∼18일 부산서 고위국방회의…호르무즈 파병 논의 주목",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008751332&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-09-14 09:30",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "한-중앙아시아 정상회의 주간…이 대통령, 5개국과 릴레이 회담",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008751302&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-09-14 09:30",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "김민석 \"힘 모을 시점에 노무현 탄핵 전조와 비슷한 상황…황당하다\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008751299&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-09-14 09:30",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "북한, 장거리포·미사일 합동 타격훈련 이틀만에 보도…\"반격태세 부단히 고도화\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008751264&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-09-14 09:30",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "이 대통령 지지도 33.8%로 최저…민주 36.1%·국힘 42.1% 역전 [리얼미터]",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008751251&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-09-14 09:30",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -52,7 +156,7 @@
       "source": "정치 (SBS)",
       "title": "청문회 못 가고 낙마…청와대 \"후보자 스스로 결정\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008751030&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-14 08:05",
+      "published_at": "2026-09-14 09:30",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -60,71 +164,7 @@
       "source": "정치 (SBS)",
       "title": "\"표적 수사\" \"다음은 김승원\"…내일 인사청문회",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008751019&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-14 08:05",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "14일 만에 장관 후보자 사퇴…\"민주당이 결단 요청\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008751018&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-14 08:05",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "김민석 \"진보 세력과 연대에 박차\"…갈등 차단?",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008750827&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-14 08:05",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "민주 \"검찰의 표적 수사\"…국힘 \"다음 사퇴는 김승원\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008750814&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-14 08:05",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "용혜인, 장관 후보자 자진 사퇴…지명 14일 만",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008750812&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-14 08:05",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "당정 \"경찰개혁 더 강력해야…적당히 넘어가지 않을 것\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008750848&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-14 08:05",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "[바로이뉴스] \"사찰 관계자 파면해야\" 또 맹공…\"오빠 정권!\" 더 매워진 수위",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008750654&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-14 08:05",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "용혜인, 민주당 요청에 장관직 사퇴…청와대 \"결정 존중\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008750655&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-14 08:05",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "방미심위, '성범죄 피해 정보 유출' 구글 사태에 \"추가 피해 방지 총력\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008750640&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-14 08:05",
+      "published_at": "2026-09-14 09:30",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
