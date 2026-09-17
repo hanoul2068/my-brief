@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T08:38:05.950820+09:00",
+  "generated_at": "2026-09-17T09:56:09.514729+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,25 +34,89 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "후티, 사우디 석유시설 또 타격…\"전투기 격추\" 주장도",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260917083029KAu",
-      "published_at": "2026-09-17 08:37",
+      "title": "아시안게임 모레 개막…태극전사 결전지로",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260917095222NAs",
+      "published_at": "2026-09-17 09:55",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "신세계그룹, 2027년 신입사원 공채 실시…10개 계열사 참여",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260917081628Eve",
-      "published_at": "2026-09-17 08:37",
+      "title": "[속보] 與 법사·국방 소집에 野 산자·국토 취소…청문보고서 채택 대립",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260917095043yxU",
+      "published_at": "2026-09-17 09:55",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "아기 고양이 '이색 시구'…\"간식도 먹는 승리요정\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260917074757fpI",
-      "published_at": "2026-09-17 08:37",
+      "title": "행안부 \"김지용, 김학의·정진웅 기소 반대…수사·기소 분리 반대 안 해\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260917095015WLJ",
+      "published_at": "2026-09-17 09:55",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "국회 국토위 전체회의 취소…홍지선 청문보고서 채택 불발",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260917094941jBu",
+      "published_at": "2026-09-17 09:55",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "이 대통령 \"'암표 거래' 부당 수익 반드시 환수…큰 대가 치를 것\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260917094518vXJ",
+      "published_at": "2026-09-17 09:55",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "강원 동해 시멘트공장 컨베이어벨트 화재…2시간여 만에 진화",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260917094105ElK",
+      "published_at": "2026-09-17 09:55",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "\"작년 산사태 91%, 취약지역 밖에서 발생…주민 구조 뒤 대피문자\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260917094037Bk8",
+      "published_at": "2026-09-17 09:55",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[정치쇼] 김영진 \"김승원, 전체 이익 따져보면 임명해야…여당, 비올 때 대통령 우산 뺏지 않아야\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008757365&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-09-17 09:55",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "이 대통령, 오늘 IEA 사무총장 접견…에너지 안보 협력 논의",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008757546&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-09-17 09:55",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "김민석 \"조국혁신당과 합당할 경우 이중 당적 문제 정리가 우선\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008757440&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-09-17 09:55",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "김여정, IAEA 총회 북핵 경고에 \"핵보유 지위 절대적\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008757374&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-09-17 09:55",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -60,7 +124,7 @@
       "source": "정치 (SBS)",
       "title": "\"140억 배럴, 0.0002% 확률\"…'대왕 고래'의 실체",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008757228&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-17 08:37",
+      "published_at": "2026-09-17 09:56",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -68,7 +132,7 @@
       "source": "정치 (SBS)",
       "title": "\"리튬·우라늄 개발 협력\"…'서울 선언' 채택",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008757226&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-17 08:37",
+      "published_at": "2026-09-17 09:56",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -76,7 +140,7 @@
       "source": "정치 (SBS)",
       "title": "첨단 드론들이 왜…시연 행사서 잇따라 추락",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008757140&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-17 08:37",
+      "published_at": "2026-09-17 09:56",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -84,7 +148,7 @@
       "source": "정치 (SBS)",
       "title": "\"홍지선 후보자도 문과냐\"…\"'영끌', 더러운 프레임\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008757138&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-17 08:37",
+      "published_at": "2026-09-17 09:56",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -92,7 +156,7 @@
       "source": "정치 (SBS)",
       "title": "민주, '청문보고서' 채택 추진…국힘 \"임명하면 거리로\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008757122&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-17 08:37",
+      "published_at": "2026-09-17 09:56",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -100,39 +164,7 @@
       "source": "정치 (SBS)",
       "title": "'철거민 특공' 공방…\"투기 프레임\" \"사회경험 부족\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008757121&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-17 08:37",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "\"투기꾼 프레임 씌워\"…\"사회 경험 없나\" 고성",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008757013&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-17 08:37",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "\"김승원, 낙마 사유 없다\" vs \"임명하면 거리 투쟁\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008757012&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-17 08:38",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "\"해외 파견 북한 노동자 최대 10만 명…러시아 공장서 군용 드론 생산도\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008756937&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-17 08:38",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "\"140억 배럴, 0.0002% 확률\"…윤석열 '대왕고래' 실체",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008756799&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-17 08:38",
+      "published_at": "2026-09-17 09:56",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
