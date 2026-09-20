@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T07:55:51.320804+09:00",
+  "generated_at": "2026-09-20T09:28:08.962317+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,81 +34,25 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "책 하나 골라도 '힙하게'…취향 따라 독립서점 찾는 MZ들",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR202609181741042KE",
-      "published_at": "2026-09-20 07:55",
+      "title": "수사 의뢰·공정위 제소…네이버·토스 갈등 왜?",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260920092545Rjh",
+      "published_at": "2026-09-20 09:27",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "'구해달란 말이야'…진흙에 빠진 말, 헬기로 구조",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR202609171636424gu",
-      "published_at": "2026-09-20 07:55",
+      "title": "택시 타자마자 함박웃음…조수석 뒤에 붙은 손편지, 무슨 내용?",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260920091908IhF",
+      "published_at": "2026-09-20 09:27",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "어떻게 빼내지…파이프 갇힌 '100kg 양' 구조 작전",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260916164417nNp",
-      "published_at": "2026-09-20 07:55",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "치아 교정장치·인조 손톱…미 유명 관광지 '황당 쓰레기들'",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR202609170743101Wm",
-      "published_at": "2026-09-20 07:55",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "후티 \"사우디 민감시설 공격\"…리야드 항공편 결항도 속출",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260920044222eKL",
-      "published_at": "2026-09-20 07:55",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "백악관기자협회 \"CNN 등 출입금지, 수정헌법 1조 위반\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260920041621h8r",
-      "published_at": "2026-09-20 07:55",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "트럼프 \"우주군처럼 'AI군' 창설…다른 국가들보다 AI 앞서고 있어\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260920033458diG",
-      "published_at": "2026-09-20 07:55",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "트럼프의 '출입금지 조치' 현실화…CNN 등 백악관 출입 거부당해",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260920030912pKr",
-      "published_at": "2026-09-20 07:55",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "이란 안보수장 \"미국에 전쟁 종식 조건 전달…답 기다리는 중\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260920013924Yeq",
-      "published_at": "2026-09-20 07:55",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "트럼프 \"'인공지능' 대신 '최고지능' 어떠냐\"…온라인 설문 부쳐",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260920011459fNE",
-      "published_at": "2026-09-20 07:55",
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "\"정부, 북한 지원 의료품 1천431개 선정…엑스레이·제세동기 포함\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008761941&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-09-20 09:27",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -116,7 +60,7 @@
       "source": "정치 (SBS)",
       "title": "김승원 전격 자진사퇴…이 대통령 회견 하루 만",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008761793&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-20 07:55",
+      "published_at": "2026-09-20 09:27",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -124,7 +68,7 @@
       "source": "정치 (SBS)",
       "title": "'오빠'에 '문과' 발언까지…사퇴 부른 청탁 의혹",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008761608&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-20 07:55",
+      "published_at": "2026-09-20 09:27",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -132,7 +76,7 @@
       "source": "정치 (SBS)",
       "title": "\"정부에 부담 더해선 안 돼\"…김승원 후보자 자진사퇴",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008761607&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-20 07:55",
+      "published_at": "2026-09-20 09:27",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -140,7 +84,7 @@
       "source": "정치 (SBS)",
       "title": "김승원 측, '추가의혹  청와대 탄원' 보도에 \"사실 다르거나 과장 오류\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008761641&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-20 07:55",
+      "published_at": "2026-09-20 09:27",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -148,7 +92,7 @@
       "source": "정치 (SBS)",
       "title": "민주당, 김승원 사퇴에 \"살신성인…사퇴 결정 존중\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008761587&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-20 07:55",
+      "published_at": "2026-09-20 09:28",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -156,7 +100,7 @@
       "source": "정치 (SBS)",
       "title": "청와대 \"김지용, 좀 꼼꼼히 살펴보고 있어…정리 시점 말하기 어려워\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008761586&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-20 07:55",
+      "published_at": "2026-09-20 09:28",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -164,7 +108,7 @@
       "source": "정치 (SBS)",
       "title": "\"'가세연 수준' 수사해서 척결해야\"…한동훈 \"떼거지로 복수, 할 테면 하라\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008761452&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-20 07:55",
+      "published_at": "2026-09-20 09:28",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -172,7 +116,7 @@
       "source": "정치 (SBS)",
       "title": "청와대, 김승원 '성추행 등 추가 의혹 탄원서' 보도에 \"확인 어렵다\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008761526&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-20 07:55",
+      "published_at": "2026-09-20 09:28",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -180,15 +124,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령 \"청년 정책 총괄·전담 조직 개설 고민\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008761518&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-20 07:55",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "한동훈 \"민주당 조폭이냐? 복수할 테면 해봐라\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008761478&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-20 07:55",
+      "published_at": "2026-09-20 09:28",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
