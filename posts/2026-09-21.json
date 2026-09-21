@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T08:13:13.138302+09:00",
+  "generated_at": "2026-09-21T09:35:16.543547+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,17 +34,65 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "[날씨] 쾌청한 하늘, 서울 30℃ 늦더위…큰 일교차 유의",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260921080530pWJ",
-      "published_at": "2026-09-21 08:10",
+      "title": "\"추석 연휴 백화점 이틀 쉽니다\"…마트는 당일 휴무·단축 영업",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260921093036YeV",
+      "published_at": "2026-09-21 09:34",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "\"美, ICC 달러화 거래 차단 계획…국제 금융망서 퇴출\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR202609210735196Z2",
-      "published_at": "2026-09-21 08:10",
+      "title": "지하창고 닥치니 '미러급 짝퉁' 우르르...정품가 89억원어치 적발",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260921091504l9h",
+      "published_at": "2026-09-21 09:34",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "[날씨] 전국 맑고 서쪽 늦더위…수도권·충청 대기 건조",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260921091255BKe",
+      "published_at": "2026-09-21 09:34",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "'전쟁 직격탄' 맞은 이란 경제…GDP 10.1% 감소",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260921091002CUr",
+      "published_at": "2026-09-21 09:34",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "코스피, 0.64% 상승 출발 후 7천피 회복…코스닥도 0.43%↑",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260921090744usZ",
+      "published_at": "2026-09-21 09:34",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "9월 중순 수출 714억달러 '역대 최대'…반도체 비중 48%",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260921090253EhG",
+      "published_at": "2026-09-21 09:34",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "청와대 신임 대변인에 김성완 시사평론가 임명",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008762947&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-09-21 09:35",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "박지원 \"김민석, 집권여당 대표로서 사과해야…김승원도 한동훈도 수사받아라\" [정치쇼]",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008762919&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-09-21 09:35",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -52,7 +100,7 @@
       "source": "정치 (SBS)",
       "title": "북, 원산 일대에서 단거리 탄도미사일 2발 발사",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008762660&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-21 08:10",
+      "published_at": "2026-09-21 09:35",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -60,7 +108,7 @@
       "source": "정치 (SBS)",
       "title": "\"'대통령 친구'의 거친 태도, 개혁·통합에 장애물\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008762648&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-21 08:10",
+      "published_at": "2026-09-21 09:35",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -68,7 +116,7 @@
       "source": "정치 (SBS)",
       "title": "'낙마'에 거리 두는 민주…국힘 \"무엇을 감추나\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008762646&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-21 08:10",
+      "published_at": "2026-09-21 09:35",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -76,7 +124,7 @@
       "source": "정치 (SBS)",
       "title": "북, 원산서 3시간 간격 단거리 탄도미사일 2발 발사",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008762486&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-21 08:10",
+      "published_at": "2026-09-21 09:35",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -84,7 +132,7 @@
       "source": "정치 (SBS)",
       "title": "오세훈 \"부동산이 대통령 지지율 하락 원인…전세난 책임져야\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008762498&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-21 08:10",
+      "published_at": "2026-09-21 09:35",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -92,7 +140,7 @@
       "source": "정치 (SBS)",
       "title": "북한, 탄도미사일 2발 3시간 간격 발사…유엔총회 앞두고 도발",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008762471&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-21 08:10",
+      "published_at": "2026-09-21 09:35",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -100,7 +148,7 @@
       "source": "정치 (SBS)",
       "title": "국힘 언론특위 \"'민주 과방위 보좌진 KBS 항의 전화' 의혹…사실이라면 외압\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008762452&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-21 08:10",
+      "published_at": "2026-09-21 09:35",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -108,23 +156,7 @@
       "source": "정치 (SBS)",
       "title": "한성숙 총리 \"기초연구 몫 재원 구분해 젊은 연구자 뒷받침\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008762425&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-21 08:10",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "북한, 단거리 탄도미사일 쏜지 3시간 만에 또 발사체 발사",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008762423&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-21 08:10",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "북한, 또 탄도미사일…합참 \"원산서 동해상 발사해 450km 비행\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008762359&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-21 08:10",
+      "published_at": "2026-09-21 09:35",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
