@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T09:02:35.296383+09:00",
+  "generated_at": "2026-09-22T10:20:12.654416+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,33 +34,89 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "김민석 \"외부에 인사문제 제기, 야당과 뭐가 다른가\" 김용민 겨냥",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR202609220853228SC",
-      "published_at": "2026-09-22 09:02",
+      "title": "한 총리 “총리실 경찰개혁위·추진단 총리실 신설”",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260922101604Wd6",
+      "published_at": "2026-09-22 10:17",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "이 대통령, 이형일·강신철·홍지선 장관 임명안 재가",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260922085235YP0",
-      "published_at": "2026-09-22 09:02",
+      "title": "로이터 \"한미, 웨스팅하우스 지분투자 합의 아직\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260922100849xmg",
+      "published_at": "2026-09-22 10:17",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "북한 \"새 전투무기체계 시험… 무력 현대화 갱신\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260922084543MAk",
-      "published_at": "2026-09-22 09:02",
+      "title": "[속보] 김정관 \"대미프로젝트 결정 1건·추진계획 2건 국회 보고\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR2026092210055677Z",
+      "published_at": "2026-09-22 10:17",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "스위스 대표팀 주장 자카, 위조 코로나19 백신 구매…명단서 제외",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260922083944FuI",
-      "published_at": "2026-09-22 09:02",
+      "title": "SK하이닉스 신입사원 4명 해고…\"인생에서 가장 비싼 술\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202609221002414U0",
+      "published_at": "2026-09-22 10:17",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "이정후, 열흘짜리 '부상자 명단'에 올라…사실상 시즌 아웃",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260922100227RNs",
+      "published_at": "2026-09-22 10:17",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "美서 또 ICE 총격 사건…트럼프 지지율 역대 최저",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260922094751l6p",
+      "published_at": "2026-09-22 10:17",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "\"미국 못 믿겠다\"…이란과 안보 손잡는 걸프국들",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260922094240p3Y",
+      "published_at": "2026-09-22 10:17",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[속보] 국회 산자위, 이소영 중기장관 인사청문보고서 채택",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008765243&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-09-22 10:17",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "장동혁, 강신철 임명안 재가에 \"북한을 주적이라고 못하는 사람\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008765232&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-09-22 10:17",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "원민경 \"임신중지약 도입, 여성 건강권 침해 더 지켜볼 수 없어 결단…건보 적용돼야\" [정치쇼]",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008765163&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-09-22 10:17",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "이 대통령, 이형일 재경·강신철 국방·홍지선 국토장관 임명",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008765059&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-09-22 10:17",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -68,7 +124,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령 \"강남불패·부동산 투기 공화국, 과거 이야기 될 것\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008764962&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-22 09:02",
+      "published_at": "2026-09-22 10:17",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -76,7 +132,7 @@
       "source": "정치 (SBS)",
       "title": "북 극초음속 미사일 시험 확인…김정은 \"적들에게 불치의 두통\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008764961&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-22 09:02",
+      "published_at": "2026-09-22 10:17",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -84,7 +140,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령, 뉴욕 도착…유엔총회 계기 미국·멕시코 순방 일정 돌입",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008764944&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-22 09:02",
+      "published_at": "2026-09-22 10:17",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -92,7 +148,7 @@
       "source": "정치 (SBS)",
       "title": "국힘 \"측근 인사 농단 규명\"…오늘 '정부 실정' 보고대회",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008764814&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-22 09:02",
+      "published_at": "2026-09-22 10:17",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -100,7 +156,7 @@
       "source": "정치 (SBS)",
       "title": "'계엄 가담' 지휘관들 중형…여인형 징역 18년·곽종근 9년",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008764813&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-22 09:02",
+      "published_at": "2026-09-22 10:17",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -108,39 +164,7 @@
       "source": "정치 (SBS)",
       "title": "'지뢰 폭발' 장병 3명 부상…북한군 설치 가능성",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008764788&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-22 09:02",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "'UN 총회 참석' 출국…'대미투자 교착' 속 트럼프 만날까?",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008764782&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-22 09:02",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "\"회계부정 의혹 등 전달\"…\"청와대 입장에선 가십\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008764779&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-22 09:02",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "강훈식 청와대 비서실장 전격 사의…\"책임지는 차원\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008764778&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-22 09:02",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "국회 재경위·산자위, 오늘 동시에 '대미투자 1호' 관련 보고 청취",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008764800&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-22 09:02",
+      "published_at": "2026-09-22 10:17",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
