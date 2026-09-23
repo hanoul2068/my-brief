@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T08:35:11.749909+09:00",
+  "generated_at": "2026-09-23T09:59:28.749180+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,17 +34,97 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "김 여사, 멜라니아 주최 오찬 행사서 디지털 전환 강조",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260923083029VOl",
-      "published_at": "2026-09-23 08:34",
+      "title": "美 \"이란 민항기에 연료 주면 달러망서 퇴출\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202609230953220Cp",
+      "published_at": "2026-09-23 09:58",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "코레일 자회사 5곳→3곳으로…\"편의점 할인·수하물 공간 늘린다\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR202609230815388yw",
-      "published_at": "2026-09-23 08:34",
+      "title": "한투증권, 올해 개설된 미성년 계좌 비중 8.6%…\"가족 자산관리 강화\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202609230950516n5",
+      "published_at": "2026-09-23 09:58",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "\"中 문샷·딥시크도 유엔 안보리 AI 회의 참석\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260923094552QGh",
+      "published_at": "2026-09-23 09:58",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "신한투자증권, AI서비스 2종 출시…\"관심종목·미국공시 브리핑\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260923094540hAY",
+      "published_at": "2026-09-23 09:59",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "키움증권, 내달 ‘철권 스타즈컵’ 개최… DRX ‘무릎’ 배재민 출격",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260923094523AZq",
+      "published_at": "2026-09-23 09:59",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "한화에어로-KAI, '장거리 공대공 유도탄' 국산화 협력",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260923094208S6v",
+      "published_at": "2026-09-23 09:59",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "머라이어 캐리 넘었다…엘라 랭글리 '빌보드 핫100' 최장 1위",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260923093957Of9",
+      "published_at": "2026-09-23 09:59",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "\"업무시간에 왜 쉬어?\"…이주노동자에 소화기 뿌린 사업주 입건",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260923093314sLJ",
+      "published_at": "2026-09-23 09:59",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "[날씨] 절기 '추분' 낮 더위 계속…추석 연휴 곳곳 비",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260923092826SdY",
+      "published_at": "2026-09-23 09:59",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "'공짜 노동' 잡는다…노동부, 크리에이터 지원 회사 5곳 기획 감독",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260923092059NP2",
+      "published_at": "2026-09-23 09:59",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "김민석, '재제청 거부' 조 대법원장에 \"대통령과 권력다툼 놀이 · 내란 성격\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008767152&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-09-23 09:59",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "정점식 \"대통령이 대법원장 제청권 유린…청와대 유감 표명, 적반하장\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008767151&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-09-23 09:59",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -52,7 +132,7 @@
       "source": "정치 (SBS)",
       "title": "청와대, 조희대 재제청 거부에 \"권한쟁의심판 청구 검토 안 해\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008766996&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-23 08:34",
+      "published_at": "2026-09-23 09:59",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -60,7 +140,7 @@
       "source": "정치 (SBS)",
       "title": "\"비교적 안전한 곳에서 폭발\"…북한 지뢰 가능성↑",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008766927&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-23 08:34",
+      "published_at": "2026-09-23 09:59",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -68,7 +148,7 @@
       "source": "정치 (SBS)",
       "title": "김혜경 여사, 미 멜라니아 오찬 행사 참석…\"국제사회 협력 의지 다져\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008766964&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-23 08:35",
+      "published_at": "2026-09-23 09:59",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -76,7 +156,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령, 유엔 사무총장 만나 한반도 문제 등 논의",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008766963&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-23 08:35",
+      "published_at": "2026-09-23 09:59",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -84,7 +164,7 @@
       "source": "정치 (SBS)",
       "title": "[단독] 선거철 '딥페이크' 지운다더니…32%가 '미삭제'",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008766848&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-23 08:35",
+      "published_at": "2026-09-23 09:59",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -92,7 +172,7 @@
       "source": "정치 (SBS)",
       "title": "\"대관료 등 부풀려\"…침묵 vs '경성라인' 공세",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008766839&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-23 08:35",
+      "published_at": "2026-09-23 09:59",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -100,7 +180,7 @@
       "source": "정치 (SBS)",
       "title": "청와대 \"대통령 임명권 무력화\"…\"빈집털이\" 격앙",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008766820&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-23 08:35",
+      "published_at": "2026-09-23 09:59",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -108,23 +188,7 @@
       "source": "정치 (SBS)",
       "title": "\"국제무대서 북한 존중…'건설적 기여국 연대' 제안\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008766854&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-23 08:35",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "이 대통령 \"북한 존중하고 협력할 것\"…평화 공존 방향 제시",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008766872&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-23 08:35",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "이 대통령 \"호르무즈 위기 충격\"…'건설적 기여국 연대' 제안",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008766871&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-23 08:35",
+      "published_at": "2026-09-23 09:59",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
