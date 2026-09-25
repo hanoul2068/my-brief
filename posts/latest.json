@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T08:51:14.700467+09:00",
+  "generated_at": "2026-09-25T09:57:20.175673+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,9 +34,65 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "[뉴스와이드] 비 내리는 추석, 달맞이 어려워…태풍 북상 중",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260925084847lMa",
-      "published_at": "2026-09-25 08:50",
+      "title": "친구 집들이 갔다가 소파 긁은 강아지…50만원 배상한 견주",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202609250948307si",
+      "published_at": "2026-09-25 09:56",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "이란, 美에 호르무즈 재개방 위한 '7일간 로드맵' 제안",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260925094613gkk",
+      "published_at": "2026-09-25 09:56",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "[날씨] 추석 전국 비, 달은 먹구름 뒤로…내일 비 그치고 맑아져",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260925093810PAS",
+      "published_at": "2026-09-25 09:56",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "[속보] 이 대통령 \"2030년 6월2일 넘기는일 절대없어\"…임기 다시 언급",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260925093801vQm",
+      "published_at": "2026-09-25 09:56",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "엘리베이터에 웬 손뜨개 키링?…초6이 이웃에 준 추석 선물",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260925092717jGV",
+      "published_at": "2026-09-25 09:56",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "\"상어 보자\" 10만 명 몰렸다…부산 북항 '들썩'",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260925091906pwH",
+      "published_at": "2026-09-25 09:57",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "북한 \"'미 집단방위의 중심' 한국, 집단 응징의 목표 될 것\" 위협",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008769755&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-09-25 09:57",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "이 대통령, 한-멕시코 기업인 간담회 주재…최태원·구광모 등 참석",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008769750&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-09-25 09:57",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -44,7 +100,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령 부부 추석인사…\"국민 삶 환한 빛 비추도록 힘껏 뛸 것\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008769687&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-25 08:50",
+      "published_at": "2026-09-25 09:57",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -52,7 +108,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령 \"멕시코와 원유·핵심자원 공급망 논의 대화 채널 출범\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008769685&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-25 08:51",
+      "published_at": "2026-09-25 09:57",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -60,7 +116,7 @@
       "source": "정치 (SBS)",
       "title": "청와대 \"유시민 발언에 유감\"…법적 대응 검토하나",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008769464&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-25 08:51",
+      "published_at": "2026-09-25 09:57",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -68,7 +124,7 @@
       "source": "정치 (SBS)",
       "title": "\"우크라, 포로 송환 비공개 합의 어겨…많이 아쉽다\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008769552&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-25 08:51",
+      "published_at": "2026-09-25 09:57",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -76,7 +132,7 @@
       "source": "정치 (SBS)",
       "title": "북한군 포로 2명, 생포 1년 8개월 만에 한국행",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008769465&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-25 08:51",
+      "published_at": "2026-09-25 09:57",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -84,7 +140,7 @@
       "source": "정치 (SBS)",
       "title": "16년 만의 국빈방문…\"한국·멕시코, 협력 성과 지속 발굴\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008769533&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-25 08:51",
+      "published_at": "2026-09-25 09:57",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -92,7 +148,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령 \"북 포로 송환 비공개, 타당하고 정당한 조치\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008769472&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-25 08:51",
+      "published_at": "2026-09-25 09:57",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -100,23 +156,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령 \"우크라, 북 포로 송환 비공개 합의 어겨…많이 아쉽다\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008769470&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-25 08:51",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "북한 포로 2명 한국으로…\"3~4일 전 도착\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008769292&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-25 08:51",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "[바로이뉴스] 한동훈, '지뢰폭발' 현장조사 촉구…\"전쟁나면 연휴 지나 싸울 거냐\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008769260&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-09-25 08:51",
+      "published_at": "2026-09-25 09:57",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
