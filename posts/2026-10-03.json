@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T09:24:55.187612+09:00",
+  "generated_at": "2026-10-03T10:30:39.417970+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,65 +34,25 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "광주경찰, 개천절 연휴 폭주·난폭운전 단속서 96건 적발",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261003091850Ro1",
-      "published_at": "2026-10-03 09:24",
+      "title": "그래미, BTS 보이콧에도 아시안 팝 그대로 강행",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20261003102005BeH",
+      "published_at": "2026-10-03 10:30",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "국내 기름값 20주째 하락세…휘발유·경유 1,800원대 유지",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261003091720X5t",
-      "published_at": "2026-10-03 09:24",
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "북한, 탄도미사일 1발 발사…700㎞ 이상 비행",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008781742&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-03 10:30",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "[속보] 합참 \"北 발사 탄도미사일 1발…700㎞ 이상 비행\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261003090812saj",
-      "published_at": "2026-10-03 09:24",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "청와대, 北 탄도미사일에 긴급안보회의…\"즉각 중단\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261003085352XfV",
-      "published_at": "2026-10-03 09:24",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "[속보] 지하철1호선 의왕~성균관대역 선로서 60대 사망",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH202610030849051Ck",
-      "published_at": "2026-10-03 09:24",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "일본 \"북, 탄도미사일 가능성 물체 발사…EEZ 밖 낙하한 듯\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261003084617MfY",
-      "published_at": "2026-10-03 09:24",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "1호선 의왕∼성균관대역서 60대 열차에 치여 사망...상행선 지연운행",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261003084222QJ6",
-      "published_at": "2026-10-03 09:24",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "\"윗집과 갈등에 화나\" 자기 집에 불 지른 60대 구속 송치",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261003082504TM4",
-      "published_at": "2026-10-03 09:24",
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "청와대, '북한 탄도미사일 발사'에 긴급 회의…\"즉각 중단 촉구\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008781720&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-03 10:30",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -100,7 +60,7 @@
       "source": "정치 (SBS)",
       "title": "김지용 청문요청안 재가…정청래와 4시간 만찬",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008781550&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-10-03 09:24",
+      "published_at": "2026-10-03 10:30",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -108,7 +68,7 @@
       "source": "정치 (SBS)",
       "title": "\"상대국 원수 거짓말쟁이 만들어\"…대사 소환 검토",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008781549&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-10-03 09:24",
+      "published_at": "2026-10-03 10:30",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -116,7 +76,7 @@
       "source": "정치 (SBS)",
       "title": "\"'불의의 사고' 표현, 부상 장병 위로하는 맥락\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008781548&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-10-03 09:24",
+      "published_at": "2026-10-03 10:30",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -124,7 +84,7 @@
       "source": "정치 (SBS)",
       "title": "\"내가 맞을 흉탄을 대신 맞아\"…박정희 손편지 공개",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008781547&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-10-03 09:24",
+      "published_at": "2026-10-03 10:30",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -132,7 +92,7 @@
       "source": "정치 (SBS)",
       "title": "합참 \"북, 동해상으로 탄도미사일 발사\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008781618&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-10-03 09:24",
+      "published_at": "2026-10-03 10:30",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -140,7 +100,7 @@
       "source": "정치 (SBS)",
       "title": "잇단 입장 발표…\"왜 한국과 엮일 일 했을 거라 상상하냐\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008781528&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-10-03 09:24",
+      "published_at": "2026-10-03 10:30",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -148,7 +108,7 @@
       "source": "정치 (SBS)",
       "title": "김여정, 정동영 사과 요구·만남 제안에 \"대꾸할 가치도 없는 망상\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008781462&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-10-03 09:24",
+      "published_at": "2026-10-03 10:30",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -156,23 +116,7 @@
       "source": "정치 (SBS)",
       "title": "김여정 \"대통령이라는 사람은…\" 조롱…통일부 \"증오 부추기는 공방 멈추고 만나야\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008781397&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-10-03 09:24",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "또 김여정…\"왜 한국과 엮일 일 했을 거라 상상하나\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008781273&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-10-03 09:24",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "북한 김여정, 군 사과 요구·이 대통령 긴장완화 발언에 \"자작 광대극 2부\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008781119&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-10-03 09:24",
+      "published_at": "2026-10-03 10:30",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
