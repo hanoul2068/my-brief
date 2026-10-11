@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T10:57:19.300083+09:00",
+  "generated_at": "2026-10-11T09:12:23.567617+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,25 +34,81 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "'근무지 이탈' 송민호, 집행유예 선고 후 자필 반성문 게시",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH202610101055426LL",
-      "published_at": "2026-10-10 10:56",
+      "title": "국토안전관리원 '암살자(들)' 단체관람 논란…\"오해 소명할 것\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261011090414Akn",
+      "published_at": "2026-10-11 09:11",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "국힘 \"정동영 북한에 반박 칼자루 쥐여줘…사퇴가 답\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261010105020Ma8",
-      "published_at": "2026-10-10 10:56",
+      "title": "새만금공항 항소심 다음 달 판결…\"새만금 개발 필수\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20261011090347kIz",
+      "published_at": "2026-10-11 09:12",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "국힘 \"한미동맹 수렁으로…북한 향해선 '굴종 광대극'\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR202610101027066RA",
-      "published_at": "2026-10-10 10:57",
+      "title": "'오디세이' 매출액 1,383억 넘었다…역대 외화 1위",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261011090225Ru0",
+      "published_at": "2026-10-11 09:12",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "김정은, 대외 메시지 없이…당 창건 81주년 공연 관람",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008791619&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-11 09:12",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "\"명색이 집권당인데…대략 난감\" 추미애 한밤중 돌연 글",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008791279&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-11 09:12",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[단독] \"건당 2만 원\"에 가입자 정보를…공단 직원 반전",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008791276&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-11 09:12",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[단독] \"미국 대북정보 공유, 미사일뿐…사실상 막혔다\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008791273&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-11 09:12",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "민주당 \"젤렌스키에 감사 서한은 매국\"…나경원 \"참 지독한 친북정권\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008791253&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-11 09:12",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "한 총리, 대구 사고에 \"부상자 신속 이송…재발 방지 최선\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008791185&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-11 09:12",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "민주당 \"한동훈, 딸 '스펙 쌓기' 의혹 사건 덮었나\"…연일 공세",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008791099&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-11 09:12",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -60,7 +116,7 @@
       "source": "정치 (SBS)",
       "title": "박기창 주우크라이나 대사 오늘 오전 귀국…소환 결정 이틀만",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008791019&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-10-10 10:57",
+      "published_at": "2026-10-11 09:12",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -68,7 +124,7 @@
       "source": "정치 (SBS)",
       "title": "북한, 노동당 창건 81주년 자축…\"조국 위용, 최고의 경지\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008791011&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-10-10 10:57",
+      "published_at": "2026-10-11 09:12",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -76,63 +132,7 @@
       "source": "정치 (SBS)",
       "title": "북한, 미 '최악 인신매매국' 지정에 \"중상모독 정치적 도발\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008791010&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-10-10 10:57",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "조정식 국회의장 \"크로아티아 천무 도입, 의미 있는 진전\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008791009&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-10-10 10:57",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "조정식 국회의장, 크로아티아 대통령·총리 면담…경제협력 등 논의",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008791012&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-10-10 10:57",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "민주당의 비공개 일정 국감자료 요구에 추미애 \"대락난감\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008790996&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-10-10 10:57",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "한미 관계 곳곳 잇따르는 '이상 기류'…왜?",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008790809&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-10-10 10:57",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "우크라 \"감정보다 외교 우선\"…공식 사과는 없어",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008790802&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-10-10 10:57",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "'미국 비자' 발급 불발…\"깊은 유감\" vs \"관계 최악\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008790797&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-10-10 10:57",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "\"김정은 위임받았다\"…김여정, 또 '비난' 입장문",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008790796&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-10-10 10:57",
+      "published_at": "2026-10-11 09:12",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
