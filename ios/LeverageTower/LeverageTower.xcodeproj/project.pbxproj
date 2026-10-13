@@ -197,6 +197,10 @@
 				INFOPLIST_KEY_CFBundleDisplayName = "관제탑";
 				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.finance";
+				INFOPLIST_KEY_NSCameraUsageDescription = "증권사 화면을 찍어 기록을 자동으로 채울 때 카메라를 씁니다.";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "증권사 스크린샷을 골라 기록을 자동으로 채울 때 사진을 씁니다.";
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "포트폴리오 이미지를 사진첩에 저장할 때 씁니다.";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "동영상을 첨부할 때 마이크를 씁니다.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -230,6 +234,10 @@
 				INFOPLIST_KEY_CFBundleDisplayName = "관제탑";
 				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.finance";
+				INFOPLIST_KEY_NSCameraUsageDescription = "증권사 화면을 찍어 기록을 자동으로 채울 때 카메라를 씁니다.";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "증권사 스크린샷을 골라 기록을 자동으로 채울 때 사진을 씁니다.";
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "포트폴리오 이미지를 사진첩에 저장할 때 씁니다.";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "동영상을 첨부할 때 마이크를 씁니다.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
