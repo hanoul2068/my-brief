@@ -1,0 +1,195 @@
+{
+  "generated_at": "2026-10-13T11:34:39.269412+09:00",
+  "categories": [
+    {
+      "id": "all",
+      "name": "전체"
+    },
+    {
+      "id": "headline",
+      "name": "🔥 주요소식"
+    },
+    {
+      "id": "politics",
+      "name": "⚖️ 정치"
+    },
+    {
+      "id": "economy",
+      "name": "💰 경제/IT"
+    },
+    {
+      "id": "society",
+      "name": "👥 사회/생활"
+    },
+    {
+      "id": "science",
+      "name": "🧪 과학/기술"
+    },
+    {
+      "id": "policy",
+      "name": "📢 정부/정책"
+    }
+  ],
+  "items": [
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "'집값 상승' 수도권, 분양시장 개선 기대…지방은 미분양에 악화",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR2026101311303584q",
+      "published_at": "2026-10-13 11:31",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "정부 \"원유·나프타 11월 물량도 100% 확보\"…유가 일부 하락",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261013104045tHW",
+      "published_at": "2026-10-13 11:32",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "이 대통령 \"중수청·공소청장 국무회의 참석 당연\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261013112832iXu",
+      "published_at": "2026-10-13 11:32",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "리튬건전지 삼킨 9개월 아기…'전북→부산' 230㎞ 날아 치료",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261013112533o4J",
+      "published_at": "2026-10-13 11:32",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "국힘, '색깔론 반격' 정동영에 \"北 도발 감싸는 이적 행위 퇴출\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202610131120186wJ",
+      "published_at": "2026-10-13 11:32",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "美서 재배된 1.4톤짜리 '초대형 호박'…기네스 등재 전망",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261013111957Nwp",
+      "published_at": "2026-10-13 11:32",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "부캉이가 해수욕장 출몰한다면…부산시, 상어 퇴치기 등 도입 검토",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261013111650UQl",
+      "published_at": "2026-10-13 11:32",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "주진우 \"이 대통령 '황제골프' 특검법 대표발의할 것\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202610131115411uT",
+      "published_at": "2026-10-13 11:32",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "방사청 \"북핵 대응·전작권 회복 위해 3축체계 전력 적기도입\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261013111521qKY",
+      "published_at": "2026-10-13 11:32",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "제주항공, 12월 17일 부산∼마닐라 신규 취항…주5회 운항",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261013111434TLG",
+      "published_at": "2026-10-13 11:32",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "이 대통령 \"청소년 자살 감소 위한 강력하고 새로운 대책 찾아야\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008794963&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-13 11:32",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "대통령경호처, 북악산 남서측 탐방로 전면 개방…59년 만",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008794931&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-13 11:32",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "이 대통령 \"국익 지켜지는 외교해야…굴종·사대적 태도 지양\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008794841&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-13 11:32",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "이 대통령 \"성장 위해 양극화 완화해야…3대 사회정책 역량 집중\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008794829&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-13 11:32",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "송기헌 과방위원장 \"공공영역 담당하는 방송에 대해 지원 어떻게 할 것인지 방미통위 고민해야\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008794772&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-13 11:32",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[정치쇼] 전재수 \"비상 시 부캉이 구조 3분 내로…암살자(들) 논란? 죽이는 일 말고 살리는 일 하시라\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008794382&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-13 11:32",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "\"딸 논문 대필 '봐주기 수사'\"…\"아들 위해서 '법안 발의'\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008794257&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-13 11:32",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "북한, 전술탄도미사일 시험 확인…\"중대 변화 예고 성과\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008794263&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-13 11:32",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "북, 전술탄도미사일 시험 확인…\"중대변화 예고 큰 성과\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008794249&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-13 11:32",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "북, 탄도미사일 또 쐈다…'극초음속' 성공에 맞불?",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008794158&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-13 11:32",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    }
+  ]
+}
