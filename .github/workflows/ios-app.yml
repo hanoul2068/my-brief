@@ -1,0 +1,42 @@
+name: iOS App (관제탑)
+
+on:
+  push:
+    paths:
+      - "ios/**"
+      - ".github/workflows/ios-app.yml"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: macos-15
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Xcode version
+        run: xcodebuild -version
+
+      - name: Build (unsigned, iPhone)
+        run: |
+          xcodebuild \
+            -project ios/LeverageTower/LeverageTower.xcodeproj \
+            -target LeverageTower \
+            -configuration Release \
+            -sdk iphoneos \
+            SYMROOT="$PWD/build" \
+            CODE_SIGNING_ALLOWED=NO CODE_SIGNING_REQUIRED=NO CODE_SIGN_IDENTITY="" \
+            build
+
+      - name: Package .ipa
+        run: |
+          mkdir -p out/Payload
+          cp -R build/Release-iphoneos/LeverageTower.app out/Payload/
+          cd out && zip -qry LeverageTower.ipa Payload && ls -la LeverageTower.ipa
+
+      - name: Upload .ipa
+        uses: actions/upload-artifact@v4
+        with:
+          name: LeverageTower-ipa
+          path: out/LeverageTower.ipa
+          retention-days: 90
