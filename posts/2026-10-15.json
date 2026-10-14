@@ -1,0 +1,179 @@
+{
+  "generated_at": "2026-10-15T08:53:20.136909+09:00",
+  "categories": [
+    {
+      "id": "all",
+      "name": "전체"
+    },
+    {
+      "id": "headline",
+      "name": "🔥 주요소식"
+    },
+    {
+      "id": "politics",
+      "name": "⚖️ 정치"
+    },
+    {
+      "id": "economy",
+      "name": "💰 경제/IT"
+    },
+    {
+      "id": "society",
+      "name": "👥 사회/생활"
+    },
+    {
+      "id": "science",
+      "name": "🧪 과학/기술"
+    },
+    {
+      "id": "policy",
+      "name": "📢 정부/정책"
+    }
+  ],
+  "items": [
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "트럼프, 애리조나 유세 중 \"정보 유출자는 총살해야\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261015085108uph",
+      "published_at": "2026-10-15 08:52",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "호르무즈서 피격된 UAE 화물선 2척 침몰",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261015085007DPs",
+      "published_at": "2026-10-15 08:52",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "후티 \"사우디 공항에 미사일 명중\"…스포츠 행사도 차질",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20261015084422E70",
+      "published_at": "2026-10-15 08:52",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "'황인범 19분 출전' 포르투, UCL 베티스에 2-3 역전패",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202610150828578m7",
+      "published_at": "2026-10-15 08:52",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "삼성전자, 하노이서 맞춤형 가전 선보여…동남아 시장 공략",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202610150828552DC",
+      "published_at": "2026-10-15 08:52",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "국중박 전시 나온 친일파 글씨…\"유홍준 관장 소장품\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261015082738snq",
+      "published_at": "2026-10-15 08:52",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "프로야구, 비오면 '평균 47분' 중단…폭염으로 리그 중단도",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261015082408Ch0",
+      "published_at": "2026-10-15 08:53",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "전주서 아내 살해한 70대 체포 당시 음독…\"생명 지장 없어\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202610150813226UZ",
+      "published_at": "2026-10-15 08:53",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[정치쇼] 김영진 \"김지용 청문회, 친윤 아닌 것 입증됐다…임광현 비서실장? 신선한 인사\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008798466&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-15 08:53",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[단독] 영국까지 가서 화상회의…출장비만 6천만 원",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008798255&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-15 08:53",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "북 \"어제 잠수함발사전략순항미사일 시험 발사\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008798304&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-15 08:53",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "신임 비서실장에 임광현 국세청장…'깜짝 발탁' 배경은?",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008798231&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-15 08:53",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "'친윤 논란' 갈라진 범여권…오늘 청문보고서 채택",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008798230&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-15 08:53",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "신임 비서실장에 임광현 국세청장…발탁 배경은?",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008798142&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-15 08:53",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "\"비겁한 선택\" vs \"반윤 소신파\"…갈라진 범여권",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008798141&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-15 08:53",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "\"신천지, 집단적 가입 확인\"…\"내빼는 자가 범인\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008797943&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-15 08:53",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "\"북한, 러 '전파방해 신무기' 도입\"…서해 위협 우려",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008797942&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-15 08:53",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "발언 하루 만에 진화…\"소통 어렵단 뜻 아냐\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008797941&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-15 08:53",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    }
+  ]
+}
