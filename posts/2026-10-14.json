@@ -1,0 +1,171 @@
+{
+  "generated_at": "2026-10-14T09:15:20.988905+09:00",
+  "categories": [
+    {
+      "id": "all",
+      "name": "전체"
+    },
+    {
+      "id": "headline",
+      "name": "🔥 주요소식"
+    },
+    {
+      "id": "politics",
+      "name": "⚖️ 정치"
+    },
+    {
+      "id": "economy",
+      "name": "💰 경제/IT"
+    },
+    {
+      "id": "society",
+      "name": "👥 사회/생활"
+    },
+    {
+      "id": "science",
+      "name": "🧪 과학/기술"
+    },
+    {
+      "id": "policy",
+      "name": "📢 정부/정책"
+    }
+  ],
+  "items": [
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "이 대통령 \"'피해자·인천시민 잘 챙겨주길…'묻지마 범죄' 최소화 노력\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261014091324xpl",
+      "published_at": "2026-10-14 09:14",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "[날씨] 다시 '가을 추위' 찾아와…큰 일교차 유의",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20261014091312avX",
+      "published_at": "2026-10-14 09:14",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "여객기 납치경보에 교신까지 끊겨 독일 발칵…알고보니 시스템 오류",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261014091139Rpy",
+      "published_at": "2026-10-14 09:14",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "코스피, 0.44% 오른 6,062.08 출발…코스닥은 0.14%↓",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261014090433tcj",
+      "published_at": "2026-10-14 09:14",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "국방부 \"한미 전작권 전환 체계적 추진…SCM 일정 상호 협의\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261014090407c60",
+      "published_at": "2026-10-14 09:15",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "학교 급식소·주변 상점 점검했더니…14곳 '위생 불량'",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202610140859270mb",
+      "published_at": "2026-10-14 09:15",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "스포츠·공연 복합형 돔구장 후보지 공모…2034년 준공 목표",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261014084949C0i",
+      "published_at": "2026-10-14 09:15",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "주미대사관 \"강경화 'DMZ 지뢰 발언', 정전협정 위반 강조 취지\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008796379&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-14 09:15",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "\"친윤일 뿐 아니라 공직자로 부적합\"…추미애 '맹공'",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008796220&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-14 09:15",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "이 대통령, 인천경찰청 방문…\"특단 대책\" 지시",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008796215&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-14 09:15",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "이 대통령,  흉기난동 사건에 \"특단 대책 강구\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008796117&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-14 09:15",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "이 대통령, 인천경찰청 방문…흉기난동 사건에 \"특단 대책 강구\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008796076&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-14 09:15",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "\"증인 빠져 맹탕\" \"수사 끝나\"…제넨셀 두고 격돌",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008795962&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-14 09:15",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "\"김정은 만날 수도\"…'대미 전략무기' 과시한 북한",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008795961&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-14 09:15",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "흔들리는 한미관계…'원칙' 강조한 배경은?",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008795941&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-14 09:15",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "\"국가 간 이견 있기 마련…굴종적 태도 지양해야\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008795940&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-14 09:15",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "\"정보 협력에 문제 있다\"…한미 '균열' 시인",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008795939&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-14 09:15",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    }
+  ]
+}
