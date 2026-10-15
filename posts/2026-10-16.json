@@ -1,0 +1,163 @@
+{
+  "generated_at": "2026-10-16T08:41:44.110488+09:00",
+  "categories": [
+    {
+      "id": "all",
+      "name": "전체"
+    },
+    {
+      "id": "headline",
+      "name": "🔥 주요소식"
+    },
+    {
+      "id": "politics",
+      "name": "⚖️ 정치"
+    },
+    {
+      "id": "economy",
+      "name": "💰 경제/IT"
+    },
+    {
+      "id": "society",
+      "name": "👥 사회/생활"
+    },
+    {
+      "id": "science",
+      "name": "🧪 과학/기술"
+    },
+    {
+      "id": "policy",
+      "name": "📢 정부/정책"
+    }
+  ],
+  "items": [
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "국제유가 혼조…WTI 6일째 상승·브렌트유 약보합",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20261016083557y9H",
+      "published_at": "2026-10-16 08:39",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "구직자 관심기업 1위 SK하이닉스, 현대차 2위",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261016083341HLF",
+      "published_at": "2026-10-16 08:39",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "7년간 수술 7차례…붉은바다거북 바다로",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261016082801jIJ",
+      "published_at": "2026-10-16 08:39",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "9월 취업자 11만3천명↑…석 달째 10만명대 증가",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261016082156qHX",
+      "published_at": "2026-10-16 08:39",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "\"우크라, 송환 공개…韓 대북·대러 접근법 훼손\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261016082057nmI",
+      "published_at": "2026-10-16 08:39",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "다카이치가 국회 출석 뜸한 이유는?…\"화장·집안일 하느라\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202610160819160qW",
+      "published_at": "2026-10-16 08:39",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "'경기 성남 라인' 낙하산 논란 도마에…자소서 제출 공방",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008800257&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-16 08:39",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "\"전작권 전환 조건 변했다\"…\"골대 옮기면 영원히 못 해\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008800172&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-16 08:39",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[단독] '사고 위험' 잇단 지적에도…\"시즌 끝나면 보강\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008800194&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-16 08:39",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[단독] 아시안게임 동메달 만으로 아파트 당첨…'메달 특공' 논란",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008800193&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-16 08:39",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[한반도포커스] 북한 '전술핵공격잠수함' 첫 무장 시험…군 발표 없었다?",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008800112&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-16 08:39",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[한반도포커스] \"무인기 멋지게\"…북한 드라마에 등장한 이유?",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008800111&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-16 08:39",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "\"전작권 전환에 새 기준\"…\"골대 옮기면 영영 못 해\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008800105&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-16 08:39",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "\"성남 라인\" \"정치 공세\"…자소서 제출 공방",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008799938&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-16 08:39",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "\"전면 재선거\" \"정도껏 하라\"…고성 오간 회의장",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008799937&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-16 08:39",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "3천톤 급 전술핵 공격용 잠수함서 발사…사진 공개",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008799922&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-16 08:39",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    }
+  ]
+}
