@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T08:32:35.859708+09:00",
+  "generated_at": "2026-10-17T09:51:19.048290+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,73 +34,41 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "[단독] 관제탑이 '사장 동창회' 명소?…기관 경고·과태료 통보",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20261017082727Coc",
-      "published_at": "2026-10-17 08:29",
+      "title": "기름값 22주째 하락…휘발유·경유 1,800원대 지속",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261017094502tlJ",
+      "published_at": "2026-10-17 09:50",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "\"5,000년 만에 만진 유물\"...'고대 난파선' 튀르키예 바다서 발견",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261015174147hmZ",
-      "published_at": "2026-10-17 08:29",
+      "title": "이란 외무부, '사우디 공격 배후설' 전면 부인",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20261017094112rbR",
+      "published_at": "2026-10-17 09:50",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "[속보] 다카이치, 야스쿠니 가을 제사에 공물 대금 봉납",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261017070812uSe",
-      "published_at": "2026-10-17 08:30",
+      "title": "\"아이스크림 훔쳤어?\"…자녀 흉기 위협한 부모 징역형 집행유예",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR2026101709284470w",
+      "published_at": "2026-10-17 09:50",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "‘8명 중경상’ 부천 공장 화재…오늘 오전 합동감식",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261017070527132",
-      "published_at": "2026-10-17 08:30",
+      "title": "'엄지성에 인종차별 발언' 50대 영국 남성, 현지 경찰에 체포 후 보석 석방",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261017092603wNp",
+      "published_at": "2026-10-17 09:50",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "외국인이 '저출산 해법' 될까…일본, 외국인 아동 5년 새 34%↑",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261016174526HU3",
-      "published_at": "2026-10-17 08:30",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "\"과자·냉동 식품 많이 먹는 중년, 무증상 뇌혈관 손상 위험\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261016172104dNg",
-      "published_at": "2026-10-17 08:30",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "\"왕초보 죄송\"·\"아이 탔어요\"…차량에 '무더기 부착' 운전자 사연은",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261015163944rzz",
-      "published_at": "2026-10-17 08:30",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "[단독] 국가기간시설 찍는 드론 60%가 중국산…\"보안 우려\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261016181924up9",
-      "published_at": "2026-10-17 08:30",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "美 철강값 4년여 만에 최고…관세 여파로 공급 부족",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261017044508Th9",
-      "published_at": "2026-10-17 08:30",
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "북, 신형 초고속 정밀유도 어뢰 발사시험…\"인공지능 도입\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008801943&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-17 09:51",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -108,7 +76,7 @@
       "source": "정치 (SBS)",
       "title": "청해부대 오만 해역 가나…작전 확대 검토",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008801818&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-10-17 08:30",
+      "published_at": "2026-10-17 09:51",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -116,7 +84,7 @@
       "source": "정치 (SBS)",
       "title": "'이진숙 제척' 놓고 충돌…과방위 국감 파행",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008801814&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-10-17 08:30",
+      "published_at": "2026-10-17 09:51",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -124,7 +92,7 @@
       "source": "정치 (SBS)",
       "title": "전례 없는 '탄핵 카드' 왜?…지지층 결집 '승부수'",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008801813&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-10-17 08:30",
+      "published_at": "2026-10-17 09:51",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -132,15 +100,15 @@
       "source": "정치 (SBS)",
       "title": "'조희대 탄핵 카드' 공식화…\"돌이킬 수 없는 강 건너\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008801794&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-10-17 08:30",
+      "published_at": "2026-10-17 09:51",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "politics",
       "source": "정치 (SBS)",
-      "title": "'재정 빨대' 질문에 손사래…이 대통령 \"천금 준들 아깝겠나\"",
+      "title": "'재정 빨대' 질문에 손사래 친 추미애…\"무릎 꿇고 사과하라\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008801809&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-10-17 08:30",
+      "published_at": "2026-10-17 09:51",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -148,7 +116,7 @@
       "source": "정치 (SBS)",
       "title": "인천 삼산동 대단지 아파트 정전…1천800여 세대 영향",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008801762&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-10-17 08:30",
+      "published_at": "2026-10-17 09:51",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -156,7 +124,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령, 부상 소방관·장병 쾌유 기원…\"헌신에 천금 아깝겠나\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008801721&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-10-17 08:30",
+      "published_at": "2026-10-17 09:51",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -164,7 +132,7 @@
       "source": "정치 (SBS)",
       "title": "최형두 \"국감 중 MBC 방문해 비공개 실시하는 업무보고, 잘못된 관행\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008801694&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-10-17 08:30",
+      "published_at": "2026-10-17 09:51",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -172,15 +140,7 @@
       "source": "정치 (SBS)",
       "title": "'재정 빨대' 묻자 추미애 손사래…\"무릎 꿇고 사과하라\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008801620&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-10-17 08:30",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "[정치사냥꾼] 쇼츠 노린 '패륜 국감'?…대통령의 X, 소통? 논란 유발?",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008801613&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-10-17 08:30",
+      "published_at": "2026-10-17 09:51",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
