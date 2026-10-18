@@ -1,0 +1,155 @@
+{
+  "generated_at": "2026-10-19T08:02:29.431201+09:00",
+  "categories": [
+    {
+      "id": "all",
+      "name": "전체"
+    },
+    {
+      "id": "headline",
+      "name": "🔥 주요소식"
+    },
+    {
+      "id": "politics",
+      "name": "⚖️ 정치"
+    },
+    {
+      "id": "economy",
+      "name": "💰 경제/IT"
+    },
+    {
+      "id": "society",
+      "name": "👥 사회/생활"
+    },
+    {
+      "id": "science",
+      "name": "🧪 과학/기술"
+    },
+    {
+      "id": "policy",
+      "name": "📢 정부/정책"
+    }
+  ],
+  "items": [
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "\"폭탄 위협 신고\"…이스라엘발 유럽행 여객기 비상착륙",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261019075045p3i",
+      "published_at": "2026-10-19 08:02",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "북한, 러시아서 수교 78주년 연회…\"불패의 전우관계\" 과시",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261019074227I5F",
+      "published_at": "2026-10-19 08:02",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "트럼프 측근 미 의원 \"한미관계 재설정되는 과정\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20261019073904CmI",
+      "published_at": "2026-10-19 08:02",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "트럼프 \"대러 결정 간단해…종전협상서 러 떠나길 원치 않아\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202610190734380G0",
+      "published_at": "2026-10-19 08:02",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "미래에셋 TIGER ETF, 1위 탈환…삼성 KODEX '털썩'",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261019072432sY4",
+      "published_at": "2026-10-19 08:02",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "'쇼츠' 찍느라 검증은 뒷전…이런 국감 언제까지",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008803339&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-19 08:02",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "추미애 사과에도 파장 계속…김민석 '공연 중단' 사과",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008803336&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-19 08:02",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "이 대통령 \"'국무회의 공개라 말 못한다'는 건 거짓말\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008803128&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-19 08:02",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "소환된 주우크라 대사 국정감사 불참…차석이 대리출석",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008803060&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-19 08:02",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "가수 공연 중 무대 오른 김민석…논란 되자 \"죄송하다\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008803047&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-19 08:02",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "한성숙 총리 \"분단은 여전한 현실…남북대화 열리도록 기반 다질 것\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008802907&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-19 08:02",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "정점식 \"김민석, 조희대 탄핵 여부 결론내라…엄중 책임져야\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008802896&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-19 08:02",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "국힘 \"희생 헛되지 않게 최선\"…부천 화재 순직 소방관 조문",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008802895&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-19 08:02",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "추미애 '사과 바라니 사과한다' 발언에…\"사퇴 바란다\" 맹공",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008802893&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-19 08:02",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "대통령의 골프, 차라리 공개하면 어떤가 [취재파일]",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008802423&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-19 08:02",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    }
+  ]
+}
