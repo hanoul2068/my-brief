@@ -234,7 +234,22 @@ def save_state(state):
         json.dump(state, f, ensure_ascii=False, indent=2)
 
 
+def find_bot_chat_id():
+    """봇에게 최근 말을 건(START 포함) 대화방 번호를 찾는다. 텔레그램은 최근 24시간치만 알려준다."""
+    try:
+        res = requests.get(f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/getUpdates", timeout=20).json()
+    except Exception:
+        return None
+    for upd in reversed(res.get("result", [])):
+        msg = upd.get("message") or upd.get("my_chat_member") or {}
+        chat = msg.get("chat") or {}
+        if chat.get("id"):
+            return str(chat["id"])
+    return None
+
+
 def send_to_telegram(text):
+    global TELEGRAM_CHAT_ID
     if DRY_RUN or not TELEGRAM_TOKEN:
         print("[텔레그램 미전송]\n" + text)
         return
@@ -243,6 +258,17 @@ def send_to_telegram(text):
                "disable_web_page_preview": True}
     try:
         res = requests.post(url, json=payload, timeout=20)
+        if res.status_code == 400 and "chat not found" in res.text:
+            # 새 봇이 아직 이 방 번호를 모르는 경우 → 봇에게 말을 건 방을 찾아 거기로 보내고, 번호를 알려준다
+            found = find_bot_chat_id()
+            if found:
+                TELEGRAM_CHAT_ID = found
+                payload["chat_id"] = found
+                payload["text"] = (text + f"\n\n⚙️ 이 대화방 번호: <code>{found}</code>\n"
+                                   "GitHub Secrets에 KOLON_TELEGRAM_CHAT_ID 로 등록해 주세요.")
+                res = requests.post(url, json=payload, timeout=20)
+            else:
+                print("❌ 봇 대화방을 찾지 못했습니다. 새 봇 대화방에서 START를 누르거나 아무 말이나 보내주세요.")
         if res.status_code != 200:
             print(f"❌ 전송 실패: {res.text}")
     except Exception as e:
