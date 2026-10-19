@@ -29,30 +29,36 @@ DEBUG_DIR = os.path.join(ROOT, "debug")
 TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
 TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 DRY_RUN = os.getenv("DRY_RUN") == "1"  # 1이면 텔레그램 전송/상태 저장 안 함 (테스트용)
+DEBUG = os.getenv("DEBUG_SHOTS") == "1"
 
 BASE = "https://www.kolonmall.com"
-OUTLET_PAGE = f"{BASE}/View/Single/Outlet"
+# 코오롱몰 '아울렛' 카테고리. supplierBrands 로 브랜드를 걸러 볼 수 있다.
+OUTLET_CATEGORY = f"{BASE}/Category/List/133010030000"
+MAX_PAGES = 30  # 지난 시즌 상품이 아울렛으로 넘어오면 뒤쪽 페이지에 섞이므로 전체를 훑는다
 
 BRANDS = [
     {
         "id": "247",
         "name": "247",
-        "pages": [f"{BASE}/Brands/247", f"{BASE}/247"],
-        # 아울렛 전체 페이지에서 이 브랜드 상품을 골라낼 때 쓰는 단서
+        "supplier_codes": ["TS_B191212171713"],
+        "extra_lists": [],
+        # 목록이 정말 이 브랜드 상품인지 확인할 때 쓰는 단서
         "keywords": ["247", "24/7"],
-        "url_hints": ["/Brands/247/", "/247/"],
+        "url_hints": ["/Brands/247/"],
     },
     {
         "id": "CUSTOMELLOW",
         "name": "커스텀멜로우",
-        "pages": [f"{BASE}/Brands/CUSTOMELLOW", f"{BASE}/CUSTOMELLOW"],
+        "supplier_codes": ["CW_B1"],
+        # 커스텀멜로우 브랜드관 안의 OUTLET 메뉴
+        "extra_lists": [f"{BASE}/Brands/CUSTOMELLOW/List/133020164494"],
         "keywords": ["CUSTOMELLOW", "커스텀멜로우"],
-        "url_hints": ["/Brands/CUSTOMELLOW/", "/CUSTOMELLOW/"],
+        "url_hints": ["/Brands/CUSTOMELLOW/"],
     },
 ]
 
-OUTLET_WORDS = ["outlet", "아울렛"]
-PRODUCT_RE = re.compile(r"/Product/([A-Z0-9]{8,20})", re.I)
+PRODUCT_RE = re.compile(r"/Product/([A-Z0-9]{8,24})", re.I)
+BADGE_WORDS = {"타임딜", "신상품", "베스트", "단독", "품절임박", "무료배송", "쿠폰"}
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36")
 
@@ -72,8 +78,6 @@ EXTRACT_JS = r"""
     out.push({
       href: a.href,
       text: (card.innerText || a.innerText || '').trim().slice(0, 400),
-      title: a.getAttribute('title') || '',
-      alt: img ? (img.getAttribute('alt') || '') : '',
       img: img ? (img.currentSrc || img.src || img.getAttribute('data-src') || '') : '',
     });
   }
@@ -81,167 +85,133 @@ EXTRACT_JS = r"""
 }
 """
 
-# 브랜드 페이지 안의 'OUTLET/아울렛' 메뉴 링크를 찾는 JS
-OUTLET_LINKS_JS = r"""
-() => [...document.querySelectorAll('a[href]')]
-  .filter(a => /outlet|아울렛/i.test((a.innerText || '') + ' ' + a.getAttribute('href')))
-  .map(a => a.href)
-"""
+FIRST_PRODUCT_JS = "(document.querySelector('a[href*=\"/Product/\"]') || {}).href || ''"
 
 
 # =========================
 # 2. 크롤링
 # =========================
-def is_outlet_text(text: str) -> bool:
-    low = (text or "").lower()
-    return any(w in low for w in OUTLET_WORDS)
-
-
-def parse_card(raw: dict) -> dict | None:
+def parse_card(raw: dict, brand: dict) -> dict | None:
     m = PRODUCT_RE.search(raw.get("href", ""))
     if not m:
         return None
     code = m.group(1).upper()
-    lines = [l.strip() for l in raw.get("text", "").split("\n") if l.strip()]
+    text = raw.get("text", "")
+    lines = [l.strip() for l in text.split("\n") if l.strip()]
 
-    # 이름: title/alt 우선, 없으면 숫자·할인율·브랜드명이 아닌 가장 긴 줄
-    name = raw.get("title") or raw.get("alt") or ""
-    if not name:
-        candidates = [l for l in lines if not re.fullmatch(r"[\d,.%원\s~]+", l) and len(l) > 3]
-        name = max(candidates, key=len) if candidates else code
+    # 이름: 배지·브랜드명·숫자가 아닌 줄 중 가장 긴 것
+    skip = BADGE_WORDS | {k.lower() for k in brand["keywords"]} | {brand["name"].lower()}
+    candidates = [l for l in lines
+                  if l.lower() not in skip
+                  and not re.fullmatch(r"[\d,.%원\s~()+]+", l)
+                  and len(l) > 2]
+    name = max(candidates, key=len) if candidates else code
 
-    prices = [int(p.replace(",", "")) for p in re.findall(r"(\d{1,3}(?:,\d{3})+)\s*원?", raw.get("text", ""))]
-    discount = re.search(r"(\d{1,2})\s*%", raw.get("text", ""))
+    prices = [int(p.replace(",", "")) for p in re.findall(r"(\d{1,3}(?:,\d{3})+)\s*원", text)]
+    discount = re.search(r"(\d{1,2})\s*%", text)
     return {
         "code": code,
-        "name": name.strip(),
+        "name": name,
         "url": f"{BASE}/Product/{code}",
         "href": raw.get("href", ""),
         "price": min(prices) if prices else None,
         "orig_price": max(prices) if len(prices) > 1 else None,
         "discount": int(discount.group(1)) if discount else None,
         "img": raw.get("img", ""),
-        "text": raw.get("text", ""),
+        "text": text,
     }
 
 
-def scroll_to_bottom(page, max_rounds=25):
-    """무한 스크롤 목록을 끝까지 내린다."""
-    last = 0
-    for _ in range(max_rounds):
-        page.mouse.wheel(0, 4000)
-        page.wait_for_timeout(1200)
-        count = page.evaluate("document.querySelectorAll('a[href*=\"/Product/\"]').length")
-        if count == last:
-            break
-        last = count
-
-
-def open_and_collect(page, url, debug, tag):
-    print(f"🔎 {url}")
-    try:
-        page.goto(url, wait_until="domcontentloaded", timeout=45000)
-        try:
-            page.wait_for_selector('a[href*="/Product/"]', timeout=20000)
-        except Exception:
-            pass
-        scroll_to_bottom(page)
-    except Exception as e:
-        print(f"  ⚠️ 페이지 열기 실패: {e}")
-        debug["pages"].append({"url": url, "error": str(e)})
-        return [], []
-
-    raws = page.evaluate(EXTRACT_JS)
-    outlet_links = page.evaluate(OUTLET_LINKS_JS)
-    items = [p for p in (parse_card(r) for r in raws) if p]
-    print(f"  → 상품 {len(items)}개, 아울렛 링크 {len(set(outlet_links))}개 (최종 주소: {page.url})")
-    debug["pages"].append({"url": url, "final_url": page.url, "products": len(items),
-                           "outlet_links": sorted(set(outlet_links))[:30]})
-    if os.getenv("DEBUG_SHOTS") == "1":
-        print("  링크:", sorted(set(outlet_links))[:15])
-        for it in items[:4]:
-            print("  예시:", it["href"], "|", it["text"].replace("\n", " / ")[:150])
-        os.makedirs(DEBUG_DIR, exist_ok=True)
-        page.screenshot(path=os.path.join(DEBUG_DIR, f"{tag}.png"), full_page=False)
-    return items, outlet_links
-
-
-def is_brand_url(url, brand) -> bool:
-    return any(h.lower() in url.lower() for h in brand["url_hints"])
-
-
 def matches_brand(item, brand) -> bool:
-    if is_brand_url(item["href"], brand):
+    if any(h.lower() in item["href"].lower() for h in brand["url_hints"]):
         return True
-    text = f'{item["name"]}\n{item["text"]}'
     for kw in brand["keywords"]:
-        # "247"처럼 숫자 키워드는 가격(124,700원 등)에 섞이지 않도록 단어 경계로 확인
-        if re.search(rf"(?<![\d,]){re.escape(kw)}(?![\d,])", text, re.I):
+        # "247"처럼 숫자 키워드는 가격(124,700원 등)에 섞이지 않도록 경계를 확인
+        if re.search(rf"(?<![\d,]){re.escape(kw)}(?![\d,])", item["text"], re.I):
             return True
     return False
 
 
+def wait_products(page):
+    try:
+        page.wait_for_selector('a[href*="/Product/"]', timeout=15000)
+    except Exception:
+        pass
+    page.wait_for_timeout(1500)
+
+
+def go_next_page(page, n) -> bool:
+    """페이지 번호 버튼(n)을 눌러 다음 목록으로 이동. 없으면 False."""
+    btn = page.locator("button, a").filter(has_text=re.compile(rf"^\s*{n}\s*$"))
+    if btn.count() == 0:
+        return False
+    before = page.evaluate(FIRST_PRODUCT_JS)
+    btn.last.scroll_into_view_if_needed()
+    btn.last.click()
+    for _ in range(20):
+        page.wait_for_timeout(500)
+        if page.evaluate(FIRST_PRODUCT_JS) != before:
+            page.wait_for_timeout(800)
+            return True
+    return False
+
+
+def collect_list(page, url, brand, verify, debug):
+    """목록 페이지(최대 MAX_PAGES)를 돌며 상품을 모은다."""
+    print(f"🔎 {url}")
+    items = []
+    try:
+        page.goto(url, wait_until="domcontentloaded", timeout=45000)
+        wait_products(page)
+        for n in range(1, MAX_PAGES + 1):
+            if n > 1 and not go_next_page(page, n):
+                print(f"  ⚠️ {n}페이지 버튼을 찾지 못해 여기서 멈춤")
+                break
+            got = [p for p in (parse_card(r, brand) for r in page.evaluate(EXTRACT_JS)) if p]
+            items.extend(got)
+            print(f"  → {n}페이지 상품 {len(got)}개")
+            if len(got) < 20:  # 마지막 페이지
+                break
+    except Exception as e:
+        print(f"  ⚠️ 페이지 열기 실패: {e}")
+        debug["pages"].append({"url": url, "error": str(e)})
+        return []
+
+    if verify and items:
+        ok = [it for it in items if matches_brand(it, brand)]
+        # 필터가 먹지 않아 다른 브랜드가 섞여 나오면 해당 목록은 버린다
+        if len(ok) < len(items) * 0.5:
+            print(f"  ⚠️ 브랜드 필터가 적용되지 않은 듯 ({len(ok)}/{len(items)}) → 이 목록은 건너뜀")
+            items = []
+        else:
+            items = ok
+
+    debug["pages"].append({"url": url, "final_url": page.url, "products": len(items)})
+    if DEBUG:
+        for it in items[:3]:
+            print(f"  예시: {it['code']} | {it['name']} | {it['price']} / {it['orig_price']} ({it['discount']}%)")
+    return items
+
+
 def collect_outlet_products():
     found = {}  # code -> item
-    debug = {"pages": [], "json_urls": []}
-
-    def add(item, brand, reason):
-        if item["code"] not in found:
-            found[item["code"]] = {**item, "brand": brand["id"], "brand_name": brand["name"], "reason": reason}
+    debug = {"pages": []}
 
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
         ctx = browser.new_context(user_agent=UA, locale="ko-KR", viewport={"width": 1400, "height": 1000})
         page = ctx.new_page()
-        # 상품 목록 API 주소를 나중에 참고할 수 있도록 기록
-        page.on("response", lambda r: debug["json_urls"].append(r.url)
-                if "json" in (r.headers.get("content-type") or "") and len(debug["json_urls"]) < 200 else None)
 
-        general_outlet_urls = set()
-        visited = {OUTLET_PAGE, f"{BASE}/View/Outlet"}
-
-        # (1) 코오롱몰 아울렛 전체 페이지 → 두 브랜드 상품만 골라내기
-        items, _ = open_and_collect(page, OUTLET_PAGE, debug, "outlet")
-        for it in items:
-            for b in BRANDS:
-                if matches_brand(it, b):
-                    add(it, b, "outlet-page")
-
-        # (2) 각 브랜드 페이지 → 'OUTLET' 메뉴를 찾아 들어가고, 상품명에 [Outlet]이 붙은 것도 수집
         for b in BRANDS:
-            brand_outlet_urls = set()
-            for url in b["pages"]:
-                items, links = open_and_collect(page, url, debug, f"{b['id']}-main")
-                for it in items:
-                    if is_outlet_text(it["name"]):
-                        add(it, b, "name-tag")
-                for l in links:
-                    if not l.startswith(BASE):
-                        continue
-                    # 브랜드 주소 안의 아울렛 메뉴만 그 브랜드 전용으로 본다.
-                    # 그 밖의 링크(/View/Outlet 등 전체 아울렛)는 브랜드 판별을 거쳐야 한다.
-                    if is_brand_url(l, b):
-                        brand_outlet_urls.add(l)
-                    else:
-                        general_outlet_urls.add(l)
-                if items:
-                    break  # 첫 번째로 열린 브랜드 주소만 쓰면 충분
-            for i, url in enumerate(sorted(brand_outlet_urls)[:5]):
-                items, _ = open_and_collect(page, url, debug, f"{b['id']}-outlet{i}")
-                for it in items:
-                    add(it, b, "brand-outlet-menu")
-
-        # (3) 전체 아울렛 성격의 다른 페이지들 → 브랜드 판별 후 수집
-        for i, url in enumerate(sorted(general_outlet_urls - visited)[:5]):
-            items, _ = open_and_collect(page, url, debug, f"general{i}")
-            for it in items:
-                for b in BRANDS:
-                    if matches_brand(it, b):
-                        add(it, b, "general-outlet")
+            lists = [(f"{OUTLET_CATEGORY}?supplierBrands={c}&sort=newProduct-desc", True)
+                     for c in b["supplier_codes"]]
+            lists += [(u + "?sort=newProduct-desc", False) for u in b["extra_lists"]]
+            for url, verify in lists:
+                for it in collect_list(page, url, b, verify, debug):
+                    found.setdefault(it["code"], {**it, "brand": b["id"], "brand_name": b["name"]})
 
         browser.close()
 
-    debug["json_urls"] = sorted(set(debug["json_urls"]))
     return list(found.values()), debug
 
 
@@ -311,8 +281,9 @@ def main():
     with open(os.path.join(DEBUG_DIR, "kolon_debug.json"), "w", encoding="utf-8") as f:
         json.dump({"items": items, **debug}, f, ensure_ascii=False, indent=2)
 
+    counts = {b["id"]: sum(1 for it in items if it["brand"] == b["id"]) for b in BRANDS}
     for b in BRANDS:
-        print(f"📦 {b['name']}: 아울렛 상품 {sum(1 for it in items if it['brand'] == b['id'])}개")
+        print(f"📦 {b['name']}: 아울렛 상품 {counts[b['id']]}개")
 
     if not items:
         # 사이트 구조가 바뀌었거나 접속이 막힌 경우 → 기존 기록을 지키고 실패로 종료
@@ -325,9 +296,8 @@ def main():
     if state is None:
         # 첫 실행: 지금 있는 상품을 기준으로 삼고, 시작 알림만 보낸다
         state = {"seen": {}}
-        new_items = []
-        counts = ", ".join(f"{b['name']} {sum(1 for it in items if it['brand'] == b['id'])}개" for b in BRANDS)
-        send_to_telegram(f"✅ <b>코오롱몰 아울렛 알림봇 시작</b>\n현재 아울렛 상품: {counts}\n"
+        summary = ", ".join(f"{b['name']} {counts[b['id']]}개" for b in BRANDS)
+        send_to_telegram(f"✅ <b>코오롱몰 아울렛 알림봇 시작</b>\n현재 아울렛 상품: {summary}\n"
                          f"이제부터 새로 올라오는 상품만 알려드릴게요.")
     else:
         new_items = [it for it in items if it["code"] not in state["seen"]]
