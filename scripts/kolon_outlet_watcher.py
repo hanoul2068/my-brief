@@ -305,9 +305,9 @@ def main():
         if new_items:
             notify_new(new_items)
 
+    # 기록은 새 상품이 있을 때만 바뀌므로, 아무 일 없는 시간에는 커밋도 생기지 않는다
     for it in items:
         state["seen"].setdefault(it["code"], {"name": it["name"], "brand": it["brand"], "first_seen": now})
-    state["last_run"] = now
 
     if DRY_RUN:
         print("(DRY_RUN) 상태 파일은 저장하지 않습니다.")
