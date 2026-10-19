@@ -237,8 +237,12 @@ def save_state(state):
 def find_bot_chat_id():
     """봇에게 최근 말을 건(START 포함) 대화방 번호를 찾는다. 텔레그램은 최근 24시간치만 알려준다."""
     try:
+        me = requests.get(f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/getMe", timeout=20).json()
+        print(f"  ℹ️ 이 토큰의 봇: @{(me.get('result') or {}).get('username')}")
         res = requests.get(f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/getUpdates", timeout=20).json()
-    except Exception:
+        print(f"  ℹ️ 봇이 받은 메시지 수: {len(res.get('result', []))} (ok={res.get('ok')}, {res.get('description', '')})")
+    except Exception as e:
+        print(f"  ⚠️ 봇 정보 조회 실패: {e}")
         return None
     for upd in reversed(res.get("result", [])):
         msg = upd.get("message") or upd.get("my_chat_member") or {}
