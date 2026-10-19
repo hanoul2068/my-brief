@@ -1,53 +1,59 @@
-"""임시 조사용: 코오롱몰 페이지 구조(메뉴, 필터, API)를 로그로 출력"""
-import json
+"""임시 조사용: 아울렛 카테고리의 브랜드 필터 동작 확인"""
 from playwright.sync_api import sync_playwright
 
 BASE = "https://www.kolonmall.com"
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36")
-
-LINKS_JS = r"""
-(pat) => [...document.querySelectorAll('a[href]')]
-  .filter(a => new RegExp(pat, 'i').test(a.getAttribute('href')))
-  .map(a => (a.innerText || '').trim().replace(/\s+/g, ' ').slice(0, 40) + ' => ' + a.getAttribute('href'))
-"""
+CAT = f"{BASE}/Category/List/133010030000"
 
 with sync_playwright() as p:
     b = p.chromium.launch()
     page = b.new_context(user_agent=UA, locale="ko-KR", viewport={"width": 1400, "height": 1000}).new_page()
-    api = []
-    page.on("request", lambda r: api.append(f"{r.method} {r.url} {r.post_data or ''}"[:400])
-            if r.resource_type in ("xhr", "fetch") else None)
+    gql = []
+    page.on("response", lambda r: gql.append(r) if "getCategoryFilterBrand" in r.url else None)
+    page.goto(CAT, wait_until="networkidle", timeout=60000)
 
-    for url, pat in [
-        (f"{BASE}/Brands/247", r"/Brands/247/(List|Special|Outlet)|outlet|Sale"),
-        (f"{BASE}/Category/List/133010030000", r"Category|brand|Brand|page="),
-        (f"{BASE}/Brands/CUSTOMELLOW/List/133020164494", r"page=|List/1330201644"),
-    ]:
-        api.clear()
-        print("\n========", url)
-        page.goto(url, wait_until="networkidle", timeout=60000)
-        print("최종:", page.url)
-        for l in sorted(set(page.evaluate(LINKS_JS, pat)))[:80]:
-            print("  L", l)
-        # 브랜드 필터 버튼/체크박스 텍스트
+    for r in gql:
+        body = r.text()
+        print("FILTER_BRAND len", len(body))
+        for kw in ["247", "24/7", "CUSTOMELLOW", "커스텀멜로우"]:
+            i = body.find(kw)
+            print(f"  [{kw}]", body[max(0, i - 200):i + 200] if i >= 0 else "-")
+
+    # 추천브랜드의 '커스텀멜로우' 클릭 → URL 변화
+    try:
+        page.get_by_text("커스텀멜로우", exact=True).first.click()
+        page.wait_for_timeout(4000)
+        print("CLICK 커스텀멜로우 →", page.url)
+        print("  상품수", page.evaluate("document.querySelectorAll('a[href*=\"/Product/\"]').length"))
+    except Exception as e:
+        print("click fail", e)
+
+    # '브랜드' 필터 열고 247 찾기
+    page.goto(CAT, wait_until="networkidle")
+    try:
+        page.get_by_text("브랜드", exact=True).last.click()
+        page.wait_for_timeout(2500)
         txt = page.evaluate("document.body.innerText")
-        for kw in ["247", "커스텀멜로우", "브랜드", "전체", "개의 상품", "총"]:
-            i = txt.find(kw)
-            print(f"  T[{kw}]", txt[max(0, i - 60):i + 80].replace("\n", " / ") if i >= 0 else "-")
-        for a in api:
-            if "kolonmall" in a and not any(x in a for x in (".js", ".css", "log", "analytics")):
-                print("  API", a)
-
-    # 아울렛 카테고리에서 스크롤/더보기 시 주소·요청 변화 확인
-    api.clear()
-    page.goto(f"{BASE}/Category/List/133010030000", wait_until="networkidle")
-    for _ in range(6):
-        page.mouse.wheel(0, 5000)
-        page.wait_for_timeout(1500)
-    print("\n스크롤 후 상품 링크 수:", page.evaluate("document.querySelectorAll('a[href*=\"/Product/\"]').length"), page.url)
-    for a in api:
-        if "kolonmall" in a:
-            print("  API2", a)
-    print("페이지네이션:", page.evaluate(r"""[...document.querySelectorAll('button,a')].filter(e=>/^(\d+|다음|더보기|next)$/i.test((e.innerText||'').trim())).map(e=>e.tagName+':'+e.innerText.trim()+':'+(e.getAttribute('href')||'')).slice(0,20)"""))
+        for kw in ["24/7", "247", "시리즈"]:
+            import re
+            for m in list(re.finditer(re.escape(kw), txt))[:5]:
+                print(f"  BRANDLIST[{kw}]", txt[max(0, m.start() - 40):m.start() + 40].replace("\n", " / "))
+        loc = page.get_by_text(re.compile(r"^24/7"), exact=False)
+        print("  24/7 후보 수", loc.count())
+        if loc.count():
+            loc.first.click()
+            page.wait_for_timeout(1500)
+            for t in ["적용", "확인", "상품보기", "검색"]:
+                btn = page.get_by_text(re.compile(t))
+                if btn.count():
+                    btn.last.click()
+                    break
+            page.wait_for_timeout(4000)
+            print("CLICK 24/7 →", page.url)
+            print("  상품수", page.evaluate("document.querySelectorAll('a[href*=\"/Product/\"]').length"))
+            for l in page.evaluate("[...document.querySelectorAll('a[href*=\"/Product/\"]')].slice(0,5).map(a=>a.href+' | '+(a.closest('li')||a).innerText.replace(/\\s+/g,' ').slice(0,120))"):
+                print("   ", l)
+    except Exception as e:
+        print("brand filter fail", e)
     b.close()
