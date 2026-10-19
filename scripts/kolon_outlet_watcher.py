@@ -30,6 +30,7 @@ TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
 TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 DRY_RUN = os.getenv("DRY_RUN") == "1"  # 1이면 텔레그램 전송/상태 저장 안 함 (테스트용)
 DEBUG = os.getenv("DEBUG_SHOTS") == "1"
+MANUAL = os.getenv("MANUAL_RUN") == "1"  # 직접 실행(Run workflow)이면 새 상품이 없어도 결과를 알려준다
 
 BASE = "https://www.kolonmall.com"
 # 코오롱몰 '아울렛' 카테고리. supplierBrands 로 브랜드를 걸러 볼 수 있다.
@@ -304,6 +305,9 @@ def main():
         print(f"🆕 새 상품 {len(new_items)}개")
         if new_items:
             notify_new(new_items)
+        elif MANUAL:
+            summary = ", ".join(f"{b['name']} {counts[b['id']]}개" for b in BRANDS)
+            send_to_telegram(f"🔎 <b>코오롱몰 아울렛 확인 완료</b>\n새 상품은 없어요.\n현재 아울렛 상품: {summary}")
 
     # 기록은 새 상품이 있을 때만 바뀌므로, 아무 일 없는 시간에는 커밋도 생기지 않는다
     for it in items:
