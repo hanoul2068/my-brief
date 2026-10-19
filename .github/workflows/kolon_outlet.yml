@@ -44,7 +44,7 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add data/kolon_outlet_seen.json
+          git add data/kolon_outlet_seen.json data/kolon_outlet_current.json 2>/dev/null || git add data/kolon_outlet_seen.json
           git commit -m "Kolon outlet seen list update" || exit 0
           git pull --rebase origin ${{ github.ref_name }}
           git push

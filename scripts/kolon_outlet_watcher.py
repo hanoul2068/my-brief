@@ -24,6 +24,7 @@ from playwright.sync_api import sync_playwright
 KST = tz.gettz("Asia/Seoul")
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 STATE_FILE = os.path.join(ROOT, "data", "kolon_outlet_seen.json")
+CATALOG_FILE = os.path.join(ROOT, "data", "kolon_outlet_current.json")
 DEBUG_DIR = os.path.join(ROOT, "debug")
 
 # 아울렛 전용 봇이 있으면 그 봇으로, 없으면 뉴스 브리핑 봇으로 보낸다
@@ -349,6 +350,12 @@ def main():
         print("(DRY_RUN) 상태 파일은 저장하지 않습니다.")
     else:
         save_state(state)
+        if MANUAL:
+            # 직접 실행했을 때만 현재 아울렛 상품 목록(가격 포함)을 남긴다 (매시간 커밋되지 않도록)
+            catalog = [{k: it[k] for k in ("brand", "code", "name", "price", "orig_price", "discount", "url")}
+                       for it in items]
+            with open(CATALOG_FILE, "w", encoding="utf-8") as f:
+                json.dump({"updated": now, "items": catalog}, f, ensure_ascii=False, indent=1)
 
 
 if __name__ == "__main__":
