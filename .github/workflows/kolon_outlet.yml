@@ -35,6 +35,8 @@ jobs:
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          KOLON_TELEGRAM_TOKEN: ${{ secrets.KOLON_TELEGRAM_TOKEN }}
+          KOLON_TELEGRAM_CHAT_ID: ${{ secrets.KOLON_TELEGRAM_CHAT_ID }}
           MANUAL_RUN: ${{ github.event_name == 'workflow_dispatch' && '1' || '0' }}
         run: python scripts/kolon_outlet_watcher.py
 

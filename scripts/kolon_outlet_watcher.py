@@ -26,8 +26,9 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 STATE_FILE = os.path.join(ROOT, "data", "kolon_outlet_seen.json")
 DEBUG_DIR = os.path.join(ROOT, "debug")
 
-TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
-TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
+# 아울렛 전용 봇이 있으면 그 봇으로, 없으면 뉴스 브리핑 봇으로 보낸다
+TELEGRAM_TOKEN = os.getenv("KOLON_TELEGRAM_TOKEN") or os.getenv("TELEGRAM_TOKEN")
+TELEGRAM_CHAT_ID = os.getenv("KOLON_TELEGRAM_CHAT_ID") or os.getenv("TELEGRAM_CHAT_ID")
 DRY_RUN = os.getenv("DRY_RUN") == "1"  # 1이면 텔레그램 전송/상태 저장 안 함 (테스트용)
 DEBUG = os.getenv("DEBUG_SHOTS") == "1"
 MANUAL = os.getenv("MANUAL_RUN") == "1"  # 직접 실행(Run workflow)이면 새 상품이 없어도 결과를 알려준다
