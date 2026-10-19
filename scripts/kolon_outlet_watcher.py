@@ -158,13 +158,20 @@ def open_and_collect(page, url, debug, tag):
     debug["pages"].append({"url": url, "final_url": page.url, "products": len(items),
                            "outlet_links": sorted(set(outlet_links))[:30]})
     if os.getenv("DEBUG_SHOTS") == "1":
+        print("  링크:", sorted(set(outlet_links))[:15])
+        for it in items[:4]:
+            print("  예시:", it["href"], "|", it["text"].replace("\n", " / ")[:150])
         os.makedirs(DEBUG_DIR, exist_ok=True)
         page.screenshot(path=os.path.join(DEBUG_DIR, f"{tag}.png"), full_page=False)
     return items, outlet_links
 
 
+def is_brand_url(url, brand) -> bool:
+    return any(h.lower() in url.lower() for h in brand["url_hints"])
+
+
 def matches_brand(item, brand) -> bool:
-    if any(h.lower() in item["href"].lower() for h in brand["url_hints"]):
+    if is_brand_url(item["href"], brand):
         return True
     text = f'{item["name"]}\n{item["text"]}'
     for kw in brand["keywords"]:
@@ -190,6 +197,9 @@ def collect_outlet_products():
         page.on("response", lambda r: debug["json_urls"].append(r.url)
                 if "json" in (r.headers.get("content-type") or "") and len(debug["json_urls"]) < 200 else None)
 
+        general_outlet_urls = set()
+        visited = {OUTLET_PAGE, f"{BASE}/View/Outlet"}
+
         # (1) 코오롱몰 아울렛 전체 페이지 → 두 브랜드 상품만 골라내기
         items, _ = open_and_collect(page, OUTLET_PAGE, debug, "outlet")
         for it in items:
@@ -199,19 +209,35 @@ def collect_outlet_products():
 
         # (2) 각 브랜드 페이지 → 'OUTLET' 메뉴를 찾아 들어가고, 상품명에 [Outlet]이 붙은 것도 수집
         for b in BRANDS:
-            outlet_urls = set()
+            brand_outlet_urls = set()
             for url in b["pages"]:
                 items, links = open_and_collect(page, url, debug, f"{b['id']}-main")
                 for it in items:
                     if is_outlet_text(it["name"]):
                         add(it, b, "name-tag")
-                outlet_urls.update(l for l in links if l.startswith(BASE) and l.rstrip("/") != OUTLET_PAGE)
+                for l in links:
+                    if not l.startswith(BASE):
+                        continue
+                    # 브랜드 주소 안의 아울렛 메뉴만 그 브랜드 전용으로 본다.
+                    # 그 밖의 링크(/View/Outlet 등 전체 아울렛)는 브랜드 판별을 거쳐야 한다.
+                    if is_brand_url(l, b):
+                        brand_outlet_urls.add(l)
+                    else:
+                        general_outlet_urls.add(l)
                 if items:
                     break  # 첫 번째로 열린 브랜드 주소만 쓰면 충분
-            for i, url in enumerate(sorted(outlet_urls)[:5]):
+            for i, url in enumerate(sorted(brand_outlet_urls)[:5]):
                 items, _ = open_and_collect(page, url, debug, f"{b['id']}-outlet{i}")
                 for it in items:
                     add(it, b, "brand-outlet-menu")
+
+        # (3) 전체 아울렛 성격의 다른 페이지들 → 브랜드 판별 후 수집
+        for i, url in enumerate(sorted(general_outlet_urls - visited)[:5]):
+            items, _ = open_and_collect(page, url, debug, f"general{i}")
+            for it in items:
+                for b in BRANDS:
+                    if matches_brand(it, b):
+                        add(it, b, "general-outlet")
 
         browser.close()
 
