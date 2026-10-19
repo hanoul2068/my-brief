@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "17 * * * *"   # 매시 17분 (KST 기준 매시간)
   workflow_dispatch:
+    inputs:
+      send_category:
+        description: "이 종류 상품을 하나씩 텔레그램으로 보내기 (예: 코트, 다운, 바지, 니트, 셔츠, 신발). 비워두면 평소처럼 확인만"
+        required: false
+        default: ""
 
 permissions:
   contents: write
@@ -37,6 +42,7 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           KOLON_TELEGRAM_TOKEN: ${{ secrets.KOLON_TELEGRAM_TOKEN }}
           KOLON_TELEGRAM_CHAT_ID: ${{ secrets.KOLON_TELEGRAM_CHAT_ID }}
+          SEND_CATEGORY: ${{ github.event.inputs.send_category }}
           MANUAL_RUN: ${{ github.event_name == 'workflow_dispatch' && '1' || '0' }}
         run: python scripts/kolon_outlet_watcher.py
 

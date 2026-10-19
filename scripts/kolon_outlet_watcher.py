@@ -34,6 +34,16 @@ TELEGRAM_CHAT_ID = (os.getenv("KOLON_TELEGRAM_CHAT_ID") or os.getenv("TELEGRAM_C
 DRY_RUN = os.getenv("DRY_RUN") == "1"  # 1이면 텔레그램 전송/상태 저장 안 함 (테스트용)
 DEBUG = os.getenv("DEBUG_SHOTS") == "1"
 MANUAL = os.getenv("MANUAL_RUN") == "1"  # 직접 실행(Run workflow)이면 새 상품이 없어도 결과를 알려준다
+SEND_CATEGORY = (os.getenv("SEND_CATEGORY") or "").strip()  # 예: "코트" → 그 종류 상품을 하나씩 전송
+
+# 상품명으로 종류를 나누는 규칙 (위에서부터 먼저 맞는 것)
+CATEGORY_RULES = [
+    ("삭스", "양말"), ("볼캡|버킷햇|헤드워머", "모자"), ("백팩|크로스백|토트백|지갑", "가방"),
+    ("스니커즈|부츠|샌들", "신발"), ("벨트|타이|팔찌|키링", "액세서리"),
+    ("다운|패딩", "다운"), ("코트", "코트"), ("자켓|블루종|베스트|아노락", "자켓"),
+    ("스웨터|가디건", "니트"), ("진$|팬츠", "바지"),
+    ("티셔츠|스웨트셔츠|후드|스웨트", "티셔츠"), ("셔츠", "셔츠"),
+]
 
 BASE = "https://www.kolonmall.com"
 # 코오롱몰 '아울렛' 카테고리. supplierBrands 로 브랜드를 걸러 볼 수 있다.
@@ -253,14 +263,14 @@ def find_bot_chat_id():
     return None
 
 
-def send_to_telegram(text):
+def send_to_telegram(text, preview=False):
     global TELEGRAM_CHAT_ID
     if DRY_RUN or not TELEGRAM_TOKEN:
         print("[텔레그램 미전송]\n" + text)
         return
     url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
     payload = {"chat_id": TELEGRAM_CHAT_ID, "text": text, "parse_mode": "HTML",
-               "disable_web_page_preview": True}
+               "disable_web_page_preview": not preview}
     try:
         res = requests.post(url, json=payload, timeout=20)
         if res.status_code == 400 and "chat not found" in res.text:
@@ -309,6 +319,27 @@ def notify_new(new_items):
         time.sleep(1)
 
 
+def category_of(name):
+    for pattern, cat in CATEGORY_RULES:
+        if re.search(pattern, name):
+            return cat
+    return "기타"
+
+
+def send_category(items, category):
+    """한 종류의 상품을 한 개씩 보낸다. 링크 미리보기가 켜져 있어 사진도 같이 보인다."""
+    picked = sorted((it for it in items if category_of(it["name"]) == category), key=lambda it: it["price"] or 0)
+    send_to_telegram(f"🧥 <b>{brand_names(picked)} 아울렛 {category} {len(picked)}개</b> (가격 낮은 순)")
+    for it in picked:
+        send_to_telegram(format_item(it), preview=True)
+        time.sleep(1.2)  # 텔레그램 전송 제한(초당 1건 정도)에 맞춤
+
+
+def brand_names(picked):
+    names = [b["name"] for b in BRANDS if any(it["brand"] == b["id"] for it in picked)]
+    return "·".join(names) or "코오롱몰"
+
+
 def main():
     items, debug = collect_outlet_products()
     os.makedirs(DEBUG_DIR, exist_ok=True)
@@ -323,6 +354,9 @@ def main():
         # 사이트 구조가 바뀌었거나 접속이 막힌 경우 → 기존 기록을 지키고 실패로 종료
         print("❌ 아울렛 상품을 하나도 찾지 못했습니다. 사이트 구조를 확인해야 합니다.")
         sys.exit(1)
+
+    if SEND_CATEGORY:
+        send_category(items, SEND_CATEGORY)
 
     state = load_state()
     now = datetime.now(KST).isoformat(timespec="seconds")
