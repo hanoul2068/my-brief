@@ -1,0 +1,171 @@
+{
+  "generated_at": "2026-10-20T09:15:54.879326+09:00",
+  "categories": [
+    {
+      "id": "all",
+      "name": "전체"
+    },
+    {
+      "id": "headline",
+      "name": "🔥 주요소식"
+    },
+    {
+      "id": "politics",
+      "name": "⚖️ 정치"
+    },
+    {
+      "id": "economy",
+      "name": "💰 경제/IT"
+    },
+    {
+      "id": "society",
+      "name": "👥 사회/생활"
+    },
+    {
+      "id": "science",
+      "name": "🧪 과학/기술"
+    },
+    {
+      "id": "policy",
+      "name": "📢 정부/정책"
+    }
+  ],
+  "items": [
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "구글지도, 3개월째 1천만명 돌파…국내 지도앱 '4강 구도'",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261020091350tMd",
+      "published_at": "2026-10-20 09:15",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "우크라 \"미 위성통신·정보공유 제한 여전…타협 압박 의도\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261020091322IAM",
+      "published_at": "2026-10-20 09:15",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "코스피, 0.60% 내린 5,733.57 출발…코스닥도 0.44%↓",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261020091212vVX",
+      "published_at": "2026-10-20 09:15",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "'23명 사망' 아리셀 화재 참사, 오늘 대법 선고",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20261020090759qZk",
+      "published_at": "2026-10-20 09:15",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "출렁이는 코스피에 국민연금 반도체·조선·방산 지분율↓",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261020090611C3k",
+      "published_at": "2026-10-20 09:15",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "건보 소득정산 확대…394만 세대 추가 납부·1.5조 재정 확충 전망",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261020090056r6t",
+      "published_at": "2026-10-20 09:15",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "이란대통령 앞 히잡 거부했던 CNN 간판앵커 '아만푸어' 퇴임키로",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261020085934odg",
+      "published_at": "2026-10-20 09:15",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[정치쇼] 신장식 \"구조적 다수? 그렇게 가기로 했다면 조국혁신당에 서운해하지 말라\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008805495&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-20 09:15",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "북러 교육장관 회담…사범대학 간 러시아어 교육시설 설립 추진",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008805463&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-20 09:15",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "김정은, 경공업 부문 전시회 참관…\"도시와 농촌 차이 청산\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008805454&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-20 09:15",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "미국 전쟁부 \"전작권 전환, 한미 상호 합의 조건 충족돼야\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008805447&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-20 09:15",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "친일파 글씨 '셀프 전시'…유홍준 \"중대한 불찰\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008805265&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-20 09:15",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "조문하며 '응급 전용' 주차…\"변명 여지없는 잘못\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008805254&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-20 09:15",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "거듭 사과했는데… 이번엔 부승찬이 '재정 쭉쭉' 논란",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008805239&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-20 09:15",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "브런슨 발언에 \"동의 못 해\"…\"반드시 조기 환수\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008805237&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-20 09:15",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "김여정 \"남부 국경 살벌…대남 확성기 재개 검토\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008805236&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-20 09:15",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "\"대한민국은 남쪽 철책선부터\"…\"동의 못 해\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008805153&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-20 09:15",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    }
+  ]
+}
