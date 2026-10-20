@@ -1,0 +1,155 @@
+{
+  "generated_at": "2026-10-21T08:48:16.605832+09:00",
+  "categories": [
+    {
+      "id": "all",
+      "name": "전체"
+    },
+    {
+      "id": "headline",
+      "name": "🔥 주요소식"
+    },
+    {
+      "id": "politics",
+      "name": "⚖️ 정치"
+    },
+    {
+      "id": "economy",
+      "name": "💰 경제/IT"
+    },
+    {
+      "id": "society",
+      "name": "👥 사회/생활"
+    },
+    {
+      "id": "science",
+      "name": "🧪 과학/기술"
+    },
+    {
+      "id": "policy",
+      "name": "📢 정부/정책"
+    }
+  ],
+  "items": [
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "하루새 유조선 3척 기뢰 충돌…트럼프는 우크라 압박",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20261021084200eFN",
+      "published_at": "2026-10-21 08:47",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "샘 올트먼에 성폭력 소송 건 여동생…법원, 의학 감정 불응에 기각",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261021083758WKr",
+      "published_at": "2026-10-21 08:47",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "명절 농·축산물 가격 상승에 9월 생산자물가 0.2%↑",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202610210836352HT",
+      "published_at": "2026-10-21 08:47",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "WSJ \"머스크가 '우크라 스타실드 속도제한' 지시…트럼프와 협의설도\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261021081524MDj",
+      "published_at": "2026-10-21 08:47",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "\"北, 中 쌀 수입 올해 첫 300만 달러 돌파…교역량 증가세\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261021073758w6f",
+      "published_at": "2026-10-21 08:48",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[단독] 실탄 2만 발 유출됐는데…전부 경징계",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008807226&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-21 08:48",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "\"대북 확성기도 배제 안 해\"…접경 지역 가보니",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008807139&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-21 08:48",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "'매일 사과' 민주당…\"잇따른 실언에 국민 분노\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008807141&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-21 08:48",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "국무회의 첫 참석…\"청와대·여당 수사부터\" 반발",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008807127&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-21 08:48",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "우크라이나 공관원 절반 철수…\"전향적 조치 없어\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008807121&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-21 08:48",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "\"3기 신도시 공급에 부동산 성패\"…'전격전' 주문",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008807119&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-21 08:48",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "중수청장 첫 국무회의…국힘 \"청와대·여당 수사부터\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008807043&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-21 08:48",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "\"3기 신도시 공급, 부동산 정책 성패 좌우\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008807039&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-21 08:48",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "한성숙 총리 \"정부 평가 기준은 국민 체감…자화자찬 아닌지 점검\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008806921&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-21 08:48",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "외교부, 일본 대규모 지진 대비 모의 훈련…재외국민 보호 점검",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008806920&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-21 08:48",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    }
+  ]
+}
