@@ -1,0 +1,163 @@
+{
+  "generated_at": "2026-10-23T08:57:42.606186+09:00",
+  "categories": [
+    {
+      "id": "all",
+      "name": "전체"
+    },
+    {
+      "id": "headline",
+      "name": "🔥 주요소식"
+    },
+    {
+      "id": "politics",
+      "name": "⚖️ 정치"
+    },
+    {
+      "id": "economy",
+      "name": "💰 경제/IT"
+    },
+    {
+      "id": "society",
+      "name": "👥 사회/생활"
+    },
+    {
+      "id": "science",
+      "name": "🧪 과학/기술"
+    },
+    {
+      "id": "policy",
+      "name": "📢 정부/정책"
+    }
+  ],
+  "items": [
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "'반이민 시위' 남아공서 외국인 1명 사망…50명이 집단폭행",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261023085624JJ6",
+      "published_at": "2026-10-23 08:57",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "키움증권 \"솔리다임 상장검토 중단, 반도체 투심 회복에 기여할 듯\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261023085358Zic",
+      "published_at": "2026-10-23 08:57",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "'75분 출전' 오현규, 슈팅 1개에 그쳐…조규성도 득점 불발",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261023085011wGG",
+      "published_at": "2026-10-23 08:57",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "아프리카 휩쓴 에볼라…\"美 입국자 증명 요구\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20261023084853ILy",
+      "published_at": "2026-10-23 08:57",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "'칵테일 사랑' 마로니에 출신 김정은, 결혼 22년 만에 파경",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261023084215oUM",
+      "published_at": "2026-10-23 08:57",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "김민석 \"오세훈 항소심 '유죄'에 무게…서울시장선거 마음의 준비\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202610230834425VN",
+      "published_at": "2026-10-23 08:57",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[단독] 공용차로 출퇴근한 이사장…취재에 \"규정 고쳐야\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008811205&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-23 08:57",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "이 대통령 \"중수청 지휘·감독 포기는 탄핵 사유\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008811187&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-23 08:57",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "\"새 대응 수단·확성기 대기\"…안보리 의장에 서한 발송",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008811195&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-23 08:57",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[한반도포커스] 온라인엔 사망설 '시끌'…시진핑은 김정은에 '답전'",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008811101&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-23 08:57",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[한반도포커스] 북 \"새 대응 수단·확성기 대기\"…안보리 의장에 서한",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008811100&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-23 08:57",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "\"국무회의 배석, 공소취소 종용\"…\"언급 안 해\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008810889&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-23 08:57",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "'이진숙 제척' 놓고…\"선수가 심판 안 돼\" vs \"입틀막 사과\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008810897&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-23 08:57",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[단독] 공용차를 본인 출퇴근용으로…이사장 '황당 해명'",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008810892&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-23 08:57",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "미8군 사령관 \"한반도 밖 위협도 대비\"…중국 겨냥?",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008810883&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-23 08:57",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "문체부 \"김혜경 여사 위한 별도 예산 없다\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008810978&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-23 08:57",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    }
+  ]
+}
