@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T08:50:16.203395+09:00",
+  "generated_at": "2026-10-24T10:12:18.694180+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,17 +34,81 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "'한동훈 수사 무마' 의혹 고발인 조사…광수대 수사",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20261024084811lKK",
-      "published_at": "2026-10-24 08:49",
+      "title": "美, '푸에블로호 납치' 5천300억원 배상요구 판결문 北에 전달",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261024100415ZCh",
+      "published_at": "2026-10-24 10:11",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "한전, 사채한도 초과 위기…다시 고개드는 요금 인상론",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261024084152WSP",
-      "published_at": "2026-10-24 08:49",
+      "title": "한전, 내년 말 사채 한도 19조원 초과 위기…'전기료 인상' 재점화",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261024100307qrk",
+      "published_at": "2026-10-24 10:11",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "[현장의재구성] \"우리가 알던 프랑스 맞아?\"…대규모 폭동에 긴장감 최고조｜시위 금지령도 안 통한다…트럼프 \"이민자 탓\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH202610231922542f4",
+      "published_at": "2026-10-24 10:11",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "'YS 최측근' 최형우 전 내무부 장관 별세",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261024095227Jli",
+      "published_at": "2026-10-24 10:11",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "\"앉아 있어서 못 봐\"…노루 사냥 엽총에 밭일하던 80대 다쳐",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261024094701J1J",
+      "published_at": "2026-10-24 10:11",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "'독감 백신 서두르세요'…고령층은 코로나19·폐렴구균 백신도 권고",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261024094635yJm",
+      "published_at": "2026-10-24 10:12",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "기름값 23주 연속 하락…휘발유·경유 1,800원대",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261024093806aXx",
+      "published_at": "2026-10-24 10:12",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "순환거래로 48억대 세금계산서 허위 발급…농업법인 대표 집행유예",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261024093216ZKF",
+      "published_at": "2026-10-24 10:12",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[사실은] '최장수 당 대표' 된 장동혁, 이전과 비교하면?",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812592&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-24 10:12",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "김정은, 중대장대회 지도…\"최강중대 육성으로 강군건설\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812918&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-24 10:12",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -52,7 +116,7 @@
       "source": "정치 (SBS)",
       "title": "신천지 의혹에 \"공개하라\"…\"좋아, 공개해\" 충돌",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812751&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-10-24 08:50",
+      "published_at": "2026-10-24 10:12",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -60,7 +124,7 @@
       "source": "정치 (SBS)",
       "title": "국감 등장한 AI 안경…\"금속탐지기도 못 잡아\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812752&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-10-24 08:50",
+      "published_at": "2026-10-24 10:12",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -68,7 +132,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령 지지율 40%…'조희대 탄핵' 찬반 팽팽",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812750&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-10-24 08:50",
+      "published_at": "2026-10-24 10:12",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -76,7 +140,7 @@
       "source": "정치 (SBS)",
       "title": "폭로, 수사, 법정 공방…'항소심 무죄'까지",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812775&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-10-24 08:50",
+      "published_at": "2026-10-24 10:12",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -84,7 +148,7 @@
       "source": "정치 (SBS)",
       "title": "\"강력범죄에 전쟁 각오\"…'가해자 격리시설' 검토",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812740&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-10-24 08:50",
+      "published_at": "2026-10-24 10:12",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -92,7 +156,7 @@
       "source": "정치 (SBS)",
       "title": "\"북, 24년부터 지뢰 96만 발 매설\"…군사회담 제의",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812739&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-10-24 08:50",
+      "published_at": "2026-10-24 10:12",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -100,7 +164,7 @@
       "source": "정치 (SBS)",
       "title": "\"맞혀보세요\" 과기부총리도 오답…감쪽같이 속는다",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812536&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-10-24 08:50",
+      "published_at": "2026-10-24 10:12",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -108,23 +172,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령 \"전쟁 선포한다는 각오로\"…칼 뽑았다",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812530&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-10-24 08:50",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "\"북, 24년부터 지뢰 96만 개 매설\"…군사회담 제의",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812528&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-10-24 08:50",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "'명태균 입'이 불러온 결과?…'2심 무죄' 나온 이유 (풀영상)",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812588&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-10-24 08:50",
+      "published_at": "2026-10-24 10:12",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
