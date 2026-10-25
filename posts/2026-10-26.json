@@ -1,0 +1,163 @@
+{
+  "generated_at": "2026-10-26T08:10:31.225418+09:00",
+  "categories": [
+    {
+      "id": "all",
+      "name": "전체"
+    },
+    {
+      "id": "headline",
+      "name": "🔥 주요소식"
+    },
+    {
+      "id": "politics",
+      "name": "⚖️ 정치"
+    },
+    {
+      "id": "economy",
+      "name": "💰 경제/IT"
+    },
+    {
+      "id": "society",
+      "name": "👥 사회/생활"
+    },
+    {
+      "id": "science",
+      "name": "🧪 과학/기술"
+    },
+    {
+      "id": "policy",
+      "name": "📢 정부/정책"
+    }
+  ],
+  "items": [
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "中 노년부양비, 유소년부양비 첫 추월…저출산·고령화 가속",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261026080915PNf",
+      "published_at": "2026-10-26 08:10",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "[날씨] 태풍 약화, 낮까지 일부 비…해상 높은 물결 주의",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20261026080629Dbe",
+      "published_at": "2026-10-26 08:10",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "中 5중전회 오늘 개막…대규모 간부 숙청·인사 개편 주목",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261026080307akb",
+      "published_at": "2026-10-26 08:10",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "알래스카 '동명이인 투표' 소송 논란…미 법무 \"불복 의도 아냐\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261026075827K2i",
+      "published_at": "2026-10-26 08:10",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "WSJ \"한화오션, 트럼프 美조선업 부흥의 핵심 파트너\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261026075154eyH",
+      "published_at": "2026-10-26 08:10",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "상하위 20% 집값 격차 300배 육박…다주택 등 포함하면 더 확대",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261026073222a6s",
+      "published_at": "2026-10-26 08:10",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "북한, 유엔 안보리 의장에 서한 맞불…\"지뢰 폭발, 음흉한 방해 책동\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008814330&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-26 08:10",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "\"피로 맺어진 친선\" 강조…버스 공장 찾아 '관심'",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008814229&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-26 08:10",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "사망설 돌더니 '이례적'…중국 버스공장 간 김정은 속내?",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008814035&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-26 08:10",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "이 대통령 \"경상수지 흑자, 독·일 합친 규모 넘어서…기회의 물결\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008814009&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-26 08:10",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "'가상자산 과세' 재유예 무게…당정 협의 거쳐 조만간 결론",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813925&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-26 08:10",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "청와대, 이 대통령 연설문집 발간…취임 후 1년 연설·메시지 수록",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813901&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-26 08:10",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "북한 매체, 김정은 단둥 방문 소식 대대적 보도…북중 혈맹 부각",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813896&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-26 08:10",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "김민석, '김영삼 오른팔' 고 최형우 빈소 조문…\"여야를 넘어 성찰\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813855&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-26 08:10",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "국힘 주진우 \"총선 때 결과값 다른 투표소 41곳 적발\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813854&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-26 08:10",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "민주, 장동혁 '국힘 최장수 대표' 등극에 \"이만한 정치력도 드물다\" 비꼬기",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813853&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-26 08:10",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    }
+  ]
+}
