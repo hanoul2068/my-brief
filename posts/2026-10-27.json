@@ -1,0 +1,179 @@
+{
+  "generated_at": "2026-10-27T09:22:05.898428+09:00",
+  "categories": [
+    {
+      "id": "all",
+      "name": "전체"
+    },
+    {
+      "id": "headline",
+      "name": "🔥 주요소식"
+    },
+    {
+      "id": "politics",
+      "name": "⚖️ 정치"
+    },
+    {
+      "id": "economy",
+      "name": "💰 경제/IT"
+    },
+    {
+      "id": "society",
+      "name": "👥 사회/생활"
+    },
+    {
+      "id": "science",
+      "name": "🧪 과학/기술"
+    },
+    {
+      "id": "policy",
+      "name": "📢 정부/정책"
+    }
+  ],
+  "items": [
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "중국서도 '삼성월렛 머니 QR' 쓴다…텐센트·우리은행과 업무협약",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202610270917532ps",
+      "published_at": "2026-10-27 09:21",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "\"이스라엘, 서안 팔레스타인인 말살 위한 반인도죄 저질러\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261027091522MCb",
+      "published_at": "2026-10-27 09:21",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "[날씨] 오후부터 강한 찬 바람…내일 서울 2도 기온 '뚝'",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20261027091337pBP",
+      "published_at": "2026-10-27 09:21",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "요르단, 시리아 테러조직 은신처 폭격…'교회 피격' 응징",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261027091042CkA",
+      "published_at": "2026-10-27 09:21",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "기업은행 연체율 1% 돌파…15년 만에 최고",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261027090632YPz",
+      "published_at": "2026-10-27 09:21",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "\"월급은 잠시 머물다 간다\"…한 달 뒤 통장엔 3%만",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261027090330yk2",
+      "published_at": "2026-10-27 09:21",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "소비심리 한 달 만에 하락…경기 전망도 후퇴",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261027090055gRO",
+      "published_at": "2026-10-27 09:21",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "손흥민 향해 \"니하오\" 외친 관중…인종차별 논란",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202610270858215rg",
+      "published_at": "2026-10-27 09:21",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[정치쇼] 김준형 \"오세훈 무죄도 조희대 간접적 영향 탓…직무정지 급선무\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008816165&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-27 09:21",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "민주당, 오늘 의원총회…조희대 국조 추진 등 의견 수렴",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008816081&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-27 09:21",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "북한 \"지뢰 폭발은 자작극\"…유엔에 보낸 억지 서한",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815970&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-27 09:21",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "유명 프로와 골프?…\"스토킹 멈춰라\" 고발",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815944&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-27 09:21",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "'오세훈 무죄'에 다시 불붙은 \"조희대 탄핵\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815943&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-27 09:21",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "접경 긴장 속 \"30대에 민통선 뚫렸다\" 질타",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815942&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-27 09:21",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "자주포에 앉은 북한군, '보란 듯' 포신 돌렸다",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815941&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-27 09:21",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "김혜경 여사, 오월어머니집 전·현직 임원과 청와대서 오찬",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815867&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-27 09:22",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "\"공부 약이라고\"…57초 만에 항우울제 두 달 치 '뚝딱'",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815713&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-27 09:22",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "\"AI시대, 설비 투자뿐만 아니라 '사람에 대한 투자' 이뤄져야\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815802&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-27 09:22",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    }
+  ]
+}
