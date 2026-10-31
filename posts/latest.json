@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T09:42:04.965030+09:00",
+  "generated_at": "2026-10-31T10:54:13.526708+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,49 +34,33 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "한미일 외교장관, 애틀랜타 회동…\"北, 한반도 긴장완화 노력 동참 촉구\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261031093954KgP",
-      "published_at": "2026-10-31 09:41",
+      "title": "[녹취구성] \"나의 아버지·우리의 자랑·역사를 쓰신 분\"…후배들이 떠올린 故 최불암",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20261031104930rxP",
+      "published_at": "2026-10-31 10:53",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "술 자제하라 해도…음주운전으로 전북 경찰 적발",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261031093338TJ1",
-      "published_at": "2026-10-31 09:41",
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "\"왜 바보처럼 우크라이나 전체를 전쟁으로 만들었나\" [취재파일]",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008821947&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-31 10:54",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "출소 나흘 만에 또 스토킹한 60대 징역 1년",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261031093322EG3",
-      "published_at": "2026-10-31 09:41",
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "'방산 빅4' 일제히 '52주 최저가' 터치…순식간에 108조 증발 [취재파일]",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823965&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-31 10:54",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "전조등 얼굴에 비췄다고 운전자 폭행한 50대 징역 6개월",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261031093257dhC",
-      "published_at": "2026-10-31 09:41",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "[영상구성] 조선시대 비상 소집? 경복궁의 '첩종'",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20261031093235Ipi",
-      "published_at": "2026-10-31 09:41",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "'비자 거부' 與진성준, 뒤늦게 美비자 발급…내일 출국",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261031093055DQP",
-      "published_at": "2026-10-31 09:41",
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "진성준, '거부' 사흘 만에 미국 비자 발급…\"뒤늦게나마 다행\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824265&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-10-31 10:54",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -84,7 +68,7 @@
       "source": "정치 (SBS)",
       "title": "북한, 스위스 외무장관 방북결과 보도…\"국제정세 의견 교환\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824173&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-10-31 09:41",
+      "published_at": "2026-10-31 10:54",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -92,7 +76,7 @@
       "source": "정치 (SBS)",
       "title": "북한, 대북제재감시팀 비난 \"제재 안통해…전략적 실패\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824136&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-10-31 09:41",
+      "published_at": "2026-10-31 10:54",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -100,7 +84,7 @@
       "source": "정치 (SBS)",
       "title": "막말·고성에 '쇼츠 경쟁'…정책 검증은 뒷전",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824006&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-10-31 09:41",
+      "published_at": "2026-10-31 10:54",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -108,7 +92,7 @@
       "source": "정치 (SBS)",
       "title": "북한, 한국 자주포 타격 훈련…\"힘이 곧 평화\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824004&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-10-31 09:41",
+      "published_at": "2026-10-31 10:54",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -116,7 +100,7 @@
       "source": "정치 (SBS)",
       "title": "북한 최선희 만난 스위스 외무장관, 청와대·외교부에 방북 결과 설명",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823974&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-10-31 09:41",
+      "published_at": "2026-10-31 10:54",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -124,7 +108,7 @@
       "source": "정치 (SBS)",
       "title": "위성락, 방북 마친 스위스 외무장관 면담…한반도 정세 의견 교환",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823971&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-10-31 09:41",
+      "published_at": "2026-10-31 10:54",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -132,31 +116,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령 \"토착비리는 자치·분권 토대 무너뜨리는 범죄\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823970&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-10-31 09:41",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "이 대통령 \"다문화가정 과잉 우대, 극우적 선동의 빌미 될 수 있어\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823948&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-10-31 09:41",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "EBS 사장 후보 9명으로 압축…사추위 심사 절차 돌입",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823887&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-10-31 09:42",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "\"듣자마자 불쾌\" '귀신 소리' 들리던 '대남 확성기' 재개?",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823816&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-10-31 09:42",
+      "published_at": "2026-10-31 10:54",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
