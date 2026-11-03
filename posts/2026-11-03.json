@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T11:52:39.628164+09:00",
+  "generated_at": "2026-11-03T12:45:41.926293+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,17 +34,33 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "JTBC, 매각 절차 속도…회생법원에 매각공고안 허가 신청",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261103115030FE8",
-      "published_at": "2026-11-03 11:52",
+      "title": "울산 울주 재활용수거업체서 불…인명피해 없어",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20261103120004gQN",
+      "published_at": "2026-11-03 12:45",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "[뉴스포커스] 11월03일 다시보기",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20261103114931ZIG",
-      "published_at": "2026-11-03 11:52",
+      "title": "\"당직 배정부터 회의록까지\"…정부, 인사업무 특화 AI 시스템 첫 개발",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261103104750j5N",
+      "published_at": "2026-11-03 12:45",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "토핑 요거트, 초코 토핑 양 최대 2.5배 차이…열량은 비슷",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261102170115zG1",
+      "published_at": "2026-11-03 12:45",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "JTBC, 매각 절차 속도…회생법원에 매각공고안 허가 신청",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261103115030FE8",
+      "published_at": "2026-11-03 12:45",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -52,47 +68,15 @@
       "source": "주요뉴스 (연합TV)",
       "title": "수조원대 도박사이트 운영…'호화 생활' 누린 범죄조직 검거",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20261103114908g9r",
-      "published_at": "2026-11-03 11:52",
+      "published_at": "2026-11-03 12:45",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "민주, 내년 예산안 '인프라·지방·민생·안전' 분야 증액 방침",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261103114519HfZ",
-      "published_at": "2026-11-03 11:52",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "'20% 수익 보장' 내세운 유명 부동산 유튜버…125억원 투자 사기",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261103114134Jye",
-      "published_at": "2026-11-03 11:52",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "화물차 바퀴 시외버스 덮쳐 참변…정비 미룬 운전자·차주 송치",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261103113953pnM",
-      "published_at": "2026-11-03 11:52",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "\"관계 강요·위치 추적도 스토킹\"…법무부, 교제 폭력 초기부터 차단",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261103113945G1b",
-      "published_at": "2026-11-03 11:52",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "외교부 \"대통령 내외 등 여권 재발급 조치 시행 중\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261103113849Ciw",
-      "published_at": "2026-11-03 11:52",
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "'1호기 탑승자' 정보 유출 긴급회의…\"여권 재발급\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008828111&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-03 12:45",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -100,7 +84,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령 \"사회 너무 극단화…가짜뉴스 선동, 강력 대응 필요\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008828134&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-11-03 11:52",
+      "published_at": "2026-11-03 12:45",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -108,7 +92,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령 \"'사이버보안 차르' 구성 검토하라…범정부 기구 필요\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008828049&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-11-03 11:52",
+      "published_at": "2026-11-03 12:45",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -116,7 +100,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령 \"주요 지역 아파트 실거래가, 놀라울 정도로 떨어지고 있어\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008828029&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-11-03 11:52",
+      "published_at": "2026-11-03 12:45",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -124,7 +108,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령, 사정기관에 \"허위사실 유포로 사회 혼란, 강력 대응 필요\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008828048&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-11-03 11:52",
+      "published_at": "2026-11-03 12:45",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -132,7 +116,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령 \"약자에 대한 지원책, 공정성과 합리성 원칙 함께 고려돼야\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008828027&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-11-03 11:52",
+      "published_at": "2026-11-03 12:45",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -140,7 +124,7 @@
       "source": "정치 (SBS)",
       "title": "외교부 \"이 대통령 내외 등 공군 1호기 탑승자 여권 재발급 조치\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008827966&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-11-03 11:52",
+      "published_at": "2026-11-03 12:45",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -148,7 +132,7 @@
       "source": "정치 (SBS)",
       "title": "[자막뉴스] 이 대통령 여권번호 등 168명 개인정보 노출…정부 \"매우 엄중하게 인식\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008827569&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-11-03 11:52",
+      "published_at": "2026-11-03 12:45",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -156,7 +140,7 @@
       "source": "정치 (SBS)",
       "title": "[정치쇼] 강건작 \"북한 위협 1면 보도 아쉬워…북한 집속탄? 우린 20년 전 개발\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008827517&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-11-03 11:52",
+      "published_at": "2026-11-03 12:45",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -164,15 +148,7 @@
       "source": "정치 (SBS)",
       "title": "'드론 본부' 띄웠지만…북한 따라잡을까",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008827397&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-11-03 11:52",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "국회서 오세훈 '서울시당 토론회'·장동혁 '예산발표'·한동훈 '정당개혁 토론회'",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008827419&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-11-03 11:52",
+      "published_at": "2026-11-03 12:45",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
