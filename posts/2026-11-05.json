@@ -1,0 +1,179 @@
+{
+  "generated_at": "2026-11-05T10:26:07.411824+09:00",
+  "categories": [
+    {
+      "id": "all",
+      "name": "전체"
+    },
+    {
+      "id": "headline",
+      "name": "🔥 주요소식"
+    },
+    {
+      "id": "politics",
+      "name": "⚖️ 정치"
+    },
+    {
+      "id": "economy",
+      "name": "💰 경제/IT"
+    },
+    {
+      "id": "society",
+      "name": "👥 사회/생활"
+    },
+    {
+      "id": "science",
+      "name": "🧪 과학/기술"
+    },
+    {
+      "id": "policy",
+      "name": "📢 정부/정책"
+    }
+  ],
+  "items": [
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "[뉴스초점] 美 휩쓴 '블루쓰나미'…민주 중간선거 '싹쓸이'",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20261105102257YWt",
+      "published_at": "2026-11-05 10:25",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "손흥민, 2년 연속 MLS 유니폼 판매 톱2 수성…메시 1위",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261105102211wzE",
+      "published_at": "2026-11-05 10:25",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "\"리처드 팬 당선으로 차기 의회에 중국계 6명…역대 최다\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261105101940srx",
+      "published_at": "2026-11-05 10:25",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "쌍용건설, 두바이 와슬그룹과 3.6조원 규모 협업 관련 MOU",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261105101904Dyh",
+      "published_at": "2026-11-05 10:25",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "[속보] 코스피 4%대 급락…매도 사이드카 발동",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202611051018168Sq",
+      "published_at": "2026-11-05 10:25",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "한국동서발전, 기후부 주관 공모전서 AI 부문 대상",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261105101754KWO",
+      "published_at": "2026-11-05 10:25",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "美여론조사, 왜 민주 '압승' 못봤나…샤이 트럼프 부작용?",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261105101600QWw",
+      "published_at": "2026-11-05 10:25",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "기아, 전국 돌봄기관 18곳에 전기차 지원…다문화 가정까지 확대",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261105100839Nk1",
+      "published_at": "2026-11-05 10:25",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "\"군악대 끼고 광란의 파티\"…잇단 사고에도 정신 못 차린 공군의 민낯 [취재파일]",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008831610&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-05 10:25",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "민주당, 오늘 본회의서 '조작기소 의혹 특검법' 처리 추진…국힘, 필리버스터 예고",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008831578&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-05 10:25",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "김민석, 신천지 논란에 \"우선 당원께 죄송\"…밝힌 심경",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008831577&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-05 10:25",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[정치쇼] 박형수 \"국힘 선거비용 반환? 3심 나오면 책임질 것…이 대통령 재판 재개해야\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008831489&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-05 10:25",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[단독] 술 마시고 비행 취소…참모총장 지시였다",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008831306&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-05 10:25",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "\"서울 주요 지역은…\" 이 말 놓고 또 충돌",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008831305&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-05 10:26",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "북한 \"어제 신형 반항공미사일 시험 발사\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008831375&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-05 10:26",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[단독] 외부업체 유출 정황 포착…다른 문서도 발견",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008831293&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-05 10:26",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "한성숙 총리, 고병원성 AI 발생에 \"추가 확산 막아야\" 긴급 지시",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008831195&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-05 10:26",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "외교부, 메콩지역 공관장회의…온라인 스캠 대응 등 논의",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008831175&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-05 10:26",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    }
+  ]
+}
