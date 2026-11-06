@@ -1,0 +1,187 @@
+{
+  "generated_at": "2026-11-06T10:29:47.972720+09:00",
+  "categories": [
+    {
+      "id": "all",
+      "name": "전체"
+    },
+    {
+      "id": "headline",
+      "name": "🔥 주요소식"
+    },
+    {
+      "id": "politics",
+      "name": "⚖️ 정치"
+    },
+    {
+      "id": "economy",
+      "name": "💰 경제/IT"
+    },
+    {
+      "id": "society",
+      "name": "👥 사회/생활"
+    },
+    {
+      "id": "science",
+      "name": "🧪 과학/기술"
+    },
+    {
+      "id": "policy",
+      "name": "📢 정부/정책"
+    }
+  ],
+  "items": [
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "모르는 여중생 뺨 내리친 40대 징역형 집유…\"심신장애 인정 부족\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261106102435j2v",
+      "published_at": "2026-11-06 10:29",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "정점식 \"이 대통령, '재판삭제' 의회쿠데타 사주해 놓고 유튜브\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261106102201ufo",
+      "published_at": "2026-11-06 10:29",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "이원석 전 검찰총장, '조작기소 특검'에 \"권력분립 무너뜨리는 위법\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261106102135z5L",
+      "published_at": "2026-11-06 10:29",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "김민석 \"당원께 죄송\"…공개 최고위서도 신천지 논란 사과",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261106102133usQ",
+      "published_at": "2026-11-06 10:29",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "백종원 더본코리아 대표, '빽보이피자' 일일 배달 기사로",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261106102113ilu",
+      "published_at": "2026-11-06 10:29",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "코스피 8% 급락에 5,000선 붕괴…서킷 브레이커 발동",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20261106101817dRz",
+      "published_at": "2026-11-06 10:29",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "'역대 최강 엘니뇨' 온다…올겨울 포근하고 눈·비 많을 듯",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261106101553uEs",
+      "published_at": "2026-11-06 10:29",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "최악의 홍역 확산세 덮친 미국…위스콘신서 영아 사망",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261106101527SPO",
+      "published_at": "2026-11-06 10:29",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "진혜원 부장검사, '특정 정당 옹호·비판' 정직 5개월 중징계",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261106101217HwF",
+      "published_at": "2026-11-06 10:29",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "이 대통령, 오늘 '첫 방한' 동티모르 대통령과 정상회담",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833613&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-06 10:29",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "정점식 \"이 대통령 정치적 고향은 성남 아닌 베네수엘라\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833592&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-06 10:29",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "북, 자금세탁 고위험국 지정에 \"금융거래 투명성 보장조치 취해\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833331&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-06 10:29",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "북, 최고인민회의 상임위 개최…건설법 수정·상임위원 해임",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833330&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-06 10:29",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "조작기소 특검법 본회의 상정…국힘 필리버스터",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833194&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-06 10:29",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "이 대통령 장남, 주진우 고소…\"골프장 간 적 없어\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833193&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-06 10:29",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "'대통령의 Y' 시작…\"합리적 논쟁, 많이 할수록 좋다\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833183&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-06 10:29",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "청해부대 작전구역, 호르무즈 650km 앞까지 확대",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833192&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-06 10:29",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[한반도포커스] '김정은 유학' 스위스 끌어당기는 북한?",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833105&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-06 10:29",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[한반도포커스] \"집속탄 수직타격\"…강철비로 '공포 극대화' 의도는?",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833104&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-06 10:29",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    }
+  ]
+}
