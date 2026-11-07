@@ -1,0 +1,155 @@
+{
+  "generated_at": "2026-11-07T09:51:34.378612+09:00",
+  "categories": [
+    {
+      "id": "all",
+      "name": "전체"
+    },
+    {
+      "id": "headline",
+      "name": "🔥 주요소식"
+    },
+    {
+      "id": "politics",
+      "name": "⚖️ 정치"
+    },
+    {
+      "id": "economy",
+      "name": "💰 경제/IT"
+    },
+    {
+      "id": "society",
+      "name": "👥 사회/생활"
+    },
+    {
+      "id": "science",
+      "name": "🧪 과학/기술"
+    },
+    {
+      "id": "policy",
+      "name": "📢 정부/정책"
+    }
+  ],
+  "items": [
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "수원 삼성 '승격 초읽기'…원동력은 이정효 감독의 분노",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH2026110709503867Y",
+      "published_at": "2026-11-07 09:51",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "11월분부터 지역가입자 건보료 재산정…소득 줄었다면 조정 신청",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202611070945475mG",
+      "published_at": "2026-11-07 09:51",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "미국 중간선거 후폭풍에…대미 원전사업 향배 안갯속",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261107094444bnl",
+      "published_at": "2026-11-07 09:51",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "조셉윤 \"미 중간선거 결과로 전작권·핵잠 논의 보류 가능성\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261107093722kza",
+      "published_at": "2026-11-07 09:51",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "담양 메타세쿼이아 가로수길서 차량 화재…60대 운전자 숨져",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261107092506Qyy",
+      "published_at": "2026-11-07 09:51",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "'신천지' 세 번째 사과…수습책에 반발 확산",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008834876&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-07 09:51",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "국민의힘, 서울 도심서 '조작기소특검법' 규탄 대규모 집회",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008834927&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-07 09:51",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "'조작 기소 특검법' 통과…'범여권'서도 우려",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008834864&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-07 09:51",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "법무장관 후보자에 이용철 지명…'깜짝 인사'에 술렁",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008834863&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-07 09:51",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "\"집무실서 생방송도 생각 중\"…'대통령의 Y' 첫 선",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008834663&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-07 09:51",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "7번째 특검…여당서도 \"아무것도 안 나오면 어쩌나\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008834639&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-07 09:51",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "민주당도 \"누구야?\"…국힘 \"돌고 돌아 성남 라인\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008834638&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-07 09:51",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "법무장관 후보자 지명…예상 뒤엎은 '깜짝 카드'",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008834637&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-07 09:51",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[정치사냥꾼] 조작기소 특검법 · 5천피로 요동친 국회",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008834679&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-07 09:51",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "\"순천·경국대 의대 신설, 지방의료 밑거름\"…민주, 목포·서남권 상급병원 설립 요청",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008834705&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-07 09:51",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    }
+  ]
+}
