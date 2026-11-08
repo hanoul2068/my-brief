@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T09:27:43.210964+09:00",
+  "generated_at": "2026-11-08T10:55:16.580417+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,25 +34,81 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "민주당·정부, 오늘 고위당정…내년도 예산안 논의",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20261108092522PGI",
-      "published_at": "2026-11-08 09:27",
+      "title": "오세훈 \"지방선거용 주식 도박, 지옥문 열어…역사적 범죄 책임 물어야\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261108104354wP3",
+      "published_at": "2026-11-08 10:54",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "이재성, VAR로 아쉬운 골 취소…마인츠, 뮌헨에 1-2 패",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261108092042RwX",
-      "published_at": "2026-11-08 09:27",
+      "title": "[날씨] 휴일 낮에도 쌀쌀해…중부 약한 비·진눈깨비",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20261108104057lTc",
+      "published_at": "2026-11-08 10:54",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "좌석 절반 빈 美 여객기…자리 이동 요청에 돌아온 답변은?",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261108092035TFP",
-      "published_at": "2026-11-08 09:27",
+      "title": "삼성전자·현대차 첫 그룹간 교류…양사 경영진 170여 명 참석",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261108103916fH9",
+      "published_at": "2026-11-08 10:54",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "'치매' 명칭 변경 논의 답보 상태 이어져…\"대체 용어들 부적절\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261108103837dFs",
+      "published_at": "2026-11-08 10:54",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "월급도 밀리고 매대도 '텅텅'…홈플러스, 악순환에 매각 난항",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261108103751N2s",
+      "published_at": "2026-11-08 10:54",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "국힘 \"'조작기소 특검법' 통과…혈세로 만든 대통령 개인 로펌\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202611081030538Li",
+      "published_at": "2026-11-08 10:54",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "내년 초등 입학생 사상 처음 30만명 미달 전망…저출생 충격 현실로",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261108102432PA2",
+      "published_at": "2026-11-08 10:54",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "한국 쇼핑몰에서 한복이 '한푸'로?…서경덕 \"관리 소홀\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261108102223o17",
+      "published_at": "2026-11-08 10:54",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "국힘 \"코스피 폭락…靑, 오를 땐 '내 덕'·내리면 '남 탓'\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261108100912O0I",
+      "published_at": "2026-11-08 10:54",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "'블루 쓰나미'에 휘청했던 코스피, 美증시 반등에 회복할까",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261108100804d03",
+      "published_at": "2026-11-08 10:55",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -60,7 +116,7 @@
       "source": "정치 (SBS)",
       "title": "민주당·정부, 오늘 고위 협의…내년도 예산안 논의 전망",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008835746&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-11-08 09:27",
+      "published_at": "2026-11-08 10:55",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -68,7 +124,7 @@
       "source": "정치 (SBS)",
       "title": "김민석, '조희대 국조·신천지·합당' 삼각파도에 '돌파구' 부심",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008835745&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-11-08 09:27",
+      "published_at": "2026-11-08 10:55",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -76,7 +132,7 @@
       "source": "정치 (SBS)",
       "title": "[단독] '마스가' 움직임 포착…미 해군 고위인사 방한",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008835384&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-11-08 09:27",
+      "published_at": "2026-11-08 10:55",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -84,7 +140,7 @@
       "source": "정치 (SBS)",
       "title": "\"재판 취소 악법\" 거리 나선 국힘…민주 \"조작 기소 규명\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008835381&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-11-08 09:27",
+      "published_at": "2026-11-08 10:55",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -92,7 +148,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령, 연평도 위문열차 공연 성사에 \"장병들에 귀 기울일 것\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008835335&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-11-08 09:27",
+      "published_at": "2026-11-08 10:55",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -100,7 +156,7 @@
       "source": "정치 (SBS)",
       "title": "국힘 '조작기소 특검 비판' 장외집회에 민주 \"윤석열 정치검찰 방탄\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008835334&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-11-08 09:27",
+      "published_at": "2026-11-08 10:55",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -108,7 +164,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령, 국산 단감 첫 중국 수출에 \"우리 농가에 새로운 기회\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008835330&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-11-08 09:27",
+      "published_at": "2026-11-08 10:55",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -116,7 +172,7 @@
       "source": "정치 (SBS)",
       "title": "민주, 국힘 '이용철 대장동 의혹' 공세에 \"당시는 사업 구상도 없었다\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008835263&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-11-08 09:27",
+      "published_at": "2026-11-08 10:55",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -124,7 +180,7 @@
       "source": "정치 (SBS)",
       "title": "북한 김성남, 중국 류하이싱과 회담…방중 세 번째 고위급 회동",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008835161&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-11-08 09:27",
+      "published_at": "2026-11-08 10:55",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -132,7 +188,7 @@
       "source": "정치 (SBS)",
       "title": "국민의힘 \"대통령 인사 전횡 막장의 끝…이용철 지명 철회하라\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008835130&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-11-08 09:27",
+      "published_at": "2026-11-08 10:55",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
