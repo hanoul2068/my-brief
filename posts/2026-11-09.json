@@ -1,0 +1,195 @@
+{
+  "generated_at": "2026-11-09T09:46:51.190404+09:00",
+  "categories": [
+    {
+      "id": "all",
+      "name": "전체"
+    },
+    {
+      "id": "headline",
+      "name": "🔥 주요소식"
+    },
+    {
+      "id": "politics",
+      "name": "⚖️ 정치"
+    },
+    {
+      "id": "economy",
+      "name": "💰 경제/IT"
+    },
+    {
+      "id": "society",
+      "name": "👥 사회/생활"
+    },
+    {
+      "id": "science",
+      "name": "🧪 과학/기술"
+    },
+    {
+      "id": "policy",
+      "name": "📢 정부/정책"
+    }
+  ],
+  "items": [
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "이란 외무 \"美 중간선거 여파로 중재국 일시 교착\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20261109094424k9n",
+      "published_at": "2026-11-09 09:46",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "트럼프 \"젠슨 황 훌륭한 사람…중국 방문에 데려갈 것\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261109094252gDn",
+      "published_at": "2026-11-09 09:46",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "\"배달기사·인플루언서도 中 공산당 대표 가능\"… 후보 추천 추진",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261109094237D2F",
+      "published_at": "2026-11-09 09:46",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "방미통위, 디지털윤리 골든벨 왕중왕전 개최",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261109093545oKS",
+      "published_at": "2026-11-09 09:46",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "새 주인 찾는 JTBC, 오늘 매각 공고…\"내년 1월 우선협상자 선정\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261109093543fMd",
+      "published_at": "2026-11-09 09:46",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "中 대학들 “VPN 우회접속 금지”…징계·취업 불이익 경고",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261109093453Hld",
+      "published_at": "2026-11-09 09:46",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "美국무 \"이란 요구 터무니없어\"…종전 협상 난항?",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261109092505JYi",
+      "published_at": "2026-11-09 09:46",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "中 인민일보, 삼성 중국 사업 조명…“첨단산업 현지화”",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261109092450EF7",
+      "published_at": "2026-11-09 09:46",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "을지대의료원 창립 70주년 기념 국제간호학술대회 12~13일 개최",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202611090924411F4",
+      "published_at": "2026-11-09 09:46",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "중국 산시성 건물 화재…5명 사망·33명 부상",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261109092327rrR",
+      "published_at": "2026-11-09 09:46",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[정치쇼] 윤상현 \"진정성 있는 계엄 사과해야…장동혁 과거 사과는 누워서 침뱉기\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833391&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-09 09:46",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "이용철 법무후보, 공소취소 묻자 \"진상 규명에 집중…법·원칙 따라야\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836593&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-09 09:46",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "'대장동 숨은 설계자' 공세에 \"짐작도 못 했던 일\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836350&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-09 09:46",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "'소방 빨대' 논란에 \"2조 지원\"…미래기금 쓰나",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836349&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-09 09:46",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "'소방 빨대' 논란에 2조 투입한다…'미래대응기금' 활용?",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836161&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-09 09:46",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "'대장동 숨은 설계자' 공세에…이용철 \"짐작도 못 했던 일\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836147&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-09 09:46",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "국힘, 당정 '미래대응기금 통한 소방 지원'에 \"물타기용\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836225&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-09 09:46",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "당정 \"소방 필수 투자에 2조 원 재정 지원…지방 부담 완화 검토\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836202&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-09 09:46",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "임광현 \"소방 재원 확보에 미래대응기금 활용, 국회와 긴밀 협의\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836183&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-09 09:46",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "청와대 국정상황실장에 김태근 자치발전비서관…김정우 사의",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836180&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-09 09:46",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    }
+  ]
+}
