@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T12:27:30.847788+09:00",
+  "generated_at": "2026-11-10T13:23:19.692978+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,81 +34,41 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "[속보] '작전구역 확대' 청해부대 파견 연장 동의안, 국무회의 의결",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR202611101214260zi",
-      "published_at": "2026-11-10 12:27",
+      "title": "전북자치도, 내년 예산 11.3조 편성…지방채 2,350억 반영",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261110132116MuP",
+      "published_at": "2026-11-10 13:22",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "\"매운 라면 한 봉지에 하루 나트륨 절반 이상…캡사이신류 최대 6.9배 차이\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261110091010ITa",
-      "published_at": "2026-11-10 12:27",
+      "title": "'고교 부족' 당진시, 공립 일반고 신설 추진…국회의원과 협력 강화",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261110132054x2J",
+      "published_at": "2026-11-10 13:22",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "감사원 첫 국민제안 공모에 1,109건…참여자 절반 이상 청년",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261109165420bFl",
-      "published_at": "2026-11-10 12:27",
+      "title": "AI 회의론 속 증시 데뷔하는 앤트로픽…\"19일 또는 20일 상장\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261110131953q42",
+      "published_at": "2026-11-10 13:22",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "국내 상장사 소액주주 24% 증가…삼성전자 797만명 '최다'",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261110115425ngz",
-      "published_at": "2026-11-10 12:27",
+      "title": "[경제읽기] 코스피 매수 사이드카…젠슨 황 논란 일파만파",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20261110131334PKl",
+      "published_at": "2026-11-10 13:22",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "軍 무인기, 훈련 중 김포 공원에 추락…사고 원인 조사",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261110114725XRS",
-      "published_at": "2026-11-10 12:27",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "정부, '반정부시위' 알바니아 '여행자제' 발령",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261110114723Iz2",
-      "published_at": "2026-11-10 12:27",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "스틸美대사 \"한국진출 美기업, 공정한 환경서 경쟁할 수 있어야\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261110114104TcW",
-      "published_at": "2026-11-10 12:27",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "국힘 \"부동산 세제 당·청 갈등 가관…정책 기조부터 재검토\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261110114031rOf",
-      "published_at": "2026-11-10 12:27",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "이 대통령 \"법 어기며 이익 보는 집단 있어\"…전수 조사 지시",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261110113921q0C",
-      "published_at": "2026-11-10 12:27",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "headline",
-      "source": "주요뉴스 (연합TV)",
-      "title": "취준생 77% \"취업에 AI 역량 중요\"…정작 기업에선 20%만 공식 평가",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261110113630xwm",
-      "published_at": "2026-11-10 12:27",
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "국무회의서 '청해부대 작전구역 확대' 의결…국회 제출 수순",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838951&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-10 13:23",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -116,7 +76,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령, 중수청장에 \"국민이 관심…조직 정비 속도 내야\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838950&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-11-10 12:27",
+      "published_at": "2026-11-10 13:23",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -124,7 +84,7 @@
       "source": "정치 (SBS)",
       "title": "\"미 중간선거 후 변화 예상…부정적 영향 최소화\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838858&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-11-10 12:27",
+      "published_at": "2026-11-10 13:23",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -132,7 +92,7 @@
       "source": "정치 (SBS)",
       "title": "한병도 \"국힘, 개미 눈물 정쟁수단으로…공포 마케팅 거둬라\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838817&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-11-10 12:27",
+      "published_at": "2026-11-10 13:23",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -140,7 +100,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령 \"미국 중간선거 후 대외 환경 변화…실용·국익외교 집중\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838761&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-11-10 12:27",
+      "published_at": "2026-11-10 13:23",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -148,7 +108,7 @@
       "source": "정치 (SBS)",
       "title": "이 대통령 \"공공기관 개별 조직 이해관계가 개혁 가로막아선 안 돼\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838760&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-11-10 12:27",
+      "published_at": "2026-11-10 13:23",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -156,7 +116,7 @@
       "source": "정치 (SBS)",
       "title": "국힘, 청와대 앞  의총…'조작기소 의혹 특검법' 거부권 행사 압박",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838759&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-11-10 12:27",
+      "published_at": "2026-11-10 13:23",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -164,7 +124,7 @@
       "source": "정치 (SBS)",
       "title": "스틸 미 대사 '한국 국방비 증액·미국 기업 공정 대우' 강조",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838602&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-11-10 12:27",
+      "published_at": "2026-11-10 13:23",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -172,7 +132,7 @@
       "source": "정치 (SBS)",
       "title": "[단독] 예금 8억 이용철, 방사청장 때도 노란우산…\"불가피한 유지\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838588&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-11-10 12:27",
+      "published_at": "2026-11-10 13:23",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
@@ -180,15 +140,7 @@
       "source": "정치 (SBS)",
       "title": "[정치쇼] 박주민 \"조작기소 드러나면 공소취소가 원칙, 서울 종부세 완화? 신중해야\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838398&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-11-10 12:27",
-      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
-    },
-    {
-      "category": "politics",
-      "source": "정치 (SBS)",
-      "title": "민주, 오늘 의원총회…주식시장 안정화 방안 등 논의",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838240&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-11-10 12:27",
+      "published_at": "2026-11-10 13:23",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
