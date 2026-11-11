@@ -1,0 +1,195 @@
+{
+  "generated_at": "2026-11-11T10:12:17.103462+09:00",
+  "categories": [
+    {
+      "id": "all",
+      "name": "전체"
+    },
+    {
+      "id": "headline",
+      "name": "🔥 주요소식"
+    },
+    {
+      "id": "politics",
+      "name": "⚖️ 정치"
+    },
+    {
+      "id": "economy",
+      "name": "💰 경제/IT"
+    },
+    {
+      "id": "society",
+      "name": "👥 사회/생활"
+    },
+    {
+      "id": "science",
+      "name": "🧪 과학/기술"
+    },
+    {
+      "id": "policy",
+      "name": "📢 정부/정책"
+    }
+  ],
+  "items": [
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "세종 착한가격업소서 지역화폐로 결제하면 15% 캐시백",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261111095907e6r",
+      "published_at": "2026-11-11 10:11",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "'태양광의 현재·미래 한눈에' 대전서 15~20일 세계태양광총회",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261111095837TRx",
+      "published_at": "2026-11-11 10:11",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "\"미 상무부, 앨리스 황 연관 기업 제재 두달째 보류\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261111095738duV",
+      "published_at": "2026-11-11 10:11",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "[단독] '10대 여성 살해' 50대, 아들 성범죄 합의 거부하자 범행",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261111095721ZAN",
+      "published_at": "2026-11-11 10:11",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "아워홈, 일본·호주·뉴질랜드 코스트코에서 K-푸드 판매",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261111095610dwp",
+      "published_at": "2026-11-11 10:11",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "국가계약 지역업체 몫 늘린다…300억 원 미만까지 확대",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202611110954427cy",
+      "published_at": "2026-11-11 10:11",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "CJ올리브영, AI 쇼핑 도우미 '올영 티키' 시범 운영",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202611110953441kB",
+      "published_at": "2026-11-11 10:11",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "공무원 퇴직 뒤 심사없이 관련 민간업체 취업…전직 구청 직원 송치",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202611110950423iV",
+      "published_at": "2026-11-11 10:11",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "기아 EV5·K4·EV2, 독일 자동차상 석권…비유럽 브랜드 첫 3관왕",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261111095034wGO",
+      "published_at": "2026-11-11 10:12",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "靑, '정치 갈등' 주제 '국민통합' 방안 논의…민주·국힘 전직 의원 출연",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202611110947138tz",
+      "published_at": "2026-11-11 10:12",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[정치쇼] 김성태 \"결기 안 느껴지는 국힘 장외투쟁, 의원직 총사퇴 걸고 막아라\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840278&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-11 10:12",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "육해공군 다 모이는 국방부 브리핑…\"정상 같은 비정상\" [취재파일]",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840288&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-11 10:12",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "캄보디아 취업사기 피해, 외교부가 키웠다 [취재파일]",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008839081&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-11 10:12",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "'북 포로 송환 갈등' 우크라 외무 \"관계 정상화 향한 추가 조치 있을 것\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840171&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-11 10:12",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "'청해부대 구역 확대' 의결…이란 \"공범 안 되길\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840042&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-11 10:12",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "'합의 이행' 강조했지만…미국 측 \"공감대 없다\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008839930&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-11 10:12",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "'사관학교 통합' 후퇴에 전·현직 장관 충돌",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008839751&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-11 10:12",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "아동도 출산도 미래기금으로…그러다 돈 떨어지면?",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008839740&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-11 10:12",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "장동혁, '장외 투쟁' 비판에 \"함께 싸울 생각 없다면 입 다물라\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008839796&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-11 10:12",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "김혜경 여사, 재일동포 부인회 만나 \"고마움 오랫동안 기억할 것\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008839793&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-11 10:12",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    }
+  ]
+}
