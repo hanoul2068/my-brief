@@ -1,0 +1,195 @@
+{
+  "generated_at": "2026-11-12T11:13:32.221940+09:00",
+  "categories": [
+    {
+      "id": "all",
+      "name": "전체"
+    },
+    {
+      "id": "headline",
+      "name": "🔥 주요소식"
+    },
+    {
+      "id": "politics",
+      "name": "⚖️ 정치"
+    },
+    {
+      "id": "economy",
+      "name": "💰 경제/IT"
+    },
+    {
+      "id": "society",
+      "name": "👥 사회/생활"
+    },
+    {
+      "id": "science",
+      "name": "🧪 과학/기술"
+    },
+    {
+      "id": "policy",
+      "name": "📢 정부/정책"
+    }
+  ],
+  "items": [
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "[현장연결] '서강대교 회군' 조성현, 내란 혐의 첫 재판 출석",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20261112111057tcW",
+      "published_at": "2026-11-12 11:13",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "BMW 5시리즈, 올해 판매 2만대 돌파…\"프리미엄 수입차 1위\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261112111035fYd",
+      "published_at": "2026-11-12 11:13",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "\"젠슨 황 연인 앨리스 황, 현재 베이징 거주…中도 인지\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202611121106180tX",
+      "published_at": "2026-11-12 11:13",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "\"세계 바이오 석학 춘천 집결\"…K-BioX 글로벌 바이오 이노베이션 서밋",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261112105049Wlf",
+      "published_at": "2026-11-12 11:13",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "서산어리굴젓·보령천북굴…충남 서해안서 제철 맞은 굴축제 잇따라",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261112105024yw3",
+      "published_at": "2026-11-12 11:13",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "프로야구 LG, 오스틴과 1년 더…KBO 외인 타자 중 '최고 금액'",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202611121048062DD",
+      "published_at": "2026-11-12 11:13",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "LIV 골프서 뛰었던 안병훈, 내년 DP월드투어 출전권 확보",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261112104608Cn3",
+      "published_at": "2026-11-12 11:13",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "동해 무릉계곡 숲길 새단장…\"안전·경관 모두 잡았다\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261112104328EvN",
+      "published_at": "2026-11-12 11:13",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "이 대통령, 16∼19일 아세안·APEC 정상회의 참석",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261112104243zzP",
+      "published_at": "2026-11-12 11:13",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "'젠슨 황 불륜 의심' 공매도 보고서…조롱 받았지만 반년 뒤 반전",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261112104134sXU",
+      "published_at": "2026-11-12 11:13",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "장동혁 \"자기 손으로 공소장 찢기 전에 대통령 재판 재개해야\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842662&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-12 11:13",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "이 대통령, 충청권 메가프로젝트 착공식 참석…민관회의도 주재",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842518&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-12 11:13",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "한병도 \"당청, 더 나은 민생 위해 긴밀 협력…엇박자는 없다\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842498&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-12 11:13",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "이 대통령, 16~19일 필리핀 아세안·중국 APEC 정상회의 참석",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842424&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-12 11:13",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "김민석 \"정청래와 대화 노력\"…최민희 '하이에나' 발언엔 사과",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842273&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-12 11:13",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[정치쇼] 김영진 \"서울 지역 의원들 종부세 문제 제기 당연히 할 수 있어…적절히 조정해야\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840281&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-12 11:13",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "\"비대위 필요\" 발언에 \"시장할테니 대표하시라\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842054&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-12 11:13",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "기자단에 \"하이에나 떼\"…\"부적절 표현 사과\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842053&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-12 11:13",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "14억 입단속 주의보?…11명 중 4명만 참석",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008841976&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-12 11:13",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "\"미래기금부터 떼고\"…'재정난 우려' 한목소리",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008841703&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-12 11:13",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    }
+  ]
+}
