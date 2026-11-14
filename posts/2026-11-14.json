@@ -1,0 +1,131 @@
+{
+  "generated_at": "2026-11-14T10:24:51.465755+09:00",
+  "categories": [
+    {
+      "id": "all",
+      "name": "전체"
+    },
+    {
+      "id": "headline",
+      "name": "🔥 주요소식"
+    },
+    {
+      "id": "politics",
+      "name": "⚖️ 정치"
+    },
+    {
+      "id": "economy",
+      "name": "💰 경제/IT"
+    },
+    {
+      "id": "society",
+      "name": "👥 사회/생활"
+    },
+    {
+      "id": "science",
+      "name": "🧪 과학/기술"
+    },
+    {
+      "id": "policy",
+      "name": "📢 정부/정책"
+    }
+  ],
+  "items": [
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "\"미중러 정상회담 19일 개최…北 논의 가능성\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20261114101113b4w",
+      "published_at": "2026-11-14 10:24",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "발달장애 아들 학대치사 혐의…40대 모친 영장심사",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261114094903J2k",
+      "published_at": "2026-11-14 10:24",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "한-네팔, 기후변화 협력 기본협정 체결…온실가스 감축 협력",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008845750&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-14 10:24",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[단독] \"평생 트라우마\" 46년 전 상처…'배상 판결' 받고도",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008845543&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-14 10:24",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "'최민희 감찰'에서 폭발…집단행동 정면 충돌",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008845542&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-14 10:24",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "빨간 넥타이 매고 \"욕 먹더라도 M&A 활성화\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008845377&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-14 10:24",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "발언 논란에 '윤리감찰 지시'…이례적 조치?",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008845376&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-14 10:24",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[정치사냥꾼] 출구가 없다? 여당 집안싸움 '점입가경'",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008845398&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-14 10:24",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[D리포트] 이란, 청해부대 겨냥해 \"뱁새가 황새 따라가면 가랑이가…\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008845250&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-14 10:24",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "장동혁, 안철수와 회동…친한계는 '진상조사'로 압박",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008845276&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-14 10:24",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "'비대위' 언급 오세훈 \"당 미래 관심 없으면 오히려 바람직하지 않아\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008845222&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-14 10:24",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "국민의힘, '내란 특수본' 구성에 \"중수청도 '하명 수사기관' 만들어\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008845221&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-14 10:24",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    }
+  ]
+}
