@@ -1,0 +1,171 @@
+{
+  "generated_at": "2026-11-15T09:59:22.346131+09:00",
+  "categories": [
+    {
+      "id": "all",
+      "name": "전체"
+    },
+    {
+      "id": "headline",
+      "name": "🔥 주요소식"
+    },
+    {
+      "id": "politics",
+      "name": "⚖️ 정치"
+    },
+    {
+      "id": "economy",
+      "name": "💰 경제/IT"
+    },
+    {
+      "id": "society",
+      "name": "👥 사회/생활"
+    },
+    {
+      "id": "science",
+      "name": "🧪 과학/기술"
+    },
+    {
+      "id": "policy",
+      "name": "📢 정부/정책"
+    }
+  ],
+  "items": [
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "'9천피'에 발행된 ELS, 내달 만기 도래…원금 손실 경고",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261115095644L8g",
+      "published_at": "2026-11-15 09:58",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "한화, 올해 미국 현지법인에 1.5조 출자…현지 방산시장 박차",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261115095142duQ",
+      "published_at": "2026-11-15 09:58",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "'젠슨 황 쇼크'에 흔들린 국내 증시…엔비디아 실적 촉각",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261115094146aqo",
+      "published_at": "2026-11-15 09:58",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "물가 안정 위해 묶어둔 석유·전기·가스요금…재정부담으로 돌아온다",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261115094111sBE",
+      "published_at": "2026-11-15 09:59",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "퇴직연금 수익률 뚝…3분기 DC형 원금비보장 수익률 ¼로",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261115093200gub",
+      "published_at": "2026-11-15 09:59",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "가상자산 법인 참여 지연에 거래소들 관련 조직 축소",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261115091532or5",
+      "published_at": "2026-11-15 09:59",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "[날씨] 휴일 맑고 온화한 늦가을 날씨…한낮 20도 안팎",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH202611150914232Hp",
+      "published_at": "2026-11-15 09:59",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "이 대통령 \"가장 힘든 건 등 뒤서 날아오는 화살\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008846296&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-15 09:59",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "최민희 감찰 시작…\"농지조사로 지지율 5% 떨어져\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008846009&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-15 09:59",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "한동훈·최민희, 전·현직 대통령 재판 놓고 SNS 설전",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008845980&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-15 09:59",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "최민희 민주당 최고위원 당원 간담회 녹취 발언 공개 [현장영상]",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008845917&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-15 09:59",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "국힘, 신천지 이어 통일교 의혹 나온 민주당에 \"특검해야\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008845839&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-15 09:59",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "한-네팔, 기후변화 협력 기본협정 체결…온실가스 감축 협력",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008845750&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-15 09:59",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[단독] \"평생 트라우마\" 46년 전 상처…'배상 판결' 받고도",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008845543&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-15 09:59",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "'최민희 감찰'에서 폭발…집단행동 정면 충돌",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008845542&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-15 09:59",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "빨간 넥타이 매고 \"욕 먹더라도 M&A 활성화\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008845377&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-15 09:59",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "발언 논란에 '윤리감찰 지시'…이례적 조치?",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008845376&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-15 09:59",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    }
+  ]
+}
