@@ -1,0 +1,171 @@
+{
+  "generated_at": "2026-11-17T12:43:44.319210+09:00",
+  "categories": [
+    {
+      "id": "all",
+      "name": "전체"
+    },
+    {
+      "id": "headline",
+      "name": "🔥 주요소식"
+    },
+    {
+      "id": "politics",
+      "name": "⚖️ 정치"
+    },
+    {
+      "id": "economy",
+      "name": "💰 경제/IT"
+    },
+    {
+      "id": "society",
+      "name": "👥 사회/생활"
+    },
+    {
+      "id": "science",
+      "name": "🧪 과학/기술"
+    },
+    {
+      "id": "policy",
+      "name": "📢 정부/정책"
+    }
+  ],
+  "items": [
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "총리 주재 국무회의서 '조작기소특검법' 의결",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20261117124125mLU",
+      "published_at": "2026-11-17 12:43",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "산업부 \"내년 1월 원유 50% 이상 확보…연말은 전년 대비 90%\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261117121458Iqu",
+      "published_at": "2026-11-17 12:43",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "\"젠슨 황 딸, 사실상 아버지 비서실장…막강 권력 휘둘러\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202611171201567Fz",
+      "published_at": "2026-11-17 12:43",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "보습크림 어떻게 고를까…\"보습력·수분 증발 감소도 차이 고려해야\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261117092248Wwg",
+      "published_at": "2026-11-17 12:43",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "HN상조 공식 출범…\"전국 장례망·디지털 플랫폼 결합 서비스\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261117114837Rgs",
+      "published_at": "2026-11-17 12:43",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "[속보] '조작기소 특검법' 공포안 국무회의 통과…한 총리가 주재",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261117114427TjP",
+      "published_at": "2026-11-17 12:43",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "CNN \"미 정보당국, 이란의 워싱턴 '더티밤' 테러모의 정황 포착\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261117114120JXo",
+      "published_at": "2026-11-17 12:43",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "\"아세안 AI·문화 협력\" 제안…오늘 한일 정상회담",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849589&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-17 12:43",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "이준석 \"AI 커닝 방지 앱 개발\"…교육부에 사용 허가 요청",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849676&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-17 12:43",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "새벽 러 군용기 카디즈 진입…공군 출격 대응",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849588&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-17 12:43",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "'조작기소 의혹 특검법' 국무회의 의결…국민의힘 장외투쟁",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849587&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-17 12:43",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "장동혁, '수능 연기' 주장…\"'포항 지진'보다 덜 심각한가?\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849666&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-17 12:43",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "국민의힘, 2주째 청와대 앞 의총…\"한성숙, 법정에 서는 날 올 것\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849622&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-17 12:43",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "청와대, 비상 대응 TF 구성…수능 AI 부정행위 대책 등 논의",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849576&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-17 12:43",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "이 대통령 \"김대중·주룽지·오부치 한중일 협력, 따라 배워야 할 교범\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849551&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-17 12:43",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "한 총리 \"수능 스마트기기 휴대 원천 차단·감독관 추가 배치\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849395&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-17 12:43",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "국민의힘 '투톱' 장동혁·정점식, 한동훈 장인상 조문",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849346&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-17 12:43",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    }
+  ]
+}
