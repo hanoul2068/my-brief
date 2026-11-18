@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T13:49:58.217138+09:00",
+  "generated_at": "2026-11-18T11:51:03.397350+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,97 +34,137 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "공소청 \"부정행위 엄정 대응…구속영장 적극 검토\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20261117134839Cm4",
-      "published_at": "2026-11-17 13:49",
+      "title": "'계엄해제 표결 방해' 추경호 1심 선고…고의성 쟁점",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH202611181145383AM",
+      "published_at": "2026-11-18 11:50",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "'카드 단말기 악용' 연 132% 초고금리 대출…기업형 불법사금융 검거",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR202611171318332IJ",
-      "published_at": "2026-11-17 13:49",
+      "title": "국토위, 국토부 예산안 의결…가덕신공항·주거지원' 3.7조 순증",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202611181141441U4",
+      "published_at": "2026-11-18 11:50",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "시진핑 \"개방은 진보, 폐쇄는 낙후\"…美 겨냥 보호무역 비판",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261118114042scu",
+      "published_at": "2026-11-18 11:50",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "국힘 윤리위원 \"張대리인이 윤리위 실질 관리\"…추가 의혹 제기",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202611181136502Cs",
+      "published_at": "2026-11-18 11:50",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "승용차 훔쳐 금은방 털었는데 '헛발질'…모조품 들고 튄 10대 3명",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261118113004UUF",
+      "published_at": "2026-11-18 11:50",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "\"산림치유, 중장년 남성 사회적 고립 해소에 효과…대안관계 등 개선\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261118112949mnu",
+      "published_at": "2026-11-18 11:50",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "친한 사이였는데…흉기로 이웃 찌른 70대 징역 5년",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261118112904BbW",
+      "published_at": "2026-11-18 11:50",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "politics",
       "source": "정치 (SBS)",
-      "title": "기업 성과와 현지 변화 잇는다…코이카, '임팩트 투게더' 개최",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849709&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-11-17 13:49",
+      "title": "국민의힘 주진우, '입틀막법' 집단 헌법소송 제기…\"악법 폐지해야\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851458&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-18 11:50",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "politics",
       "source": "정치 (SBS)",
-      "title": "감사원 \"항만 배후단지 입주사들, 불법 전대로 수백억 원대 수익\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849708&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-11-17 13:49",
+      "title": "국힘 윤리위원 \"장동혁 대리인, 윤리위 실질 관리\"…추가 의혹 제기",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851463&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-18 11:50",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "politics",
       "source": "정치 (SBS)",
-      "title": "\"아세안 AI·문화 협력\" 제안…오늘 한일 정상회담",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849589&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-11-17 13:49",
+      "title": "[속보] 당정, 수능 부정행위 적발시 '퇴학·재입학 제한' 법제화 추진",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851386&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-18 11:50",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "politics",
       "source": "정치 (SBS)",
-      "title": "이준석 \"AI 커닝 방지 앱 개발\"…교육부에 사용 허가 요청",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849676&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-11-17 13:49",
+      "title": "이 대통령, 오늘 한중정상회담…시진핑과 3번째 만남",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851393&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-18 11:50",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "politics",
       "source": "정치 (SBS)",
-      "title": "새벽 러 군용기 카디즈 진입…공군 출격 대응",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849588&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-11-17 13:49",
+      "title": "국힘, 이 대통령 수능 포상금 지시에 \"사시 어떻게 합격했는지 의심스러워\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851394&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-18 11:50",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "politics",
       "source": "정치 (SBS)",
-      "title": "'조작기소 의혹 특검법' 국무회의 의결…국민의힘 장외투쟁",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849587&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-11-17 13:49",
+      "title": "육사 충청권 이전 확정…'1+2+1' 학제 도입",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851194&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-18 11:50",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "politics",
       "source": "정치 (SBS)",
-      "title": "장동혁, '수능 연기' 주장…\"'포항 지진'보다 덜 심각한가?\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849666&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-11-17 13:49",
+      "title": "잠시 후 한중정상회담…한한령 해결 등 진전 있을까",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851193&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-18 11:50",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "politics",
       "source": "정치 (SBS)",
-      "title": "국민의힘, 2주째 청와대 앞 의총…\"한성숙, 법정에 서는 날 올 것\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849622&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-11-17 13:49",
+      "title": "당정 \"육사, 충청권 이전…해사·공사는 기존 위치 활용\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851100&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-18 11:50",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "politics",
       "source": "정치 (SBS)",
-      "title": "청와대, 비상 대응 TF 구성…수능 AI 부정행위 대책 등 논의",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849576&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-11-17 13:49",
+      "title": "[정치쇼] 박정하 \"조작 징계 논란? 지저분해 보여…한동훈 복당? 증거 나오면 법적 수단도 강구해야\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851031&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-18 11:50",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "politics",
       "source": "정치 (SBS)",
-      "title": "이 대통령 \"김대중·주룽지·오부치 한중일 협력, 따라 배워야 할 교범\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849551&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-11-17 13:49",
+      "title": "당정 \"육사 충청권으로 이전…해사·공사 기존 위치 활용\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851016&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-18 11:50",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
