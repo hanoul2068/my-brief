@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "우리 다이어리",
+    "slug": "couple-diary",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.couplediary.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false,
+      "package": "com.couplediary.app"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      [
+        "expo-calendar",
+        {
+          "calendarPermission": "배우자와 함께 쓰는 일정과 일기를 아이폰 캘린더에 저장하고 불러오기 위해 캘린더 접근이 필요합니다."
+        }
+      ],
+      "@react-native-community/datetimepicker"
+    ]
+  }
+}
