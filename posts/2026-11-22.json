@@ -1,0 +1,147 @@
+{
+  "generated_at": "2026-11-22T10:09:52.287527+09:00",
+  "categories": [
+    {
+      "id": "all",
+      "name": "전체"
+    },
+    {
+      "id": "headline",
+      "name": "🔥 주요소식"
+    },
+    {
+      "id": "politics",
+      "name": "⚖️ 정치"
+    },
+    {
+      "id": "economy",
+      "name": "💰 경제/IT"
+    },
+    {
+      "id": "society",
+      "name": "👥 사회/생활"
+    },
+    {
+      "id": "science",
+      "name": "🧪 과학/기술"
+    },
+    {
+      "id": "policy",
+      "name": "📢 정부/정책"
+    }
+  ],
+  "items": [
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "강릉 상가주택 새벽 화재…1명 사망·2명 구조",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20261122100807iCh",
+      "published_at": "2026-11-22 10:09",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "與 \"조희대 탄핵, 공화국 보전 위한 역사적 책무\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261122100610l6F",
+      "published_at": "2026-11-22 10:09",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "정점식 \"블랙먼데이 긴급 대응해야…역대급 버블 붕괴\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261122100541j5E",
+      "published_at": "2026-11-22 10:09",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "조국 \"확장성 있는 당명으로\"…혁신당 '조국' 빠지나",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261122100338QA2",
+      "published_at": "2026-11-22 10:09",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "국민의힘 \"최교진 장관, 스스로 물러나는 게 제대로 된 책임\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008857464&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-22 10:09",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "\"전문성\" vs \"예산 낭비\"…2천억 들인 AI 교육 두고 '팽팽'",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008857101&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-22 10:09",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "\"12월 3일 기점 탄핵안 발의\"…\"조희대 지킬 것\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008857099&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-22 10:09",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "이 대통령 \"신고 포상금, 최대 1억 아닌 최소 1억 원\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008857093&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-22 10:09",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "한병도, 국힘 대구 장외집회에 \"민생 팽개친 길바닥 정치\" 비판",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008857131&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-22 10:09",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "이 대통령, 울산 전통시장 두 곳 방문…\"내년엔 좀 더 좋아질 것\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008857089&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-22 10:09",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "김민석 \"민주당, 큰 고민 중 하나는 청년…더 함께하고 싶다\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008857031&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-22 10:09",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "이 대통령 \"수능 부정행위 신고포상금 건당 최소 1억…행위자 수만큼 가산\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008857020&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-22 10:09",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "이 대통령, 울산 AI데이터센터 현장 찾아 \"세계경쟁서 속도가 생명\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008856998&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-22 10:09",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "예산소위, '감액 이견'에 지역사랑상품권 심사 일단 보류",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008856953&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-22 10:09",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    }
+  ]
+}
