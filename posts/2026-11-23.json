@@ -1,0 +1,179 @@
+{
+  "generated_at": "2026-11-23T10:34:45.872975+09:00",
+  "categories": [
+    {
+      "id": "all",
+      "name": "전체"
+    },
+    {
+      "id": "headline",
+      "name": "🔥 주요소식"
+    },
+    {
+      "id": "politics",
+      "name": "⚖️ 정치"
+    },
+    {
+      "id": "economy",
+      "name": "💰 경제/IT"
+    },
+    {
+      "id": "society",
+      "name": "👥 사회/생활"
+    },
+    {
+      "id": "science",
+      "name": "🧪 과학/기술"
+    },
+    {
+      "id": "policy",
+      "name": "📢 정부/정책"
+    }
+  ],
+  "items": [
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "김치가 일본 음식?…반 고흐 미술관 식당, 결국 메뉴 정정",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261123103340lYU",
+      "published_at": "2026-11-23 10:34",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "'대형 화재' 인니 제과공장서 시신 24구 수습…실종 37명",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261123103247ogy",
+      "published_at": "2026-11-23 10:34",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "[뉴스초점] '검은 월요일' 공포 현실로… 코스피 급락",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20261123103205zl8",
+      "published_at": "2026-11-23 10:34",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "장동혁 \"조희대 탄핵은 자폭 탄핵…정권 끝날 것\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261123102633PuO",
+      "published_at": "2026-11-23 10:34",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "LS, 11년째 온기 나눔…소외계층에 김장김치 등 전달",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261123102620ruA",
+      "published_at": "2026-11-23 10:34",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "아마존 밀림서 실종된 알츠하이머 노인…11일 만에 극적 구조",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202611231026051vv",
+      "published_at": "2026-11-23 10:34",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "삼성중공업, 이왕근 신임 대표이사 내정…30년 기술 전문가",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261123102126LTt",
+      "published_at": "2026-11-23 10:34",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "[속보] 삼성증권도 해킹 피해…8천여명 개인정보 유출",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261123101838ILV",
+      "published_at": "2026-11-23 10:34",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "청와대 재정보좌관 \"주식시장 충격, 일시적일 수 있어…AI 혁명 비가역적 변화\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008858481&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-23 10:34",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[정치쇼] 윤상현 \"조희대 탄핵 목적은 사법부 길들이기…張 '내란철퇴' 발언? 의원들 생각 달라\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008858340&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-23 10:34",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "\"판결 아닌 '절차'가 문제\"…\"결국 판결 보복\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008858131&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-23 10:34",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "김정은, 주북대사 신임장 첫 제정식…\"패권도 팽창도 추구 안 해\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008858121&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-23 10:34",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "청와대, 후임 인선 돌입…\"시험지 촬영·전송 막겠다\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008858031&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-23 10:34",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "즉각 재가에 \"사실상 경질\"…이 대통령 꺼낸 추가 대책",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008857882&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-23 10:34",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "김종철 방미통위원장, TV조선 점수조작 의혹 항소에 \"피고인들의 고통이 뼈끝에 느껴진다\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008857827&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-23 10:34",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "국민의힘 \"수능마저 못 믿는 나라…최교진 사퇴로 끝날 일 아냐\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008857812&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-23 10:34",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "국민의힘, 2030세대 공들이기…장동혁 \"청년 약탈 정권 맞서 정책전쟁\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008857808&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-23 10:34",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "북한 전문 여행사 \"내년 10월 평양 국제마라톤 개최\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008857793&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-23 10:34",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    }
+  ]
+}
