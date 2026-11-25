@@ -2,104 +2,193 @@
 <html><head><meta charset="utf-8"><title>Paper Tiger Sample</title>
 <style>html,body{margin:0;background:#111;display:flex;align-items:center;justify-content:center;height:100%}canvas{max-width:100vw;max-height:100vh}</style>
 </head><body>
-<canvas id="c" width="1280" height="720"></canvas>
+<canvas id="c" width="1920" height="1080"></canvas>
 <script>
-// Paper-cutout animation drawn entirely in code. Every frame is a pure function of time t.
-const W = 1280, H = 720, FPS = 24, DURATION = 6;
+// Paper-cutout animation drawn entirely in code (v2: textured cardstock, thickness, inner light, depth of field).
+// Scene is laid out in 1280x720 units and rendered at 1.5x for 1080p. Every frame is a pure function of time t.
+const W = 1280, H = 720, S = 1.5, FPS = 24, DURATION = 6;
 const cv = document.getElementById('c'), g = cv.getContext('2d');
 
-// --- deterministic noise ---
+// ---------- deterministic noise ----------
 function hash(n){ n = Math.sin(n*127.1+311.7)*43758.5453; return n - Math.floor(n); }
 function noise1(x, seed){ const i=Math.floor(x), f=x-i, u=f*f*(3-2*f); return hash(i+seed*17.3)*(1-u)+hash(i+1+seed*17.3)*u; }
+function vnoise(x,y,p){ // tileable value noise with period p
+  const xi=Math.floor(x), yi=Math.floor(y), xf=x-xi, yf=y-yi, u=xf*xf*(3-2*xf), v=yf*yf*(3-2*yf);
+  const h=(a,b)=>hash(((a%p+p)%p)*57.13+((b%p+p)%p)*113.7);
+  return (h(xi,yi)*(1-u)+h(xi+1,yi)*u)*(1-v)+(h(xi,yi+1)*(1-u)+h(xi+1,yi+1)*u)*v;
+}
 
-// --- grain overlay (paper fibers) built once ---
-const grain = document.createElement('canvas'); grain.width=W; grain.height=H;
-(()=>{ const gc=grain.getContext('2d'), id=gc.createImageData(W,H);
-  for(let i=0;i<id.data.length;i+=4){ const v=200+hash(i*0.37)*55; id.data[i]=id.data[i+1]=id.data[i+2]=v; id.data[i+3]=255; }
-  gc.putImageData(id,0,0);
-  gc.globalAlpha=0.08; gc.strokeStyle='#fff';
-  for(let k=0;k<900;k++){ const x=hash(k)*W, y=hash(k+.5)*H, a=hash(k+.9)*6.28, l=6+hash(k+.2)*18;
-    gc.beginPath(); gc.moveTo(x,y); gc.lineTo(x+Math.cos(a)*l,y+Math.sin(a)*l); gc.stroke(); }
+// ---------- paper texture tile (fibers + mottling), built once ----------
+const TEX = 384;
+const tex = document.createElement('canvas'); tex.width = tex.height = TEX;
+(()=>{ const c=tex.getContext('2d'), id=c.createImageData(TEX,TEX);
+  for(let y=0;y<TEX;y++) for(let x=0;x<TEX;x++){
+    let n=0, amp=1, tot=0;
+    for(let o=0;o<5;o++){ const f=4<<o; n+=vnoise(x/TEX*f,y/TEX*f,f)*amp; tot+=amp; amp*=0.55; }
+    n/=tot; const speck=hash(x*7.1+y*13.3);
+    let val=128+(n-0.5)*70+(speck-0.5)*26;
+    const i=(y*TEX+x)*4; id.data[i]=id.data[i+1]=id.data[i+2]=val; id.data[i+3]=255;
+  }
+  c.putImageData(id,0,0);
+  // long pulp fibers, light and dark, wrapped so the tile repeats
+  for(let k=0;k<700;k++){ const x=hash(k*3.1)*TEX, y=hash(k*5.7)*TEX, a=hash(k*1.3)*6.283, l=8+hash(k*2.9)*30;
+    c.strokeStyle = hash(k*9.1)>0.5 ? 'rgba(255,255,255,0.28)' : 'rgba(0,0,0,0.16)'; c.lineWidth=0.6+hash(k)*0.8;
+    for(const ox of [-TEX,0,TEX]) for(const oy of [-TEX,0,TEX]){
+      c.beginPath(); c.moveTo(x+ox,y+oy);
+      c.quadraticCurveTo(x+ox+Math.cos(a+0.6)*l*0.5, y+oy+Math.sin(a+0.6)*l*0.5, x+ox+Math.cos(a)*l, y+oy+Math.sin(a)*l); c.stroke(); }
+  }
 })();
+const texPattern = g.createPattern(tex,'repeat');
 
-// --- torn-paper path: subdivide polygon, jitter edges. "boil" changes every 2 frames (stop-motion on twos)
+// full-frame grain + vignette, built once at device resolution
+const grain = document.createElement('canvas'); grain.width=W*S; grain.height=H*S;
+(()=>{ const c=grain.getContext('2d'), id=c.createImageData(grain.width,grain.height);
+  for(let i=0;i<id.data.length;i+=4){ const v=225+hash(i*0.37)*30; id.data[i]=id.data[i+1]=id.data[i+2]=v; id.data[i+3]=255; }
+  c.putImageData(id,0,0); })();
+
+// ---------- colour helpers ----------
+function hex(c){ const n=parseInt(c.slice(1),16); return [n>>16&255,n>>8&255,n&255]; }
+function shade(c,f){ const [r,gg,b]=hex(c), m=v=>Math.round(f<0? v*(1+f) : v+(255-v)*f); return `rgb(${m(r)},${m(gg)},${m(b)})`; }
+
+// ---------- torn / cut outlines ----------
 let BOIL = 0;
-function tornPath(pts, seed, amp=2.2, step=7){
-  g.beginPath(); let first=true;
+function area(p){ let a=0; for(let i=0;i<p.length;i++){const [x0,y0]=p[i],[x1,y1]=p[(i+1)%p.length]; a+=x0*y1-x1*y0;} return a/2; }
+function outline(pts, seed, amp, bias=0, step=5){
+  const out=[], sgn = area(pts)>0 ? -1 : 1;  // push "bias" outward regardless of winding
   for(let i=0;i<pts.length;i++){
     const [x0,y0]=pts[i], [x1,y1]=pts[(i+1)%pts.length];
-    const dx=x1-x0, dy=y1-y0, len=Math.hypot(dx,dy)||1, nx=-dy/len, ny=dx/len;
+    const dx=x1-x0, dy=y1-y0, len=Math.hypot(dx,dy)||1, nx=-dy/len*sgn, ny=dx/len*sgn;
     const n=Math.max(1,Math.ceil(len/step));
     for(let s=0;s<n;s++){
       const u=s/n, k=seed*31+i*7+s;
-      const j=(noise1(k*0.9,seed)-.5)*amp*2 + (hash(k+BOIL*13.1)-.5)*amp*0.9;
-      const x=x0+dx*u+nx*j, y=y0+dy*u+ny*j;
-      first ? (g.moveTo(x,y), first=false) : g.lineTo(x,y);
+      const j=(noise1(k*0.55,seed)-.5)*amp*2 + (hash(k*1.7+seed)-.5)*amp*0.8 + (hash(k+BOIL*13.1)-.5)*amp*0.35 + bias;
+      out.push([x0+dx*u+nx*j, y0+dy*u+ny*j]);
     }
   }
-  g.closePath();
+  return out;
 }
-function ellipsePts(cx,cy,rx,ry,n=40){ const p=[]; for(let i=0;i<n;i++){const a=i/n*Math.PI*2; p.push([cx+Math.cos(a)*rx, cy+Math.sin(a)*ry]);} return p; }
+function toPath(arr, dx=0, dy=0){ const p=new Path2D(); arr.forEach(([x,y],i)=> i? p.lineTo(x+dx,y+dy) : p.moveTo(x+dx,y+dy)); p.closePath(); return p; }
+function bbox(arr){ let a=1e9,b=1e9,c=-1e9,d=-1e9; for(const [x,y] of arr){a=Math.min(a,x);b=Math.min(b,y);c=Math.max(c,x);d=Math.max(d,y);} return [a-40,b-40,c-a+80,d-b+80]; }
 
-// a cut piece: white torn core, colored face, soft drop shadow
-function piece(pts, color, seed, {shadow=6, amp=2.2}={}){
+// A cut piece of coloured cardstock:
+//   drop shadow -> card edge (thickness) -> white torn core -> coloured face -> paper texture -> inner light & shade
+function piece(pts, color, seed, {depth=5, amp=1.6, torn=true, blur=0, tex=1}={}){
+  const face = outline(pts, seed, amp);
+  const facePath = toPath(face);
+  const core = torn ? toPath(outline(pts, seed+0.37, amp*1.6, 1.6)) : null;
+  const k = g.getTransform().a;            // shadows & filters work in device pixels
+  if(blur) g.filter = `blur(${blur*k}px)`;
+  // 1) cast shadow
   g.save();
-  g.shadowColor='rgba(40,25,10,0.35)'; g.shadowBlur=shadow*1.6; g.shadowOffsetX=shadow*0.5; g.shadowOffsetY=shadow;
-  g.fillStyle='#fbf6ea'; tornPath(pts, seed+0.5, amp*1.3); g.fill();
+  g.shadowColor='rgba(45,25,8,0.38)'; g.shadowBlur=depth*2.4*k; g.shadowOffsetX=depth*0.55*k; g.shadowOffsetY=depth*1.05*k;
+  g.fillStyle = torn ? '#efe6d2' : shade(color,-0.4); g.fill(core || facePath);
   g.restore();
-  g.fillStyle=color; tornPath(pts.map(([x,y])=>[x,y]), seed, amp);
-  g.save(); g.clip();
-  g.fill();
+  // 2) card thickness (side wall visible below/right)
+  g.fillStyle = shade(color,-0.42); g.fill(toPath(face, 0.7, 1.6));
+  // 3) torn white core with soft fibrous edge
+  if(torn){ g.fillStyle='#f7f0e1'; g.fill(core);
+    g.save(); g.clip(core); g.globalCompositeOperation='multiply'; g.globalAlpha=0.5; g.fillStyle=texPattern; g.fill(core); g.restore(); }
+  // 4) face
+  g.fillStyle = color; g.fill(facePath);
+  g.save(); g.clip(facePath);
+  // 5) texture: soft-light for mottling, multiply for fibers
+  if(tex){
+    g.save(); g.translate(seed*53%TEX, seed*91%TEX);
+    g.globalCompositeOperation='soft-light'; g.globalAlpha=0.95*tex; g.fillStyle=texPattern; g.fillRect(-TEX,-TEX,W+2*TEX,H+2*TEX);
+    g.globalCompositeOperation='multiply'; g.globalAlpha=0.22*tex; g.fillRect(-TEX,-TEX,W+2*TEX,H+2*TEX);
+    g.restore();
+  }
+  // 6) inner bevel: light from top-left, shade on bottom-right
+  const [bx,by,bw,bh] = bbox(face);
+  const ring = new Path2D(); ring.rect(bx,by,bw,bh); ring.addPath(facePath);
+  g.shadowColor='rgba(255,246,225,0.55)'; g.shadowBlur=2.2*k; g.shadowOffsetX=1.2*k; g.shadowOffsetY=1.6*k;
+  g.fillStyle='#000'; g.fill(ring,'evenodd');
+  g.shadowColor='rgba(40,20,5,0.30)'; g.shadowBlur=3*k; g.shadowOffsetX=-1.4*k; g.shadowOffsetY=-2*k;
+  g.fill(ring,'evenodd');
   g.restore();
+  if(blur) g.filter='none';
 }
 
-// --- scene pieces ---
-function hill(baseY, height, freq, seed, color, scroll){
-  const pts=[[-40,H+40]];
-  for(let x=-40;x<=W+40;x+=30){ const y=baseY - height*noise1((x+scroll)*freq, seed) - height*0.4*Math.sin((x+scroll)*freq*2.3+seed); pts.push([x,y]); }
-  pts.push([W+40,H+40]);
-  piece(pts,color,seed,{shadow:8, amp:2.6});
-}
-function tree(x,y,s,seed,color){
-  piece([[x-4*s,y],[x+4*s,y],[x+3*s,y-30*s],[x-3*s,y-30*s]],'#6b4a2e',seed+1,{shadow:4});
-  piece([[x,y-95*s],[x+26*s,y-25*s],[x-26*s,y-25*s]],color,seed,{shadow:5});
-  piece([[x,y-120*s],[x+19*s,y-62*s],[x-19*s,y-62*s]],color,seed+2,{shadow:5});
+// ---------- shapes ----------
+function ellipsePts(cx,cy,rx,ry,n=48,rot=0){ const p=[]; for(let i=0;i<n;i++){const a=i/n*Math.PI*2; const x=Math.cos(a)*rx, y=Math.sin(a)*ry; p.push([cx+x*Math.cos(rot)-y*Math.sin(rot), cy+x*Math.sin(rot)+y*Math.cos(rot)]);} return p; }
+function cloudPts(cx,cy,w,h,seed){ const p=[]; for(let i=0;i<60;i++){ const a=i/60*Math.PI*2, s=Math.sin(a);
+  const bump = 1 + 0.22*Math.abs(Math.sin(a*3+seed)) + 0.1*Math.sin(a*7+seed*2);
+  p.push([cx+Math.cos(a)*w*bump, cy + (s>0 ? s*h*0.55 : s*h*bump)]); } return p; }
+function stripe(x,y,len,wid,ang,curve){ // tapered, slightly curved stripe
+  const p=[]; const ca=Math.cos(ang), sa=Math.sin(ang);
+  for(let i=0;i<=8;i++){ const u=i/8, w=wid*(1-u*0.85), off=Math.sin(u*Math.PI)*curve; p.push([u*len, -w/2+off]); }
+  for(let i=8;i>=0;i--){ const u=i/8, w=wid*(1-u*0.85), off=Math.sin(u*Math.PI)*curve; p.push([u*len, w/2+off]); }
+  return p.map(([a,b])=>[x+a*ca-b*sa, y+a*sa+b*ca]);
 }
 
+function hill(baseY, height, freq, seed, color, scroll, o){
+  const pts=[[-60,H+60]];
+  for(let x=-60;x<=W+60;x+=24){ const y=baseY - height*noise1((x+scroll)*freq, seed) - height*0.4*Math.sin((x+scroll)*freq*2.3+seed); pts.push([x,y]); }
+  pts.push([W+60,H+60]);
+  piece(pts,color,seed,Object.assign({depth:9, amp:2.4},o));
+}
+function tree(x,y,s,seed,color,t,o={}){
+  const sway=Math.sin(t*1.7+seed)*0.03;
+  g.save(); g.translate(x,y); g.rotate(sway);
+  piece([[-4*s,0],[4*s,0],[3*s,-34*s],[-3*s,-34*s]],'#6b4a2e',seed+1,Object.assign({depth:3, torn:false},o));
+  const tiers=[[ -25,30],[-58,24],[-88,17]];
+  tiers.forEach(([ty,hw],i)=> piece([[0,(ty-46)*s],[hw*s,ty*s],[hw*0.3*s,(ty-4)*s],[-hw*0.3*s,(ty-4)*s],[-hw*s,ty*s]], shade(color, i*0.07), seed+2+i, Object.assign({depth:4, amp:1.2},o)));
+  g.restore();
+}
+function grassTuft(x,y,s,seed,color,t){
+  const sw=Math.sin(t*2.2+seed)*0.06;
+  for(let i=0;i<5;i++){ const a=-1.2+i*0.6+(hash(seed+i)-.5)*0.3+sw, l=(26+hash(seed*3+i)*22)*s;
+    piece([[x-3*s,y],[x+3*s,y],[x+Math.sin(a)*l, y-Math.cos(a)*l]], shade(color,(hash(i+seed)-.5)*0.2), seed+i*0.1, {depth:3, amp:0.6, torn:false}); }
+}
+
+// ---------- tiger ----------
 function tiger(x, y, t){
-  const ph = t*Math.PI*2*1.6;           // walk cycle
+  const ph = t*Math.PI*2*1.6;
   const bob = Math.abs(Math.sin(ph))*-5;
-  const ORANGE='#e8862a', DARK='#2b1d14', CREAM='#f4e3c3';
+  const OR='#e57f24', ORD='#bf641a', DARK='#2a1a12', CREAM='#f6e6c6', PINK='#d9877a';
   g.save(); g.translate(x, y+bob);
-  // legs: far pair first (darker), then body, then near pair
-  const leg=(hx, ang, col, sd)=>{ g.save(); g.translate(hx,10); g.rotate(ang);
-    piece([[-11,0],[11,0],[9,58],[-12,58]], col, sd, {shadow:4});
-    piece([[-13,50],[13,50],[15,64],[-14,64]], CREAM, sd+3, {shadow:2, amp:1.4}); g.restore(); };
-  leg(-55, Math.sin(ph+Math.PI)*0.45, '#c86d1e', 51);
-  leg( 45, Math.sin(ph)*0.45, '#c86d1e', 52);
-  // tail
-  g.save(); g.translate(-85,-10); g.rotate(-0.6+Math.sin(ph*0.5)*0.25);
-  piece([[0,-6],[0,6],[-70,-20],[-74,-32]], ORANGE, 60, {shadow:4});
-  piece([[-55,-14],[-62,-20],[-74,-34],[-70,-19]], DARK, 61, {shadow:1, amp:1});
+  const leg=(hx, ang, col, sd)=>{ g.save(); g.translate(hx,8); g.rotate(ang);
+    piece([[-12,0],[12,0],[10,56],[-12,56]], col, sd, {depth:4, amp:1.1});
+    piece(stripe(-12,22,16,7,0.15,1), DARK, sd+4, {depth:1.5, amp:0.5, torn:false});
+    piece([[-14,48],[14,48],[17,63],[-15,63]], CREAM, sd+3, {depth:2, amp:0.9}); g.restore(); };
+  leg(-55, Math.sin(ph+Math.PI)*0.45, ORD, 51);
+  leg( 45, Math.sin(ph)*0.45, ORD, 52);
+  // tail with rings
+  g.save(); g.translate(-88,-12); g.rotate(-0.55+Math.sin(ph*0.5)*0.25);
+  const tail=[]; for(let i=0;i<=10;i++){ const u=i/10; tail.push([-u*80, -Math.sin(u*2.2)*22 - 6 + u*2]); }
+  for(let i=10;i>=0;i--){ const u=i/10; tail.push([-u*80, -Math.sin(u*2.2)*22 + 6 - u*4]); }
+  piece(tail, OR, 60, {depth:4, amp:1});
+  [30,48,64].forEach((d,i)=> piece(stripe(-d,-Math.sin(d/80*2.2)*22-8,14,6,1.5,0), DARK, 61+i, {depth:1.5, amp:0.4, torn:false}));
+  piece(ellipsePts(-78,-20,8,9,16), DARK, 64, {depth:1.5, amp:0.5});
   g.restore();
   // body
-  piece(ellipsePts(0,0,95,42), ORANGE, 70);
-  piece(ellipsePts(5,22,70,16), CREAM, 71, {shadow:2});
-  for(let i=0;i<5;i++){ const sx=-60+i*28; piece([[sx-6,-40],[sx+6,-40],[sx+2,-8],[sx-3,-12]], DARK, 80+i, {shadow:1, amp:1.2}); }
-  leg(-40, Math.sin(ph)*0.45, ORANGE, 53);
-  leg( 60, Math.sin(ph+Math.PI)*0.45, ORANGE, 54);
+  piece(ellipsePts(0,0,96,43), OR, 70, {depth:7});
+  piece(ellipsePts(6,24,70,15), CREAM, 71, {depth:2.5});
+  for(let i=0;i<6;i++){ const sx=-70+i*25; piece(stripe(sx,-42,34-(i%2)*6,10,1.45+(i-2.5)*0.05,3), DARK, 80+i, {depth:1.5, amp:0.6, torn:false}); }
+  leg(-40, Math.sin(ph)*0.45, OR, 53);
+  leg( 60, Math.sin(ph+Math.PI)*0.45, OR, 54);
   // head
-  g.save(); g.translate(100,-30); g.rotate(Math.sin(ph)*0.05);
-  piece([[-22,-30],[-8,-58],[4,-30]], ORANGE, 90, {shadow:3});
-  piece([[14,-30],[28,-56],[38,-26]], ORANGE, 91, {shadow:3});
-  piece(ellipsePts(8,0,44,38), ORANGE, 92);
-  piece(ellipsePts(26,16,24,15), CREAM, 93, {shadow:2});
-  piece([[ -20,-24],[-12,-26],[-14,-6]], DARK, 94, {shadow:1, amp:1});
-  piece([[ 8,-38],[14,-38],[11,-22]], DARK, 95, {shadow:1, amp:1});
-  // eye blinks around t=3.2
+  g.save(); g.translate(102,-32); g.rotate(Math.sin(ph)*0.05);
+  piece([[-26,-24],[-12,-60],[6,-28]], OR, 90, {depth:3});
+  piece([[-19,-30],[-12,-50],[-2,-30]], PINK, 98, {depth:1.5, amp:0.6, torn:false});
+  piece([[12,-30],[28,-58],[40,-24]], OR, 91, {depth:3});
+  piece([[19,-30],[28,-48],[34,-28]], PINK, 99, {depth:1.5, amp:0.6, torn:false});
+  // cheek ruff (zigzag)
+  const ruff=[]; for(let i=0;i<=12;i++){ const a=Math.PI*0.2+i/12*Math.PI*0.9, r=i%2?40:50; ruff.push([4+Math.cos(a)*r, 6+Math.sin(a)*r*0.85]); }
+  ruff.push([4,6]);
+  piece(ruff, CREAM, 89, {depth:3, amp:0.8});
+  piece(ellipsePts(8,0,44,38), OR, 92, {depth:5});
+  piece(stripe(-12,-36,20,6,1.2,0), DARK, 94, {depth:1.2, amp:0.4, torn:false});
+  piece(stripe(6,-38,18,6,1.55,0), DARK, 95, {depth:1.2, amp:0.4, torn:false});
+  piece(ellipsePts(28,16,25,16), CREAM, 93, {depth:2.5});
+  // eye
   const blink = Math.abs(t-3.2)<0.08;
-  piece(blink? [[14,-8],[26,-8],[26,-5],[14,-5]] : ellipsePts(20,-6,5,6,12), DARK, 96, {shadow:1, amp:0.6});
-  piece(ellipsePts(46,8,7,5,12), '#4a2a1a', 97, {shadow:1, amp:0.6});
+  if(blink) piece([[12,-9],[28,-9],[28,-5],[12,-5]], DARK, 96, {depth:1, amp:0.3, torn:false});
+  else { piece(ellipsePts(20,-6,7,7.5,20), '#f8efd8', 96, {depth:1.2, amp:0.3, torn:false});
+         piece(ellipsePts(22,-6,4,5,14), DARK, 97, {depth:0.8, amp:0.2, torn:false, tex:0.4}); }
+  piece([[42,4],[54,6],[49,14]], '#4a2418', 86, {depth:1.2, amp:0.3, torn:false});
+  // paper-strip whiskers
+  [[-0.1,0],[0.12,5],[0.32,10]].forEach(([a,dy],i)=> piece([[44,14+dy*0.4],[78,8+dy*1.6],[78,10+dy*1.6],[44,16+dy*0.4]].map(([px,py])=>[px,py+a*6]), '#fbf4e4', 120+i, {depth:1, amp:0.2, torn:false, tex:0.3}));
   g.restore();
   g.restore();
 }
@@ -107,40 +196,55 @@ function tiger(x, y, t){
 function ease(x){ x=Math.min(1,Math.max(0,x)); return x*x*(3-2*x); }
 
 function renderFrame(t){
-  BOIL = Math.floor(t*12); // 12 changes/sec = on twos at 24fps
-  g.setTransform(1,0,0,1,0,0);
-  // sky paper
-  const sky=g.createLinearGradient(0,0,0,H); sky.addColorStop(0,'#f6d9a8'); sky.addColorStop(1,'#f1b98a');
-  g.fillStyle=sky; g.fillRect(0,0,W,H);
-  // sun rises slightly
+  BOIL = Math.floor(t*12);                 // stop-motion "on twos" at 24fps
+  const jx=(hash(BOIL*3.3)-.5)*0.6, jy=(hash(BOIL*7.7)-.5)*0.6; // tiny camera jitter between shots
+  g.setTransform(S,0,0,S,jx*S,jy*S);
+  g.filter='none';
+  // backdrop: one big textured sheet with a soft painted gradient
+  const sky=g.createLinearGradient(0,0,0,H); sky.addColorStop(0,'#f3d6a4'); sky.addColorStop(0.6,'#f0bd8c'); sky.addColorStop(1,'#e8a47a');
+  g.fillStyle=sky; g.fillRect(-10,-10,W+20,H+20);
+  g.save(); g.globalCompositeOperation='soft-light'; g.fillStyle=texPattern; g.fillRect(-10,-10,W+20,H+20);
+  g.globalCompositeOperation='multiply'; g.globalAlpha=0.15; g.fillRect(-10,-10,W+20,H+20); g.restore();
+
+  // sun: three concentric paper rings
   const sunY = 250 - ease(t/DURATION)*60;
-  piece(ellipsePts(930,sunY,90,90,48), '#e65a3a', 5, {shadow:6});
-  // clouds drift
+  piece(ellipsePts(930,sunY,104,104,60), '#f2a25a', 5, {depth:4, blur:1.4});
+  piece(ellipsePts(930,sunY,88,88,56), '#ea6a3c', 6, {depth:5, blur:1.2});
+  piece(ellipsePts(930,sunY,66,66,48), '#e0502f', 7, {depth:4, blur:1.2, torn:false});
+  // clouds
   for(let i=0;i<3;i++){ const cx=((i*480 + t*25) % (W+300)) - 150, cy=110+i*45;
-    piece(ellipsePts(cx,cy,80,22,30), '#fbf1de', 10+i, {shadow:4}); }
-  const cam = t*90; // parallax
-  hill(470, 120, 0.004, 1, '#b9785a', cam*0.2);
-  hill(540, 90, 0.006, 2, '#8f6a4f', cam*0.45);
-  for(let i=0;i<7;i++){ const tx=((i*230 - cam*0.7) % (W+200) + W+200) % (W+200) - 100; tree(tx, 560, 0.9, 20+i, i%2?'#4f6b3a':'#3e5a30'); }
-  hill(630, 50, 0.008, 3, '#5d7a3e', cam);
-  // tiger walks in from the left and settles center
+    piece(cloudPts(cx,cy,78,30,i*2.1), '#fbf2df', 10+i, {depth:6, blur:1.1}); }
+
+  const cam = t*90;
+  hill(470, 120, 0.004, 1, '#c08463', cam*0.2, {blur:1.6});
+  hill(540, 90, 0.006, 2, '#97704f', cam*0.45, {blur:0.8});
+  for(let i=0;i<7;i++){ const tx=((i*230 - cam*0.7) % (W+200) + W+200) % (W+200) - 100; tree(tx, 560, 0.9, 20+i, i%2?'#52703b':'#3f5d30', t, {blur:0.3}); }
+  hill(630, 50, 0.008, 3, '#62803f', cam);
+  // little paper flowers on the walking meadow
+  for(let i=0;i<9;i++){ const fx=((i*157 - cam) % (W+100) + W+100) % (W+100) - 50, fy=650+hash(i)*30;
+    piece(ellipsePts(fx,fy,6,6,10), i%3? '#f4e7c8':'#e98b6a', 200+i, {depth:2, amp:0.5}); }
   const tx = -200 + ease(t/4.2)*780;
   tiger(tx, 585, t);
-  hill(740, 40, 0.012, 4, '#3f5c2b', cam*1.3);
+  hill(740, 40, 0.012, 4, '#45632d', cam*1.3);
+  for(let i=0;i<8;i++){ const gx=((i*190 - cam*1.3) % (W+200) + W+200) % (W+200) - 100; grassTuft(gx, 712+hash(i*5)*8, 1.1, 300+i, '#3a5626', t); }
   // title card
   const a = ease((t-4.3)/0.8);
-  if(a>0){ g.save(); g.globalAlpha=a; g.translate(W/2, 120 - (1-a)*20);
-    piece([[-230,-48],[230,-52],[226,46],[-226,50]], '#fbf6ea', 99, {shadow:8});
-    g.fillStyle='#2b1d14'; g.font='bold 56px Georgia, serif'; g.textAlign='center'; g.textBaseline='middle';
-    g.fillText('Paper Tiger', 0, 2); g.restore(); }
-  // grain + vignette
-  g.save(); g.globalCompositeOperation='multiply'; g.globalAlpha=0.55; g.drawImage(grain,0,0); g.restore();
-  const v=g.createRadialGradient(W/2,H/2,H*0.4,W/2,H/2,H*0.95); v.addColorStop(0,'rgba(0,0,0,0)'); v.addColorStop(1,'rgba(40,20,0,0.35)');
-  g.fillStyle=v; g.fillRect(0,0,W,H);
+  if(a>0){ g.save(); g.globalAlpha=a; g.translate(W/2, 120 - (1-a)*20); g.rotate(-0.012);
+    piece([[-232,-50],[232,-54],[228,48],[-228,52]], '#fbf5e6', 99, {depth:9});
+    g.fillStyle='#2a1a12'; g.font='bold 58px Georgia, serif'; g.textAlign='center'; g.textBaseline='middle';
+    g.globalAlpha=a*0.9; g.fillText('Paper Tiger', 0, 2);
+    g.restore(); }
+
+  // lighting pass in device pixels: warm sun glow, grain, vignette
+  g.setTransform(1,0,0,1,0,0);
+  const glow=g.createRadialGradient(930*S,sunY*S,0,930*S,sunY*S,700*S); glow.addColorStop(0,'rgba(255,214,150,0.35)'); glow.addColorStop(1,'rgba(255,214,150,0)');
+  g.save(); g.globalCompositeOperation='screen'; g.fillStyle=glow; g.fillRect(0,0,W*S,H*S); g.restore();
+  g.save(); g.globalCompositeOperation='multiply'; g.globalAlpha=0.35; g.drawImage(grain,0,0); g.restore();
+  const v=g.createRadialGradient(W*S/2,H*S/2,H*S*0.35,W*S/2,H*S/2,H*S); v.addColorStop(0,'rgba(0,0,0,0)'); v.addColorStop(1,'rgba(45,22,5,0.42)');
+  g.fillStyle=v; g.fillRect(0,0,W*S,H*S);
 }
 window.renderFrame = renderFrame; window.FPS=FPS; window.DURATION=DURATION;
 
-// live preview when opened in a browser
 if(!location.search.includes('render')){
   const start=performance.now();
   (function loop(){ const t=((performance.now()-start)/1000)%DURATION; renderFrame(Math.floor(t*FPS)/FPS); requestAnimationFrame(loop); })();
