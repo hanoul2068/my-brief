@@ -94,8 +94,8 @@ function piece(pts, color, seed, {depth=5, amp=1.6, torn=true, blur=0, tex=1}={}
   // 5) texture: soft-light for mottling, multiply for fibers
   if(tex){
     g.save(); g.translate(seed*53%TEX, seed*91%TEX);
-    g.globalCompositeOperation='soft-light'; g.globalAlpha=0.95*tex; g.fillStyle=texPattern; g.fillRect(-TEX,-TEX,W+2*TEX,H+2*TEX);
-    g.globalCompositeOperation='multiply'; g.globalAlpha=0.22*tex; g.fillRect(-TEX,-TEX,W+2*TEX,H+2*TEX);
+    g.globalCompositeOperation='soft-light'; g.globalAlpha=0.95*tex; g.fillStyle=texPattern; g.fillRect(-4000,-4000,8000,8000);
+    g.globalCompositeOperation='multiply'; g.globalAlpha=0.22*tex; g.fillRect(-4000,-4000,8000,8000);
     g.restore();
   }
   // 6) inner bevel: light from top-left, shade on bottom-right
