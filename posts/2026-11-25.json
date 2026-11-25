@@ -1,0 +1,123 @@
+{
+  "generated_at": "2026-11-25T13:05:28.878746+09:00",
+  "categories": [
+    {
+      "id": "all",
+      "name": "전체"
+    },
+    {
+      "id": "headline",
+      "name": "🔥 주요소식"
+    },
+    {
+      "id": "politics",
+      "name": "⚖️ 정치"
+    },
+    {
+      "id": "economy",
+      "name": "💰 경제/IT"
+    },
+    {
+      "id": "society",
+      "name": "👥 사회/생활"
+    },
+    {
+      "id": "science",
+      "name": "🧪 과학/기술"
+    },
+    {
+      "id": "policy",
+      "name": "📢 정부/정책"
+    }
+  ],
+  "items": [
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "[핫클릭] 관계자 추정 남성, 여성 거칠게 밀어…경찰 고발",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20261125125740VvG",
+      "published_at": "2026-11-25 13:05",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "국힘 \"이용철 후보자, '공소취소 지휘 없다'고 끝내 답 안 해…사퇴하라\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008862657&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-25 13:05",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[자막뉴스] \"판결했다고 탄핵?\" 들끓는 법원…\"계엄 선포만큼이나 역사에 오점\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008862310&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-25 13:05",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "\"한덕수, 대법원이 봐준 걸까?\"…'계엄 전 무죄·선포 후 유죄'의 진짜 의미 [취재파일]",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008862482&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-25 13:05",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "예산 처리 시한 D-7…예산소위, 내일부터 미래기금 심사 착수",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008862297&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-25 13:05",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[정치쇼] 김성태 \"한동훈 징계, 당내에서 정치적으로 풀 시간 끝났다…이제 종지부 찍어야\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008862245&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-25 13:05",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "[AFTER 8 SPECIAL] \"계엄 전엔 몰랐다?\" 면죄부?…'한덕수의 밤' 쪼개진 결정적 이유",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008859239&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-25 13:05",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "영국 재무부 \"의심 법인 수사 중 북한 제재 회피 연루 정황 포착\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008862145&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-25 13:05",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "이 대통령, 5·18 진압 경찰 등 포상 취소에 \"당연한 조치…역사 교정 계속\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008862092&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-25 13:05",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "이번 달만 3번째 무단 진입…동해서 활개치는 러시아",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008861939&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-25 13:05",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "공소 취소 확답은 안 하고…\"친분 있지만 측근 아냐\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008861930&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-25 13:05",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    }
+  ]
+}
