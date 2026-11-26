@@ -8,6 +8,7 @@ Option Explicit
 '                  - 트렌드 시트 : 선택한 그림(여러 개 가능)을 각자 놓인 칸에 맞춤
 '                  - 추가확인 시트 : 선택한 그림(또는 선택한 칸)이 있는 행의 그림을 왼쪽부터 다시 정렬
 '   Ctrl+Shift+S : '트렌드' / '추가확인' 시트를 Case별로 정렬 (Case 발견순 -> 날짜순, 그림도 같이 이동)
+'   Ctrl+Shift+U : (통합 파일에서) IC·CJ 파일을 그림까지 다시 불러와 통합 + 정렬
 '   Ctrl+Shift+D : '트렌드' / '추가확인' 시트에서 기준일 이전 행의 그림만 삭제 (텍스트는 유지)
 
 Private Const MARGIN As Double = 2   ' 칸 안쪽 여백 (pt)
@@ -78,31 +79,81 @@ End Sub
 
 Public Sub SortByCase()
 Attribute SortByCase.VB_ProcData.VB_Invoke_Func = "S\n14"
-    Dim ws As Worksheet, keyCol As Long, lastR As Long, f As Range
+    Dim ws As Worksheet
     Set ws = ActiveSheet
     If ws.Name <> "트렌드" And ws.Name <> "추가확인" Then
         MsgBox "'트렌드' 또는 '추가확인' 시트에서 실행하세요.", vbExclamation: Exit Sub
     End If
-    Set f = ws.Rows(1).Find(What:="정렬키", LookIn:=xlValues, LookAt:=xlWhole)
-    If f Is Nothing Then
-        MsgBox "'정렬키' 열을 찾을 수 없습니다.", vbExclamation: Exit Sub
-    End If
-    keyCol = f.Column
-    lastR = Application.WorksheetFunction.Max(ws.Cells(ws.Rows.Count, 2).End(xlUp).Row, _
-                                              ws.Cells(ws.Rows.Count, 3).End(xlUp).Row)
-    If lastR < 3 Then Exit Sub
-    If ws.FilterMode Then ws.ShowAllData
     Application.Calculate
-    With ws.Sort
-        .SortFields.Clear
-        .SortFields.Add Key:=ws.Range(ws.Cells(2, keyCol), ws.Cells(lastR, keyCol)), _
-                        SortOn:=xlSortOnValues, Order:=xlAscending
-        .SetRange ws.Range(ws.Cells(2, 1), ws.Cells(lastR, keyCol))
-        .Header = xlNo
-        .Orientation = xlTopToBottom
-        .Apply
-    End With
+    If Not SortSheet(ws) Then MsgBox "'정렬키' 열을 찾을 수 없습니다.", vbExclamation: Exit Sub
     ws.Cells(2, 1).Select
+End Sub
+
+Public Sub MergeSites()
+Attribute MergeSites.VB_ProcData.VB_Invoke_Func = "U\n14"
+    ' 통합 파일에서 실행: IC·CJ 파일의 트렌드·추가확인을 그림까지 다시 불러와 정렬
+    Dim wb As Workbook, cfg As Worksheet, paths(1 To 2) As String, i As Long, v As Variant
+    Dim src As Workbook, opened As Boolean, sn As Variant, cnt As Long, msg As String
+    Set wb = ActiveWorkbook
+    On Error Resume Next
+    Set cfg = wb.Worksheets("목록")
+    On Error GoTo 0
+    If cfg Is Nothing Then MsgBox "통합 파일에서 실행하세요.", vbExclamation: Exit Sub
+    If CStr(cfg.Range("P1").Value) <> "통합 설정" Then
+        MsgBox "통합 파일(Defect_Trend_통합.xlsx)에서 실행하세요.", vbExclamation: Exit Sub
+    End If
+    For i = 1 To 2
+        paths(i) = CStr(cfg.Range("Q" & (1 + i)).Value)
+        If paths(i) = "" Or Not FileExists(paths(i)) Then
+            v = Application.GetOpenFilename("Excel 파일 (*.xlsx;*.xlsm),*.xlsx;*.xlsm", , _
+                                            IIf(i = 1, "이천(IC) 파일 선택", "청주(CJ) 파일 선택"))
+            If VarType(v) = vbBoolean Then Exit Sub
+            paths(i) = CStr(v)
+            cfg.Range("Q" & (1 + i)).Value = paths(i)
+        End If
+    Next i
+    If MsgBox("아래 두 파일을 다시 불러와 통합합니다." & vbLf & "(통합 파일의 기존 내용은 지워지고, 원본은 바뀌지 않음)" & vbLf & vbLf & _
+              paths(1) & vbLf & paths(2), vbOKCancel + vbQuestion, "통합 갱신") <> vbOK Then Exit Sub
+
+    Application.ScreenUpdating = False
+    Application.EnableEvents = False
+    Application.Calculation = xlCalculationManual
+    On Error GoTo fail
+    For Each sn In Array("트렌드", "추가확인")
+        ClearData wb.Worksheets(sn)
+    Next sn
+    For i = 1 To 2
+        Set src = Nothing: opened = False
+        On Error Resume Next
+        Set src = Workbooks(Mid(paths(i), InStrRev(paths(i), "\") + 1))
+        On Error GoTo fail
+        If src Is Nothing Then
+            Set src = Workbooks.Open(paths(i), UpdateLinks:=0, ReadOnly:=True)
+            opened = True
+        End If
+        For Each sn In Array("트렌드", "추가확인")
+            cnt = AppendSheet(src.Worksheets(sn), wb.Worksheets(sn))
+            msg = msg & src.Name & " " & sn & " : " & cnt & "행" & vbLf
+        Next sn
+        If opened Then src.Close SaveChanges:=False
+        wb.Activate
+    Next i
+    Application.Calculation = xlCalculationAutomatic
+    Application.Calculate
+    For Each sn In Array("트렌드", "추가확인")
+        SortSheet wb.Worksheets(sn)
+    Next sn
+    cfg.Range("Q4").Value = Now
+    Application.ScreenUpdating = True
+    Application.EnableEvents = True
+    wb.Worksheets("Case요약").Activate
+    MsgBox "통합 완료" & vbLf & vbLf & msg & vbLf & "저장(Ctrl+S)하면 반영됩니다.", vbInformation, "통합 갱신"
+    Exit Sub
+fail:
+    Application.Calculation = xlCalculationAutomatic
+    Application.ScreenUpdating = True
+    Application.EnableEvents = True
+    MsgBox "통합 중 오류: " & Err.Description, vbCritical
 End Sub
 
 Public Sub DeleteOldPictures()
@@ -264,3 +315,106 @@ Private Sub RepackRow(ws As Worksheet, r As Long, bc As Long)
         x = x + arr(i).Width + GAP
     Next i
 End Sub
+
+' ---------------------------------------------------------------- 정렬 · 통합용
+Private Function HeaderCol(ws As Worksheet, title As String) As Long
+    Dim f As Range
+    Set f = ws.Rows(1).Find(What:=title, LookIn:=xlValues, LookAt:=xlWhole)
+    If Not f Is Nothing Then HeaderCol = f.Column
+End Function
+
+Private Function LastDataRow(ws As Worksheet) As Long
+    LastDataRow = Application.WorksheetFunction.Max(ws.Cells(ws.Rows.Count, 2).End(xlUp).Row, _
+                                                    ws.Cells(ws.Rows.Count, 3).End(xlUp).Row, 1)
+End Function
+
+Private Function SortSheet(ws As Worksheet) As Boolean
+    Dim keyCol As Long, lastR As Long
+    keyCol = HeaderCol(ws, "정렬키")
+    If keyCol = 0 Then Exit Function
+    SortSheet = True
+    lastR = LastDataRow(ws)
+    If lastR < 3 Then Exit Function
+    If ws.FilterMode Then ws.ShowAllData
+    With ws.Sort
+        .SortFields.Clear
+        .SortFields.Add Key:=ws.Range(ws.Cells(2, keyCol), ws.Cells(lastR, keyCol)), _
+                        SortOn:=xlSortOnValues, Order:=xlAscending
+        .SetRange ws.Range(ws.Cells(2, 1), ws.Cells(lastR, keyCol))
+        .Header = xlNo
+        .Orientation = xlTopToBottom
+        .Apply
+    End With
+End Function
+
+Private Function FileExists(p As String) As Boolean
+    On Error Resume Next
+    FileExists = (Len(Dir(p)) > 0)
+End Function
+
+Private Sub ClearData(ws As Worksheet)
+    ' 통합 파일 데이터 초기화: 그림 삭제 + 입력 칸 비우기 (수식 칸은 유지)
+    Dim lastR As Long, keyCol As Long, c As Long, i As Long, h As Double
+    keyCol = HeaderCol(ws, "정렬키")
+    lastR = LastDataRow(ws)
+    For i = ws.Shapes.Count To 1 Step -1
+        If ws.Shapes(i).Type = msoPicture Then
+            If ws.Shapes(i).TopLeftCell.Row >= 2 Then ws.Shapes(i).Delete
+        End If
+    Next i
+    If ws.FilterMode Then ws.ShowAllData
+    If lastR < 2 Then Exit Sub
+    h = ws.Rows(lastR + 1).Height
+    For c = 1 To keyCol
+        If Not ws.Cells(2, c).HasFormula Then ws.Range(ws.Cells(2, c), ws.Cells(lastR, c)).ClearContents
+    Next c
+    ws.Range(ws.Rows(2), ws.Rows(lastR)).RowHeight = h
+End Sub
+
+Private Function AppendSheet(src As Worksheet, dst As Worksheet) As Long
+    ' src의 데이터 행(입력 칸 값 + 그림)을 dst의 다음 빈 행부터 복사. 복사한 행 수 반환
+    Dim keyCol As Long, srcLast As Long, d As Long, r As Long, c As Long
+    Dim mp() As Long, shp As Shape, ns As Shape, sr As Long, n As Long
+    keyCol = HeaderCol(dst, "정렬키")
+    srcLast = LastDataRow(src)
+    If srcLast < 2 Then Exit Function
+    d = LastDataRow(dst) + 1
+    ReDim mp(1 To srcLast)
+    For r = 2 To srcLast
+        If CStr(src.Cells(r, 2).Value) <> "" Or CStr(src.Cells(r, 3).Value) <> "" Then
+            If Not dst.Cells(d, 1).HasFormula Then
+                Err.Raise vbObjectError + 1, , "통합 파일의 수식 행이 부족합니다 (" & dst.Name & " " & d & "행)."
+            End If
+            For c = 1 To keyCol
+                If Not dst.Cells(2, c).HasFormula Then
+                    If Not IsEmpty(src.Cells(r, c).Value) Then dst.Cells(d, c).Value = src.Cells(r, c).Value
+                End If
+            Next c
+            dst.Rows(d).RowHeight = src.Rows(r).Height
+            mp(r) = d
+            d = d + 1: n = n + 1
+        End If
+    Next r
+    dst.Parent.Activate
+    dst.Activate
+    For Each shp In src.Shapes
+        If shp.Type = msoPicture Then
+            sr = CellAtCenter(shp).Row
+            If sr >= 2 And sr <= srcLast Then
+                If mp(sr) > 0 Then
+                    shp.Copy
+                    dst.Cells(mp(sr), 1).Select
+                    dst.Paste
+                    Set ns = dst.Shapes(dst.Shapes.Count)
+                    ns.LockAspectRatio = msoFalse
+                    ns.Width = shp.Width: ns.Height = shp.Height
+                    ns.Left = shp.Left
+                    ns.Top = dst.Rows(mp(sr)).Top + (shp.Top - src.Rows(sr).Top)
+                    ns.LockAspectRatio = msoTrue
+                    ns.Placement = xlMoveAndSize
+                End If
+            End If
+        End If
+    Next shp
+    AppendSheet = n
+End Function
