@@ -146,7 +146,7 @@ Attribute MergeSites.VB_ProcData.VB_Invoke_Func = "U\n14"
     cfg.Range("Q4").Value = Now
     Application.ScreenUpdating = True
     Application.EnableEvents = True
-    wb.Worksheets("Case요약").Activate
+    wb.Worksheets("브리핑").Activate
     MsgBox "통합 완료" & vbLf & vbLf & msg & vbLf & "저장(Ctrl+S)하면 반영됩니다.", vbInformation, "통합 갱신"
     Exit Sub
 fail:
