@@ -3,6 +3,7 @@ Option Explicit
 ' Defect Trend 로그용 그림 매크로 (개인용 매크로 통합 문서 PERSONAL.XLSB에 넣어 사용)
 '   Ctrl+Shift+J : 복사한 그림을 선택한 칸에 JPEG로 붙여넣고 칸 크기에 맞춤
 '   Ctrl+Shift+K : 선택한 그림(여러 개 가능)을 각자 놓인 칸에 맞춤
+'   Ctrl+Shift+S : '트렌드' 시트를 Case별로 정렬 (Case 발견순 -> 날짜순, 그림도 같이 이동)
 '   Ctrl+Shift+D : '트렌드' 시트에서 기준일 이전 행의 그림만 삭제 (텍스트는 유지)
 
 Private Const MARGIN As Double = 2   ' 칸 안쪽 여백 (pt)
@@ -42,6 +43,35 @@ Attribute FitSelected.VB_ProcData.VB_Invoke_Func = "K\n14"
         FitToCell shp, CellAtCenter(shp)
     Next i
     ActiveCell.Select
+End Sub
+
+Public Sub SortByCase()
+Attribute SortByCase.VB_ProcData.VB_Invoke_Func = "S\n14"
+    Dim ws As Worksheet, keyCol As Long, lastR As Long, f As Range
+    Set ws = ActiveSheet
+    If ws.Name <> "트렌드" Then
+        MsgBox "'트렌드' 시트에서 실행하세요.", vbExclamation: Exit Sub
+    End If
+    Set f = ws.Rows(1).Find(What:="정렬키", LookIn:=xlValues, LookAt:=xlWhole)
+    If f Is Nothing Then
+        MsgBox "'정렬키' 열을 찾을 수 없습니다.", vbExclamation: Exit Sub
+    End If
+    keyCol = f.Column
+    lastR = Application.WorksheetFunction.Max(ws.Cells(ws.Rows.Count, 2).End(xlUp).Row, _
+                                              ws.Cells(ws.Rows.Count, 3).End(xlUp).Row)
+    If lastR < 3 Then Exit Sub
+    If ws.FilterMode Then ws.ShowAllData
+    Application.Calculate
+    With ws.Sort
+        .SortFields.Clear
+        .SortFields.Add Key:=ws.Range(ws.Cells(2, keyCol), ws.Cells(lastR, keyCol)), _
+                        SortOn:=xlSortOnValues, Order:=xlAscending
+        .SetRange ws.Range(ws.Cells(2, 1), ws.Cells(lastR, keyCol))
+        .Header = xlNo
+        .Orientation = xlTopToBottom
+        .Apply
+    End With
+    ws.Cells(2, 1).Select
 End Sub
 
 Public Sub DeleteOldPictures()
