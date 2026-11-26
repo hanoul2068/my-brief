@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T14:05:47.210688+09:00",
+  "generated_at": "2026-11-26T12:29:17.774755+09:00",
   "categories": [
     {
       "id": "all",
@@ -34,105 +34,153 @@
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "'젠슨 황 스캔들' 후폭풍…미중 첩보전 격화",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20261125135924W7w",
-      "published_at": "2026-11-25 14:05",
+      "title": "'무료 식사' 40번 먹고 별점 테러…참다못한 사장의 결단",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202611261218001fW",
+      "published_at": "2026-11-26 12:28",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "中 \"트럼프, 대만 독립 지지 안한다 말해\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261125135628mB5",
-      "published_at": "2026-11-25 14:05",
+      "title": "노재헌 주중대사에 소환 통보…노태우 비자금 수사",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH202611261207434PN",
+      "published_at": "2026-11-26 12:28",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "headline",
       "source": "주요뉴스 (연합TV)",
-      "title": "영국 해리 왕자 장인, 징역 40년 가능성도…아동 성범죄 추가",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR2026112513492741P",
-      "published_at": "2026-11-25 14:05",
+      "title": "\"회식비 다 내라\"…벽돌로 사장 폭행한 직원 집행유예",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261126120332b7I",
+      "published_at": "2026-11-26 12:28",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "\"저렴하게 팝니다\"…허위 글로 중고 거래 사기 20대 구속",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261126120302ouT",
+      "published_at": "2026-11-26 12:28",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "전북자치도‧지역 국회의원…현대차 입법 등 주요 현안 공조",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261126120246xm5",
+      "published_at": "2026-11-26 12:28",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "음주 측정 거부·역주행 도주극 벌인 30대 징역형",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261126120203qhZ",
+      "published_at": "2026-11-26 12:28",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "\"교육교부금 개편 반대\"…강은희 교육감, '상생안' 입법 촉구 1인 시위",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261126120150YKD",
+      "published_at": "2026-11-26 12:28",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "공정위, 애플 AI 기능 '기만광고' 혐의 심의 착수",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261126090513Sft",
+      "published_at": "2026-11-26 12:28",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "피부 미용시술 피해 급증…\"82%가 계약해지 분쟁\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261125175621Nke",
+      "published_at": "2026-11-26 12:29",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "politics",
       "source": "정치 (SBS)",
-      "title": "갈수록 이전투구 양상으로 바뀌는 국힘 '조작 징계' 의혹",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008862811&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-11-25 14:05",
+      "title": "김정은 핵시설 시찰…\"전술핵, 다양한 영역서 활용해야\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008864711&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-26 12:29",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "politics",
       "source": "정치 (SBS)",
-      "title": "정점식 \"이용철·특검·대법원장 탄핵…이재명표 버뮤다 탈옥 지대\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008862798&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-11-25 14:05",
+      "title": "이 대통령 \"대선 약속대로…희귀·중증 보험료 부담 낮춰\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008864658&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-26 12:29",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "politics",
       "source": "정치 (SBS)",
-      "title": "국힘 \"이용철 후보자, '공소취소 지휘 없다'고 끝내 답 안 해…사퇴하라\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008862657&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-11-25 14:05",
+      "title": "정부, '무고성 아동학대 신고' 개선…한 총리 \"교사 소신 교육 보장\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008864602&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-26 12:29",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "politics",
       "source": "정치 (SBS)",
-      "title": "[자막뉴스] \"판결했다고 탄핵?\" 들끓는 법원…\"계엄 선포만큼이나 역사에 오점\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008862310&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-11-25 14:05",
+      "title": "선글라스 끼고 질문엔 묵묵부답…강금실 사무실 첫 출근",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008864605&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-26 12:29",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "politics",
       "source": "정치 (SBS)",
-      "title": "\"한덕수, 대법원이 봐준 걸까?\"…'계엄 전 무죄·선포 후 유죄'의 진짜 의미 [취재파일]",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008862482&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-11-25 14:05",
+      "title": "[에디터픽] 김주애 홀로 '올화이트 명품'..'대북 제재' 콧방귀 뀌는 북한?",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008864244&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-26 12:29",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "politics",
       "source": "정치 (SBS)",
-      "title": "예산 처리 시한 D-7…예산소위, 내일부터 미래기금 심사 착수",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008862297&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-11-25 14:05",
+      "title": "현지 시찰한 김정은, '핵폭탄' 과시했다…공개 사진 보니",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008864305&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-26 12:29",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "politics",
       "source": "정치 (SBS)",
-      "title": "[정치쇼] 김성태 \"한동훈 징계, 당내에서 정치적으로 풀 시간 끝났다…이제 종지부 찍어야\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008862245&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-11-25 14:05",
+      "title": "김민석 \"오세훈, 서울시정 대권 준비 징검다리로 활용…깊이 자성해야\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008864330&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-26 12:29",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "politics",
       "source": "정치 (SBS)",
-      "title": "[AFTER 8 SPECIAL] \"계엄 전엔 몰랐다?\" 면죄부?…'한덕수의 밤' 쪼개진 결정적 이유",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008859239&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-11-25 14:05",
+      "title": "[정치쇼] 김영진 \"김민석-정청래, 이제는 마무리할 때…최민희 소명자료? 녹취록 있는데 무슨 의미\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008864098&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-26 12:29",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "politics",
       "source": "정치 (SBS)",
-      "title": "영국 재무부 \"의심 법인 수사 중 북한 제재 회피 연루 정황 포착\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008862145&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-11-25 14:05",
+      "title": "임대주택 현장 찾은 이 대통령…\"주거 사다리 역할 해야\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008863981&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-26 12:29",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     },
     {
       "category": "politics",
       "source": "정치 (SBS)",
-      "title": "이 대통령, 5·18 진압 경찰 등 포상 취소에 \"당연한 조치…역사 교정 계속\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008862092&plink=RSSLINK&cooper=RSSREADER",
-      "published_at": "2026-11-25 14:05",
+      "title": "김정은 \"전술핵 다양한 임무 수행, 절실한 과제\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008863980&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-26 12:29",
       "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
     }
   ]
