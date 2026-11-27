@@ -420,6 +420,6 @@ Private Function AppendSheet(src As Worksheet, dst As Worksheet) As Long
 End Function
 
 Private Function IsInputCol(ws As Worksheet, c As Long) As Boolean
-    ' 입력 열 = 1행 헤더가 노란색(FFF2CC). 수식 열·그림 열은 제외
-    IsInputCol = (ws.Cells(1, c).Interior.Color = RGB(255, 242, 204))
+    ' 입력 열 = 1행 헤더 색이 E7E6E6(진한 회색). 수식 열·그림 열은 제외
+    IsInputCol = (ws.Cells(1, c).Interior.Color = RGB(231, 230, 230))
 End Function
