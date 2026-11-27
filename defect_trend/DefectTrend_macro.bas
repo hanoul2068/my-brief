@@ -7,9 +7,9 @@ Option Explicit
 '   Ctrl+Shift+K : 그림 정리
 '                  - 트렌드 시트 : 선택한 그림(여러 개 가능)을 각자 놓인 칸에 맞춤
 '                  - 추가확인 시트 : 선택한 그림(또는 선택한 칸)이 있는 행의 그림을 왼쪽부터 다시 정렬
-'   Ctrl+Shift+S : '트렌드' / '추가확인' 시트를 Case별로 정렬 (Case 발견순 -> 날짜순, 그림도 같이 이동)
+'   Ctrl+Shift+S : 'Trend' / 'Extra' 시트를 Case별로 정렬 (Case 발견순 -> 날짜순, 그림도 같이 이동)
 '   Ctrl+Shift+U : (통합 파일에서) IC·CJ 파일을 그림까지 다시 불러와 통합 + 정렬
-'   Ctrl+Shift+D : '트렌드' / '추가확인' 시트에서 기준일 이전 행의 그림만 삭제 (텍스트는 유지)
+'   Ctrl+Shift+D : 'Trend' / 'Extra' 시트에서 기준일 이전 행의 그림만 삭제 (텍스트는 유지)
 
 Private Const MARGIN As Double = 2   ' 칸 안쪽 여백 (pt)
 Private Const GAP As Double = 6      ' 추가확인 시트 그림 사이 간격 (pt)
@@ -81,8 +81,8 @@ Public Sub SortByCase()
 Attribute SortByCase.VB_ProcData.VB_Invoke_Func = "S\n14"
     Dim ws As Worksheet
     Set ws = ActiveSheet
-    If ws.Name <> "트렌드" And ws.Name <> "추가확인" Then
-        MsgBox "'트렌드' 또는 '추가확인' 시트에서 실행하세요.", vbExclamation: Exit Sub
+    If ws.Name <> "Trend" And ws.Name <> "Extra" Then
+        MsgBox "'Trend' 또는 'Extra' 시트에서 실행하세요.", vbExclamation: Exit Sub
     End If
     Application.Calculate
     If Not SortSheet(ws) Then MsgBox "'정렬키' 열을 찾을 수 없습니다.", vbExclamation: Exit Sub
@@ -96,7 +96,7 @@ Attribute MergeSites.VB_ProcData.VB_Invoke_Func = "U\n14"
     Dim src As Workbook, opened As Boolean, sn As Variant, cnt As Long, msg As String
     Set wb = ActiveWorkbook
     On Error Resume Next
-    Set cfg = wb.Worksheets("목록")
+    Set cfg = wb.Worksheets("List")
     On Error GoTo 0
     If cfg Is Nothing Then MsgBox "통합 파일에서 실행하세요.", vbExclamation: Exit Sub
     If CStr(cfg.Range("P1").Value) <> "통합 설정" Then
@@ -119,7 +119,7 @@ Attribute MergeSites.VB_ProcData.VB_Invoke_Func = "U\n14"
     Application.EnableEvents = False
     Application.Calculation = xlCalculationManual
     On Error GoTo fail
-    For Each sn In Array("트렌드", "추가확인")
+    For Each sn In Array("Trend", "Extra")
         ClearData wb.Worksheets(sn)
     Next sn
     For i = 1 To 2
@@ -131,7 +131,7 @@ Attribute MergeSites.VB_ProcData.VB_Invoke_Func = "U\n14"
             Set src = Workbooks.Open(paths(i), UpdateLinks:=0, ReadOnly:=True)
             opened = True
         End If
-        For Each sn In Array("트렌드", "추가확인")
+        For Each sn In Array("Trend", "Extra")
             cnt = AppendSheet(src.Worksheets(sn), wb.Worksheets(sn))
             msg = msg & src.Name & " " & sn & " : " & cnt & "행" & vbLf
         Next sn
@@ -140,13 +140,13 @@ Attribute MergeSites.VB_ProcData.VB_Invoke_Func = "U\n14"
     Next i
     Application.Calculation = xlCalculationAutomatic
     Application.Calculate
-    For Each sn In Array("트렌드", "추가확인")
+    For Each sn In Array("Trend", "Extra")
         SortSheet wb.Worksheets(sn)
     Next sn
     cfg.Range("Q4").Value = Now
     Application.ScreenUpdating = True
     Application.EnableEvents = True
-    wb.Worksheets("브리핑").Activate
+    wb.Worksheets("Brief").Activate
     MsgBox "통합 완료" & vbLf & vbLf & msg & vbLf & "저장(Ctrl+S)하면 반영됩니다.", vbInformation, "통합 갱신"
     Exit Sub
 fail:
@@ -160,8 +160,8 @@ Public Sub DeleteOldPictures()
 Attribute DeleteOldPictures.VB_ProcData.VB_Invoke_Func = "D\n14"
     Dim ws As Worksheet, s As String, cutoff As Date, i As Long, cnt As Long, shp As Shape, r As Long
     Set ws = ActiveSheet
-    If ws.Name <> "트렌드" And ws.Name <> "추가확인" Then
-        MsgBox "'트렌드' 또는 '추가확인' 시트에서 실행하세요 (시트마다 따로 실행).", vbExclamation: Exit Sub
+    If ws.Name <> "Trend" And ws.Name <> "Extra" Then
+        MsgBox "'Trend' 또는 'Extra' 시트에서 실행하세요 (시트마다 따로 실행).", vbExclamation: Exit Sub
     End If
     s = InputBox("확인일이 이 날짜보다 이전인 행의 그림을 삭제합니다." & vbLf & _
                  "먼저 파일 사본(yymm_보관.xlsx)을 저장했는지 확인하세요." & vbLf & vbLf & _

@@ -5,6 +5,8 @@
 
 ---
 
+> 시트 이름: Guide / Brief / Trend / Extra / Log / Case_Summary / List (+ 숨김 _Brief). 매크로는 Trend·Extra·List·Brief 이름에 의존.
+
 ## 0. 원칙
 - 엑셀 파일(.xlsx)에는 매크로를 넣지 않는다. 매크로는 **사람마다 PC에 1회 설치** (PERSONAL.XLSB). 매일 전달하는 건 엑셀 파일뿐.
 - 열은 **열 문자 대신 1행 헤더 이름**으로 찾는다 (양식 변경에 안전). 예외: B열 = 확인일, C열 = 구분/Case 선택 (두 시트 공통 고정).
@@ -34,10 +36,10 @@
 ## 2. 엑셀 구조 (매크로가 의존하는 것)
 | 시트 | 매크로가 쓰는 것 |
 |---|---|
-| 트렌드 | 1행 헤더, B열 확인일, C열 구분, 헤더 `정렬키` 열, 데이터 2~1001행 (수식이 미리 깔림), 그림 칸 = 셀 1개 |
-| 추가확인 | 1행 헤더, B열 확인일, C열 Case 선택, 헤더가 `이미지`로 시작하는 병합 셀 = 그림 영역 시작 열, 헤더 `정렬키` 열, 데이터 2~501행 |
-| 목록 | 통합 파일만: P1 = `통합 설정`, Q2 = IC 파일 경로, Q3 = CJ 파일 경로, Q4 = 마지막 통합 시각 |
-| 브리핑 | 통합 후 활성화만 함 (수식 자동) |
+| Trend | 1행 헤더, B열 확인일, C열 구분, 헤더 `정렬키` 열, 데이터 2~1001행 (수식이 미리 깔림), 그림 칸 = 셀 1개 |
+| Extra | 1행 헤더, B열 확인일, C열 Case 선택, 헤더가 `이미지`로 시작하는 병합 셀 = 그림 영역 시작 열, 헤더 `정렬키` 열, 데이터 2~501행 |
+| List | 통합 파일만: P1 = `통합 설정`, Q2 = IC 파일 경로, Q3 = CJ 파일 경로, Q4 = 마지막 통합 시각 |
+| Brief | 통합 후 활성화만 함 (수식 자동) |
 - 입력 칸 판별: **1행 헤더 색이 E7E6E6(RGB 231,230,230)인 열 = 입력 열** → 통합 시 입력 열만 값 복사·초기화 (확인 내용 칸은 예시 수식 `=MEMO_EX`가 깔려 있어 수식 여부로 판별하면 안 됨)
 - 정렬키: 수식으로 계산됨 (Case 발견일 → Case 순번 → 행 날짜). 매크로는 이 열 오름차순 정렬만 함
 - 그림 배치 속성은 모두 `xlMoveAndSize` (정렬·필터 때 행을 따라가도록)
@@ -47,41 +49,41 @@
 - 클립보드에 그림(비트맵/PICT)이 없으면 안내 후 종료 (셀 텍스트를 잘못 붙이지 않도록)
 - JPEG로 붙여넣기 시도 → 실패 시 PNG → 실패 시 일반 그림 붙여넣기 (용량 절감 목적)
   - 붙여넣기 형식 이름은 엑셀 언어에 따라 다름: "그림 (JPEG)" / "그림(JPEG)" / "Picture (JPEG)" 순서로 시도
-- **트렌드 시트**: 선택한 셀(병합 셀이면 병합 영역) 안에 비율 유지, 여백 2pt, 가운데 정렬
-- **추가확인 시트**(헤더 `이미지…` 있는 시트): 선택한 행에서 그림 영역 안 가장 오른쪽 그림 뒤에 간격 6pt로, **행 높이에 맞춰** 이어 붙임
+- **Trend 시트**: 선택한 셀(병합 셀이면 병합 영역) 안에 비율 유지, 여백 2pt, 가운데 정렬
+- **Extra 시트**(헤더 `이미지…` 있는 시트): 선택한 행에서 그림 영역 안 가장 오른쪽 그림 뒤에 간격 6pt로, **행 높이에 맞춰** 이어 붙임
 
 ### FitSelected (Ctrl+Shift+K) — 그림 정리
-- 트렌드: 선택한 그림(여러 개)을 각자 중심이 놓인 셀에 맞춤
-- 추가확인: 선택한 그림이 있는 행(또는 셀만 선택 시 그 행)의 그림들을 왼쪽부터 Left 순서대로 다시 배치, 행 높이에 맞춤
+- Trend: 선택한 그림(여러 개)을 각자 중심이 놓인 셀에 맞춤
+- Extra: 선택한 그림이 있는 행(또는 셀만 선택 시 그 행)의 그림들을 왼쪽부터 Left 순서대로 다시 배치, 행 높이에 맞춤
 
 ### SortByCase (Ctrl+Shift+S) — Case별 정렬
-- 트렌드 / 추가확인 시트에서만. 필터가 걸려 있으면 해제 후 `정렬키` 오름차순 정렬 (2행~마지막 데이터 행, A열~정렬키 열)
+- Trend / Extra 시트에서만. 필터가 걸려 있으면 해제 후 `정렬키` 오름차순 정렬 (2행~마지막 데이터 행, A열~정렬키 열)
 - 그림은 xlMoveAndSize라 행을 따라 이동해야 함 → **사내 엑셀에서 꼭 확인할 것**
 
 ### MergeSites (Ctrl+Shift+U) — 통합 (통합 파일에서만)
-1. 목록!P1 = `통합 설정` 인지 확인 (통합 파일이 아니면 종료)
+1. List!P1 = `통합 설정` 인지 확인 (통합 파일이 아니면 종료)
 2. Q2·Q3 경로가 비었거나 파일이 없으면 파일 선택 창 → 고른 경로 저장 (큐브 공유 폴더 경로 가능)
-3. 확인 창 → 통합 파일의 트렌드·추가확인 초기화: 2행 이상 그림 삭제, 입력 열만 비우기(수식 유지), 행 높이 기본값
+3. 확인 창 → 통합 파일의 Trend·Extra 초기화: 2행 이상 그림 삭제, 입력 열만 비우기(수식 유지), 행 높이 기본값
 4. IC → CJ 순서로: 이미 열려 있으면 그 통합 문서 사용, 아니면 읽기 전용으로 열기
    - 데이터 행(B 또는 C가 비어 있지 않은 행)의 입력 열(E7E6E6 헤더) 값 복사, 행 높이 복사
    - 그림: 중심 행이 복사된 행이면 복사 → 같은 Left, 행 기준 같은 Top 오프셋, 같은 크기
    - 수식 행이 부족하면 오류로 중단
    - 연 파일은 저장 없이 닫기
-5. 재계산 → 두 시트 정렬 → Q4에 시각 기록 → 브리핑 시트 활성화 → 행 수 요약 메시지
+5. 재계산 → 두 시트 정렬 → Q4에 시각 기록 → Brief 시트 활성화 → 행 수 요약 메시지
 6. 오류 시 계산 모드·화면 갱신 복구 후 오류 메시지
 
 ### DeleteOldPictures (Ctrl+Shift+D) — 오래된 그림 삭제 (용량 관리)
-- 트렌드 / 추가확인 시트에서. 기준일 입력(기본 = 오늘-90일) → B열 확인일이 기준일 이전인 행의 그림 개수 표시 → 확인 후 삭제 → 그 행 높이 45pt
+- Trend / Extra 시트에서. 기준일 입력(기본 = 오늘-90일) → B열 확인일이 기준일 이전인 행의 그림 개수 표시 → 확인 후 삭제 → 그 행 높이 45pt
 - 텍스트는 그대로 (브리핑·로그·Case요약 영향 없음). 실행 전 파일 사본 저장 안내
 
 ## 4. 사내에서 확인할 것 (테스트 체크리스트)
 예시 행(파란 글씨)이 들어 있는 파일 사본으로 테스트. 결과를 Max에게 표로 보고.
 | # | 시험 | 기대 결과 |
 |---|---|---|
-| 1 | 트렌드 빈 trend 칸 클릭 → 캡처 복사 → Ctrl+Shift+J | 칸 안에 비율 유지, 가운데 |
-| 2 | 추가확인 빈 행 클릭 → 그림 3장 연속 Ctrl+Shift+J | 같은 높이로 오른쪽으로 이어짐 |
-| 3 | 추가확인 그림 순서 섞은 뒤 Ctrl+Shift+K | 왼쪽부터 다시 정렬 |
-| 4 | 트렌드 맨 아래에 다른 Case 행 추가 → Ctrl+Shift+S | Case별로 모이고 **그림이 행을 따라감** |
+| 1 | Trend 빈 trend 칸 클릭 → 캡처 복사 → Ctrl+Shift+J | 칸 안에 비율 유지, 가운데 |
+| 2 | Extra 빈 행 클릭 → 그림 3장 연속 Ctrl+Shift+J | 같은 높이로 오른쪽으로 이어짐 |
+| 3 | Extra 그림 순서 섞은 뒤 Ctrl+Shift+K | 왼쪽부터 다시 정렬 |
+| 4 | Trend 맨 아래에 다른 Case 행 추가 → Ctrl+Shift+S | Case별로 모이고 **그림이 행을 따라감** |
 | 5 | 통합 파일에서 Ctrl+Shift+U (큐브 경로의 IC·CJ 선택) | 두 파일 행·그림이 모두 들어오고 브리핑에 표시 |
 | 6 | 원본 IC 파일을 다른 사람이 편집 중일 때 5 반복 | 마지막 저장본으로 통합, 원본 변화 없음 |
 | 7 | 사본에서 Ctrl+Shift+D (기준일 = 내일) | 개수 확인 창 → 그림만 삭제, 텍스트 유지 |
@@ -107,9 +109,9 @@ Option Explicit
 '   Ctrl+Shift+K : 그림 정리
 '                  - 트렌드 시트 : 선택한 그림(여러 개 가능)을 각자 놓인 칸에 맞춤
 '                  - 추가확인 시트 : 선택한 그림(또는 선택한 칸)이 있는 행의 그림을 왼쪽부터 다시 정렬
-'   Ctrl+Shift+S : '트렌드' / '추가확인' 시트를 Case별로 정렬 (Case 발견순 -> 날짜순, 그림도 같이 이동)
+'   Ctrl+Shift+S : 'Trend' / 'Extra' 시트를 Case별로 정렬 (Case 발견순 -> 날짜순, 그림도 같이 이동)
 '   Ctrl+Shift+U : (통합 파일에서) IC·CJ 파일을 그림까지 다시 불러와 통합 + 정렬
-'   Ctrl+Shift+D : '트렌드' / '추가확인' 시트에서 기준일 이전 행의 그림만 삭제 (텍스트는 유지)
+'   Ctrl+Shift+D : 'Trend' / 'Extra' 시트에서 기준일 이전 행의 그림만 삭제 (텍스트는 유지)
 
 Private Const MARGIN As Double = 2   ' 칸 안쪽 여백 (pt)
 Private Const GAP As Double = 6      ' 추가확인 시트 그림 사이 간격 (pt)
@@ -181,8 +183,8 @@ Public Sub SortByCase()
 Attribute SortByCase.VB_ProcData.VB_Invoke_Func = "S\n14"
     Dim ws As Worksheet
     Set ws = ActiveSheet
-    If ws.Name <> "트렌드" And ws.Name <> "추가확인" Then
-        MsgBox "'트렌드' 또는 '추가확인' 시트에서 실행하세요.", vbExclamation: Exit Sub
+    If ws.Name <> "Trend" And ws.Name <> "Extra" Then
+        MsgBox "'Trend' 또는 'Extra' 시트에서 실행하세요.", vbExclamation: Exit Sub
     End If
     Application.Calculate
     If Not SortSheet(ws) Then MsgBox "'정렬키' 열을 찾을 수 없습니다.", vbExclamation: Exit Sub
@@ -196,7 +198,7 @@ Attribute MergeSites.VB_ProcData.VB_Invoke_Func = "U\n14"
     Dim src As Workbook, opened As Boolean, sn As Variant, cnt As Long, msg As String
     Set wb = ActiveWorkbook
     On Error Resume Next
-    Set cfg = wb.Worksheets("목록")
+    Set cfg = wb.Worksheets("List")
     On Error GoTo 0
     If cfg Is Nothing Then MsgBox "통합 파일에서 실행하세요.", vbExclamation: Exit Sub
     If CStr(cfg.Range("P1").Value) <> "통합 설정" Then
@@ -219,7 +221,7 @@ Attribute MergeSites.VB_ProcData.VB_Invoke_Func = "U\n14"
     Application.EnableEvents = False
     Application.Calculation = xlCalculationManual
     On Error GoTo fail
-    For Each sn In Array("트렌드", "추가확인")
+    For Each sn In Array("Trend", "Extra")
         ClearData wb.Worksheets(sn)
     Next sn
     For i = 1 To 2
@@ -231,7 +233,7 @@ Attribute MergeSites.VB_ProcData.VB_Invoke_Func = "U\n14"
             Set src = Workbooks.Open(paths(i), UpdateLinks:=0, ReadOnly:=True)
             opened = True
         End If
-        For Each sn In Array("트렌드", "추가확인")
+        For Each sn In Array("Trend", "Extra")
             cnt = AppendSheet(src.Worksheets(sn), wb.Worksheets(sn))
             msg = msg & src.Name & " " & sn & " : " & cnt & "행" & vbLf
         Next sn
@@ -240,13 +242,13 @@ Attribute MergeSites.VB_ProcData.VB_Invoke_Func = "U\n14"
     Next i
     Application.Calculation = xlCalculationAutomatic
     Application.Calculate
-    For Each sn In Array("트렌드", "추가확인")
+    For Each sn In Array("Trend", "Extra")
         SortSheet wb.Worksheets(sn)
     Next sn
     cfg.Range("Q4").Value = Now
     Application.ScreenUpdating = True
     Application.EnableEvents = True
-    wb.Worksheets("브리핑").Activate
+    wb.Worksheets("Brief").Activate
     MsgBox "통합 완료" & vbLf & vbLf & msg & vbLf & "저장(Ctrl+S)하면 반영됩니다.", vbInformation, "통합 갱신"
     Exit Sub
 fail:
@@ -260,8 +262,8 @@ Public Sub DeleteOldPictures()
 Attribute DeleteOldPictures.VB_ProcData.VB_Invoke_Func = "D\n14"
     Dim ws As Worksheet, s As String, cutoff As Date, i As Long, cnt As Long, shp As Shape, r As Long
     Set ws = ActiveSheet
-    If ws.Name <> "트렌드" And ws.Name <> "추가확인" Then
-        MsgBox "'트렌드' 또는 '추가확인' 시트에서 실행하세요 (시트마다 따로 실행).", vbExclamation: Exit Sub
+    If ws.Name <> "Trend" And ws.Name <> "Extra" Then
+        MsgBox "'Trend' 또는 'Extra' 시트에서 실행하세요 (시트마다 따로 실행).", vbExclamation: Exit Sub
     End If
     s = InputBox("확인일이 이 날짜보다 이전인 행의 그림을 삭제합니다." & vbLf & _
                  "먼저 파일 사본(yymm_보관.xlsx)을 저장했는지 확인하세요." & vbLf & vbLf & _
