@@ -38,7 +38,7 @@
 | 추가확인 | 1행 헤더, B열 확인일, C열 Case 선택, 헤더가 `이미지`로 시작하는 병합 셀 = 그림 영역 시작 열, 헤더 `정렬키` 열, 데이터 2~501행 |
 | 목록 | 통합 파일만: P1 = `통합 설정`, Q2 = IC 파일 경로, Q3 = CJ 파일 경로, Q4 = 마지막 통합 시각 |
 | 브리핑 | 통합 후 활성화만 함 (수식 자동) |
-- 수식 칸 판별: **2행 셀이 수식이면 수식 열** → 통합 시 그 열은 복사하지 않음 (입력 열만 복사)
+- 입력 칸 판별: **1행 헤더가 노란색(RGB 255,242,204)인 열 = 입력 열** → 통합 시 입력 열만 값 복사·초기화 (확인 내용 칸은 예시 수식 `=MEMO_EX`가 깔려 있어 수식 여부로 판별하면 안 됨)
 - 정렬키: 수식으로 계산됨 (Case 발견일 → Case 순번 → 행 날짜). 매크로는 이 열 오름차순 정렬만 함
 - 그림 배치 속성은 모두 `xlMoveAndSize` (정렬·필터 때 행을 따라가도록)
 
@@ -63,7 +63,7 @@
 2. Q2·Q3 경로가 비었거나 파일이 없으면 파일 선택 창 → 고른 경로 저장 (큐브 공유 폴더 경로 가능)
 3. 확인 창 → 통합 파일의 트렌드·추가확인 초기화: 2행 이상 그림 삭제, 입력 열만 비우기(수식 유지), 행 높이 기본값
 4. IC → CJ 순서로: 이미 열려 있으면 그 통합 문서 사용, 아니면 읽기 전용으로 열기
-   - 데이터 행(B 또는 C가 비어 있지 않은 행)의 입력 열 값 복사, 행 높이 복사
+   - 데이터 행(B 또는 C가 비어 있지 않은 행)의 입력 열(노란 헤더) 값 복사, 행 높이 복사
    - 그림: 중심 행이 복사된 행이면 복사 → 같은 Left, 행 기준 같은 Top 오프셋, 같은 크기
    - 수식 행이 부족하면 오류로 중단
    - 연 파일은 저장 없이 닫기
@@ -466,7 +466,7 @@ Private Sub ClearData(ws As Worksheet)
     If lastR < 2 Then Exit Sub
     h = ws.Rows(lastR + 1).Height
     For c = 1 To keyCol
-        If Not ws.Cells(2, c).HasFormula Then ws.Range(ws.Cells(2, c), ws.Cells(lastR, c)).ClearContents
+        If IsInputCol(ws, c) Then ws.Range(ws.Cells(2, c), ws.Cells(lastR, c)).ClearContents
     Next c
     ws.Range(ws.Rows(2), ws.Rows(lastR)).RowHeight = h
 End Sub
@@ -486,7 +486,7 @@ Private Function AppendSheet(src As Worksheet, dst As Worksheet) As Long
                 Err.Raise vbObjectError + 1, , "통합 파일의 수식 행이 부족합니다 (" & dst.Name & " " & d & "행)."
             End If
             For c = 1 To keyCol
-                If Not dst.Cells(2, c).HasFormula Then
+                If IsInputCol(dst, c) Then
                     If Not IsEmpty(src.Cells(r, c).Value) Then dst.Cells(d, c).Value = src.Cells(r, c).Value
                 End If
             Next c
@@ -517,5 +517,10 @@ Private Function AppendSheet(src As Worksheet, dst As Worksheet) As Long
         End If
     Next shp
     AppendSheet = n
+End Function
+
+Private Function IsInputCol(ws As Worksheet, c As Long) As Boolean
+    ' 입력 열 = 1행 헤더가 노란색(FFF2CC). 수식 열·그림 열은 제외
+    IsInputCol = (ws.Cells(1, c).Interior.Color = RGB(255, 242, 204))
 End Function
 ```

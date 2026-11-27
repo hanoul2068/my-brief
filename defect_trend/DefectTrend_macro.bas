@@ -366,7 +366,7 @@ Private Sub ClearData(ws As Worksheet)
     If lastR < 2 Then Exit Sub
     h = ws.Rows(lastR + 1).Height
     For c = 1 To keyCol
-        If Not ws.Cells(2, c).HasFormula Then ws.Range(ws.Cells(2, c), ws.Cells(lastR, c)).ClearContents
+        If IsInputCol(ws, c) Then ws.Range(ws.Cells(2, c), ws.Cells(lastR, c)).ClearContents
     Next c
     ws.Range(ws.Rows(2), ws.Rows(lastR)).RowHeight = h
 End Sub
@@ -386,7 +386,7 @@ Private Function AppendSheet(src As Worksheet, dst As Worksheet) As Long
                 Err.Raise vbObjectError + 1, , "통합 파일의 수식 행이 부족합니다 (" & dst.Name & " " & d & "행)."
             End If
             For c = 1 To keyCol
-                If Not dst.Cells(2, c).HasFormula Then
+                If IsInputCol(dst, c) Then
                     If Not IsEmpty(src.Cells(r, c).Value) Then dst.Cells(d, c).Value = src.Cells(r, c).Value
                 End If
             Next c
@@ -417,4 +417,9 @@ Private Function AppendSheet(src As Worksheet, dst As Worksheet) As Long
         End If
     Next shp
     AppendSheet = n
+End Function
+
+Private Function IsInputCol(ws As Worksheet, c As Long) As Boolean
+    ' 입력 열 = 1행 헤더가 노란색(FFF2CC). 수식 열·그림 열은 제외
+    IsInputCol = (ws.Cells(1, c).Interior.Color = RGB(255, 242, 204))
 End Function
