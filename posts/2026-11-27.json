@@ -1,0 +1,155 @@
+{
+  "generated_at": "2026-11-27T12:36:12.241121+09:00",
+  "categories": [
+    {
+      "id": "all",
+      "name": "전체"
+    },
+    {
+      "id": "headline",
+      "name": "🔥 주요소식"
+    },
+    {
+      "id": "politics",
+      "name": "⚖️ 정치"
+    },
+    {
+      "id": "economy",
+      "name": "💰 경제/IT"
+    },
+    {
+      "id": "society",
+      "name": "👥 사회/생활"
+    },
+    {
+      "id": "science",
+      "name": "🧪 과학/기술"
+    },
+    {
+      "id": "policy",
+      "name": "📢 정부/정책"
+    }
+  ],
+  "items": [
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "현대차, 중국서 소형 전기 SUV 콘셉트 세계 최초 공개",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261127121803qKd",
+      "published_at": "2026-11-27 12:35",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "中수출 고삐죄는 엔비디아…임원도 中연루 스캔들",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20261127120239tDr",
+      "published_at": "2026-11-27 12:35",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "감사원 \"희귀·난치병 학생, 전년도 연말 의료비도 지원 가능\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261127102236Ggw",
+      "published_at": "2026-11-27 12:35",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "전문가도 흐느낀 폭락장…'눈물의 주식 방송' 해외서도 주목",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261127114513C60",
+      "published_at": "2026-11-27 12:35",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "與 정년특위, 10개월 만의 노사 회동도 '빈손'…다음달 2일 활동 마무리",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261127114311oG8",
+      "published_at": "2026-11-27 12:35",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "민주, 오늘 최민희 징계 논의…\"윤리심판원서 해명할 것\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008866590&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-27 12:36",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "'표류' 북한 어선, 24일 만에 돌아갔다…1명 남고 6명 송환",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008866584&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-27 12:36",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "청와대 재정보좌관 \"미래 대비가 '빚 중독'인가…IMF도 미래기금 환영\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008866580&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-27 12:36",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "민주당 정년연장특위, 10개월 만에 노사 협의…\"올해 안에 정리해야\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008866561&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-27 12:36",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "정점식 \"검찰총장 후보 추가 추천, 공소취소청장 찾고 있는 것 \"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008866434&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-27 12:36",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "장동혁 \"한동훈 복당해도 다시 징계할 수 있어\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008866385&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-27 12:36",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "청와대, '해킹 피해 방지' 금융기관 긴급회의…인증·차단 강화",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008866335&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-27 12:36",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "다이빙 중국대사 \"한미 동맹 현대화·전략적 유연성, '중국 겨냥' 우려\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008866304&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-27 12:36",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "\"저도 제명?\"에 \"탈당도 좋은 제도\"…국힘 '난장판' 회의",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008865992&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-27 12:36",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "김정은, 방북 러 예술단 공연 관람…\"북러, 각 분야 협력 확대\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008866053&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-27 12:36",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    }
+  ]
+}
