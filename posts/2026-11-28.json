@@ -1,0 +1,139 @@
+{
+  "generated_at": "2026-11-28T12:13:42.275761+09:00",
+  "categories": [
+    {
+      "id": "all",
+      "name": "전체"
+    },
+    {
+      "id": "headline",
+      "name": "🔥 주요소식"
+    },
+    {
+      "id": "politics",
+      "name": "⚖️ 정치"
+    },
+    {
+      "id": "economy",
+      "name": "💰 경제/IT"
+    },
+    {
+      "id": "society",
+      "name": "👥 사회/생활"
+    },
+    {
+      "id": "science",
+      "name": "🧪 과학/기술"
+    },
+    {
+      "id": "policy",
+      "name": "📢 정부/정책"
+    }
+  ],
+  "items": [
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "제천 야산 텐트서 백골 시신 발견…경찰 조사 중",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261128115750G1U",
+      "published_at": "2026-11-28 12:13",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "'예산시한 D-4' 미래기금 공방 지속…\"재정 방파제\"vs\"미래 빚잔치\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261128113336gj6",
+      "published_at": "2026-11-28 12:13",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "headline",
+      "source": "주요뉴스 (연합TV)",
+      "title": "스페인 카나리아 연안 이민자 보트서 14명 사망",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20261128113306faw",
+      "published_at": "2026-11-28 12:13",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "닷새 앞 다가온 '12·3'…민주, \"계엄, 내란 맞나\" 장동혁에 답변 요구",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008867791&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-28 12:13",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "김정은 추가 방중설에…국정원 \"여러 동향 주시 중\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008867780&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-28 12:13",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "나흘 앞 다가온 예산안 처리 시한…여야, 미래대응기금 '평행선'",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008867776&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-28 12:13",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "최민희 '2년 정지' 징계에 친청 반발…오늘 '김민석 사퇴' 촉구 집회",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008867774&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-28 12:13",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "정점식, 대통령 특검 임명 회피 가능성 제기하며 \"비겁하게 행동 말라\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008867767&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-28 12:13",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "윤상현 \"장동혁, 의원총회 참석하고 쓴소리 귀 기울여야\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008867748&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-28 12:13",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "박홍근 \"법사위 기능 개편해야\"…'새만금 예산' 충돌 이틀째 공방",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008867742&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-28 12:13",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "12·3 계엄 극복 경험 국제회의서 알린 조정식 의장…\"의회가 최후 보루\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008867736&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-28 12:13",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "국민의힘 \"정권은 떠나지만, 국민이 갚을 빚은 임기 없어\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008867708&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-28 12:13",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    },
+    {
+      "category": "politics",
+      "source": "정치 (SBS)",
+      "title": "국민의힘 \"홍익표, '내로남불'이자 공직 윤리 이중 잣대\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008867694&plink=RSSLINK&cooper=RSSREADER",
+      "published_at": "2026-11-28 12:13",
+      "summary": "심층 분석 내용을 불러오는 중 오류가 발생했습니다."
+    }
+  ]
+}
